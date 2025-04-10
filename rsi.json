@@ -1,1682 +1,2102 @@
 [
   {
     "symbol": "CNERGY",
-    "rsi": 60.53
+    "rsi": 51.1627,
+    "cci": 49.4296
   },
   {
     "symbol": "KEL",
-    "rsi": 39.09
+    "rsi": 46.8085,
+    "cci": -16.7126
   },
   {
     "symbol": "SSGC",
-    "rsi": 46.35
+    "rsi": 35.9999,
+    "cci": -132.9953
   },
   {
     "symbol": "MLCF",
-    "rsi": 64.93
+    "rsi": 48.6301,
+    "cci": -37.6534
   },
   {
     "symbol": "PAEL",
-    "rsi": 39.57
+    "rsi": 41.6666,
+    "cci": -85.6695
   },
   {
     "symbol": "PIBTL",
-    "rsi": 50.79
+    "rsi": 34.4537,
+    "cci": -154.7333
   },
   {
     "symbol": "FCCL",
-    "rsi": 59.45
+    "rsi": 45.1327,
+    "cci": -28.4939
   },
   {
     "symbol": "WTL",
-    "rsi": 38.94
+    "rsi": 37.5,
+    "cci": -115.7334
   },
   {
     "symbol": "SNGP",
-    "rsi": 52.09
+    "rsi": 47.5161,
+    "cci": -25.0284
   },
   {
     "symbol": "PRL",
-    "rsi": 45.34
+    "rsi": 67.1497,
+    "cci": 69.5833
   },
   {
     "symbol": "CPHL",
-    "rsi": 53.42
+    "rsi": 56.8181,
+    "cci": 83.1978
   },
   {
     "symbol": "BOP",
-    "rsi": 33.81
+    "rsi": 38.2352,
+    "cci": -105.8824
   },
   {
     "symbol": "PREMA",
-    "rsi": 45.01
+    "rsi": 60.1851,
+    "cci": 195.939
   },
   {
     "symbol": "PIAHCLA",
-    "rsi": 61.23
+    "rsi": 46.4088,
+    "cci": -43.6184
   },
   {
     "symbol": "DGKC",
-    "rsi": 49.93
+    "rsi": 46.4285,
+    "cci": -63.4048
   },
   {
     "symbol": "POWER",
-    "rsi": 62.17
+    "rsi": 48.7804,
+    "cci": -38.5827
   },
   {
     "symbol": "PSO",
-    "rsi": 47.8
+    "rsi": 48.7804,
+    "cci": -38.5827
   },
   {
     "symbol": "BAFL",
-    "rsi": 39.92
+    "rsi": 46.4692,
+    "cci": -31.1573
   },
   {
     "symbol": "HUBC",
-    "rsi": 45.11
+    "rsi": 41.3135,
+    "cci": -82.49
   },
   {
     "symbol": "PSX",
-    "rsi": 35.67
+    "rsi": 47.5177,
+    "cci": -47.9433
   },
   {
     "symbol": "TRG",
-    "rsi": 42.52
+    "rsi": 39.1111,
+    "cci": -94.1829
   },
   {
     "symbol": "TREET",
-    "rsi": 41.15
+    "rsi": 52.4475,
+    "cci": -11.5139
   },
   {
     "symbol": "FFL",
-    "rsi": 38.3
+    "rsi": 42.647,
+    "cci": -97.8979
   },
   {
     "symbol": "LPL",
-    "rsi": 43.59
+    "rsi": 42.647,
+    "cci": -97.8979
   },
   {
     "symbol": "OGDC",
-    "rsi": 40.47
+    "rsi": 42.3895,
+    "cci": -131.7123
   },
   {
     "symbol": "PTC",
-    "rsi": 43.49
+    "rsi": 51.7543,
+    "cci": 180.8174
   },
   {
     "symbol": "HASCOL",
-    "rsi": 30.39
+    "rsi": 55.9139,
+    "cci": -48.2305
   },
   {
     "symbol": "SEARL",
-    "rsi": 41.88
-  },
-  {
-    "symbol": "MARI",
-    "rsi": 63.83
+    "rsi": 54.3352,
+    "cci": -21.4027
   },
   {
     "symbol": "PPL",
-    "rsi": 36.03
+    "rsi": 37.4376,
+    "cci": -163.342
+  },
+  {
+    "symbol": "MARI",
+    "rsi": 45.3254,
+    "cci": -29.2718
   },
   {
     "symbol": "KOSM",
-    "rsi": 30.47
+    "rsi": 57.2289,
+    "cci": -47.2574
   },
   {
     "symbol": "DSL",
-    "rsi": 40.83
+    "rsi": 35.2941,
+    "cci": -152.0738
   },
   {
     "symbol": "STPL",
-    "rsi": 40.27
+    "rsi": 25.7425,
+    "cci": -132.3574
   },
   {
     "symbol": "AIRLINK",
-    "rsi": 25.91
+    "rsi": 53.3969,
+    "cci": 6.1055
   },
   {
     "symbol": "HBL",
-    "rsi": 39.62
+    "rsi": 53.3969,
+    "cci": 6.1055
   },
   {
     "symbol": "TELE",
-    "rsi": 26.36
+    "rsi": 32.2834,
+    "cci": -130.2076
   },
   {
     "symbol": "DFML",
-    "rsi": 37.71
+    "rsi": 61.208,
+    "cci": 37.0601
   },
   {
     "symbol": "FCL",
-    "rsi": 33.13
+    "rsi": 61.208,
+    "cci": 37.0601
   },
   {
     "symbol": "ILP",
-    "rsi": 38.98
+    "rsi": 61.208,
+    "cci": 37.0601
   },
   {
     "symbol": "TBL",
-    "rsi": 24.73
-  },
-  {
-    "symbol": "SYM",
-    "rsi": 30.93
+    "rsi": 49.8084,
+    "cci": 26.9939
   },
   {
     "symbol": "NBP",
-    "rsi": 50.24
+    "rsi": 46.5558,
+    "cci": 1.9809
+  },
+  {
+    "symbol": "SYM",
+    "rsi": 66.9172,
+    "cci": 29.8449
   },
   {
     "symbol": "GGGL",
-    "rsi": 35.54
-  },
-  {
-    "symbol": "ENGROH",
-    "rsi": 26.04
+    "rsi": 63.5416,
+    "cci": 31.7877
   },
   {
     "symbol": "FLYNG",
-    "rsi": 48.77
+    "rsi": 88.0341,
+    "cci": 68.4
+  },
+  {
+    "symbol": "ENGROH",
+    "rsi": 88.0341,
+    "cci": 68.4
   },
   {
     "symbol": "EFERT",
-    "rsi": 20.13
+    "rsi": 31.0565,
+    "cci": -236.8014
   },
   {
     "symbol": "OBOYR2",
-    "rsi": null
+    "rsi": 31.0565,
+    "cci": -236.8014
   },
   {
     "symbol": "ASL",
-    "rsi": 32.59
+    "rsi": 42.6829,
+    "cci": -52.3143
   },
   {
     "symbol": "BFAGRO",
-    "rsi": 11.24
+    "rsi": 42.6829,
+    "cci": -52.3143
   },
   {
     "symbol": "WAVESAPP",
-    "rsi": 29.87
+    "rsi": 51.4285,
+    "cci": -26.8447
   },
   {
     "symbol": "GCILSD",
-    "rsi": null
+    "rsi": 51.4285,
+    "cci": -26.8447
   },
   {
     "symbol": "NPL",
-    "rsi": 43.56
+    "rsi": 61.4814,
+    "cci": 89.4231
   },
   {
     "symbol": "AGHA",
-    "rsi": 40.15
+    "rsi": 48.1927,
+    "cci": -95.4386
   },
   {
     "symbol": "AKBL",
-    "rsi": 38.81
-  },
-  {
-    "symbol": "BIPL",
-    "rsi": 34.17
+    "rsi": 19.1999,
+    "cci": -175.943
   },
   {
     "symbol": "WAVES",
-    "rsi": 32.01
+    "rsi": 38.0952,
+    "cci": -98.5186
+  },
+  {
+    "symbol": "BIPL",
+    "rsi": 27.1428,
+    "cci": -115.2301
   },
   {
     "symbol": "NML",
-    "rsi": 49.84
+    "rsi": 44.8275,
+    "cci": -122.7012
   },
   {
     "symbol": "FABL",
-    "rsi": 38.8
+    "rsi": 44.8275,
+    "cci": -122.7012
   },
   {
     "symbol": "ASTL",
-    "rsi": 47.5
+    "rsi": 57.1428,
+    "cci": 58.9807
   },
   {
     "symbol": "KOHC",
-    "rsi": 45.12
+    "rsi": 26.1517,
+    "cci": -139.0615
   },
   {
     "symbol": "AVN",
-    "rsi": 21.85
+    "rsi": 61.2393,
+    "cci": 42.2031
   },
   {
     "symbol": "LOTCHEM",
-    "rsi": 27.71
+    "rsi": 54.7945,
+    "cci": -79.9585
   },
   {
     "symbol": "TPLP",
-    "rsi": 32.56
-  },
-  {
-    "symbol": "AICL",
-    "rsi": 31.7
+    "rsi": 31.0077,
+    "cci": -138.9409
   },
   {
     "symbol": "AHCL",
-    "rsi": 17.84
+    "rsi": 44.9353,
+    "cci": -135.5888
+  },
+  {
+    "symbol": "AICL",
+    "rsi": 52.9629,
+    "cci": 1.5082
   },
   {
     "symbol": "GAL",
-    "rsi": 57.73
+    "rsi": 70.3697,
+    "cci": 44.8396
   },
   {
     "symbol": "MEBL",
-    "rsi": 64.08
+    "rsi": 59.9578,
+    "cci": 86.6379
   },
   {
     "symbol": "JSBL",
-    "rsi": 34.85
-  },
-  {
-    "symbol": "NETSOL",
-    "rsi": 26.63
-  },
-  {
-    "symbol": "UBL",
-    "rsi": 65.01
-  },
-  {
-    "symbol": "GHNI",
-    "rsi": 45.98
-  },
-  {
-    "symbol": "NRSL",
-    "rsi": 79.33
-  },
-  {
-    "symbol": "DCL",
-    "rsi": 33.99
-  },
-  {
-    "symbol": "PACE",
-    "rsi": 29.9
-  },
-  {
-    "symbol": "GATM",
-    "rsi": 38.97
-  },
-  {
-    "symbol": "ANL",
-    "rsi": 36.19
-  },
-  {
-    "symbol": "TOMCL",
-    "rsi": 44.87
-  },
-  {
-    "symbol": "KAPCO",
-    "rsi": 35.96
-  },
-  {
-    "symbol": "IMAGE",
-    "rsi": 48.27
-  },
-  {
-    "symbol": "BML",
-    "rsi": 48.47
-  },
-  {
-    "symbol": "AGL",
-    "rsi": 56.9
-  },
-  {
-    "symbol": "FFC",
-    "rsi": 28.1
-  },
-  {
-    "symbol": "MDTL",
-    "rsi": 28.68
-  },
-  {
-    "symbol": "QUICE",
-    "rsi": 35.62
-  },
-  {
-    "symbol": "DCR",
-    "rsi": 61.91
-  },
-  {
-    "symbol": "FATIMA",
-    "rsi": 50.34
-  },
-  {
-    "symbol": "FCEPL",
-    "rsi": 47.01
-  },
-  {
-    "symbol": "PAKRI",
-    "rsi": 56.92
-  },
-  {
-    "symbol": "SAZEW",
-    "rsi": 54.29
-  },
-  {
-    "symbol": "BNL",
-    "rsi": 61.05
-  },
-  {
-    "symbol": "HUMNL",
-    "rsi": 35.4
-  },
-  {
-    "symbol": "PIOC",
-    "rsi": 54.72
-  },
-  {
-    "symbol": "GGL",
-    "rsi": 32.41
-  },
-  {
-    "symbol": "ATRL",
-    "rsi": 34.28
-  },
-  {
-    "symbol": "GLAXO",
-    "rsi": 49.31
-  },
-  {
-    "symbol": "LUCK",
-    "rsi": 65.74
-  },
-  {
-    "symbol": "NRL",
-    "rsi": 43.94
-  },
-  {
-    "symbol": "GWLC",
-    "rsi": 34.3
-  },
-  {
-    "symbol": "EPQL",
-    "rsi": 62
-  },
-  {
-    "symbol": "BFBIO",
-    "rsi": 30.6
-  },
-  {
-    "symbol": "TGL",
-    "rsi": 59.36
-  },
-  {
-    "symbol": "UNITY",
-    "rsi": 19.84
-  },
-  {
-    "symbol": "LOADS",
-    "rsi": 35.37
-  },
-  {
-    "symbol": "SLGL",
-    "rsi": 38.04
-  },
-  {
-    "symbol": "SPEL",
-    "rsi": 38.96
-  },
-  {
-    "symbol": "TCORP",
-    "rsi": 23.94
-  },
-  {
-    "symbol": "ALTN",
-    "rsi": 34.58
-  },
-  {
-    "symbol": "AMTEX",
-    "rsi": 36.65
-  },
-  {
-    "symbol": "EPCL",
-    "rsi": 43.71
-  },
-  {
-    "symbol": "TPL",
-    "rsi": 33.05
-  },
-  {
-    "symbol": "BGL",
-    "rsi": 23.15
-  },
-  {
-    "symbol": "PABC",
-    "rsi": 45.13
-  },
-  {
-    "symbol": "HCAR",
-    "rsi": 42.41
-  },
-  {
-    "symbol": "BBFL",
-    "rsi": 38.27
-  },
-  {
-    "symbol": "GTYR",
-    "rsi": 32.79
-  },
-  {
-    "symbol": "SPWL",
-    "rsi": 24.29
-  },
-  {
-    "symbol": "CSAP",
-    "rsi": 27.96
-  },
-  {
-    "symbol": "HICL",
-    "rsi": 49.28
-  },
-  {
-    "symbol": "SML",
-    "rsi": 88.43
-  },
-  {
-    "symbol": "AGP",
-    "rsi": 54.69
-  },
-  {
-    "symbol": "YOUW",
-    "rsi": 36.75
-  },
-  {
-    "symbol": "CHCC",
-    "rsi": 45.31
-  },
-  {
-    "symbol": "CEPB",
-    "rsi": 23.23
-  },
-  {
-    "symbol": "BAHL",
-    "rsi": 56.09
-  },
-  {
-    "symbol": "RPL",
-    "rsi": 29.34
-  },
-  {
-    "symbol": "ASC",
-    "rsi": 49.05
-  },
-  {
-    "symbol": "NCPL",
-    "rsi": 34.46
+    "rsi": 68.2539,
+    "cci": 98.9193
   },
   {
     "symbol": "DOL",
-    "rsi": 50.17
+    "rsi": 65.909,
+    "cci": 61.7715
+  },
+  {
+    "symbol": "NETSOL",
+    "rsi": 55.546,
+    "cci": -1.3829
+  },
+  {
+    "symbol": "GHNI",
+    "rsi": 55.546,
+    "cci": -1.3829
+  },
+  {
+    "symbol": "UBL",
+    "rsi": 40.1691,
+    "cci": -130.468
+  },
+  {
+    "symbol": "NRSL",
+    "rsi": 54.1786,
+    "cci": 7.284
+  },
+  {
+    "symbol": "DCL",
+    "rsi": 51.5463,
+    "cci": 16.4529
+  },
+  {
+    "symbol": "PACE",
+    "rsi": 29.3103,
+    "cci": -124.2207
+  },
+  {
+    "symbol": "ANL",
+    "rsi": 25.8426,
+    "cci": -104.5763
+  },
+  {
+    "symbol": "GATM",
+    "rsi": 42.5,
+    "cci": -8.1909
+  },
+  {
+    "symbol": "TOMCL",
+    "rsi": 56.2717,
+    "cci": -13.7644
+  },
+  {
+    "symbol": "KAPCO",
+    "rsi": 62.9032,
+    "cci": 210.7388
+  },
+  {
+    "symbol": "IMAGE",
+    "rsi": 59.4936,
+    "cci": 40.4776
+  },
+  {
+    "symbol": "BML",
+    "rsi": 47.826,
+    "cci": -112.9033
+  },
+  {
+    "symbol": "AGL",
+    "rsi": 35.9307,
+    "cci": -86.4542
+  },
+  {
+    "symbol": "FFC",
+    "rsi": 41.4965,
+    "cci": -175.9979
+  },
+  {
+    "symbol": "MDTL",
+    "rsi": 42.5925,
+    "cci": -56.5657
+  },
+  {
+    "symbol": "DCR",
+    "rsi": 76.1904,
+    "cci": 122.7357
+  },
+  {
+    "symbol": "QUICE",
+    "rsi": 30.8333,
+    "cci": -137.7896
+  },
+  {
+    "symbol": "FATIMA",
+    "rsi": 41.5217,
+    "cci": -67.5108
+  },
+  {
+    "symbol": "FCEPL",
+    "rsi": 35.1612,
+    "cci": -107.8952
+  },
+  {
+    "symbol": "PAKRI",
+    "rsi": 31.081,
+    "cci": -65.0059
+  },
+  {
+    "symbol": "SAZEW",
+    "rsi": 63.5711,
+    "cci": 109.0723
+  },
+  {
+    "symbol": "BNL",
+    "rsi": 49.1596,
+    "cci": -65.4412
+  },
+  {
+    "symbol": "HUMNL",
+    "rsi": 54.2635,
+    "cci": 53.9682
+  },
+  {
+    "symbol": "PIOC",
+    "rsi": 43.9587,
+    "cci": 8.3202
+  },
+  {
+    "symbol": "GGL",
+    "rsi": 53.1645,
+    "cci": -0.2039
+  },
+  {
+    "symbol": "ATRL",
+    "rsi": 46.2474,
+    "cci": -1.4945
+  },
+  {
+    "symbol": "GLAXO",
+    "rsi": 54.1761,
+    "cci": -27.3444
+  },
+  {
+    "symbol": "LUCK",
+    "rsi": 33.894,
+    "cci": -53.8059
+  },
+  {
+    "symbol": "NRL",
+    "rsi": 33.894,
+    "cci": -53.8059
+  },
+  {
+    "symbol": "EPQL",
+    "rsi": 71,
+    "cci": 68.6648
+  },
+  {
+    "symbol": "GWLC",
+    "rsi": 45.1737,
+    "cci": 103.1597
+  },
+  {
+    "symbol": "BFBIO",
+    "rsi": 45.1737,
+    "cci": 103.1597
+  },
+  {
+    "symbol": "TGL",
+    "rsi": 55.1807,
+    "cci": 34.7468
+  },
+  {
+    "symbol": "UNITY",
+    "rsi": 23.2323,
+    "cci": -131.5597
+  },
+  {
+    "symbol": "LOADS",
+    "rsi": 44.0476,
+    "cci": -49.6571
+  },
+  {
+    "symbol": "SLGL",
+    "rsi": 54.1666,
+    "cci": 46.9341
+  },
+  {
+    "symbol": "SPEL",
+    "rsi": 94.9367,
+    "cci": 61.8498
+  },
+  {
+    "symbol": "TCORP",
+    "rsi": 49.0721,
+    "cci": -34.4094
+  },
+  {
+    "symbol": "BGL",
+    "rsi": 30.827,
+    "cci": -70.4371
+  },
+  {
+    "symbol": "ALTN",
+    "rsi": 43.2558,
+    "cci": -70
+  },
+  {
+    "symbol": "AMTEX",
+    "rsi": 63.2653,
+    "cci": 72.8348
+  },
+  {
+    "symbol": "EPCL",
+    "rsi": 41.8269,
+    "cci": 38.1551
+  },
+  {
+    "symbol": "TPL",
+    "rsi": 39.6226,
+    "cci": -147.6617
+  },
+  {
+    "symbol": "PABC",
+    "rsi": 41.802,
+    "cci": -70.1763
+  },
+  {
+    "symbol": "HCAR",
+    "rsi": 60.0067,
+    "cci": 26.8307
+  },
+  {
+    "symbol": "BBFL",
+    "rsi": 60.0067,
+    "cci": 26.8307
+  },
+  {
+    "symbol": "GTYR",
+    "rsi": 54.2857,
+    "cci": 35.792
+  },
+  {
+    "symbol": "SPWL",
+    "rsi": 54.2857,
+    "cci": 35.792
+  },
+  {
+    "symbol": "HICL",
+    "rsi": 52.1505,
+    "cci": -52.6539
+  },
+  {
+    "symbol": "CSAP",
+    "rsi": 75.1465,
+    "cci": 67.6535
+  },
+  {
+    "symbol": "SML",
+    "rsi": 53.9184,
+    "cci": -79.3874
+  },
+  {
+    "symbol": "AGP",
+    "rsi": 53.9184,
+    "cci": -79.3874
+  },
+  {
+    "symbol": "YOUW",
+    "rsi": 51.0067,
+    "cci": -87.5229
+  },
+  {
+    "symbol": "CHCC",
+    "rsi": 51.0067,
+    "cci": -87.5229
+  },
+  {
+    "symbol": "BAHL",
+    "rsi": 30.416,
+    "cci": -135.5731
+  },
+  {
+    "symbol": "CEPB",
+    "rsi": 58.006,
+    "cci": 64.5576
+  },
+  {
+    "symbol": "ASC",
+    "rsi": 36.923,
+    "cci": -110.5453
+  },
+  {
+    "symbol": "RPL",
+    "rsi": 84.153,
+    "cci": 83.671
+  },
+  {
+    "symbol": "NCPL",
+    "rsi": 48.9795,
+    "cci": 53.9421
   },
   {
     "symbol": "PMI",
-    "rsi": 41.03
+    "rsi": 46.7532,
+    "cci": 84.4444
   },
   {
     "symbol": "ITTEFAQ",
-    "rsi": 53.44
+    "rsi": 29.7297,
+    "cci": -56.3796
   },
   {
     "symbol": "OCTOPUS",
-    "rsi": 24.9
+    "rsi": 89.1688,
+    "cci": 60.9661
   },
   {
     "symbol": "SYS",
-    "rsi": 28.91
+    "rsi": 57.9368,
+    "cci": 40.3992
   },
   {
     "symbol": "KSBP",
-    "rsi": 54.63
+    "rsi": 57.9368,
+    "cci": 40.3992
   },
   {
     "symbol": "SNBL",
-    "rsi": 43.26
+    "rsi": 51.9607,
+    "cci": 108.5953
   },
   {
     "symbol": "THCCL",
-    "rsi": 47.74
+    "rsi": 51.0606,
+    "cci": 10.3342
   },
   {
     "symbol": "OBOY",
-    "rsi": null
+    "rsi": 58.75,
+    "cci": 51.0524
   },
   {
     "symbol": "PASL",
-    "rsi": 34.69
+    "rsi": 58.75,
+    "cci": 51.0524
   },
   {
     "symbol": "MUGHAL",
-    "rsi": 40.27
+    "rsi": 42.1593,
+    "cci": -37.0355
   },
   {
     "symbol": "NCL",
-    "rsi": 42.14
+    "rsi": 32.1428,
+    "cci": 3.0381
   },
   {
     "symbol": "PIL",
-    "rsi": 51.99
+    "rsi": 51.8518,
+    "cci": 21.7054
   },
   {
     "symbol": "STCL",
-    "rsi": 42.15
-  },
-  {
-    "symbol": "MCB",
-    "rsi": 46.38
+    "rsi": 51.8518,
+    "cci": 21.7054
   },
   {
     "symbol": "BECO",
-    "rsi": 35.25
+    "rsi": 48.7562,
+    "cci": 36.4023
+  },
+  {
+    "symbol": "MCB",
+    "rsi": 46.7857,
+    "cci": -130.0616
   },
   {
     "symbol": "CSIL",
-    "rsi": 44.75
+    "rsi": 46.4285,
+    "cci": -111.1112
   },
   {
     "symbol": "FNEL",
-    "rsi": 26.98
+    "rsi": 37.5,
+    "cci": -96.2963
   },
   {
     "symbol": "POL",
-    "rsi": 24.85
+    "rsi": 37.5,
+    "cci": -96.2963
   },
   {
     "symbol": "LPGL",
-    "rsi": 66.65
+    "rsi": 100,
+    "cci": 93.3573
   },
   {
     "symbol": "KOHE",
-    "rsi": 40.51
+    "rsi": 53.3653,
+    "cci": -108.6615
   },
   {
     "symbol": "ZAL",
-    "rsi": 9.05
+    "rsi": 53.3653,
+    "cci": -108.6615
   },
   {
     "symbol": "MTL",
-    "rsi": 38.52
-  },
-  {
-    "symbol": "GRR",
-    "rsi": 48.64
+    "rsi": 53.3653,
+    "cci": -108.6615
   },
   {
     "symbol": "HALEON",
-    "rsi": 39.46
+    "rsi": 72.5539,
+    "cci": 132.363
+  },
+  {
+    "symbol": "GRR",
+    "rsi": 63.9705,
+    "cci": 106.3861
   },
   {
     "symbol": "FCSC",
-    "rsi": 43.31
+    "rsi": 40,
+    "cci": 113.3333
   },
   {
     "symbol": "SSOM",
-    "rsi": 74.1
+    "rsi": 48.5893,
+    "cci": -96.7702
   },
   {
     "symbol": "CLOV",
-    "rsi": 25.22
+    "rsi": 35.6913,
+    "cci": -72.295
   },
   {
     "symbol": "CWSM",
-    "rsi": 38.92
+    "rsi": 86.7881,
+    "cci": 74.8782
   },
   {
     "symbol": "HIRAT",
-    "rsi": 42.23
+    "rsi": 63.6986,
+    "cci": 128.7163
   },
   {
     "symbol": "ARUJ",
-    "rsi": 46.13
+    "rsi": 63.0952,
+    "cci": -7.9748
   },
   {
     "symbol": "RICL",
-    "rsi": 70.02
+    "rsi": 39.1812,
+    "cci": -62.4325
   },
   {
     "symbol": "AHL",
-    "rsi": 48.86
+    "rsi": 68.5314,
+    "cci": 71.9225
   },
   {
     "symbol": "TOWL",
-    "rsi": 30.16
+    "rsi": 59.214,
+    "cci": 18.5217
   },
   {
     "symbol": "HTL",
-    "rsi": 39.87
+    "rsi": 59.214,
+    "cci": 18.5217
   },
   {
     "symbol": "CHBL",
-    "rsi": 29.89
+    "rsi": 57.0512,
+    "cci": 24.5232
   },
   {
     "symbol": "BAPL",
-    "rsi": 41.33
+    "rsi": 58.2615,
+    "cci": 9.6203
   },
   {
     "symbol": "GHGL",
-    "rsi": 43.2
+    "rsi": 59.5238,
+    "cci": 43.467
   },
   {
     "symbol": "UNIC",
-    "rsi": 59.3
+    "rsi": 64.6884,
+    "cci": 46.2624
   },
   {
     "symbol": "JGICL",
-    "rsi": 46.19
+    "rsi": 48.4326,
+    "cci": -73.5493
   },
   {
     "symbol": "DHPL",
-    "rsi": 29.85
+    "rsi": 48.4326,
+    "cci": -73.5493
   },
   {
     "symbol": "ALIFE",
-    "rsi": 77.54
+    "rsi": 54.8257,
+    "cci": 44.2825
   },
   {
     "symbol": "FECM",
-    "rsi": 84.52
+    "rsi": 63.3204,
+    "cci": 3.794
   },
   {
     "symbol": "APL",
-    "rsi": 32.33
+    "rsi": 57.2282,
+    "cci": -8.5815
   },
   {
     "symbol": "HGFA",
-    "rsi": 43.33
+    "rsi": 44.186,
+    "cci": -53.4384
   },
   {
     "symbol": "ISL",
-    "rsi": 34.42
+    "rsi": 44.6261,
+    "cci": -55.9695
   },
   {
     "symbol": "PICT",
-    "rsi": 38.13
+    "rsi": 43.4523,
+    "cci": -124.519
   },
   {
     "symbol": "HMB",
-    "rsi": 30.62
+    "rsi": 50.1466,
+    "cci": -78.4981
   },
   {
     "symbol": "THALL",
-    "rsi": 50.52
+    "rsi": 42.2432,
+    "cci": -94.0012
   },
   {
     "symbol": "INIL",
-    "rsi": 47.47
+    "rsi": 66.9787,
+    "cci": 65.5598
   },
   {
     "symbol": "TRSM",
-    "rsi": 68.11
+    "rsi": 28.4403,
+    "cci": -24.8789
   },
   {
     "symbol": "UBDL",
-    "rsi": 58.64
+    "rsi": 58.5738,
+    "cci": -21.7787
   },
   {
     "symbol": "ACPL",
-    "rsi": 46.51
+    "rsi": 58.5738,
+    "cci": -21.7787
   },
   {
     "symbol": "IPAK",
-    "rsi": 49.5
+    "rsi": 53.8205,
+    "cci": -27.0064
   },
   {
     "symbol": "DBCI",
-    "rsi": 30.28
+    "rsi": 49.6296,
+    "cci": -8.2233
   },
   {
     "symbol": "HINOON",
-    "rsi": 59.9
+    "rsi": 53.542,
+    "cci": -10.5659
   },
   {
     "symbol": "FPJM",
-    "rsi": 45.49
+    "rsi": 45.679,
+    "cci": -62.9735
   },
   {
     "symbol": "IGIHL",
-    "rsi": 37.91
+    "rsi": 46.9752,
+    "cci": -104.4187
   },
   {
     "symbol": "FECTC",
-    "rsi": 32.3
+    "rsi": 57.3426,
+    "cci": 42.7795
   },
   {
     "symbol": "DWSM",
-    "rsi": 49.12
+    "rsi": 65.7738,
+    "cci": 29.696
   },
   {
     "symbol": "JSCL",
-    "rsi": 40.7
+    "rsi": 53.4013,
+    "cci": -26.9231
   },
   {
     "symbol": "SGF",
-    "rsi": 29.39
+    "rsi": 30.9774,
+    "cci": -100.1644
   },
   {
     "symbol": "WAFI",
-    "rsi": 39.7
+    "rsi": 30.9774,
+    "cci": -100.1644
   },
   {
     "symbol": "DSIL",
-    "rsi": 36.96
+    "rsi": 30.9774,
+    "cci": -100.1644
   },
   {
     "symbol": "FEROZ",
-    "rsi": 39.64
+    "rsi": 70.0656,
+    "cci": 103.1393
   },
   {
     "symbol": "IBLHL",
-    "rsi": 34.13
+    "rsi": 53.3692,
+    "cci": -36.4847
   },
   {
     "symbol": "CRTM",
-    "rsi": 43.36
+    "rsi": 53.3692,
+    "cci": -36.4847
   },
   {
     "symbol": "AKDSL",
-    "rsi": 26.73
+    "rsi": 32.2147,
+    "cci": -116.1841
   },
   {
     "symbol": "BERG",
-    "rsi": 38.51
+    "rsi": 53.7406,
+    "cci": -4.5829
   },
   {
     "symbol": "AGSML",
-    "rsi": 34.15
+    "rsi": 47.9338,
+    "cci": -25.6411
   },
   {
     "symbol": "STYLERS",
-    "rsi": 60.74
+    "rsi": 51.15,
+    "cci": 44.3064
   },
   {
     "symbol": "SHNI",
-    "rsi": 59.92
+    "rsi": 51.15,
+    "cci": 44.3064
   },
   {
     "symbol": "FRCL",
-    "rsi": null
+    "rsi": 48.5668,
+    "cci": 5.9529
   },
   {
     "symbol": "BIFO",
-    "rsi": 51.44
+    "rsi": 54.9682,
+    "cci": 86.34
   },
   {
     "symbol": "MWMP",
-    "rsi": 48.65
+    "rsi": 49.6835,
+    "cci": -52.2313
   },
   {
     "symbol": "MFFL",
-    "rsi": 34.77
+    "rsi": 45.0788,
+    "cci": -102.0213
   },
   {
     "symbol": "AGIC",
-    "rsi": 54.47
+    "rsi": 45.0788,
+    "cci": -102.0213
   },
   {
     "symbol": "PMPK",
-    "rsi": 93.41
+    "rsi": 45.0788,
+    "cci": -102.0213
   },
   {
     "symbol": "GAMON",
-    "rsi": 31.1
-  },
-  {
-    "symbol": "IMS",
-    "rsi": 37.05
-  },
-  {
-    "symbol": "BCL",
-    "rsi": 42.47
-  },
-  {
-    "symbol": "SIBL",
-    "rsi": 64.97
-  },
-  {
-    "symbol": "ABL",
-    "rsi": 45.32
-  },
-  {
-    "symbol": "AGIL",
-    "rsi": 49.96
-  },
-  {
-    "symbol": "CYAN",
-    "rsi": 41.49
-  },
-  {
-    "symbol": "JSML",
-    "rsi": 57.04
-  },
-  {
-    "symbol": "TPLT",
-    "rsi": 33.09
-  },
-  {
-    "symbol": "SMCPL",
-    "rsi": 28.3
-  },
-  {
-    "symbol": "DFSM",
-    "rsi": 38.5
-  },
-  {
-    "symbol": "PAKOXY",
-    "rsi": 39.51
-  },
-  {
-    "symbol": "NEXT",
-    "rsi": 42.15
-  },
-  {
-    "symbol": "UCAPM",
-    "rsi": 44.45
-  },
-  {
-    "symbol": "NATF",
-    "rsi": 45.69
-  },
-  {
-    "symbol": "GRYL",
-    "rsi": 44.23
-  },
-  {
-    "symbol": "CJPL",
-    "rsi": 28.88
-  },
-  {
-    "symbol": "TSMF",
-    "rsi": 36.96
-  },
-  {
-    "symbol": "AGTL",
-    "rsi": 18.39
-  },
-  {
-    "symbol": "PKGS",
-    "rsi": 31.15
-  },
-  {
-    "symbol": "SCBPL",
-    "rsi": 41.38
-  },
-  {
-    "symbol": "MIRKS",
-    "rsi": 44.99
-  },
-  {
-    "symbol": "HABSM",
-    "rsi": 58.52
-  },
-  {
-    "symbol": "LSEFSL",
-    "rsi": 60.3
-  },
-  {
-    "symbol": "SRVI",
-    "rsi": 13.35
-  },
-  {
-    "symbol": "FDPL",
-    "rsi": 42.51
-  },
-  {
-    "symbol": "PINL",
-    "rsi": 53.13
-  },
-  {
-    "symbol": "CENI",
-    "rsi": 62.63
-  },
-  {
-    "symbol": "FHAM",
-    "rsi": 57.2
-  },
-  {
-    "symbol": "EMCO",
-    "rsi": 58.09
-  },
-  {
-    "symbol": "PTL",
-    "rsi": 44.55
-  },
-  {
-    "symbol": "TPLRF1",
-    "rsi": 46.46
-  },
-  {
-    "symbol": "IDYM",
-    "rsi": 34.86
-  },
-  {
-    "symbol": "MACFL",
-    "rsi": 43.4
-  },
-  {
-    "symbol": "SITC",
-    "rsi": 53.92
-  },
-  {
-    "symbol": "CHAS",
-    "rsi": 34.81
-  },
-  {
-    "symbol": "ALAC",
-    "rsi": 46.5
-  },
-  {
-    "symbol": "DNCC",
-    "rsi": 34.86
-  },
-  {
-    "symbol": "FML",
-    "rsi": 40.39
-  },
-  {
-    "symbol": "ATBA",
-    "rsi": 37.64
-  },
-  {
-    "symbol": "ECOP",
-    "rsi": 79.52
-  },
-  {
-    "symbol": "ESBL",
-    "rsi": 46.9
-  },
-  {
-    "symbol": "ICIBL",
-    "rsi": 38.46
-  },
-  {
-    "symbol": "DEL",
-    "rsi": 43.74
-  },
-  {
-    "symbol": "SHFA",
-    "rsi": 39.08
-  },
-  {
-    "symbol": "TSBL",
-    "rsi": 50.69
-  },
-  {
-    "symbol": "HIFA",
-    "rsi": 44.66
-  },
-  {
-    "symbol": "COLG",
-    "rsi": 25.83
-  },
-  {
-    "symbol": "LCI",
-    "rsi": 47.48
-  },
-  {
-    "symbol": "DADX",
-    "rsi": 42.37
-  },
-  {
-    "symbol": "LSEVL",
-    "rsi": 37.89
-  },
-  {
-    "symbol": "KOIL",
-    "rsi": 42.98
-  },
-  {
-    "symbol": "PCAL",
-    "rsi": 48.75
-  },
-  {
-    "symbol": "ABOT",
-    "rsi": 34.51
-  },
-  {
-    "symbol": "HAEL",
-    "rsi": 33.01
-  },
-  {
-    "symbol": "JDMT",
-    "rsi": 41
-  },
-  {
-    "symbol": "DYNO",
-    "rsi": 47.16
+    "rsi": 19.1204,
+    "cci": -116.9964
   },
   {
     "symbol": "ICL",
-    "rsi": 49.38
+    "rsi": 35.5371,
+    "cci": -4.2784
   },
   {
-    "symbol": "LIVEN",
-    "rsi": 30.62
+    "symbol": "ABL",
+    "rsi": 38.8921,
+    "cci": -147.6637
   },
   {
-    "symbol": "HINO",
-    "rsi": 24.16
+    "symbol": "IMS",
+    "rsi": 38.8921,
+    "cci": -147.6637
   },
   {
-    "symbol": "TSPL",
-    "rsi": 41.59
+    "symbol": "BCL",
+    "rsi": 82.0788,
+    "cci": 127.1766
   },
   {
-    "symbol": "IGIL",
-    "rsi": 51.84
+    "symbol": "SIBL",
+    "rsi": 42.2459,
+    "cci": 32.8522
   },
   {
-    "symbol": "BWCL",
-    "rsi": 63.56
+    "symbol": "AGIL",
+    "rsi": 42.2459,
+    "cci": 32.8522
   },
   {
-    "symbol": 786,
-    "rsi": 40.43
+    "symbol": "CYAN",
+    "rsi": 59.2286,
+    "cci": 49.5519
   },
   {
-    "symbol": "MSOT",
-    "rsi": 45.86
+    "symbol": "JSML",
+    "rsi": 59.2286,
+    "cci": 49.5519
   },
   {
-    "symbol": "LSECL",
-    "rsi": 42.99
+    "symbol": "TPLT",
+    "rsi": 56.25,
+    "cci": 39.8052
   },
   {
-    "symbol": "KOHTM",
-    "rsi": 43.16
+    "symbol": "SMCPL",
+    "rsi": 93.233,
+    "cci": 87.9687
   },
   {
-    "symbol": "EXIDE",
-    "rsi": 47.74
+    "symbol": "FDPL",
+    "rsi": 48.2142,
+    "cci": -128.2179
   },
   {
-    "symbol": "BOK",
-    "rsi": 41.28
+    "symbol": "DFSM",
+    "rsi": 62.937,
+    "cci": 6.3384
   },
   {
-    "symbol": "ATLH",
-    "rsi": 48.79
+    "symbol": "PAKOXY",
+    "rsi": 50,
+    "cci": 23.492
   },
   {
-    "symbol": "MUREB",
-    "rsi": 40.48
+    "symbol": "NEXT",
+    "rsi": 39.5437,
+    "cci": -86.5455
   },
   {
-    "symbol": "DLL",
-    "rsi": 34.19
+    "symbol": "UCAPM",
+    "rsi": 73.0337,
+    "cci": 112.7864
   },
   {
-    "symbol": "MACTER",
-    "rsi": 58.77
+    "symbol": "NATF",
+    "rsi": 35.2625,
+    "cci": -129.5605
   },
   {
-    "symbol": "TPLI",
-    "rsi": 40.77
+    "symbol": "CJPL",
+    "rsi": 35.2625,
+    "cci": -129.5605
   },
   {
-    "symbol": "JVDC",
-    "rsi": 48.21
+    "symbol": "GRYL",
+    "rsi": 53.012,
+    "cci": 64.805
   },
   {
-    "symbol": "REDCO",
-    "rsi": 57.81
+    "symbol": "TSMF",
+    "rsi": 43.233,
+    "cci": 2.3651
   },
   {
-    "symbol": "FPRM",
-    "rsi": 46.09
+    "symbol": "AGTL",
+    "rsi": 41.6835,
+    "cci": -108.594
   },
   {
-    "symbol": "FEM",
-    "rsi": 35.44
+    "symbol": "PKGS",
+    "rsi": 59.8265,
+    "cci": -49.6893
   },
   {
-    "symbol": "PAKD",
-    "rsi": 40.59
+    "symbol": "SCBPL",
+    "rsi": 53.9196,
+    "cci": -166.3914
   },
   {
-    "symbol": "ADAMS",
-    "rsi": 46.68
+    "symbol": "MIRKS",
+    "rsi": 45.5307,
+    "cci": -69.1618
   },
   {
-    "symbol": "BILF",
-    "rsi": 69.04
+    "symbol": "HABSM",
+    "rsi": 50,
+    "cci": -86.1721
   },
   {
-    "symbol": "INKL",
-    "rsi": 47.36
+    "symbol": "LSEFSL",
+    "rsi": 57.6642,
+    "cci": 20.4878
   },
   {
-    "symbol": "KHTC",
-    "rsi": 41.96
+    "symbol": "SRVI",
+    "rsi": 37.2246,
+    "cci": 19.6709
   },
   {
-    "symbol": "INDU",
-    "rsi": 29.78
+    "symbol": "PINL",
+    "rsi": 41.1497,
+    "cci": -130.3129
   },
   {
-    "symbol": "HWQS",
-    "rsi": 38.05
+    "symbol": "CENI",
+    "rsi": 43.7655,
+    "cci": 45.486
   },
   {
-    "symbol": "MRNS",
-    "rsi": 45.44
-  },
-  {
-    "symbol": "FFLM",
-    "rsi": 47.86
+    "symbol": "FHAM",
+    "rsi": 59.1666,
+    "cci": 126.2902
   },
   {
     "symbol": "DWAE",
-    "rsi": 41.33
+    "rsi": 0,
+    "cci": -66.6667
   },
   {
-    "symbol": "UDPL",
-    "rsi": 59.6
+    "symbol": "EMCO",
+    "rsi": 46.051,
+    "cci": 4.8188
   },
   {
-    "symbol": "SPL",
-    "rsi": 37.01
+    "symbol": "PTL",
+    "rsi": 70.044,
+    "cci": 127.8208
   },
   {
-    "symbol": "SEPL",
-    "rsi": 34.61
+    "symbol": "TPLRF1",
+    "rsi": 58.2887,
+    "cci": 113.9511
   },
   {
-    "symbol": "UVIC",
-    "rsi": 49.28
+    "symbol": "IDYM",
+    "rsi": 34.6923,
+    "cci": -80.6961
   },
   {
-    "symbol": "ASTM",
-    "rsi": 36.29
+    "symbol": "MACFL",
+    "rsi": 59.6774,
+    "cci": -44.898
   },
   {
-    "symbol": "BNWM",
-    "rsi": 42.84
+    "symbol": "SITC",
+    "rsi": 59.9509,
+    "cci": 3.7835
   },
   {
-    "symbol": "EFUL",
-    "rsi": 27.12
+    "symbol": "CHAS",
+    "rsi": 53.2961,
+    "cci": 17.6455
   },
   {
-    "symbol": "JSCLPSA",
-    "rsi": null
+    "symbol": "ALAC",
+    "rsi": 43.2624,
+    "cci": -17.018
   },
   {
-    "symbol": "BWHL",
-    "rsi": 45.05
+    "symbol": "ATBA",
+    "rsi": 80.2723,
+    "cci": 95.4747
   },
   {
-    "symbol": "PGLC",
-    "rsi": 50.24
+    "symbol": "DNCC",
+    "rsi": 80.2723,
+    "cci": 95.4747
   },
   {
-    "symbol": "KTML",
-    "rsi": 33.45
+    "symbol": "FML",
+    "rsi": 48.3717,
+    "cci": 45.9712
   },
   {
-    "symbol": "POWERPS",
-    "rsi": null
+    "symbol": "ECOP",
+    "rsi": 48.3717,
+    "cci": 45.9712
   },
   {
-    "symbol": "SARC",
-    "rsi": 50.71
+    "symbol": "ESBL",
+    "rsi": 64.1975,
+    "cci": 105.0524
   },
   {
-    "symbol": "RUPL",
-    "rsi": 34.97
+    "symbol": "ICIBL",
+    "rsi": 50,
+    "cci": 17.1821
   },
   {
-    "symbol": "CLVL",
-    "rsi": 32.91
+    "symbol": "DEL",
+    "rsi": 43.8775,
+    "cci": -28.046
   },
   {
-    "symbol": "MFL",
-    "rsi": 42.9
+    "symbol": "SHFA",
+    "rsi": 20.7174,
+    "cci": -103.4237
   },
   {
-    "symbol": "IML",
-    "rsi": 33.84
+    "symbol": "TSBL",
+    "rsi": 54.5632,
+    "cci": 155.8026
   },
   {
-    "symbol": "CLCPS",
-    "rsi": 44.26
-  },
-  {
-    "symbol": "TATM",
-    "rsi": 42.2
+    "symbol": "HIFA",
+    "rsi": 58.1818,
+    "cci": -4.398
   },
   {
     "symbol": "CTM",
-    "rsi": 43.55
+    "rsi": 55.6701,
+    "cci": 40.394
   },
   {
-    "symbol": "PAKT",
-    "rsi": 53.12
+    "symbol": "COLG",
+    "rsi": 19.5559,
+    "cci": -66.175
   },
   {
     "symbol": "PNSC",
-    "rsi": 23.88
+    "rsi": 19.5559,
+    "cci": -66.175
   },
   {
-    "symbol": "MCBIM",
-    "rsi": 59.86
+    "symbol": "LCI",
+    "rsi": 31.2338,
+    "cci": -149.0019
   },
   {
-    "symbol": "GUSM",
-    "rsi": 41.83
+    "symbol": "DADX",
+    "rsi": 84.1715,
+    "cci": 97.6106
   },
   {
-    "symbol": "BRRG",
-    "rsi": 42.09
+    "symbol": "LSEVL",
+    "rsi": 56.6037,
+    "cci": 58.2816
   },
   {
-    "symbol": "DAAG",
-    "rsi": 50.26
-  },
-  {
-    "symbol": "OLPM",
-    "rsi": 48.95
-  },
-  {
-    "symbol": "ICCI",
-    "rsi": 47.68
+    "symbol": "KOIL",
+    "rsi": 46.8421,
+    "cci": -74.2509
   },
   {
     "symbol": "ADMM",
-    "rsi": 39.92
+    "rsi": 51.0613,
+    "cci": 86.7088
+  },
+  {
+    "symbol": "PCAL",
+    "rsi": 67.2969,
+    "cci": 122.3933
+  },
+  {
+    "symbol": "ABOT",
+    "rsi": 53.3237,
+    "cci": 69.3259
+  },
+  {
+    "symbol": "HAEL",
+    "rsi": 53.3237,
+    "cci": 69.3259
+  },
+  {
+    "symbol": "JDMT",
+    "rsi": 59.8784,
+    "cci": 172.048
+  },
+  {
+    "symbol": "DYNO",
+    "rsi": 52.1587,
+    "cci": 58.12
+  },
+  {
+    "symbol": "LIVEN",
+    "rsi": 52.1587,
+    "cci": 58.12
+  },
+  {
+    "symbol": "HINO",
+    "rsi": 31.0943,
+    "cci": -18.7749
+  },
+  {
+    "symbol": "TSPL",
+    "rsi": 51.2437,
+    "cci": 33.4493
+  },
+  {
+    "symbol": "BWCL",
+    "rsi": 33.0221,
+    "cci": -9.0982
+  },
+  {
+    "symbol": "IGIL",
+    "rsi": 59.9601,
+    "cci": 103.406
+  },
+  {
+    "symbol": 786,
+    "rsi": 48.1927,
+    "cci": 58.998
+  },
+  {
+    "symbol": "MSOT",
+    "rsi": 50,
+    "cci": -25.6428
+  },
+  {
+    "symbol": "LSECL",
+    "rsi": 56.1904,
+    "cci": 17.801
+  },
+  {
+    "symbol": "KOHTM",
+    "rsi": 42.1452,
+    "cci": -77.7116
+  },
+  {
+    "symbol": "EXIDE",
+    "rsi": 76.9774,
+    "cci": 118.9785
+  },
+  {
+    "symbol": "BOK",
+    "rsi": 76.9774,
+    "cci": 118.9785
+  },
+  {
+    "symbol": "ATLH",
+    "rsi": 42.5403,
+    "cci": 57.1406
+  },
+  {
+    "symbol": "DLL",
+    "rsi": 42.5403,
+    "cci": 57.1406
+  },
+  {
+    "symbol": "MUREB",
+    "rsi": 54.5608,
+    "cci": 5.0332
+  },
+  {
+    "symbol": "TPLI",
+    "rsi": 49.7499,
+    "cci": -85.951
+  },
+  {
+    "symbol": "MACTER",
+    "rsi": 51.1975,
+    "cci": 51.2947
+  },
+  {
+    "symbol": "JVDC",
+    "rsi": 45.9926,
+    "cci": -17.6731
+  },
+  {
+    "symbol": "REDCO",
+    "rsi": 41.1764,
+    "cci": -96.3769
+  },
+  {
+    "symbol": "FPRM",
+    "rsi": 50.553,
+    "cci": 30.2132
+  },
+  {
+    "symbol": "FEM",
+    "rsi": 50.553,
+    "cci": 30.2132
+  },
+  {
+    "symbol": "PAKD",
+    "rsi": 64.6432,
+    "cci": 67.5825
+  },
+  {
+    "symbol": "ADAMS",
+    "rsi": 55.2715,
+    "cci": 77.3372
+  },
+  {
+    "symbol": "INKL",
+    "rsi": 55.2715,
+    "cci": 77.3372
+  },
+  {
+    "symbol": "BILF",
+    "rsi": 55.7971,
+    "cci": 128.395
+  },
+  {
+    "symbol": "KHTC",
+    "rsi": 44.2482,
+    "cci": -11.0237
+  },
+  {
+    "symbol": "INDU",
+    "rsi": 61.8238,
+    "cci": 119.2442
+  },
+  {
+    "symbol": "MRNS",
+    "rsi": 49.7596,
+    "cci": -129.9697
+  },
+  {
+    "symbol": "HWQS",
+    "rsi": 50,
+    "cci": -17.3882
+  },
+  {
+    "symbol": "FFLM",
+    "rsi": 46.9696,
+    "cci": 36.105
+  },
+  {
+    "symbol": "UDPL",
+    "rsi": 48.5187,
+    "cci": -49.1084
+  },
+  {
+    "symbol": "SPL",
+    "rsi": 46.4788,
+    "cci": -74.66
+  },
+  {
+    "symbol": "SEPL",
+    "rsi": 56.0869,
+    "cci": -10.4092
+  },
+  {
+    "symbol": "UVIC",
+    "rsi": 46.6666,
+    "cci": -15.8514
+  },
+  {
+    "symbol": "ASTM",
+    "rsi": 40.9395,
+    "cci": -77.5569
+  },
+  {
+    "symbol": "BNWM",
+    "rsi": 71.4527,
+    "cci": 113.5028
+  },
+  {
+    "symbol": "EFUL",
+    "rsi": 50.1002,
+    "cci": -116.525
+  },
+  {
+    "symbol": "BWHL",
+    "rsi": 55.5325,
+    "cci": 38.5738
+  },
+  {
+    "symbol": "JSCLPSA",
+    "rsi": 48.1481,
+    "cci": -49.9621
+  },
+  {
+    "symbol": "PGLC",
+    "rsi": 39.0243,
+    "cci": -118.8185
+  },
+  {
+    "symbol": "POWERPS",
+    "rsi": 53.7313,
+    "cci": 9.3588
+  },
+  {
+    "symbol": "KTML",
+    "rsi": 53.7313,
+    "cci": 9.3588
+  },
+  {
+    "symbol": "SARC",
+    "rsi": 52.6352,
+    "cci": -38.0828
+  },
+  {
+    "symbol": "RUPL",
+    "rsi": 57.8073,
+    "cci": 103.3118
+  },
+  {
+    "symbol": "CLVL",
+    "rsi": 45.3355,
+    "cci": -28.4279
+  },
+  {
+    "symbol": "MFL",
+    "rsi": 69.7368,
+    "cci": 61.3437
+  },
+  {
+    "symbol": "IML",
+    "rsi": 38.9639,
+    "cci": 28.448
+  },
+  {
+    "symbol": "CLCPS",
+    "rsi": 62.295,
+    "cci": 78.2147
+  },
+  {
+    "symbol": "TATM",
+    "rsi": 62.295,
+    "cci": 78.2147
+  },
+  {
+    "symbol": "PAKT",
+    "rsi": 53.2142,
+    "cci": -61.9431
+  },
+  {
+    "symbol": "MCBIM",
+    "rsi": 53.2142,
+    "cci": -61.9431
+  },
+  {
+    "symbol": "GUSM",
+    "rsi": 100,
+    "cci": 106.699
+  },
+  {
+    "symbol": "BRRG",
+    "rsi": 100,
+    "cci": 106.699
+  },
+  {
+    "symbol": "DAAG",
+    "rsi": 100,
+    "cci": 105.2581
+  },
+  {
+    "symbol": "OLPM",
+    "rsi": 55.0143,
+    "cci": 45.6631
+  },
+  {
+    "symbol": "ICCI",
+    "rsi": 67.1794,
+    "cci": 166.7498
   },
   {
     "symbol": "AATM",
-    "rsi": 45.65
+    "rsi": 100,
+    "cci": 66.937
   },
   {
     "symbol": "CPPL",
-    "rsi": 27.66
+    "rsi": 39.5072,
+    "cci": -59.4585
   },
   {
     "symbol": "GADT",
-    "rsi": 56.27
+    "rsi": 64.3059,
+    "cci": 126.4329
   },
   {
     "symbol": "SKRS",
-    "rsi": 50.9
+    "rsi": 54.3026,
+    "cci": 149.1519
   },
   {
     "symbol": "FTMM",
-    "rsi": 34.67
-  },
-  {
-    "symbol": "KPUS",
-    "rsi": null
-  },
-  {
-    "symbol": "SGPL",
-    "rsi": 40.16
-  },
-  {
-    "symbol": "ZIL",
-    "rsi": 64.49
-  },
-  {
-    "symbol": "SNAI",
-    "rsi": 47.04
-  },
-  {
-    "symbol": "SSML",
-    "rsi": 40.8
-  },
-  {
-    "symbol": "DWTM",
-    "rsi": 28.5
-  },
-  {
-    "symbol": "FCEL",
-    "rsi": 33.98
-  },
-  {
-    "symbol": "PPP",
-    "rsi": 43.54
-  },
-  {
-    "symbol": "GATI",
-    "rsi": 22.76
-  },
-  {
-    "symbol": "GVGL",
-    "rsi": 36.74
-  },
-  {
-    "symbol": "UDLI",
-    "rsi": 56.43
-  },
-  {
-    "symbol": "MERIT",
-    "rsi": 55.47
-  },
-  {
-    "symbol": "AMBL",
-    "rsi": 41.49
-  },
-  {
-    "symbol": "SANSM",
-    "rsi": 56.65
-  },
-  {
-    "symbol": "ARPL",
-    "rsi": 30.72
-  },
-  {
-    "symbol": "ORM",
-    "rsi": 55.05
-  },
-  {
-    "symbol": "SERT",
-    "rsi": 51
-  },
-  {
-    "symbol": "TSML",
-    "rsi": 36.26
-  },
-  {
-    "symbol": "PPVC",
-    "rsi": 53.31
-  },
-  {
-    "symbol": "GSPM",
-    "rsi": 37.74
-  },
-  {
-    "symbol": "JLICL",
-    "rsi": 31.52
-  },
-  {
-    "symbol": "ELCM",
-    "rsi": 57.59
-  },
-  {
-    "symbol": "OTSU",
-    "rsi": 45.8
-  },
-  {
-    "symbol": "GFIL",
-    "rsi": 39.34
-  },
-  {
-    "symbol": "MQTM",
-    "rsi": 61.63
-  },
-  {
-    "symbol": "SUTM",
-    "rsi": 51.08
-  },
-  {
-    "symbol": "EFUG",
-    "rsi": 43.52
-  },
-  {
-    "symbol": "SHDT",
-    "rsi": 36.74
-  },
-  {
-    "symbol": "DIIL",
-    "rsi": 96.18
-  },
-  {
-    "symbol": "MEHT",
-    "rsi": 36.59
-  },
-  {
-    "symbol": "ALNRS",
-    "rsi": 42.75
-  },
-  {
-    "symbol": "ISIL",
-    "rsi": 41.44
-  },
-  {
-    "symbol": "BATA",
-    "rsi": 37.94
-  },
-  {
-    "symbol": "HRPL",
-    "rsi": 50.25
-  },
-  {
-    "symbol": "IBFL",
-    "rsi": 53
-  },
-  {
-    "symbol": "PASM",
-    "rsi": 41.37
-  },
-  {
-    "symbol": "CASH",
-    "rsi": 41.48
-  },
-  {
-    "symbol": "SBL",
-    "rsi": 64.8
-  },
-  {
-    "symbol": "HPL",
-    "rsi": 41.04
-  },
-  {
-    "symbol": "JATM",
-    "rsi": 34.96
-  },
-  {
-    "symbol": "LEUL",
-    "rsi": 42.49
-  },
-  {
-    "symbol": "NICL",
-    "rsi": 35.72
-  },
-  {
-    "symbol": "JUBS",
-    "rsi": 49.52
-  },
-  {
-    "symbol": "NESTLE",
-    "rsi": 37.47
-  },
-  {
-    "symbol": "JDWS",
-    "rsi": 48.16
-  },
-  {
-    "symbol": "RUBY",
-    "rsi": 32.97
-  },
-  {
-    "symbol": "SAPT",
-    "rsi": 30.98
-  },
-  {
-    "symbol": "AABS",
-    "rsi": 56.66
-  },
-  {
-    "symbol": "CCM",
-    "rsi": 44.82
-  },
-  {
-    "symbol": "RMPL",
-    "rsi": 28.66
-  },
-  {
-    "symbol": "SHJS",
-    "rsi": 45.31
-  },
-  {
-    "symbol": "ML",
-    "rsi": null
-  },
-  {
-    "symbol": "SAIF",
-    "rsi": 32.47
-  },
-  {
-    "symbol": "KOHP",
-    "rsi": 39.89
-  },
-  {
-    "symbol": "SHEZ",
-    "rsi": 51.95
-  },
-  {
-    "symbol": "PSYL",
-    "rsi": 54.7
-  },
-  {
-    "symbol": "EPCLPS",
-    "rsi": null
-  },
-  {
-    "symbol": "PECO",
-    "rsi": 29.52
+    "rsi": 54.2372,
+    "cci": 65.6603
   },
   {
     "symbol": "OLPL",
-    "rsi": 52.93
+    "rsi": 62.3376,
+    "cci": 13.1093
   },
   {
-    "symbol": "PKGP",
-    "rsi": 36.06
+    "symbol": "KPUS",
+    "rsi": 48.5423,
+    "cci": 43.3703
   },
   {
-    "symbol": "FIL",
-    "rsi": 44.94
+    "symbol": "SGPL",
+    "rsi": 52.2041,
+    "cci": 3.2802
   },
   {
-    "symbol": "GEMBLUEX",
-    "rsi": 60.76
+    "symbol": "ZIL",
+    "rsi": 51.9901,
+    "cci": 124.5347
   },
   {
-    "symbol": "BPL",
-    "rsi": 35.1
+    "symbol": "SNAI",
+    "rsi": 70.9062,
+    "cci": 77.2632
   },
   {
-    "symbol": "SINDM",
-    "rsi": 48.3
+    "symbol": "SSML",
+    "rsi": 70.9062,
+    "cci": 77.2632
   },
   {
-    "symbol": "PIM",
-    "rsi": 51.99
+    "symbol": "DWTM",
+    "rsi": 38.3474,
+    "cci": -82.7617
   },
   {
-    "symbol": "FZCM",
-    "rsi": 21.65
+    "symbol": "FCEL",
+    "rsi": 51.1515,
+    "cci": 40.4773
   },
   {
-    "symbol": "GLPL",
-    "rsi": 34.6
+    "symbol": "PPP",
+    "rsi": 46.7777,
+    "cci": -69.9756
   },
   {
-    "symbol": "IDRT",
-    "rsi": 46.35
+    "symbol": "GATI",
+    "rsi": 47.4533,
+    "cci": 58.9648
   },
   {
-    "symbol": "BELA",
-    "rsi": 51.39
+    "symbol": "GVGL",
+    "rsi": 53.6656,
+    "cci": 91.0569
   },
   {
-    "symbol": "KHYT",
-    "rsi": 27.37
+    "symbol": "UDLI",
+    "rsi": 57.5163,
+    "cci": -53.3557
   },
   {
-    "symbol": "STL",
-    "rsi": 46.79
+    "symbol": "AMBL",
+    "rsi": 43.0288,
+    "cci": -58.6361
+  },
+  {
+    "symbol": "MERIT",
+    "rsi": 46.875,
+    "cci": -105.0611
+  },
+  {
+    "symbol": "SANSM",
+    "rsi": 54.2559,
+    "cci": 26.7046
   },
   {
     "symbol": "POML",
-    "rsi": 51.5
+    "rsi": 38.7154,
+    "cci": -151.7528
   },
   {
-    "symbol": "TRIPF",
-    "rsi": 46.35
+    "symbol": "ARPL",
+    "rsi": 45.5126,
+    "cci": -31.6837
   },
   {
-    "symbol": "MSCL",
-    "rsi": 36.9
+    "symbol": "ORM",
+    "rsi": 50.7042,
+    "cci": 48.0499
   },
   {
-    "symbol": "BUXL",
-    "rsi": 41.61
+    "symbol": "SERT",
+    "rsi": 36.0485,
+    "cci": -62.3076
   },
   {
-    "symbol": "SIEM",
-    "rsi": 49.49
+    "symbol": "TSML",
+    "rsi": 53.3944,
+    "cci": 68.0868
   },
   {
-    "symbol": "SEL",
-    "rsi": 25.36
+    "symbol": "PPVC",
+    "rsi": 50.7163,
+    "cci": 94.3137
   },
   {
-    "symbol": "ZAHID",
-    "rsi": 49.72
+    "symbol": "GSPM",
+    "rsi": 50.7163,
+    "cci": 94.3137
   },
   {
-    "symbol": "ANTM",
-    "rsi": 42.01
+    "symbol": "JLICL",
+    "rsi": 43.7828,
+    "cci": -114.6991
   },
   {
-    "symbol": "SCL",
-    "rsi": 36.22
+    "symbol": "ELCM",
+    "rsi": 49.5809,
+    "cci": 55.3615
   },
   {
-    "symbol": "PSEL",
-    "rsi": 49.16
+    "symbol": "OTSU",
+    "rsi": 57.4815,
+    "cci": 44.9587
   },
   {
-    "symbol": "ELSM",
-    "rsi": 40.33
+    "symbol": "GFIL",
+    "rsi": 49.4505,
+    "cci": 66.9058
   },
   {
-    "symbol": "BTL",
-    "rsi": 21.55
+    "symbol": "MQTM",
+    "rsi": 49.9263,
+    "cci": 52.3536
   },
   {
-    "symbol": "RCML",
-    "rsi": 48.56
+    "symbol": "SUTM",
+    "rsi": 53.4824,
+    "cci": -52.1286
   },
   {
-    "symbol": "FASM",
-    "rsi": 48.04
+    "symbol": "EFUG",
+    "rsi": 45.7461,
+    "cci": -205.8392
   },
   {
-    "symbol": "AKDHL",
-    "rsi": 47.19
+    "symbol": "SHDT",
+    "rsi": 56.1926,
+    "cci": -76.9252
   },
   {
-    "symbol": "ASIC",
-    "rsi": 46.73
+    "symbol": "DIIL",
+    "rsi": 56.1926,
+    "cci": -76.9252
   },
   {
-    "symbol": "HAFL",
-    "rsi": 66.91
+    "symbol": "MEHT",
+    "rsi": 56.1926,
+    "cci": -76.9252
   },
   {
-    "symbol": "ARCTM",
-    "rsi": 44.79
+    "symbol": "ALNRS",
+    "rsi": 50,
+    "cci": 87.9056
   },
   {
-    "symbol": "ATIL",
-    "rsi": 35.04
+    "symbol": "ISIL",
+    "rsi": 52.1634,
+    "cci": 95.2366
   },
   {
-    "symbol": "SLYT",
-    "rsi": 40.3
+    "symbol": "BATA",
+    "rsi": 49.4263,
+    "cci": -120.5336
   },
   {
     "symbol": "FTSM",
-    "rsi": 44.26
+    "rsi": 49.4263,
+    "cci": -120.5336
+  },
+  {
+    "symbol": "HRPL",
+    "rsi": 50.503,
+    "cci": -15.2235
+  },
+  {
+    "symbol": "IBFL",
+    "rsi": 54.1095,
+    "cci": 40.4156
+  },
+  {
+    "symbol": "PASM",
+    "rsi": 53.5934,
+    "cci": 84.1031
+  },
+  {
+    "symbol": "CASH",
+    "rsi": 47.7355,
+    "cci": -123.1355
+  },
+  {
+    "symbol": "SBL",
+    "rsi": 50.0869,
+    "cci": 58.4964
+  },
+  {
+    "symbol": "HPL",
+    "rsi": 50.0972,
+    "cci": 54.6956
+  },
+  {
+    "symbol": "JATM",
+    "rsi": 39.3101,
+    "cci": -122.7453
+  },
+  {
+    "symbol": "NICL",
+    "rsi": 32.1672,
+    "cci": -76.8358
+  },
+  {
+    "symbol": "LEUL",
+    "rsi": 55.6405,
+    "cci": -23.0436
+  },
+  {
+    "symbol": "JUBS",
+    "rsi": 50.3931,
+    "cci": 64.3947
+  },
+  {
+    "symbol": "NESTLE",
+    "rsi": 53.0097,
+    "cci": -15.3696
+  },
+  {
+    "symbol": "JDWS",
+    "rsi": 50.515,
+    "cci": 96.6518
+  },
+  {
+    "symbol": "RUBY",
+    "rsi": 50.515,
+    "cci": 96.6518
+  },
+  {
+    "symbol": "SAPT",
+    "rsi": 85.2715,
+    "cci": 11.6143
+  },
+  {
+    "symbol": "AABS",
+    "rsi": 56.3689,
+    "cci": 98.6633
+  },
+  {
+    "symbol": "CCM",
+    "rsi": 50,
+    "cci": 59.7712
+  },
+  {
+    "symbol": "RMPL",
+    "rsi": 50.7729,
+    "cci": -19.7351
+  },
+  {
+    "symbol": "SHJS",
+    "rsi": 46.5672,
+    "cci": -60.8381
+  },
+  {
+    "symbol": "ML",
+    "rsi": 46.5672,
+    "cci": -60.8381
+  },
+  {
+    "symbol": "SAIF",
+    "rsi": 31.0924,
+    "cci": -104.5663
+  },
+  {
+    "symbol": "KOHP",
+    "rsi": 31.0924,
+    "cci": -104.5663
+  },
+  {
+    "symbol": "SHEZ",
+    "rsi": 44.8232,
+    "cci": -47.1207
+  },
+  {
+    "symbol": "PSYL",
+    "rsi": 50.1845,
+    "cci": 8.0208
+  },
+  {
+    "symbol": "EPCLPS",
+    "rsi": 25.5102,
+    "cci": 85.0694
+  },
+  {
+    "symbol": "PECO",
+    "rsi": 59.1078,
+    "cci": 156.6487
   },
   {
     "symbol": "UPFL",
-    "rsi": 44.3
+    "rsi": 47.8963,
+    "cci": 29.712
+  },
+  {
+    "symbol": "PKGP",
+    "rsi": 57.1367,
+    "cci": 72.7758
+  },
+  {
+    "symbol": "FIL",
+    "rsi": 45.2826,
+    "cci": 87.9727
+  },
+  {
+    "symbol": "GEMBLUEX",
+    "rsi": 74.5826,
+    "cci": 25.7912
+  },
+  {
+    "symbol": "BPL",
+    "rsi": 89.3227,
+    "cci": 88.9599
+  },
+  {
+    "symbol": "PIM",
+    "rsi": 89.3227,
+    "cci": 88.9599
+  },
+  {
+    "symbol": "SINDM",
+    "rsi": 51.2605,
+    "cci": 11.3946
+  },
+  {
+    "symbol": "FZCM",
+    "rsi": 46.012,
+    "cci": -118.2157
+  },
+  {
+    "symbol": "GLPL",
+    "rsi": 71.7795,
+    "cci": 14.4082
+  },
+  {
+    "symbol": "IDRT",
+    "rsi": 51.7016,
+    "cci": 98.6674
+  },
+  {
+    "symbol": "BELA",
+    "rsi": 50.0706,
+    "cci": -62.0798
+  },
+  {
+    "symbol": "KHYT",
+    "rsi": 72.9747,
+    "cci": 154.9624
+  },
+  {
+    "symbol": "STL",
+    "rsi": 72.9747,
+    "cci": 154.9624
+  },
+  {
+    "symbol": "TRIPF",
+    "rsi": 34.6687,
+    "cci": -142.3931
+  },
+  {
+    "symbol": "MSCL",
+    "rsi": 56.4315,
+    "cci": 84.9834
+  },
+  {
+    "symbol": "BUXL",
+    "rsi": 41.8454,
+    "cci": -57.4006
+  },
+  {
+    "symbol": "SIEM",
+    "rsi": 47.3481,
+    "cci": -70.7139
+  },
+  {
+    "symbol": "SEL",
+    "rsi": 49.0076,
+    "cci": -17.6397
+  },
+  {
+    "symbol": "ZAHID",
+    "rsi": 49.0076,
+    "cci": -17.6397
+  },
+  {
+    "symbol": "ANTM",
+    "rsi": 49.0076,
+    "cci": -17.6397
+  },
+  {
+    "symbol": "SCL",
+    "rsi": 51.546,
+    "cci": 63.0786
+  },
+  {
+    "symbol": "ELSM",
+    "rsi": 50.7549,
+    "cci": 64.3998
+  },
+  {
+    "symbol": "PSEL",
+    "rsi": 48.3177,
+    "cci": -78.8114
+  },
+  {
+    "symbol": "BTL",
+    "rsi": 55.8412,
+    "cci": 58.837
+  },
+  {
+    "symbol": "RCML",
+    "rsi": 46.1901,
+    "cci": -20.3696
+  },
+  {
+    "symbol": "FASM",
+    "rsi": 54.3333,
+    "cci": 67.6392
+  },
+  {
+    "symbol": "AKDHL",
+    "rsi": 55.3619,
+    "cci": -17.2228
+  },
+  {
+    "symbol": "ASIC",
+    "rsi": 55.3619,
+    "cci": -17.2228
+  },
+  {
+    "symbol": "HAFL",
+    "rsi": 55.3619,
+    "cci": -17.2228
+  },
+  {
+    "symbol": "ARCTM",
+    "rsi": 55.3619,
+    "cci": -17.2228
+  },
+  {
+    "symbol": "ATIL",
+    "rsi": 44.2013,
+    "cci": -89.3695
+  },
+  {
+    "symbol": "SLYT",
+    "rsi": 44.2013,
+    "cci": -89.3695
   }
 ]
