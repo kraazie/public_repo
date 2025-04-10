@@ -1,5 +1,14 @@
- [
-  { symbol: "PSO", rsi: 65.3 },
-  { symbol: "SNGP", rsi: 48.7 },
-  { symbol: "HASCOL", rsi: 72.1 }
+[
+  {
+    "symbol": "PSO",
+    "rsi": 65.3
+  },
+  {
+    "symbol": "SNGP",
+    "rsi": 48.7
+  },
+  {
+    "symbol": "HASCOL",
+    "rsi": 72.1
+  }
 ]
