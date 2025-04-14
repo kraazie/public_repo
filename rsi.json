@@ -5,13 +5,13 @@
     "macd": "Buy"
   },
   {
-    "symbol": "SSGC",
-    "rsi": 59.45,
+    "symbol": "KEL",
+    "rsi": 53.18,
     "macd": "Buy"
   },
   {
-    "symbol": "KEL",
-    "rsi": 53.18,
+    "symbol": "SSGC",
+    "rsi": 59.45,
     "macd": "Buy"
   },
   {
@@ -20,13 +20,13 @@
     "macd": "Sell"
   },
   {
-    "symbol": "PIBTL",
-    "rsi": 54.64,
+    "symbol": "PAEL",
+    "rsi": 59.13,
     "macd": "Sell"
   },
   {
-    "symbol": "PAEL",
-    "rsi": 59.13,
+    "symbol": "PIBTL",
+    "rsi": 54.64,
     "macd": "Sell"
   },
   {
@@ -40,13 +40,13 @@
     "macd": "Buy"
   },
   {
-    "symbol": "SNGP",
-    "rsi": 54.9,
+    "symbol": "PRL",
+    "rsi": 49.21,
     "macd": "Sell"
   },
   {
-    "symbol": "PRL",
-    "rsi": 49.21,
+    "symbol": "SNGP",
+    "rsi": 54.9,
     "macd": "Sell"
   },
   {
@@ -57,6 +57,11 @@
   {
     "symbol": "BOP",
     "rsi": 46.93,
+    "macd": "Sell"
+  },
+  {
+    "symbol": "PREMA",
+    "rsi": 49.16,
     "macd": "Sell"
   },
   {
@@ -80,14 +85,14 @@
     "macd": "Sell"
   },
   {
-    "symbol": "HUBC",
-    "rsi": 51.05,
-    "macd": "Sell"
-  },
-  {
     "symbol": "BAFL",
     "rsi": 43.03,
     "macd": "Buy"
+  },
+  {
+    "symbol": "HUBC",
+    "rsi": 51.05,
+    "macd": "Sell"
   },
   {
     "symbol": "PSX",
@@ -170,6 +175,11 @@
     "macd": "Buy"
   },
   {
+    "symbol": "DFML",
+    "rsi": 44.87,
+    "macd": "Sell"
+  },
+  {
     "symbol": "TELE",
     "rsi": 34.88,
     "macd": "Sell"
@@ -177,11 +187,6 @@
   {
     "symbol": "FCL",
     "rsi": 33.4,
-    "macd": "Sell"
-  },
-  {
-    "symbol": "DFML",
-    "rsi": 44.87,
     "macd": "Sell"
   },
   {
@@ -205,13 +210,13 @@
     "macd": "Sell"
   },
   {
-    "symbol": "ENGROH",
-    "rsi": null,
-    "macd": ""
-  },
-  {
     "symbol": "GGGL",
     "rsi": 52.52,
+    "macd": "Sell"
+  },
+  {
+    "symbol": "ENGROH",
+    "rsi": 27.69,
     "macd": "Sell"
   },
   {
@@ -245,6 +250,11 @@
     "macd": "Sell"
   },
   {
+    "symbol": "GCILSD",
+    "rsi": null,
+    "macd": ""
+  },
+  {
     "symbol": "NPL",
     "rsi": 50.69,
     "macd": "Sell"
@@ -260,14 +270,9 @@
     "macd": "Sell"
   },
   {
-    "symbol": "WAVES",
-    "rsi": 42.43,
-    "macd": "Sell"
-  },
-  {
     "symbol": "BIPL",
-    "rsi": 36.37,
-    "macd": "Buy"
+    "rsi": null,
+    "macd": ""
   },
   {
     "symbol": "NML",
@@ -295,13 +300,13 @@
     "macd": "Sell"
   },
   {
-    "symbol": "TPLP",
-    "rsi": 35.68,
+    "symbol": "LOTCHEM",
+    "rsi": 33.28,
     "macd": "Sell"
   },
   {
-    "symbol": "LOTCHEM",
-    "rsi": 33.28,
+    "symbol": "TPLP",
+    "rsi": 35.68,
     "macd": "Sell"
   },
   {
@@ -325,13 +330,13 @@
     "macd": "Buy"
   },
   {
-    "symbol": "DOL",
-    "rsi": 52.96,
+    "symbol": "JSBL",
+    "rsi": 43.56,
     "macd": "Buy"
   },
   {
-    "symbol": "JSBL",
-    "rsi": 43.56,
+    "symbol": "DOL",
+    "rsi": 52.96,
     "macd": "Buy"
   },
   {
@@ -348,11 +353,6 @@
     "symbol": "UBL",
     "rsi": 58.95,
     "macd": "Buy"
-  },
-  {
-    "symbol": "PREMA",
-    "rsi": 49.16,
-    "macd": "Sell"
   },
   {
     "symbol": "NRSL",
@@ -375,13 +375,13 @@
     "macd": "Sell"
   },
   {
-    "symbol": "TOMCL",
-    "rsi": 46.74,
+    "symbol": "GATM",
+    "rsi": 49.53,
     "macd": "Sell"
   },
   {
-    "symbol": "GATM",
-    "rsi": 49.53,
+    "symbol": "TOMCL",
+    "rsi": 46.74,
     "macd": "Sell"
   },
   {
@@ -415,6 +415,11 @@
     "macd": "Sell"
   },
   {
+    "symbol": "DCR",
+    "rsi": 65.87,
+    "macd": "Buy"
+  },
+  {
     "symbol": "QUICE",
     "rsi": 36.77,
     "macd": "Sell"
@@ -435,6 +440,11 @@
     "macd": "Buy"
   },
   {
+    "symbol": "SAZEW",
+    "rsi": 61.59,
+    "macd": "Buy"
+  },
+  {
     "symbol": "BNL",
     "rsi": 57.08,
     "macd": "Sell"
@@ -443,11 +453,6 @@
     "symbol": "HUMNL",
     "rsi": 44.7,
     "macd": "Sell"
-  },
-  {
-    "symbol": "SAZEW",
-    "rsi": 61.59,
-    "macd": "Buy"
   },
   {
     "symbol": "PIOC",
@@ -525,14 +530,14 @@
     "macd": "Buy"
   },
   {
-    "symbol": "ALTN",
-    "rsi": 38.76,
-    "macd": "Buy"
-  },
-  {
     "symbol": "BGL",
     "rsi": 31.35,
     "macd": "Sell"
+  },
+  {
+    "symbol": "ALTN",
+    "rsi": 38.76,
+    "macd": "Buy"
   },
   {
     "symbol": "AMTEX",
@@ -543,11 +548,6 @@
     "symbol": "EPCL",
     "rsi": 47.69,
     "macd": "Sell"
-  },
-  {
-    "symbol": "GCILSD",
-    "rsi": null,
-    "macd": ""
   },
   {
     "symbol": "TPL",
@@ -567,6 +567,11 @@
   {
     "symbol": "BBFL",
     "rsi": 43.5,
+    "macd": "Sell"
+  },
+  {
+    "symbol": "WAVES",
+    "rsi": 42.43,
     "macd": "Sell"
   },
   {
@@ -597,6 +602,11 @@
   {
     "symbol": "AGP",
     "rsi": 62.83,
+    "macd": "Sell"
+  },
+  {
+    "symbol": "YOUW",
+    "rsi": 39.14,
     "macd": "Sell"
   },
   {
@@ -635,13 +645,18 @@
     "macd": "Buy"
   },
   {
-    "symbol": "OCTOPUS",
-    "rsi": 35.22,
-    "macd": "Sell"
+    "symbol": "ITTEFAQ",
+    "rsi": 49.66,
+    "macd": "Buy"
   },
   {
     "symbol": "SYS",
     "rsi": 39.68,
+    "macd": "Sell"
+  },
+  {
+    "symbol": "OCTOPUS",
+    "rsi": 35.22,
     "macd": "Sell"
   },
   {
@@ -680,6 +695,11 @@
     "macd": "Buy"
   },
   {
+    "symbol": "PIL",
+    "rsi": 51.15,
+    "macd": "Buy"
+  },
+  {
     "symbol": "STCL",
     "rsi": 47.79,
     "macd": "Buy"
@@ -705,29 +725,14 @@
     "macd": "Sell"
   },
   {
-    "symbol": "DCR",
-    "rsi": 65.87,
-    "macd": "Buy"
-  },
-  {
-    "symbol": "POL",
-    "rsi": 32.32,
-    "macd": "Sell"
-  },
-  {
     "symbol": "LPGL",
-    "rsi": 66.31,
-    "macd": "Buy"
+    "rsi": null,
+    "macd": ""
   },
   {
     "symbol": "KOHE",
     "rsi": 44.53,
     "macd": "Buy"
-  },
-  {
-    "symbol": "ZAL",
-    "rsi": 20.15,
-    "macd": "0"
   },
   {
     "symbol": "MTL",
@@ -741,8 +746,8 @@
   },
   {
     "symbol": "HALEON",
-    "rsi": null,
-    "macd": ""
+    "rsi": 64.77,
+    "macd": "Buy"
   },
   {
     "symbol": "FCSC",
@@ -755,13 +760,13 @@
     "macd": "Buy"
   },
   {
-    "symbol": "CWSM",
-    "rsi": 39.71,
+    "symbol": "CLOV",
+    "rsi": 34.65,
     "macd": "Sell"
   },
   {
-    "symbol": "CLOV",
-    "rsi": 34.65,
+    "symbol": "CWSM",
+    "rsi": 39.71,
     "macd": "Sell"
   },
   {
@@ -890,8 +895,8 @@
     "macd": "Buy"
   },
   {
-    "symbol": "YOUW",
-    "rsi": 39.14,
+    "symbol": "DBCI",
+    "rsi": 32.59,
     "macd": "Sell"
   },
   {
@@ -930,13 +935,13 @@
     "macd": "Sell"
   },
   {
-    "symbol": "ITTEFAQ",
-    "rsi": 49.66,
-    "macd": "Buy"
-  },
-  {
     "symbol": "WAFI",
     "rsi": 42.66,
+    "macd": "Sell"
+  },
+  {
+    "symbol": "DSIL",
+    "rsi": 39.06,
     "macd": "Sell"
   },
   {
@@ -945,14 +950,14 @@
     "macd": "Buy"
   },
   {
-    "symbol": "IBLHL",
-    "rsi": 54.61,
-    "macd": "Buy"
-  },
-  {
     "symbol": "CRTM",
     "rsi": 48.2,
     "macd": "Sell"
+  },
+  {
+    "symbol": "IBLHL",
+    "rsi": 54.61,
+    "macd": "Buy"
   },
   {
     "symbol": "AKDSL",
@@ -976,23 +981,23 @@
   },
   {
     "symbol": "SHNI",
-    "rsi": 56.48,
-    "macd": "Buy"
+    "rsi": null,
+    "macd": ""
   },
   {
     "symbol": "FRCL",
-    "rsi": 63,
-    "macd": "Buy"
+    "rsi": null,
+    "macd": ""
   },
   {
-    "symbol": "PIL",
-    "rsi": 51.15,
+    "symbol": "BIFO",
+    "rsi": 50,
     "macd": "Buy"
   },
   {
     "symbol": "MWMP",
-    "rsi": null,
-    "macd": ""
+    "rsi": 40.24,
+    "macd": "Buy"
   },
   {
     "symbol": "MFFL",
@@ -1015,6 +1020,11 @@
     "macd": "Sell"
   },
   {
+    "symbol": "POL",
+    "rsi": 32.32,
+    "macd": "Sell"
+  },
+  {
     "symbol": "ICL",
     "rsi": 56.37,
     "macd": "Buy"
@@ -1023,6 +1033,11 @@
     "symbol": "ABL",
     "rsi": 42.23,
     "macd": "Sell"
+  },
+  {
+    "symbol": "ZAL",
+    "rsi": 20.15,
+    "macd": "0"
   },
   {
     "symbol": "IMS",
@@ -1038,6 +1053,11 @@
     "symbol": "SIBL",
     "rsi": 70.81,
     "macd": "Buy"
+  },
+  {
+    "symbol": "AGIL",
+    "rsi": 52.87,
+    "macd": "Sell"
   },
   {
     "symbol": "CYAN",
@@ -1070,9 +1090,14 @@
     "macd": "Buy"
   },
   {
+    "symbol": "PAKOXY",
+    "rsi": 47.66,
+    "macd": "Sell"
+  },
+  {
     "symbol": "NEXT",
-    "rsi": null,
-    "macd": ""
+    "rsi": 35.84,
+    "macd": "Sell"
   },
   {
     "symbol": "UCAPM",
@@ -1102,11 +1127,6 @@
   {
     "symbol": "AGTL",
     "rsi": 32,
-    "macd": "Sell"
-  },
-  {
-    "symbol": "PKGS",
-    "rsi": 31.01,
     "macd": "Sell"
   },
   {
@@ -1180,11 +1200,6 @@
     "macd": "Buy"
   },
   {
-    "symbol": "DBCI",
-    "rsi": 32.59,
-    "macd": "Sell"
-  },
-  {
     "symbol": "SITC",
     "rsi": 54.32,
     "macd": "Sell"
@@ -1200,13 +1215,13 @@
     "macd": "Sell"
   },
   {
-    "symbol": "DNCC",
-    "rsi": 37.71,
+    "symbol": "ATBA",
+    "rsi": 40.13,
     "macd": "Sell"
   },
   {
-    "symbol": "ATBA",
-    "rsi": 40.13,
+    "symbol": "DNCC",
+    "rsi": 37.71,
     "macd": "Sell"
   },
   {
@@ -1235,23 +1250,18 @@
     "macd": "Sell"
   },
   {
-    "symbol": "DSIL",
-    "rsi": 39.06,
-    "macd": "Sell"
-  },
-  {
     "symbol": "DEL",
     "rsi": 43.78,
     "macd": "Buy"
   },
   {
-    "symbol": "HIFA",
-    "rsi": 48.3,
+    "symbol": "TSBL",
+    "rsi": 53.04,
     "macd": "Buy"
   },
   {
-    "symbol": "TSBL",
-    "rsi": 53.04,
+    "symbol": "HIFA",
+    "rsi": 48.3,
     "macd": "Buy"
   },
   {
@@ -1288,11 +1298,6 @@
     "symbol": "KOIL",
     "rsi": 43.1,
     "macd": "Sell"
-  },
-  {
-    "symbol": "BIFO",
-    "rsi": 50,
-    "macd": "Buy"
   },
   {
     "symbol": "ADMM",
@@ -1345,11 +1350,6 @@
     "macd": "Sell"
   },
   {
-    "symbol": "AGIL",
-    "rsi": 52.87,
-    "macd": "Sell"
-  },
-  {
     "symbol": "BWCL",
     "rsi": 65.95,
     "macd": "Buy"
@@ -1390,11 +1390,6 @@
     "macd": "Sell"
   },
   {
-    "symbol": "PAKOXY",
-    "rsi": 47.66,
-    "macd": "Sell"
-  },
-  {
     "symbol": "DLL",
     "rsi": 35.26,
     "macd": "Sell"
@@ -1432,6 +1427,11 @@
   {
     "symbol": "FEM",
     "rsi": 48.1,
+    "macd": "Sell"
+  },
+  {
+    "symbol": "PKGS",
+    "rsi": 31.01,
     "macd": "Sell"
   },
   {
@@ -1570,11 +1570,6 @@
     "macd": "Buy"
   },
   {
-    "symbol": "TATM",
-    "rsi": 38.59,
-    "macd": "Sell"
-  },
-  {
     "symbol": "PAKT",
     "rsi": 54.77,
     "macd": "Buy"
@@ -1595,18 +1590,13 @@
     "macd": "Sell"
   },
   {
-    "symbol": "OLPM",
-    "rsi": 59.32,
-    "macd": "Buy"
-  },
-  {
     "symbol": "DAAG",
     "rsi": 50.56,
     "macd": "Buy"
   },
   {
-    "symbol": "ICCI",
-    "rsi": 52.5,
+    "symbol": "OLPM",
+    "rsi": 59.32,
     "macd": "Buy"
   },
   {
@@ -1640,6 +1630,11 @@
     "macd": "Buy"
   },
   {
+    "symbol": "KPUS",
+    "rsi": 57.24,
+    "macd": "Buy"
+  },
+  {
     "symbol": "SGPL",
     "rsi": 43.13,
     "macd": "Sell"
@@ -1653,6 +1648,11 @@
     "symbol": "SNAI",
     "rsi": 52.26,
     "macd": "Buy"
+  },
+  {
+    "symbol": "SSML",
+    "rsi": 49.6,
+    "macd": "Sell"
   },
   {
     "symbol": "DWTM",
@@ -1830,14 +1830,14 @@
     "macd": "Buy"
   },
   {
-    "symbol": "HPL",
-    "rsi": 61.06,
-    "macd": "Sell"
-  },
-  {
     "symbol": "JATM",
     "rsi": 43.59,
     "macd": "Buy"
+  },
+  {
+    "symbol": "HPL",
+    "rsi": 61.06,
+    "macd": "Sell"
   },
   {
     "symbol": "NICL",
@@ -1862,6 +1862,11 @@
   {
     "symbol": "JDWS",
     "rsi": 52.16,
+    "macd": "Sell"
+  },
+  {
+    "symbol": "TATM",
+    "rsi": 38.59,
     "macd": "Sell"
   },
   {
@@ -1893,6 +1898,11 @@
     "symbol": "SHJS",
     "rsi": 45.31,
     "macd": "Sell"
+  },
+  {
+    "symbol": "ICCI",
+    "rsi": 52.5,
+    "macd": "Buy"
   },
   {
     "symbol": "ML",
@@ -1935,11 +1945,6 @@
     "macd": "Sell"
   },
   {
-    "symbol": "KPUS",
-    "rsi": 57.24,
-    "macd": "Buy"
-  },
-  {
     "symbol": "PKGP",
     "rsi": 35.55,
     "macd": "Sell"
@@ -1962,11 +1967,6 @@
   {
     "symbol": "SINDM",
     "rsi": 42.8,
-    "macd": "Sell"
-  },
-  {
-    "symbol": "SSML",
-    "rsi": 49.6,
     "macd": "Sell"
   },
   {
@@ -2060,11 +2060,6 @@
     "macd": "Sell"
   },
   {
-    "symbol": "RCML",
-    "rsi": 41.72,
-    "macd": "Buy"
-  },
-  {
     "symbol": "FASM",
     "rsi": 42.23,
     "macd": "Buy"
@@ -2098,5 +2093,10 @@
     "symbol": "SLYT",
     "rsi": 36.12,
     "macd": "Sell"
+  },
+  {
+    "symbol": "RCML",
+    "rsi": 41.72,
+    "macd": "Buy"
   }
 ]
