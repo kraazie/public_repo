@@ -1,7 +1,7 @@
 [
   {
     "symbol": "CNERGY",
-    "price": 7.11,
+    "price": 7.09,
     "rsi": 32.67,
     "macd": "Sell",
     "sma10": 7.76,
@@ -17,7 +17,7 @@
   },
   {
     "symbol": "KEL",
-    "price": 4.39,
+    "price": 4.38,
     "rsi": 42.23,
     "macd": "Sell",
     "sma10": 4.21,
@@ -33,10 +33,10 @@
   },
   {
     "symbol": "SSGC",
-    "price": 36.1,
+    "price": 36.08,
     "rsi": 52.56,
     "macd": "Sell",
-    "sma10": null,
+    "sma10": 40.27,
     "sma30": 39.07,
     "sma60": 36.66,
     "sma200": 25.77,
@@ -49,7 +49,7 @@
   },
   {
     "symbol": "MLCF",
-    "price": 70.15,
+    "price": 70.2,
     "rsi": 68.31,
     "macd": "Buy",
     "sma10": null,
@@ -65,10 +65,10 @@
   },
   {
     "symbol": "PAEL",
-    "price": 42.93,
+    "price": 43.1,
     "rsi": 48.25,
     "macd": "Sell",
-    "sma10": null,
+    "sma10": 44.4,
     "sma30": 45.42,
     "sma60": 43.07,
     "sma200": 33.86,
@@ -81,7 +81,7 @@
   },
   {
     "symbol": "PIBTL",
-    "price": 8.8,
+    "price": 8.82,
     "rsi": 37.16,
     "macd": "Sell",
     "sma10": 9.26,
@@ -97,7 +97,7 @@
   },
   {
     "symbol": "FCCL",
-    "price": 44.09,
+    "price": 44.04,
     "rsi": 49.46,
     "macd": "Sell",
     "sma10": 44.47,
@@ -112,8 +112,24 @@
     "avgVol": 12869697
   },
   {
+    "symbol": "WTL",
+    "price": 1.33,
+    "rsi": 52.68,
+    "macd": "Buy",
+    "sma10": 1.3,
+    "sma30": 1.33,
+    "sma60": 1.39,
+    "sma200": 1.4,
+    "s1": 1.29,
+    "s2": 1.24,
+    "r1": 1.38,
+    "r2": 1.42,
+    "vol": 10597193,
+    "avgVol": 50443871
+  },
+  {
     "symbol": "SNGP",
-    "price": 124.3,
+    "price": 123.82,
     "rsi": 60.73,
     "macd": "Buy",
     "sma10": 123.94,
@@ -129,7 +145,7 @@
   },
   {
     "symbol": "PRL",
-    "price": 29.7,
+    "price": 29.52,
     "rsi": 35.97,
     "macd": "Sell",
     "sma10": 30.46,
@@ -193,7 +209,7 @@
   },
   {
     "symbol": "PIAHCLA",
-    "price": 16.5,
+    "price": 16.47,
     "rsi": 44.18,
     "macd": "Sell",
     "sma10": 17.01,
@@ -209,7 +225,7 @@
   },
   {
     "symbol": "DGKC",
-    "price": 135.6,
+    "price": 135.99,
     "rsi": 63.28,
     "macd": "Buy",
     "sma10": null,
@@ -225,7 +241,7 @@
   },
   {
     "symbol": "POWER",
-    "price": 14.35,
+    "price": 14.4,
     "rsi": 69.43,
     "macd": "Buy",
     "sma10": 13.94,
@@ -240,8 +256,24 @@
     "avgVol": 8987416
   },
   {
+    "symbol": "PSO",
+    "price": 363.19,
+    "rsi": 40.13,
+    "macd": "Sell",
+    "sma10": 364.74,
+    "sma30": 391.1,
+    "sma60": 371.9,
+    "sma200": 287.07,
+    "s1": 349.13,
+    "s2": 342.42,
+    "r1": 360.47,
+    "r2": 365.1,
+    "vol": 4245060,
+    "avgVol": 3697808
+  },
+  {
     "symbol": "BAFL",
-    "price": 71.44,
+    "price": 71.03,
     "rsi": 40.45,
     "macd": "Sell",
     "sma10": 73.24,
@@ -257,7 +289,7 @@
   },
   {
     "symbol": "HUBC",
-    "price": 133.3,
+    "price": 133.47,
     "rsi": 45.17,
     "macd": "Sell",
     "sma10": 138.92,
@@ -272,24 +304,8 @@
     "avgVol": 8356539
   },
   {
-    "symbol": "TRG",
-    "price": 63.75,
-    "rsi": 47.59,
-    "macd": "Sell",
-    "sma10": 64.59,
-    "sma30": 65.39,
-    "sma60": 63.81,
-    "sma200": 58.64,
-    "s1": 63.04,
-    "s2": 62.44,
-    "r1": 64.34,
-    "r2": 65.04,
-    "vol": 2142099,
-    "avgVol": 6525351
-  },
-  {
     "symbol": "PSX",
-    "price": 25.2,
+    "price": 25.4,
     "rsi": 48.03,
     "macd": "Sell",
     "sma10": 26.32,
@@ -304,8 +320,24 @@
     "avgVol": 2917131
   },
   {
+    "symbol": "TRG",
+    "price": 64.08,
+    "rsi": 47.59,
+    "macd": "Sell",
+    "sma10": 64.59,
+    "sma30": 65.39,
+    "sma60": 63.81,
+    "sma200": 58.64,
+    "s1": 63.04,
+    "s2": 62.44,
+    "r1": 64.34,
+    "r2": 65.04,
+    "vol": 2142099,
+    "avgVol": 6525351
+  },
+  {
     "symbol": "TREET",
-    "price": 19.93,
+    "price": 19.9,
     "rsi": 39.47,
     "macd": "Sell",
     "sma10": 19.83,
@@ -321,7 +353,7 @@
   },
   {
     "symbol": "FFL",
-    "price": 14.6,
+    "price": 14.63,
     "rsi": 43.84,
     "macd": "Sell",
     "sma10": 15.3,
@@ -337,7 +369,7 @@
   },
   {
     "symbol": "LPL",
-    "price": 23.5,
+    "price": 23.41,
     "rsi": 40.63,
     "macd": "Sell",
     "sma10": 25.4,
@@ -353,7 +385,7 @@
   },
   {
     "symbol": "OGDC",
-    "price": 202.5,
+    "price": 202.93,
     "rsi": 35.38,
     "macd": "Sell",
     "sma10": 208.36,
@@ -369,7 +401,7 @@
   },
   {
     "symbol": "PTC",
-    "price": 20.4,
+    "price": 20.39,
     "rsi": 40.25,
     "macd": "Sell",
     "sma10": 21.08,
@@ -385,7 +417,7 @@
   },
   {
     "symbol": "HASCOL",
-    "price": 10.14,
+    "price": 10.2,
     "rsi": 46.08,
     "macd": "Sell",
     "sma10": 10.31,
@@ -401,7 +433,7 @@
   },
   {
     "symbol": "SEARL",
-    "price": 81,
+    "price": 81.51,
     "rsi": 33.29,
     "macd": "Sell",
     "sma10": 88.15,
@@ -417,10 +449,10 @@
   },
   {
     "symbol": "PPL",
-    "price": 152,
+    "price": 151.8,
     "rsi": 25.6,
     "macd": "Sell",
-    "sma10": null,
+    "sma10": 160.7,
     "sma30": 173.91,
     "sma60": 175.33,
     "sma200": 154.17,
@@ -433,7 +465,7 @@
   },
   {
     "symbol": "MARI",
-    "price": 616,
+    "price": 616.98,
     "rsi": 44.07,
     "macd": "Sell",
     "sma10": 625.69,
@@ -449,7 +481,7 @@
   },
   {
     "symbol": "KOSM",
-    "price": 5.42,
+    "price": null,
     "rsi": 35.43,
     "macd": "Sell",
     "sma10": 5.39,
@@ -465,7 +497,7 @@
   },
   {
     "symbol": "DSL",
-    "price": 8.71,
+    "price": 8.87,
     "rsi": 77.79,
     "macd": "Buy",
     "sma10": 7.5,
@@ -481,7 +513,7 @@
   },
   {
     "symbol": "STPL",
-    "price": 5.5,
+    "price": 5.4,
     "rsi": 43.71,
     "macd": "Sell",
     "sma10": null,
@@ -497,7 +529,7 @@
   },
   {
     "symbol": "AIRLINK",
-    "price": 152.9,
+    "price": 153.32,
     "rsi": 35.84,
     "macd": "Sell",
     "sma10": 166.5,
@@ -529,7 +561,7 @@
   },
   {
     "symbol": "TELE",
-    "price": 7,
+    "price": 7.01,
     "rsi": 39.94,
     "macd": "Sell",
     "sma10": 7.18,
@@ -545,7 +577,7 @@
   },
   {
     "symbol": "DFML",
-    "price": 34.68,
+    "price": 35.02,
     "rsi": 34.62,
     "macd": "Sell",
     "sma10": null,
@@ -577,7 +609,7 @@
   },
   {
     "symbol": "ILP",
-    "price": 53.88,
+    "price": null,
     "rsi": 41.76,
     "macd": "Sell",
     "sma10": 56.53,
@@ -593,7 +625,7 @@
   },
   {
     "symbol": "TBL",
-    "price": 11.72,
+    "price": 11.73,
     "rsi": 32.72,
     "macd": "Sell",
     "sma10": 12.25,
@@ -609,7 +641,7 @@
   },
   {
     "symbol": "SYM",
-    "price": 14.6,
+    "price": 14.58,
     "rsi": 50.09,
     "macd": "Buy",
     "sma10": null,
@@ -625,7 +657,7 @@
   },
   {
     "symbol": "NBP",
-    "price": null,
+    "price": 84.32,
     "rsi": 55.8,
     "macd": "Sell",
     "sma10": 85.6,
@@ -657,7 +689,7 @@
   },
   {
     "symbol": "ENGROH",
-    "price": 160.11,
+    "price": 160.02,
     "rsi": 39.15,
     "macd": "Sell",
     "sma10": 164.41,
@@ -689,7 +721,7 @@
   },
   {
     "symbol": "EFERT",
-    "price": 166.81,
+    "price": 166.9,
     "rsi": 29.2,
     "macd": "Sell",
     "sma10": null,
@@ -705,7 +737,7 @@
   },
   {
     "symbol": "ASL",
-    "price": 10.5,
+    "price": 10.49,
     "rsi": 61.38,
     "macd": "Buy",
     "sma10": 9.81,
@@ -721,7 +753,7 @@
   },
   {
     "symbol": "BFAGRO",
-    "price": 28.87,
+    "price": 28.79,
     "rsi": 50.29,
     "macd": "0",
     "sma10": 29.21,
@@ -737,7 +769,7 @@
   },
   {
     "symbol": "WAVESAPP",
-    "price": 9.68,
+    "price": 9.64,
     "rsi": 36.71,
     "macd": "Sell",
     "sma10": 9.18,
@@ -753,7 +785,7 @@
   },
   {
     "symbol": "GCIL",
-    "price": 16.9,
+    "price": 16.89,
     "rsi": 47.84,
     "macd": "Buy",
     "sma10": null,
@@ -785,7 +817,7 @@
   },
   {
     "symbol": "AGHA",
-    "price": 8,
+    "price": 8.01,
     "rsi": 34.85,
     "macd": "Sell",
     "sma10": 8.5,
@@ -801,7 +833,7 @@
   },
   {
     "symbol": "AKBL",
-    "price": 40.29,
+    "price": 40.31,
     "rsi": 62.6,
     "macd": "Buy",
     "sma10": 37.04,
@@ -817,7 +849,7 @@
   },
   {
     "symbol": "WAVES",
-    "price": 8,
+    "price": 8.01,
     "rsi": 53.92,
     "macd": "Buy",
     "sma10": null,
@@ -833,7 +865,7 @@
   },
   {
     "symbol": "BIPL",
-    "price": 20.19,
+    "price": 20.13,
     "rsi": 38.99,
     "macd": "Buy",
     "sma10": 20.16,
@@ -849,7 +881,7 @@
   },
   {
     "symbol": "NML",
-    "price": 110,
+    "price": 109.1,
     "rsi": 50.73,
     "macd": "Sell",
     "sma10": 111.85,
@@ -862,22 +894,6 @@
     "r2": 114.11,
     "vol": 436514,
     "avgVol": 1243051
-  },
-  {
-    "symbol": "FABL",
-    "price": 47.2,
-    "rsi": 52.17,
-    "macd": "Buy",
-    "sma10": 48.14,
-    "sma30": 48.04,
-    "sma60": 49.24,
-    "sma200": 48.89,
-    "s1": 48.3,
-    "s2": 48.02,
-    "r1": 48.88,
-    "r2": 49.18,
-    "vol": 746107,
-    "avgVol": 2859175
   },
   {
     "symbol": "ASTL",
@@ -896,8 +912,24 @@
     "avgVol": 390610
   },
   {
+    "symbol": "FABL",
+    "price": null,
+    "rsi": 52.17,
+    "macd": "Buy",
+    "sma10": 48.14,
+    "sma30": 48.04,
+    "sma60": 49.24,
+    "sma200": 48.89,
+    "s1": 48.3,
+    "s2": 48.02,
+    "r1": 48.88,
+    "r2": 49.18,
+    "vol": 746107,
+    "avgVol": 2859175
+  },
+  {
     "symbol": "KOHC",
-    "price": 382,
+    "price": 381.85,
     "rsi": 52.05,
     "macd": "Sell",
     "sma10": 376.42,
@@ -913,7 +945,7 @@
   },
   {
     "symbol": "AVN",
-    "price": 48.6,
+    "price": null,
     "rsi": 41.7,
     "macd": "Sell",
     "sma10": 48.41,
@@ -929,10 +961,10 @@
   },
   {
     "symbol": "LOTCHEM",
-    "price": 18.03,
+    "price": 18.02,
     "rsi": 45.3,
     "macd": "Buy",
-    "sma10": null,
+    "sma10": 18.3,
     "sma30": 18.54,
     "sma60": 19.26,
     "sma200": 18.66,
@@ -961,7 +993,7 @@
   },
   {
     "symbol": "AHCL",
-    "price": 11.1,
+    "price": 11.04,
     "rsi": 21,
     "macd": "Buy",
     "sma10": 11.29,
@@ -977,7 +1009,7 @@
   },
   {
     "symbol": "AICL",
-    "price": 45.71,
+    "price": 45.96,
     "rsi": 60.87,
     "macd": "Buy",
     "sma10": null,
@@ -993,7 +1025,7 @@
   },
   {
     "symbol": "GAL",
-    "price": 482.5,
+    "price": 482.67,
     "rsi": 49.84,
     "macd": "Sell",
     "sma10": null,
@@ -1009,7 +1041,7 @@
   },
   {
     "symbol": "MEBL",
-    "price": 268.85,
+    "price": 269.35,
     "rsi": 58.43,
     "macd": "Buy",
     "sma10": 271.36,
@@ -1041,7 +1073,7 @@
   },
   {
     "symbol": "DOL",
-    "price": 25.16,
+    "price": 25.18,
     "rsi": 55.99,
     "macd": "Buy",
     "sma10": 24.99,
@@ -1056,24 +1088,8 @@
     "avgVol": 536067
   },
   {
-    "symbol": "WTL",
-    "price": 1.32,
-    "rsi": 52.68,
-    "macd": "Buy",
-    "sma10": 1.3,
-    "sma30": 1.33,
-    "sma60": 1.39,
-    "sma200": 1.4,
-    "s1": 1.29,
-    "s2": 1.24,
-    "r1": 1.38,
-    "r2": 1.42,
-    "vol": 10597193,
-    "avgVol": 50443871
-  },
-  {
     "symbol": "NETSOL",
-    "price": 134.3,
+    "price": 134.45,
     "rsi": 39.75,
     "macd": "Sell",
     "sma10": null,
@@ -1105,7 +1121,7 @@
   },
   {
     "symbol": "UBL",
-    "price": 490.52,
+    "price": 490.61,
     "rsi": 54.2,
     "macd": "Sell",
     "sma10": 502.2,
@@ -1121,7 +1137,7 @@
   },
   {
     "symbol": "NRSL",
-    "price": 37.5,
+    "price": null,
     "rsi": 55.94,
     "macd": "Sell",
     "sma10": 41.57,
@@ -1137,7 +1153,7 @@
   },
   {
     "symbol": "DCL",
-    "price": 10.43,
+    "price": 10.46,
     "rsi": 64.41,
     "macd": "Buy",
     "sma10": 10.07,
@@ -1153,7 +1169,7 @@
   },
   {
     "symbol": "PACE",
-    "price": 5.1,
+    "price": 5.09,
     "rsi": 32.77,
     "macd": "Sell",
     "sma10": 5.49,
@@ -1169,7 +1185,7 @@
   },
   {
     "symbol": "ANL",
-    "price": 7.5,
+    "price": 7.53,
     "rsi": 49.43,
     "macd": "Sell",
     "sma10": 7.83,
@@ -1185,10 +1201,10 @@
   },
   {
     "symbol": "GATM",
-    "price": 22.63,
+    "price": 22.81,
     "rsi": 44.57,
     "macd": "Sell",
-    "sma10": 23.41,
+    "sma10": null,
     "sma30": 23.86,
     "sma60": 24.06,
     "sma200": 22.38,
@@ -1201,7 +1217,7 @@
   },
   {
     "symbol": "TOMCL",
-    "price": 31.19,
+    "price": 31.15,
     "rsi": 38.8,
     "macd": "Sell",
     "sma10": 34.07,
@@ -1216,24 +1232,8 @@
     "avgVol": 2941949
   },
   {
-    "symbol": "PSO",
-    "price": 363.5,
-    "rsi": 40.13,
-    "macd": "Sell",
-    "sma10": 364.74,
-    "sma30": 391.1,
-    "sma60": 371.9,
-    "sma200": 287.07,
-    "s1": 349.13,
-    "s2": 342.42,
-    "r1": 360.47,
-    "r2": 365.1,
-    "vol": 4245060,
-    "avgVol": 3697808
-  },
-  {
     "symbol": "KAPCO",
-    "price": 30.82,
+    "price": 30.91,
     "rsi": 32.48,
     "macd": "Sell",
     "sma10": 31.53,
@@ -1249,7 +1249,7 @@
   },
   {
     "symbol": "IMAGE",
-    "price": 22.3,
+    "price": 22.29,
     "rsi": 42.56,
     "macd": "Sell",
     "sma10": 23.54,
@@ -1265,7 +1265,7 @@
   },
   {
     "symbol": "BML",
-    "price": 3.57,
+    "price": 3.58,
     "rsi": 41.84,
     "macd": "Sell",
     "sma10": 3.68,
@@ -1281,7 +1281,7 @@
   },
   {
     "symbol": "AGL",
-    "price": 53.4,
+    "price": 53.2,
     "rsi": 39.35,
     "macd": "Sell",
     "sma10": 58.07,
@@ -1296,8 +1296,24 @@
     "avgVol": 3234421
   },
   {
+    "symbol": "MDTL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "FFC",
-    "price": 356,
+    "price": 356.63,
     "rsi": 44.38,
     "macd": "Buy",
     "sma10": null,
@@ -1310,22 +1326,6 @@
     "r2": 361.46,
     "vol": 822914,
     "avgVol": 2406278
-  },
-  {
-    "symbol": "MDTL",
-    "price": null,
-    "rsi": 45.9,
-    "macd": "Buy",
-    "sma10": 1.87,
-    "sma30": 1.91,
-    "sma60": 2.03,
-    "sma200": 2.07,
-    "s1": 1.81,
-    "s2": 1.76,
-    "r1": 1.89,
-    "r2": 1.92,
-    "vol": 266004,
-    "avgVol": 1773866
   },
   {
     "symbol": "DCR",
@@ -1345,10 +1345,10 @@
   },
   {
     "symbol": "QUICE",
-    "price": 6.85,
+    "price": 6.87,
     "rsi": 49.53,
     "macd": "Sell",
-    "sma10": null,
+    "sma10": 7.29,
     "sma30": 6.79,
     "sma60": 6.77,
     "sma200": 6.59,
@@ -1361,7 +1361,7 @@
   },
   {
     "symbol": "FATIMA",
-    "price": 83.05,
+    "price": 83.01,
     "rsi": 50.94,
     "macd": "Buy",
     "sma10": 80.85,
@@ -1377,7 +1377,7 @@
   },
   {
     "symbol": "FCEPL",
-    "price": 90.05,
+    "price": 90.26,
     "rsi": 53.06,
     "macd": "Sell",
     "sma10": 93.19,
@@ -1393,7 +1393,7 @@
   },
   {
     "symbol": "PAKRI",
-    "price": 11.9,
+    "price": 11.93,
     "rsi": 21.36,
     "macd": "Sell",
     "sma10": null,
@@ -1409,7 +1409,7 @@
   },
   {
     "symbol": "SAZEW",
-    "price": 1323,
+    "price": 1321.74,
     "rsi": 63.52,
     "macd": "Buy",
     "sma10": 1324.74,
@@ -1457,7 +1457,7 @@
   },
   {
     "symbol": "PIOC",
-    "price": 203.5,
+    "price": 203.67,
     "rsi": 49.4,
     "macd": "Sell",
     "sma10": 211.33,
@@ -1473,7 +1473,7 @@
   },
   {
     "symbol": "GGL",
-    "price": 12.41,
+    "price": 12.44,
     "rsi": 40.81,
     "macd": "Sell",
     "sma10": null,
@@ -1489,7 +1489,7 @@
   },
   {
     "symbol": "ATRL",
-    "price": 535.96,
+    "price": 534.44,
     "rsi": 29.06,
     "macd": "Sell",
     "sma10": 560.51,
@@ -1505,7 +1505,7 @@
   },
   {
     "symbol": "GLAXO",
-    "price": 364.96,
+    "price": 365.02,
     "rsi": 35.04,
     "macd": "Sell",
     "sma10": 410.46,
@@ -1521,7 +1521,7 @@
   },
   {
     "symbol": "LUCK",
-    "price": 321.8,
+    "price": 323.31,
     "rsi": 14.91,
     "macd": "Sell",
     "sma10": 1032.83,
@@ -1537,7 +1537,7 @@
   },
   {
     "symbol": "NRL",
-    "price": 205.7,
+    "price": 204.86,
     "rsi": 33.56,
     "macd": "Sell",
     "sma10": 220.9,
@@ -1553,7 +1553,7 @@
   },
   {
     "symbol": "GWLC",
-    "price": 42.19,
+    "price": 42.26,
     "rsi": 54.47,
     "macd": "Buy",
     "sma10": 41.02,
@@ -1569,7 +1569,7 @@
   },
   {
     "symbol": "EPQL",
-    "price": 27,
+    "price": 27.03,
     "rsi": 37,
     "macd": "Sell",
     "sma10": 31.41,
@@ -1601,7 +1601,7 @@
   },
   {
     "symbol": "TGL",
-    "price": 190,
+    "price": 190.83,
     "rsi": 51.72,
     "macd": "Sell",
     "sma10": 197.71,
@@ -1617,7 +1617,7 @@
   },
   {
     "symbol": "UNITY",
-    "price": 25.87,
+    "price": 26.17,
     "rsi": 41.57,
     "macd": "Sell",
     "sma10": null,
@@ -1633,7 +1633,7 @@
   },
   {
     "symbol": "LOADS",
-    "price": 14.98,
+    "price": 14.96,
     "rsi": 33.28,
     "macd": "Sell",
     "sma10": 16.18,
@@ -1649,7 +1649,7 @@
   },
   {
     "symbol": "SLGL",
-    "price": 15.91,
+    "price": 16,
     "rsi": 52.39,
     "macd": "Sell",
     "sma10": 16.15,
@@ -1665,7 +1665,7 @@
   },
   {
     "symbol": "SPEL",
-    "price": 40.09,
+    "price": 40.05,
     "rsi": 51.32,
     "macd": "Buy",
     "sma10": 40.54,
@@ -1681,7 +1681,7 @@
   },
   {
     "symbol": "TCORP",
-    "price": 15.17,
+    "price": 15.06,
     "rsi": 52.12,
     "macd": "Buy",
     "sma10": 14.31,
@@ -1697,7 +1697,7 @@
   },
   {
     "symbol": "BGL",
-    "price": 8.68,
+    "price": 8.64,
     "rsi": 32.3,
     "macd": "Sell",
     "sma10": null,
@@ -1713,7 +1713,7 @@
   },
   {
     "symbol": "ALTN",
-    "price": 12.38,
+    "price": 12.31,
     "rsi": 32.33,
     "macd": "Buy",
     "sma10": null,
@@ -1729,7 +1729,7 @@
   },
   {
     "symbol": "AMTEX",
-    "price": 2.66,
+    "price": 2.7,
     "rsi": 44.87,
     "macd": "Sell",
     "sma10": 2.65,
@@ -1777,7 +1777,7 @@
   },
   {
     "symbol": "PABC",
-    "price": 106,
+    "price": 106.61,
     "rsi": 41.5,
     "macd": "Sell",
     "sma10": 107.78,
@@ -1793,7 +1793,7 @@
   },
   {
     "symbol": "HCAR",
-    "price": 281,
+    "price": 281.07,
     "rsi": 43.1,
     "macd": "Sell",
     "sma10": null,
@@ -1825,10 +1825,10 @@
   },
   {
     "symbol": "GTYR",
-    "price": 37.35,
+    "price": 37.56,
     "rsi": 37.33,
     "macd": "Sell",
-    "sma10": 37.83,
+    "sma10": null,
     "sma30": 39.54,
     "sma60": 41.42,
     "sma200": 42.63,
@@ -1841,7 +1841,7 @@
   },
   {
     "symbol": "SPWL",
-    "price": 11.6,
+    "price": 11.51,
     "rsi": 31.51,
     "macd": "Sell",
     "sma10": 12.48,
@@ -1857,10 +1857,10 @@
   },
   {
     "symbol": "HICL",
-    "price": 8.08,
+    "price": null,
     "rsi": 46.94,
     "macd": "Buy",
-    "sma10": null,
+    "sma10": 7.28,
     "sma30": 8.31,
     "sma60": 8.66,
     "sma200": 7.67,
@@ -1873,7 +1873,7 @@
   },
   {
     "symbol": "CSAP",
-    "price": 122.9,
+    "price": 122.99,
     "rsi": 59.4,
     "macd": "Buy",
     "sma10": null,
@@ -1889,7 +1889,7 @@
   },
   {
     "symbol": "SML",
-    "price": 60,
+    "price": 60.13,
     "rsi": 82.63,
     "macd": "Buy",
     "sma10": null,
@@ -1905,7 +1905,7 @@
   },
   {
     "symbol": "AGP",
-    "price": 171.99,
+    "price": 171.79,
     "rsi": 33.2,
     "macd": "Sell",
     "sma10": 199.2,
@@ -1921,10 +1921,10 @@
   },
   {
     "symbol": "YOUW",
-    "price": 3.61,
+    "price": null,
     "rsi": 36.9,
     "macd": "Sell",
-    "sma10": null,
+    "sma10": 3.6,
     "sma30": 3.71,
     "sma60": 3.79,
     "sma200": 4.13,
@@ -1937,7 +1937,7 @@
   },
   {
     "symbol": "CHCC",
-    "price": 262,
+    "price": 260.53,
     "rsi": 46.61,
     "macd": "Sell",
     "sma10": null,
@@ -1953,7 +1953,7 @@
   },
   {
     "symbol": "CEPB",
-    "price": 23.3,
+    "price": 23.19,
     "rsi": 37.26,
     "macd": "Sell",
     "sma10": null,
@@ -1969,7 +1969,7 @@
   },
   {
     "symbol": "BAHL",
-    "price": 135.15,
+    "price": 135.67,
     "rsi": 41.46,
     "macd": "Sell",
     "sma10": 140.25,
@@ -2017,10 +2017,10 @@
   },
   {
     "symbol": "NCPL",
-    "price": 24.6,
+    "price": 24.88,
     "rsi": 42.27,
     "macd": "Sell",
-    "sma10": null,
+    "sma10": 27.02,
     "sma30": 26.59,
     "sma60": 26.59,
     "sma200": 27.86,
@@ -2049,10 +2049,10 @@
   },
   {
     "symbol": "ITTEFAQ",
-    "price": 6.99,
+    "price": 6.96,
     "rsi": 45.42,
     "macd": "Sell",
-    "sma10": 7.32,
+    "sma10": null,
     "sma30": 7.43,
     "sma60": 7.45,
     "sma200": 6.78,
@@ -2065,7 +2065,7 @@
   },
   {
     "symbol": "OCTOPUS",
-    "price": 49.35,
+    "price": 49.55,
     "rsi": 30.17,
     "macd": "Sell",
     "sma10": 50.97,
@@ -2096,6 +2096,22 @@
     "avgVol": 371610
   },
   {
+    "symbol": "KSBP",
+    "price": 159.65,
+    "rsi": 45.25,
+    "macd": "Sell",
+    "sma10": 169.83,
+    "sma30": 166.17,
+    "sma60": 158,
+    "sma200": 142.84,
+    "s1": 157.31,
+    "s2": 153.81,
+    "r1": 166,
+    "r2": 171.19,
+    "vol": 110687,
+    "avgVol": 171253
+  },
+  {
     "symbol": "SNBL",
     "price": null,
     "rsi": 38.16,
@@ -2112,24 +2128,8 @@
     "avgVol": 1412966
   },
   {
-    "symbol": "KSBP",
-    "price": 160,
-    "rsi": 45.25,
-    "macd": "Sell",
-    "sma10": 169.83,
-    "sma30": 166.17,
-    "sma60": 158,
-    "sma200": 142.84,
-    "s1": 157.31,
-    "s2": 153.81,
-    "r1": 166,
-    "r2": 171.19,
-    "vol": 110687,
-    "avgVol": 171253
-  },
-  {
     "symbol": "THCCL",
-    "price": 184.2,
+    "price": 185.07,
     "rsi": 39.45,
     "macd": "Sell",
     "sma10": null,
@@ -2145,7 +2145,7 @@
   },
   {
     "symbol": "OBOY",
-    "price": 9.68,
+    "price": 9.69,
     "rsi": 51.27,
     "macd": "Sell",
     "sma10": 9.76,
@@ -2161,7 +2161,7 @@
   },
   {
     "symbol": "PASL",
-    "price": 1.08,
+    "price": 1.09,
     "rsi": 37.22,
     "macd": "Sell",
     "sma10": 1.15,
@@ -2177,10 +2177,10 @@
   },
   {
     "symbol": "MUGHAL",
-    "price": 65.3,
+    "price": 64.76,
     "rsi": 32.38,
     "macd": "Sell",
-    "sma10": 65.6,
+    "sma10": null,
     "sma30": 69.98,
     "sma60": 71.92,
     "sma200": 77.52,
@@ -2209,7 +2209,7 @@
   },
   {
     "symbol": "PIL",
-    "price": 3.49,
+    "price": 3.45,
     "rsi": 62.32,
     "macd": "Buy",
     "sma10": 3.23,
@@ -2273,7 +2273,7 @@
   },
   {
     "symbol": "CSIL",
-    "price": 2.83,
+    "price": 2.73,
     "rsi": 45.99,
     "macd": "Sell",
     "sma10": 2.75,
@@ -2289,10 +2289,10 @@
   },
   {
     "symbol": "FNEL",
-    "price": 3.17,
+    "price": 3.21,
     "rsi": 47.95,
     "macd": "Buy",
-    "sma10": null,
+    "sma10": 3.33,
     "sma30": 3.32,
     "sma60": 3.41,
     "sma200": 3.62,
@@ -2305,7 +2305,7 @@
   },
   {
     "symbol": "POL",
-    "price": 516.9,
+    "price": 515.83,
     "rsi": 32.33,
     "macd": "Sell",
     "sma10": 517.31,
@@ -2320,24 +2320,8 @@
     "avgVol": 300857
   },
   {
-    "symbol": "LPGL",
-    "price": 110.2,
-    "rsi": 48.58,
-    "macd": "Sell",
-    "sma10": null,
-    "sma30": 112.3,
-    "sma60": 106.99,
-    "sma200": 162.88,
-    "s1": 107.76,
-    "s2": 104.34,
-    "r1": 117.15,
-    "r2": 123.12,
-    "vol": 3073,
-    "avgVol": 48894
-  },
-  {
     "symbol": "KOHE",
-    "price": 18,
+    "price": 18.01,
     "rsi": 17.5,
     "macd": "Sell",
     "sma10": null,
@@ -2352,40 +2336,8 @@
     "avgVol": 211380
   },
   {
-    "symbol": "ZAL",
-    "price": 16.51,
-    "rsi": 61.08,
-    "macd": "0",
-    "sma10": 15.77,
-    "sma30": 15.18,
-    "sma60": null,
-    "sma200": null,
-    "s1": 16.04,
-    "s2": 15.56,
-    "r1": 16.98,
-    "r2": 17.44,
-    "vol": 3115055,
-    "avgVol": 836702
-  },
-  {
-    "symbol": "GRR",
-    "price": 15.6,
-    "rsi": 46.34,
-    "macd": "Sell",
-    "sma10": 15.55,
-    "sma30": 15.63,
-    "sma60": 15.48,
-    "sma200": 14.57,
-    "s1": 15.01,
-    "s2": 14.62,
-    "r1": 15.77,
-    "r2": 16.14,
-    "vol": 8696,
-    "avgVol": 73430
-  },
-  {
     "symbol": "MTL",
-    "price": 575,
+    "price": 574.33,
     "rsi": 39.6,
     "macd": "Sell",
     "sma10": 594.06,
@@ -2400,8 +2352,24 @@
     "avgVol": 232205
   },
   {
+    "symbol": "ZAL",
+    "price": 16.61,
+    "rsi": 61.08,
+    "macd": "0",
+    "sma10": 15.77,
+    "sma30": 15.18,
+    "sma60": null,
+    "sma200": null,
+    "s1": 16.04,
+    "s2": 15.56,
+    "r1": 16.98,
+    "r2": 17.44,
+    "vol": 3115055,
+    "avgVol": 836702
+  },
+  {
     "symbol": "HALEON",
-    "price": 745,
+    "price": 749.87,
     "rsi": 39.45,
     "macd": "Sell",
     "sma10": 763.9,
@@ -2417,7 +2385,7 @@
   },
   {
     "symbol": "FCSC",
-    "price": 1.51,
+    "price": 1.5,
     "rsi": 45.3,
     "macd": "Buy",
     "sma10": 1.51,
@@ -2430,6 +2398,22 @@
     "r2": 1.7,
     "vol": 80173,
     "avgVol": 2157915
+  },
+  {
+    "symbol": "SSOM",
+    "price": null,
+    "rsi": 89.14,
+    "macd": "Buy",
+    "sma10": 381.46,
+    "sma30": 231.16,
+    "sma60": 155.43,
+    "sma200": 97.56,
+    "s1": 492.96,
+    "s2": 477.14,
+    "r1": 516.68,
+    "r2": 524.58,
+    "vol": 63438,
+    "avgVol": 15117
   },
   {
     "symbol": "CLOV",
@@ -2448,11 +2432,27 @@
     "avgVol": 398979
   },
   {
+    "symbol": "CWSM",
+    "price": 49.54,
+    "rsi": 51.1,
+    "macd": "Sell",
+    "sma10": 54.07,
+    "sma30": 50.97,
+    "sma60": 51.11,
+    "sma200": 69.87,
+    "s1": 49.05,
+    "s2": 45.38,
+    "r1": 55.44,
+    "r2": 58.16,
+    "vol": 301091,
+    "avgVol": 866469
+  },
+  {
     "symbol": "HIRAT",
-    "price": 3.39,
+    "price": 3.35,
     "rsi": 58.11,
     "macd": "Buy",
-    "sma10": 3.43,
+    "sma10": null,
     "sma30": 3.16,
     "sma60": 3.2,
     "sma200": 3.23,
@@ -2465,10 +2465,10 @@
   },
   {
     "symbol": "RICL",
-    "price": 10.45,
+    "price": 10.49,
     "rsi": 62.08,
     "macd": "Sell",
-    "sma10": 16.71,
+    "sma10": null,
     "sma30": 15.16,
     "sma60": 13.44,
     "sma200": 11.54,
@@ -2481,7 +2481,7 @@
   },
   {
     "symbol": "ARUJ",
-    "price": null,
+    "price": 8.76,
     "rsi": 50.74,
     "macd": "Buy",
     "sma10": 7.7,
@@ -2497,7 +2497,7 @@
   },
   {
     "symbol": "AHL",
-    "price": 64.35,
+    "price": 64.53,
     "rsi": 47.67,
     "macd": "Sell",
     "sma10": 65.88,
@@ -2529,7 +2529,7 @@
   },
   {
     "symbol": "HTL",
-    "price": 38.88,
+    "price": 39,
     "rsi": 39.78,
     "macd": "Sell",
     "sma10": 40.32,
@@ -2561,7 +2561,7 @@
   },
   {
     "symbol": "BAPL",
-    "price": 33,
+    "price": 33.06,
     "rsi": 54.38,
     "macd": "Sell",
     "sma10": null,
@@ -2577,7 +2577,7 @@
   },
   {
     "symbol": "GHGL",
-    "price": 30.48,
+    "price": 30.82,
     "rsi": 41.3,
     "macd": "Sell",
     "sma10": 32.25,
@@ -2593,7 +2593,7 @@
   },
   {
     "symbol": "UNIC",
-    "price": 17,
+    "price": 16.99,
     "rsi": 43.98,
     "macd": "Sell",
     "sma10": null,
@@ -2609,10 +2609,10 @@
   },
   {
     "symbol": "JGICL",
-    "price": 49.37,
+    "price": 49.01,
     "rsi": 49.26,
     "macd": "Sell",
-    "sma10": null,
+    "sma10": 48.17,
     "sma30": 51.9,
     "sma60": 54.58,
     "sma200": 48.97,
@@ -2641,7 +2641,7 @@
   },
   {
     "symbol": "ALIFE",
-    "price": 24.75,
+    "price": 24.55,
     "rsi": 36.24,
     "macd": "Sell",
     "sma10": 27.99,
@@ -2705,7 +2705,7 @@
   },
   {
     "symbol": "ISL",
-    "price": 73.15,
+    "price": 73.23,
     "rsi": 41.54,
     "macd": "Sell",
     "sma10": 72.77,
@@ -2721,7 +2721,7 @@
   },
   {
     "symbol": "PICT",
-    "price": 40.5,
+    "price": 40.59,
     "rsi": 31.27,
     "macd": "Sell",
     "sma10": 42.71,
@@ -2737,7 +2737,7 @@
   },
   {
     "symbol": "HMB",
-    "price": 82.6,
+    "price": 81.58,
     "rsi": 40.65,
     "macd": "Sell",
     "sma10": 88.39,
@@ -2753,7 +2753,7 @@
   },
   {
     "symbol": "THALL",
-    "price": 383,
+    "price": 382.24,
     "rsi": 43.54,
     "macd": "Sell",
     "sma10": 384.7,
@@ -2784,24 +2784,8 @@
     "avgVol": 627030
   },
   {
-    "symbol": "TRSM",
-    "price": 4.88,
-    "rsi": 60.86,
-    "macd": "Sell",
-    "sma10": 4.66,
-    "sma30": 4.54,
-    "sma60": 4.24,
-    "sma200": 3.9,
-    "s1": 4.35,
-    "s2": 3.96,
-    "r1": 5.17,
-    "r2": 5.6,
-    "vol": 364874,
-    "avgVol": 580458
-  },
-  {
     "symbol": "UBDL",
-    "price": 23,
+    "price": 22.82,
     "rsi": 48.09,
     "macd": "Sell",
     "sma10": 22.06,
@@ -2817,10 +2801,10 @@
   },
   {
     "symbol": "ACPL",
-    "price": 255,
+    "price": 256.13,
     "rsi": 48.01,
     "macd": "Sell",
-    "sma10": 266.87,
+    "sma10": null,
     "sma30": 263.78,
     "sma60": 253.58,
     "sma200": 186.47,
@@ -2865,7 +2849,7 @@
   },
   {
     "symbol": "HINOON",
-    "price": 899,
+    "price": 899.36,
     "rsi": 45.26,
     "macd": "Sell",
     "sma10": null,
@@ -2881,7 +2865,7 @@
   },
   {
     "symbol": "FPJM",
-    "price": 2.86,
+    "price": 2.89,
     "rsi": 31.52,
     "macd": "Sell",
     "sma10": 2.93,
@@ -2897,7 +2881,7 @@
   },
   {
     "symbol": "IGIHL",
-    "price": 160.98,
+    "price": 160,
     "rsi": 59.08,
     "macd": "Buy",
     "sma10": 151.53,
@@ -2913,7 +2897,7 @@
   },
   {
     "symbol": "FECTC",
-    "price": 71.97,
+    "price": 71.56,
     "rsi": 25.36,
     "macd": "Sell",
     "sma10": 77.78,
@@ -2929,10 +2913,10 @@
   },
   {
     "symbol": "DWSM",
-    "price": 5.87,
+    "price": 5.91,
     "rsi": 49.27,
     "macd": "Sell",
-    "sma10": 6.12,
+    "sma10": null,
     "sma30": 5.92,
     "sma60": 5.91,
     "sma200": 5.56,
@@ -2945,7 +2929,7 @@
   },
   {
     "symbol": "JSCL",
-    "price": 17.01,
+    "price": 17.05,
     "rsi": 43.71,
     "macd": "Sell",
     "sma10": 17.55,
@@ -2960,24 +2944,8 @@
     "avgVol": 952924
   },
   {
-    "symbol": "SGF",
-    "price": 76.9,
-    "rsi": 33.86,
-    "macd": "Sell",
-    "sma10": 79.01,
-    "sma30": 87.13,
-    "sma60": 91.11,
-    "sma200": 83.28,
-    "s1": 74.09,
-    "s2": 72.5,
-    "r1": 77.31,
-    "r2": 78.94,
-    "vol": 36439,
-    "avgVol": 165986
-  },
-  {
     "symbol": "WAFI",
-    "price": 159.98,
+    "price": 159.49,
     "rsi": 24.64,
     "macd": "Sell",
     "sma10": 162.96,
@@ -3009,7 +2977,7 @@
   },
   {
     "symbol": "FEROZ",
-    "price": 283,
+    "price": 283.91,
     "rsi": 33.42,
     "macd": "Sell",
     "sma10": 284.37,
@@ -3025,7 +2993,7 @@
   },
   {
     "symbol": "IBLHL",
-    "price": 35.97,
+    "price": 35.74,
     "rsi": 45.4,
     "macd": "Sell",
     "sma10": 37.07,
@@ -3073,7 +3041,7 @@
   },
   {
     "symbol": "BERG",
-    "price": 94.3,
+    "price": 94.37,
     "rsi": 42.12,
     "macd": "Sell",
     "sma10": 98.95,
@@ -3137,10 +3105,10 @@
   },
   {
     "symbol": "FRCL",
-    "price": 27.9,
+    "price": 27.17,
     "rsi": 61.51,
     "macd": "Sell",
-    "sma10": 27.51,
+    "sma10": null,
     "sma30": 25.07,
     "sma60": 22.37,
     "sma200": 20.87,
@@ -3153,7 +3121,7 @@
   },
   {
     "symbol": "BIFO",
-    "price": 173.5,
+    "price": 171.03,
     "rsi": 47.91,
     "macd": "Sell",
     "sma10": 170.87,
@@ -3169,7 +3137,7 @@
   },
   {
     "symbol": "MWMP",
-    "price": 18.8,
+    "price": 18.62,
     "rsi": 58.34,
     "macd": "Buy",
     "sma10": 17.76,
@@ -3185,7 +3153,7 @@
   },
   {
     "symbol": "MFFL",
-    "price": 186.5,
+    "price": 185.72,
     "rsi": 39.63,
     "macd": "Sell",
     "sma10": 195.68,
@@ -3200,24 +3168,8 @@
     "avgVol": 173251
   },
   {
-    "symbol": "AGIC",
-    "price": 30,
-    "rsi": 40.77,
-    "macd": "Sell",
-    "sma10": null,
-    "sma30": 31.91,
-    "sma60": 31.65,
-    "sma200": 26.2,
-    "s1": 29.04,
-    "s2": 28.56,
-    "r1": 30.48,
-    "r2": 31.44,
-    "vol": 1105,
-    "avgVol": 13808
-  },
-  {
     "symbol": "PMPK",
-    "price": 1090,
+    "price": 1081.43,
     "rsi": 58.52,
     "macd": "Sell",
     "sma10": 1105.87,
@@ -3230,6 +3182,22 @@
     "r2": 1192,
     "vol": 159,
     "avgVol": 1702
+  },
+  {
+    "symbol": "AGIC",
+    "price": 30.07,
+    "rsi": 40.77,
+    "macd": "Sell",
+    "sma10": null,
+    "sma30": 31.91,
+    "sma60": 31.65,
+    "sma200": 26.2,
+    "s1": 29.04,
+    "s2": 28.56,
+    "r1": 30.48,
+    "r2": 31.44,
+    "vol": 1105,
+    "avgVol": 13808
   },
   {
     "symbol": "GAMON",
@@ -3264,24 +3232,8 @@
     "avgVol": 67322
   },
   {
-    "symbol": "ABL",
-    "price": null,
-    "rsi": 42.47,
-    "macd": "Buy",
-    "sma10": 131.9,
-    "sma30": 132.88,
-    "sma60": 135.44,
-    "sma200": 126.15,
-    "s1": 128.81,
-    "s2": 127.63,
-    "r1": 132.34,
-    "r2": 134.69,
-    "vol": 25480,
-    "avgVol": 59483
-  },
-  {
     "symbol": "IMS",
-    "price": 51.6,
+    "price": 51.9,
     "rsi": 49.13,
     "macd": "Buy",
     "sma10": 49.12,
@@ -3297,10 +3249,10 @@
   },
   {
     "symbol": "BCL",
-    "price": 100.5,
+    "price": 100.97,
     "rsi": 54.93,
     "macd": "Buy",
-    "sma10": 106.19,
+    "sma10": null,
     "sma30": 96.23,
     "sma60": 95.49,
     "sma200": 104.73,
@@ -3313,7 +3265,7 @@
   },
   {
     "symbol": "SIBL",
-    "price": 8,
+    "price": 8.2,
     "rsi": 37.67,
     "macd": "Sell",
     "sma10": 8.9,
@@ -3328,11 +3280,27 @@
     "avgVol": 48326
   },
   {
+    "symbol": "GRR",
+    "price": 15.6,
+    "rsi": 46.34,
+    "macd": "Sell",
+    "sma10": 15.55,
+    "sma30": 15.63,
+    "sma60": 15.48,
+    "sma200": 14.57,
+    "s1": 15.01,
+    "s2": 14.62,
+    "r1": 15.77,
+    "r2": 16.14,
+    "vol": 8696,
+    "avgVol": 73430
+  },
+  {
     "symbol": "AGIL",
-    "price": 114.99,
+    "price": 116.6,
     "rsi": 57.7,
     "macd": "Buy",
-    "sma10": null,
+    "sma10": 115.27,
     "sma30": 115.54,
     "sma60": 113.31,
     "sma200": 101.06,
@@ -3342,6 +3310,22 @@
     "r2": 126.66,
     "vol": 58635,
     "avgVol": 27439
+  },
+  {
+    "symbol": "CYAN",
+    "price": 34.81,
+    "rsi": 53.65,
+    "macd": "Buy",
+    "sma10": 36.02,
+    "sma30": 32.89,
+    "sma60": 32.84,
+    "sma200": 29.32,
+    "s1": 34.61,
+    "s2": 34.31,
+    "r1": 35.11,
+    "r2": 35.31,
+    "vol": 151154,
+    "avgVol": 70877
   },
   {
     "symbol": "JSML",
@@ -3360,22 +3344,6 @@
     "avgVol": 46292
   },
   {
-    "symbol": "SSOM",
-    "price": null,
-    "rsi": 89.14,
-    "macd": "Buy",
-    "sma10": 381.46,
-    "sma30": 231.16,
-    "sma60": 155.43,
-    "sma200": 97.56,
-    "s1": 492.96,
-    "s2": 477.14,
-    "r1": 516.68,
-    "r2": 524.58,
-    "vol": 63438,
-    "avgVol": 15117
-  },
-  {
     "symbol": "TPLT",
     "price": null,
     "rsi": 30.24,
@@ -3392,20 +3360,20 @@
     "avgVol": 187730
   },
   {
-    "symbol": "CWSM",
-    "price": 49.02,
-    "rsi": 51.1,
-    "macd": "Sell",
-    "sma10": 54.07,
-    "sma30": 50.97,
-    "sma60": 51.11,
-    "sma200": 69.87,
-    "s1": 49.05,
-    "s2": 45.38,
-    "r1": 55.44,
-    "r2": 58.16,
-    "vol": 301091,
-    "avgVol": 866469
+    "symbol": "LPGL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
   },
   {
     "symbol": "SMCPL",
@@ -3425,7 +3393,7 @@
   },
   {
     "symbol": "FDPL",
-    "price": 2.23,
+    "price": 2.24,
     "rsi": 43.41,
     "macd": "Sell",
     "sma10": 2.3,
@@ -3473,7 +3441,7 @@
   },
   {
     "symbol": "NEXT",
-    "price": 7.7,
+    "price": 8.02,
     "rsi": 48.58,
     "macd": "Buy",
     "sma10": 7.58,
@@ -3489,7 +3457,7 @@
   },
   {
     "symbol": "UCAPM",
-    "price": 2.83,
+    "price": 2.9,
     "rsi": 48.99,
     "macd": "Buy",
     "sma10": 2.92,
@@ -3537,7 +3505,7 @@
   },
   {
     "symbol": "CJPL",
-    "price": 3.5,
+    "price": 3.41,
     "rsi": 49.49,
     "macd": "Buy",
     "sma10": null,
@@ -3553,7 +3521,7 @@
   },
   {
     "symbol": "TSMF",
-    "price": 9.32,
+    "price": null,
     "rsi": 58.42,
     "macd": "Buy",
     "sma10": 8.67,
@@ -3569,7 +3537,7 @@
   },
   {
     "symbol": "AGTL",
-    "price": 424.99,
+    "price": 422,
     "rsi": 22.07,
     "macd": "Sell",
     "sma10": 449.71,
@@ -3585,7 +3553,7 @@
   },
   {
     "symbol": "PKGS",
-    "price": 503,
+    "price": 503.04,
     "rsi": 43.14,
     "macd": "Sell",
     "sma10": 488.76,
@@ -3601,7 +3569,7 @@
   },
   {
     "symbol": "SCBPL",
-    "price": 59.32,
+    "price": 59.86,
     "rsi": 52.95,
     "macd": "Sell",
     "sma10": null,
@@ -3633,7 +3601,7 @@
   },
   {
     "symbol": "HABSM",
-    "price": 71.01,
+    "price": 71.5,
     "rsi": 53.07,
     "macd": "Sell",
     "sma10": 71.44,
@@ -3649,10 +3617,10 @@
   },
   {
     "symbol": "LSEFSL",
-    "price": 20.19,
+    "price": 19.61,
     "rsi": 48.64,
     "macd": "Sell",
-    "sma10": 20.22,
+    "sma10": null,
     "sma30": 19.12,
     "sma60": 17.86,
     "sma200": 11.04,
@@ -3665,7 +3633,7 @@
   },
   {
     "symbol": "SRVI",
-    "price": 1062,
+    "price": 1062.2,
     "rsi": 40.72,
     "macd": "Buy",
     "sma10": 1042.69,
@@ -3712,6 +3680,22 @@
     "avgVol": 9307
   },
   {
+    "symbol": "DWAE",
+    "price": 30.72,
+    "rsi": 34.46,
+    "macd": "Sell",
+    "sma10": 32.21,
+    "sma30": 33.87,
+    "sma60": 35.38,
+    "sma200": 46.32,
+    "s1": 29.29,
+    "s2": 28.03,
+    "r1": 32.26,
+    "r2": 33.97,
+    "vol": 8877,
+    "avgVol": 42242
+  },
+  {
     "symbol": "FHAM",
     "price": 21.5,
     "rsi": 48.91,
@@ -3728,27 +3712,11 @@
     "avgVol": 31509
   },
   {
-    "symbol": "DWAE",
-    "price": 30.21,
-    "rsi": 34.46,
-    "macd": "Sell",
-    "sma10": 32.21,
-    "sma30": 33.87,
-    "sma60": 35.38,
-    "sma200": 46.32,
-    "s1": 29.29,
-    "s2": 28.03,
-    "r1": 32.26,
-    "r2": 33.97,
-    "vol": 8877,
-    "avgVol": 42242
-  },
-  {
     "symbol": "EMCO",
-    "price": 40.51,
+    "price": 40.29,
     "rsi": 65.72,
     "macd": "Buy",
-    "sma10": 38.66,
+    "sma10": null,
     "sma30": 32.11,
     "sma60": 31.01,
     "sma200": 33.27,
@@ -3761,7 +3729,7 @@
   },
   {
     "symbol": "PTL",
-    "price": null,
+    "price": 38.18,
     "rsi": 42.28,
     "macd": "Sell",
     "sma10": 38.46,
@@ -3776,8 +3744,24 @@
     "avgVol": 284285
   },
   {
+    "symbol": "TRSM",
+    "price": 4.73,
+    "rsi": 60.86,
+    "macd": "Sell",
+    "sma10": 4.66,
+    "sma30": 4.54,
+    "sma60": 4.24,
+    "sma200": 3.9,
+    "s1": 4.35,
+    "s2": 3.96,
+    "r1": 5.17,
+    "r2": 5.6,
+    "vol": 364874,
+    "avgVol": 580458
+  },
+  {
     "symbol": "TPLRF1",
-    "price": 12.55,
+    "price": 12.88,
     "rsi": 38.8,
     "macd": "Sell",
     "sma10": 13.08,
@@ -3841,7 +3825,7 @@
   },
   {
     "symbol": "CHAS",
-    "price": 61,
+    "price": 60.69,
     "rsi": 49.76,
     "macd": "Buy",
     "sma10": 62.28,
@@ -3873,7 +3857,7 @@
   },
   {
     "symbol": "ATBA",
-    "price": 264.21,
+    "price": 264.78,
     "rsi": 27.64,
     "macd": "Sell",
     "sma10": 301.85,
@@ -3905,7 +3889,7 @@
   },
   {
     "symbol": "FML",
-    "price": 59,
+    "price": 58.86,
     "rsi": 31.25,
     "macd": "Sell",
     "sma10": 57.56,
@@ -3921,7 +3905,7 @@
   },
   {
     "symbol": "ECOP",
-    "price": 33.89,
+    "price": 33.66,
     "rsi": 67.47,
     "macd": "Buy",
     "sma10": 32.3,
@@ -3937,7 +3921,7 @@
   },
   {
     "symbol": "ESBL",
-    "price": 6.55,
+    "price": 6.5,
     "rsi": 57.93,
     "macd": "Buy",
     "sma10": 6.4,
@@ -3952,8 +3936,24 @@
     "avgVol": 89145
   },
   {
+    "symbol": "SGF",
+    "price": 76.22,
+    "rsi": 33.86,
+    "macd": "Sell",
+    "sma10": 79.01,
+    "sma30": 87.13,
+    "sma60": 91.11,
+    "sma200": 83.28,
+    "s1": 74.09,
+    "s2": 72.5,
+    "r1": 77.31,
+    "r2": 78.94,
+    "vol": 36439,
+    "avgVol": 165986
+  },
+  {
     "symbol": "ICIBL",
-    "price": 1.51,
+    "price": 1.5,
     "rsi": 47.95,
     "macd": "Buy",
     "sma10": 1.28,
@@ -3969,10 +3969,10 @@
   },
   {
     "symbol": "SHFA",
-    "price": 410,
+    "price": 405.2,
     "rsi": 33.89,
     "macd": "Sell",
-    "sma10": 413.69,
+    "sma10": null,
     "sma30": 446.02,
     "sma60": 449.13,
     "sma200": 324.14,
@@ -4001,7 +4001,7 @@
   },
   {
     "symbol": "TSBL",
-    "price": 11.61,
+    "price": 11.6,
     "rsi": 52.68,
     "macd": "Buy",
     "sma10": 12.99,
@@ -4049,7 +4049,7 @@
   },
   {
     "symbol": "COLG",
-    "price": 1300,
+    "price": 1299.94,
     "rsi": 18.82,
     "macd": "Sell",
     "sma10": 1344.56,
@@ -4065,7 +4065,7 @@
   },
   {
     "symbol": "PNSC",
-    "price": 265,
+    "price": 265.06,
     "rsi": 19.1,
     "macd": "Sell",
     "sma10": 291.02,
@@ -4081,7 +4081,7 @@
   },
   {
     "symbol": "LCI",
-    "price": 1386,
+    "price": 1388.45,
     "rsi": 50.82,
     "macd": "Sell",
     "sma10": 1432.4,
@@ -4113,7 +4113,7 @@
   },
   {
     "symbol": "LSEVL",
-    "price": 9.85,
+    "price": 9.82,
     "rsi": 44.57,
     "macd": "Buy",
     "sma10": null,
@@ -4129,10 +4129,10 @@
   },
   {
     "symbol": "KOIL",
-    "price": 10.6,
+    "price": 10.64,
     "rsi": 43.39,
     "macd": "Sell",
-    "sma10": null,
+    "sma10": 10.64,
     "sma30": 11.45,
     "sma60": 11.56,
     "sma200": 9.47,
@@ -4145,7 +4145,7 @@
   },
   {
     "symbol": "ADMM",
-    "price": 39.9,
+    "price": 39.64,
     "rsi": 43.6,
     "macd": "Sell",
     "sma10": 40.95,
@@ -4161,7 +4161,7 @@
   },
   {
     "symbol": "PCAL",
-    "price": 150.5,
+    "price": 150.49,
     "rsi": 34.66,
     "macd": "Sell",
     "sma10": 157.61,
@@ -4177,7 +4177,7 @@
   },
   {
     "symbol": "ABOT",
-    "price": 949.1,
+    "price": 950.76,
     "rsi": 24.82,
     "macd": "Sell",
     "sma10": 1016.63,
@@ -4209,7 +4209,7 @@
   },
   {
     "symbol": "JDMT",
-    "price": 52.3,
+    "price": 52.5,
     "rsi": 55.73,
     "macd": "Buy",
     "sma10": 49.82,
@@ -4224,24 +4224,8 @@
     "avgVol": 30965
   },
   {
-    "symbol": "DYNO",
-    "price": 218.9,
-    "rsi": 47.47,
-    "macd": "Sell",
-    "sma10": 220.28,
-    "sma30": 219.14,
-    "sma60": 216.92,
-    "sma200": 217.2,
-    "s1": 211.06,
-    "s2": 205.7,
-    "r1": 220.84,
-    "r2": 225.26,
-    "vol": 29383,
-    "avgVol": 30384
-  },
-  {
     "symbol": "LIVEN",
-    "price": 62,
+    "price": 61.18,
     "rsi": 18.66,
     "macd": "Sell",
     "sma10": null,
@@ -4256,8 +4240,24 @@
     "avgVol": 18447
   },
   {
+    "symbol": "ABL",
+    "price": null,
+    "rsi": 42.47,
+    "macd": "Buy",
+    "sma10": 131.9,
+    "sma30": 132.88,
+    "sma60": 135.44,
+    "sma200": 126.15,
+    "s1": 128.81,
+    "s2": 127.63,
+    "r1": 132.34,
+    "r2": 134.69,
+    "vol": 25480,
+    "avgVol": 59483
+  },
+  {
     "symbol": "HINO",
-    "price": 340,
+    "price": 340.44,
     "rsi": 39.18,
     "macd": "Sell",
     "sma10": 355.56,
@@ -4276,7 +4276,7 @@
     "price": 6.69,
     "rsi": 38.65,
     "macd": "Sell",
-    "sma10": null,
+    "sma10": 6.86,
     "sma30": 7.25,
     "sma60": 7.36,
     "sma200": 6.75,
@@ -4305,7 +4305,7 @@
   },
   {
     "symbol": "BWCL",
-    "price": null,
+    "price": 408.21,
     "rsi": 54.44,
     "macd": "Sell",
     "sma10": 415.64,
@@ -4336,24 +4336,8 @@
     "avgVol": 17419
   },
   {
-    "symbol": "CYAN",
-    "price": 34.8,
-    "rsi": 53.65,
-    "macd": "Buy",
-    "sma10": 36.02,
-    "sma30": 32.89,
-    "sma60": 32.84,
-    "sma200": 29.32,
-    "s1": 34.61,
-    "s2": 34.31,
-    "r1": 35.11,
-    "r2": 35.31,
-    "vol": 151154,
-    "avgVol": 70877
-  },
-  {
     "symbol": "MSOT",
-    "price": 51.5,
+    "price": 54.77,
     "rsi": 50.1,
     "macd": "Sell",
     "sma10": 54.75,
@@ -4385,7 +4369,7 @@
   },
   {
     "symbol": "KOHTM",
-    "price": 30.65,
+    "price": 30.66,
     "rsi": 66.44,
     "macd": "Buy",
     "sma10": 29.18,
@@ -4401,7 +4385,7 @@
   },
   {
     "symbol": "EXIDE",
-    "price": 782,
+    "price": 783.38,
     "rsi": 47.67,
     "macd": "Sell",
     "sma10": 799.53,
@@ -4417,7 +4401,7 @@
   },
   {
     "symbol": "BOK",
-    "price": 14.14,
+    "price": 14.18,
     "rsi": 45.25,
     "macd": "Sell",
     "sma10": 14.29,
@@ -4433,7 +4417,7 @@
   },
   {
     "symbol": "ATLH",
-    "price": 1145,
+    "price": 1145.14,
     "rsi": 66.6,
     "macd": "Buy",
     "sma10": 1158.34,
@@ -4449,7 +4433,7 @@
   },
   {
     "symbol": "DLL",
-    "price": 215.84,
+    "price": 215.48,
     "rsi": 27.08,
     "macd": "Sell",
     "sma10": null,
@@ -4481,7 +4465,7 @@
   },
   {
     "symbol": "MACTER",
-    "price": 375,
+    "price": 375.66,
     "rsi": 44.18,
     "macd": "Sell",
     "sma10": null,
@@ -4497,7 +4481,7 @@
   },
   {
     "symbol": "TPLI",
-    "price": 8.69,
+    "price": 8.5,
     "rsi": 40.01,
     "macd": "Sell",
     "sma10": 8.7,
@@ -4513,7 +4497,7 @@
   },
   {
     "symbol": "JVDC",
-    "price": 59,
+    "price": 58.55,
     "rsi": 51.08,
     "macd": "Sell",
     "sma10": 60.87,
@@ -4529,7 +4513,7 @@
   },
   {
     "symbol": "REDCO",
-    "price": 24.52,
+    "price": 25.12,
     "rsi": 57.93,
     "macd": "Sell",
     "sma10": 25.45,
@@ -4545,7 +4529,7 @@
   },
   {
     "symbol": "FPRM",
-    "price": 7.53,
+    "price": null,
     "rsi": 50.47,
     "macd": "Sell",
     "sma10": 8,
@@ -4561,7 +4545,7 @@
   },
   {
     "symbol": "FEM",
-    "price": 2.65,
+    "price": 2.64,
     "rsi": 33.16,
     "macd": "Sell",
     "sma10": 2.81,
@@ -4577,7 +4561,7 @@
   },
   {
     "symbol": "PAKD",
-    "price": 108,
+    "price": 109.56,
     "rsi": 62.66,
     "macd": "Buy",
     "sma10": 102.84,
@@ -4593,7 +4577,7 @@
   },
   {
     "symbol": "ADAMS",
-    "price": 50.04,
+    "price": 50.18,
     "rsi": 57.15,
     "macd": "Buy",
     "sma10": null,
@@ -4609,7 +4593,7 @@
   },
   {
     "symbol": "BILF",
-    "price": 26.45,
+    "price": 26.67,
     "rsi": 82.84,
     "macd": "Buy",
     "sma10": 25.66,
@@ -4625,7 +4609,7 @@
   },
   {
     "symbol": "INKL",
-    "price": 14.52,
+    "price": 15.22,
     "rsi": 42.59,
     "macd": "Sell",
     "sma10": 14.96,
@@ -4657,7 +4641,7 @@
   },
   {
     "symbol": "INDU",
-    "price": 1995,
+    "price": 1994.16,
     "rsi": 48.9,
     "macd": "Buy",
     "sma10": null,
@@ -4673,7 +4657,7 @@
   },
   {
     "symbol": "HWQS",
-    "price": 8.96,
+    "price": 9.05,
     "rsi": 35.33,
     "macd": "Sell",
     "sma10": 9.71,
@@ -4721,7 +4705,7 @@
   },
   {
     "symbol": "UDPL",
-    "price": 65.75,
+    "price": 65.45,
     "rsi": 54.59,
     "macd": "Sell",
     "sma10": null,
@@ -4753,7 +4737,7 @@
   },
   {
     "symbol": "SEPL",
-    "price": 156.1,
+    "price": 156.26,
     "rsi": 43.66,
     "macd": "Sell",
     "sma10": 159.67,
@@ -4769,10 +4753,10 @@
   },
   {
     "symbol": "UVIC",
-    "price": 9.11,
+    "price": 9.25,
     "rsi": 43.31,
     "macd": "Sell",
-    "sma10": 9.72,
+    "sma10": null,
     "sma30": 9.73,
     "sma60": 10.45,
     "sma200": 9.4,
@@ -4801,7 +4785,7 @@
   },
   {
     "symbol": "BNWM",
-    "price": 30.94,
+    "price": 30.39,
     "rsi": 36.14,
     "macd": "Sell",
     "sma10": 31.17,
@@ -4817,7 +4801,7 @@
   },
   {
     "symbol": "EFUL",
-    "price": 139.09,
+    "price": 139.37,
     "rsi": 36.86,
     "macd": "Sell",
     "sma10": 143.67,
@@ -4833,7 +4817,7 @@
   },
   {
     "symbol": "BWHL",
-    "price": 133,
+    "price": 135.15,
     "rsi": 45.89,
     "macd": "Sell",
     "sma10": 132.85,
@@ -4865,10 +4849,10 @@
   },
   {
     "symbol": "KTML",
-    "price": 150,
+    "price": 150.08,
     "rsi": 44.79,
     "macd": "Sell",
-    "sma10": 164.53,
+    "sma10": null,
     "sma30": 161.56,
     "sma60": 158.6,
     "sma200": 114.52,
@@ -4913,7 +4897,7 @@
   },
   {
     "symbol": "CLVL",
-    "price": 10.98,
+    "price": 10.99,
     "rsi": 43.02,
     "macd": "Buy",
     "sma10": 10.93,
@@ -4932,7 +4916,7 @@
     "price": 36.95,
     "rsi": 34.7,
     "macd": "Sell",
-    "sma10": null,
+    "sma10": 40.4,
     "sma30": 42.14,
     "sma60": 45.23,
     "sma200": 35.73,
@@ -4961,7 +4945,7 @@
   },
   {
     "symbol": "CLCPS",
-    "price": 2.84,
+    "price": 2.78,
     "rsi": 44.97,
     "macd": "Sell",
     "sma10": 2.76,
@@ -4977,7 +4961,7 @@
   },
   {
     "symbol": "TATM",
-    "price": 40.7,
+    "price": 39.68,
     "rsi": 41.83,
     "macd": "Sell",
     "sma10": 42.25,
@@ -5009,7 +4993,7 @@
   },
   {
     "symbol": "MCBIM",
-    "price": 90.11,
+    "price": 91.13,
     "rsi": 59.68,
     "macd": "Buy",
     "sma10": 88.1,
@@ -5025,7 +5009,7 @@
   },
   {
     "symbol": "GUSM",
-    "price": 8.44,
+    "price": 8.01,
     "rsi": 44.15,
     "macd": "Sell",
     "sma10": 7.86,
@@ -5057,7 +5041,7 @@
   },
   {
     "symbol": "DAAG",
-    "price": 89.1,
+    "price": 91.73,
     "rsi": 42.19,
     "macd": "Sell",
     "sma10": null,
@@ -5086,22 +5070,6 @@
     "r2": 16.67,
     "vol": 6132,
     "avgVol": 13500
-  },
-  {
-    "symbol": "ICCI",
-    "price": 9.7,
-    "rsi": 33.92,
-    "macd": "Sell",
-    "sma10": null,
-    "sma30": 11.19,
-    "sma60": 11.47,
-    "sma200": 9.42,
-    "s1": 8.92,
-    "s2": 8.24,
-    "r1": 10.14,
-    "r2": 10.68,
-    "vol": 35312,
-    "avgVol": 75848
   },
   {
     "symbol": "AATM",
@@ -5137,7 +5105,7 @@
   },
   {
     "symbol": "GADT",
-    "price": 290,
+    "price": 289.73,
     "rsi": 55.98,
     "macd": "Sell",
     "sma10": 296,
@@ -5153,7 +5121,7 @@
   },
   {
     "symbol": "SKRS",
-    "price": 12.4,
+    "price": 12.38,
     "rsi": 49.45,
     "macd": "Buy",
     "sma10": 11.83,
@@ -5169,7 +5137,7 @@
   },
   {
     "symbol": "FTMM",
-    "price": 3.94,
+    "price": 4,
     "rsi": 43.62,
     "macd": "Buy",
     "sma10": 4.09,
@@ -5185,7 +5153,7 @@
   },
   {
     "symbol": "OLPL",
-    "price": 38.44,
+    "price": 38.43,
     "rsi": 55.76,
     "macd": "Buy",
     "sma10": 38.26,
@@ -5200,8 +5168,24 @@
     "avgVol": 62691
   },
   {
+    "symbol": "DYNO",
+    "price": 216.47,
+    "rsi": 47.47,
+    "macd": "Sell",
+    "sma10": 220.28,
+    "sma30": 219.14,
+    "sma60": 216.92,
+    "sma200": 217.2,
+    "s1": 211.06,
+    "s2": 205.7,
+    "r1": 220.84,
+    "r2": 225.26,
+    "vol": 29383,
+    "avgVol": 30384
+  },
+  {
     "symbol": "KPUS",
-    "price": 116.01,
+    "price": 120,
     "rsi": 40.48,
     "macd": "Sell",
     "sma10": 121.38,
@@ -5216,24 +5200,8 @@
     "avgVol": 998
   },
   {
-    "symbol": "SGPL",
-    "price": null,
-    "rsi": 36.13,
-    "macd": "Sell",
-    "sma10": 7.12,
-    "sma30": 7.75,
-    "sma60": 8.11,
-    "sma200": 9.19,
-    "s1": 7,
-    "s2": 7,
-    "r1": 7,
-    "r2": 7,
-    "vol": 2010,
-    "avgVol": 52606
-  },
-  {
     "symbol": "ZIL",
-    "price": 284.9,
+    "price": 275.21,
     "rsi": 49.7,
     "macd": "Sell",
     "sma10": 314.48,
@@ -5264,6 +5232,22 @@
     "avgVol": 4345
   },
   {
+    "symbol": "SGPL",
+    "price": null,
+    "rsi": 36.13,
+    "macd": "Sell",
+    "sma10": 7.12,
+    "sma30": 7.75,
+    "sma60": 8.11,
+    "sma200": 9.19,
+    "s1": 7,
+    "s2": 7,
+    "r1": 7,
+    "r2": 7,
+    "vol": 2010,
+    "avgVol": 52606
+  },
+  {
     "symbol": "SSML",
     "price": 13.75,
     "rsi": 38.45,
@@ -5281,10 +5265,10 @@
   },
   {
     "symbol": "DWTM",
-    "price": 6.25,
+    "price": 6.42,
     "rsi": 36.43,
     "macd": "Sell",
-    "sma10": 6.3,
+    "sma10": null,
     "sma30": 7.3,
     "sma60": 7.61,
     "sma200": 7.2,
@@ -5313,7 +5297,7 @@
   },
   {
     "symbol": "PPP",
-    "price": 156.9,
+    "price": 151.88,
     "rsi": 48.26,
     "macd": "Sell",
     "sma10": null,
@@ -5345,7 +5329,7 @@
   },
   {
     "symbol": "GVGL",
-    "price": 45.9,
+    "price": 45.97,
     "rsi": 59.65,
     "macd": "Buy",
     "sma10": 44.11,
@@ -5361,7 +5345,7 @@
   },
   {
     "symbol": "UDLI",
-    "price": null,
+    "price": 7.95,
     "rsi": 40.46,
     "macd": "Sell",
     "sma10": 7.34,
@@ -5377,7 +5361,7 @@
   },
   {
     "symbol": "MERIT",
-    "price": 9.45,
+    "price": 9.46,
     "rsi": 35.04,
     "macd": "Sell",
     "sma10": 9.88,
@@ -5393,7 +5377,7 @@
   },
   {
     "symbol": "AMBL",
-    "price": 10.2,
+    "price": 10.95,
     "rsi": 51.26,
     "macd": "Sell",
     "sma10": 10.67,
@@ -5409,10 +5393,10 @@
   },
   {
     "symbol": "SANSM",
-    "price": 51.12,
+    "price": 51.29,
     "rsi": 52.47,
     "macd": "Sell",
-    "sma10": 52.3,
+    "sma10": null,
     "sma30": 49.87,
     "sma60": 45.45,
     "sma200": 31.63,
@@ -5425,10 +5409,10 @@
   },
   {
     "symbol": "POML",
-    "price": 237.81,
+    "price": 237.76,
     "rsi": 81.95,
     "macd": "Buy",
-    "sma10": null,
+    "sma10": 168,
     "sma30": 146.49,
     "sma60": 141.69,
     "sma200": 125.56,
@@ -5457,7 +5441,7 @@
   },
   {
     "symbol": "ORM",
-    "price": 9,
+    "price": 8.99,
     "rsi": 57.21,
     "macd": "Buy",
     "sma10": 8.86,
@@ -5473,7 +5457,7 @@
   },
   {
     "symbol": "SERT",
-    "price": 13,
+    "price": 13.17,
     "rsi": 51.9,
     "macd": "Buy",
     "sma10": 13.4,
@@ -5505,7 +5489,7 @@
   },
   {
     "symbol": "PPVC",
-    "price": 8,
+    "price": 8.58,
     "rsi": 50.52,
     "macd": "Buy",
     "sma10": 7.94,
@@ -5537,7 +5521,7 @@
   },
   {
     "symbol": "JLICL",
-    "price": 130.23,
+    "price": 130.57,
     "rsi": 39.12,
     "macd": "Buy",
     "sma10": 133.02,
@@ -5553,7 +5537,7 @@
   },
   {
     "symbol": "ELCM",
-    "price": 122,
+    "price": 125.84,
     "rsi": 48.26,
     "macd": "Sell",
     "sma10": 126.98,
@@ -5569,7 +5553,7 @@
   },
   {
     "symbol": "OTSU",
-    "price": 184,
+    "price": 184.34,
     "rsi": 52.94,
     "macd": "Sell",
     "sma10": null,
@@ -5584,11 +5568,27 @@
     "avgVol": 44656
   },
   {
+    "symbol": "GFIL",
+    "price": 9.4,
+    "rsi": 58.31,
+    "macd": "Buy",
+    "sma10": 9.52,
+    "sma30": 8.06,
+    "sma60": 8.27,
+    "sma200": 9.85,
+    "s1": 8.48,
+    "s2": 7.77,
+    "r1": 9.94,
+    "r2": 10.69,
+    "vol": 3021,
+    "avgVol": 27631
+  },
+  {
     "symbol": "MQTM",
-    "price": 31.1,
+    "price": 33.32,
     "rsi": 52.03,
     "macd": "Sell",
-    "sma10": 32.51,
+    "sma10": null,
     "sma30": 33.04,
     "sma60": 31.11,
     "sma200": 44.02,
@@ -5649,7 +5649,7 @@
   },
   {
     "symbol": "DIIL",
-    "price": 24.89,
+    "price": 21.79,
     "rsi": 42.16,
     "macd": "Sell",
     "sma10": 26.56,
@@ -5665,7 +5665,7 @@
   },
   {
     "symbol": "MEHT",
-    "price": 315,
+    "price": 313.6,
     "rsi": 28.05,
     "macd": "Buy",
     "sma10": 326.93,
@@ -5681,10 +5681,10 @@
   },
   {
     "symbol": "ALNRS",
-    "price": 74,
+    "price": 70.34,
     "rsi": 53.14,
     "macd": "Buy",
-    "sma10": null,
+    "sma10": 73.51,
     "sma30": 73.85,
     "sma60": 75.71,
     "sma200": 79.63,
@@ -5713,7 +5713,7 @@
   },
   {
     "symbol": "BATA",
-    "price": 1545,
+    "price": 1550.63,
     "rsi": 29.03,
     "macd": "Sell",
     "sma10": 1598.37,
@@ -5729,7 +5729,7 @@
   },
   {
     "symbol": "FTSM",
-    "price": 12.9,
+    "price": 12.96,
     "rsi": 46.5,
     "macd": "Sell",
     "sma10": 12.11,
@@ -5745,7 +5745,7 @@
   },
   {
     "symbol": "HRPL",
-    "price": 31.9,
+    "price": null,
     "rsi": 40.3,
     "macd": "Sell",
     "sma10": 31.36,
@@ -5808,27 +5808,11 @@
     "avgVol": 7220
   },
   {
-    "symbol": "SBL",
-    "price": 8.56,
-    "rsi": 48.74,
-    "macd": "Sell",
-    "sma10": 8.76,
-    "sma30": 9.08,
-    "sma60": 8.95,
-    "sma200": 10.28,
-    "s1": 8.1,
-    "s2": 7.26,
-    "r1": 9.39,
-    "r2": 9.84,
-    "vol": 1145,
-    "avgVol": 93108
-  },
-  {
     "symbol": "HPL",
-    "price": 3300,
+    "price": 3294.41,
     "rsi": 54.05,
     "macd": "Sell",
-    "sma10": 3071.12,
+    "sma10": null,
     "sma30": 3169.19,
     "sma60": 3086.14,
     "sma200": 2502.78,
@@ -5841,7 +5825,7 @@
   },
   {
     "symbol": "JATM",
-    "price": 21,
+    "price": 21.14,
     "rsi": 43.37,
     "macd": "Sell",
     "sma10": null,
@@ -5873,10 +5857,10 @@
   },
   {
     "symbol": "LEUL",
-    "price": null,
+    "price": 28.31,
     "rsi": 54.79,
     "macd": "Buy",
-    "sma10": 29.8,
+    "sma10": null,
     "sma30": 29.16,
     "sma60": 30.36,
     "sma200": 22.36,
@@ -5889,7 +5873,7 @@
   },
   {
     "symbol": "JUBS",
-    "price": 10.4,
+    "price": 10.42,
     "rsi": 52.78,
     "macd": "Buy",
     "sma10": null,
@@ -5905,7 +5889,7 @@
   },
   {
     "symbol": "NESTLE",
-    "price": 7049.99,
+    "price": 7018,
     "rsi": 54.49,
     "macd": "Buy",
     "sma10": 6987.05,
@@ -5921,7 +5905,7 @@
   },
   {
     "symbol": "JDWS",
-    "price": 855,
+    "price": 857.12,
     "rsi": 54.05,
     "macd": "Buy",
     "sma10": 834.49,
@@ -5937,7 +5921,7 @@
   },
   {
     "symbol": "RUBY",
-    "price": 7.84,
+    "price": 7.29,
     "rsi": 52.57,
     "macd": "Buy",
     "sma10": 7.38,
@@ -5953,7 +5937,7 @@
   },
   {
     "symbol": "SAPT",
-    "price": 1105,
+    "price": 1109.19,
     "rsi": 53.59,
     "macd": "Buy",
     "sma10": 1086.72,
@@ -5968,8 +5952,24 @@
     "avgVol": 449
   },
   {
+    "symbol": "AABS",
+    "price": 758.27,
+    "rsi": 62.92,
+    "macd": "Buy",
+    "sma10": 723.95,
+    "sma30": 722.16,
+    "sma60": 711.88,
+    "sma200": 653.3,
+    "s1": 735.01,
+    "s2": 712.01,
+    "r1": 771.01,
+    "r2": 784.01,
+    "vol": 713,
+    "avgVol": 1507
+  },
+  {
     "symbol": "CCM",
-    "price": 53,
+    "price": 53.46,
     "rsi": 59.21,
     "macd": "Buy",
     "sma10": 52.16,
@@ -6000,8 +6000,24 @@
     "avgVol": 216
   },
   {
+    "symbol": "SHJS",
+    "price": 126,
+    "rsi": 59.3,
+    "macd": "Buy",
+    "sma10": null,
+    "sma30": 118.02,
+    "sma60": 123.81,
+    "sma200": 103.92,
+    "s1": 125.33,
+    "s2": 124.67,
+    "r1": 126.33,
+    "r2": 126.67,
+    "vol": 3,
+    "avgVol": 1713
+  },
+  {
     "symbol": "SAIF",
-    "price": 8.9,
+    "price": null,
     "rsi": 23.57,
     "macd": "Sell",
     "sma10": 9.65,
@@ -6016,11 +6032,27 @@
     "avgVol": 28025
   },
   {
+    "symbol": "ICCI",
+    "price": 9.7,
+    "rsi": 33.92,
+    "macd": "Sell",
+    "sma10": null,
+    "sma30": 11.19,
+    "sma60": 11.47,
+    "sma200": 9.42,
+    "s1": 8.92,
+    "s2": 8.24,
+    "r1": 10.14,
+    "r2": 10.68,
+    "vol": 35312,
+    "avgVol": 75848
+  },
+  {
     "symbol": "KOHP",
     "price": 6.12,
     "rsi": 50.59,
     "macd": "Sell",
-    "sma10": 6.27,
+    "sma10": null,
     "sma30": 6.51,
     "sma60": 6.78,
     "sma200": 6.97,
@@ -6033,7 +6065,7 @@
   },
   {
     "symbol": "SHEZ",
-    "price": 170,
+    "price": 164.41,
     "rsi": 62.37,
     "macd": "Buy",
     "sma10": 183.98,
@@ -6048,8 +6080,24 @@
     "avgVol": 13738
   },
   {
+    "symbol": "PSYL",
+    "price": 47.5,
+    "rsi": 58.78,
+    "macd": "Buy",
+    "sma10": 44.25,
+    "sma30": 43.59,
+    "sma60": 43.27,
+    "sma200": 35.29,
+    "s1": 43.23,
+    "s2": 39.73,
+    "r1": 48.61,
+    "r2": 50.49,
+    "vol": 1193,
+    "avgVol": 48849
+  },
+  {
     "symbol": "PECO",
-    "price": 705.01,
+    "price": 705.66,
     "rsi": 64.25,
     "macd": "Buy",
     "sma10": 651,
@@ -6065,7 +6113,7 @@
   },
   {
     "symbol": "UPFL",
-    "price": 22950,
+    "price": 22815.74,
     "rsi": 48.02,
     "macd": "Buy",
     "sma10": 23114.57,
@@ -6129,7 +6177,7 @@
   },
   {
     "symbol": "BPL",
-    "price": 30.25,
+    "price": 30.4,
     "rsi": 67.28,
     "macd": "Buy",
     "sma10": 28.32,
@@ -6145,7 +6193,7 @@
   },
   {
     "symbol": "SINDM",
-    "price": 11.25,
+    "price": 10.8,
     "rsi": 50.35,
     "macd": "Buy",
     "sma10": 10.78,
@@ -6209,7 +6257,7 @@
   },
   {
     "symbol": "IDRT",
-    "price": 18.5,
+    "price": 17.89,
     "rsi": 43.11,
     "macd": "Sell",
     "sma10": 18.55,
@@ -6257,7 +6305,7 @@
   },
   {
     "symbol": "STL",
-    "price": 794.33,
+    "price": 797.06,
     "rsi": 53.49,
     "macd": "Buy",
     "sma10": null,
@@ -6270,6 +6318,22 @@
     "r2": 816.55,
     "vol": 10,
     "avgVol": 745
+  },
+  {
+    "symbol": "TRIPF",
+    "price": 125,
+    "rsi": 44.63,
+    "macd": "Sell",
+    "sma10": null,
+    "sma30": 129.06,
+    "sma60": 128.02,
+    "sma200": 124.44,
+    "s1": 127.65,
+    "s2": 128.32,
+    "r1": 127.65,
+    "r2": 128.32,
+    "vol": 632,
+    "avgVol": 9852
   },
   {
     "symbol": "MSCL",
@@ -6289,7 +6353,7 @@
   },
   {
     "symbol": "BUXL",
-    "price": 121.49,
+    "price": 118.99,
     "rsi": 38.07,
     "macd": "Sell",
     "sma10": 129.6,
@@ -6305,7 +6369,7 @@
   },
   {
     "symbol": "SIEM",
-    "price": 1500.01,
+    "price": 1500.02,
     "rsi": 45.38,
     "macd": "Sell",
     "sma10": 1500.64,
@@ -6337,7 +6401,7 @@
   },
   {
     "symbol": "ZAHID",
-    "price": 25.15,
+    "price": 26.7,
     "rsi": 50.41,
     "macd": "Buy",
     "sma10": 26.12,
@@ -6353,10 +6417,10 @@
   },
   {
     "symbol": "ANTM",
-    "price": 11.22,
+    "price": 10.2,
     "rsi": 32,
     "macd": "Buy",
-    "sma10": 10.49,
+    "sma10": null,
     "sma30": 11.04,
     "sma60": 11.56,
     "sma200": 11.63,
@@ -6368,8 +6432,24 @@
     "avgVol": 4556
   },
   {
+    "symbol": "PSEL",
+    "price": 941.39,
+    "rsi": 27.35,
+    "macd": "Sell",
+    "sma10": null,
+    "sma30": 1006.58,
+    "sma60": 1020.02,
+    "sma200": 858.34,
+    "s1": 869.27,
+    "s2": 797.16,
+    "r1": 994.25,
+    "r2": 1047.12,
+    "vol": 21,
+    "avgVol": 246
+  },
+  {
     "symbol": "SCL",
-    "price": 264.99,
+    "price": 257.43,
     "rsi": 43.8,
     "macd": "Sell",
     "sma10": 289,
@@ -6382,22 +6462,6 @@
     "r2": 274.94,
     "vol": 353,
     "avgVol": 500
-  },
-  {
-    "symbol": "PSEL",
-    "price": 943.95,
-    "rsi": 27.35,
-    "macd": "Sell",
-    "sma10": 969.61,
-    "sma30": 1006.58,
-    "sma60": 1020.02,
-    "sma200": 858.34,
-    "s1": 869.27,
-    "s2": 797.16,
-    "r1": 994.25,
-    "r2": 1047.12,
-    "vol": 21,
-    "avgVol": 246
   },
   {
     "symbol": "ELSM",
@@ -6433,7 +6497,7 @@
   },
   {
     "symbol": "RCML",
-    "price": 427,
+    "price": 435.08,
     "rsi": 30.77,
     "macd": "Sell",
     "sma10": 473.62,
@@ -6462,38 +6526,6 @@
     "r2": 315.69,
     "vol": 0,
     "avgVol": 1316
-  },
-  {
-    "symbol": "GFIL",
-    "price": 9.4,
-    "rsi": 58.31,
-    "macd": "Buy",
-    "sma10": 9.52,
-    "sma30": 8.06,
-    "sma60": 8.27,
-    "sma200": 9.85,
-    "s1": 8.48,
-    "s2": 7.77,
-    "r1": 9.94,
-    "r2": 10.69,
-    "vol": 3021,
-    "avgVol": 27631
-  },
-  {
-    "symbol": "AKDHL",
-    "price": 134.01,
-    "rsi": 26.46,
-    "macd": "Sell",
-    "sma10": 140.25,
-    "sma30": 145.57,
-    "sma60": 149.06,
-    "sma200": 145.81,
-    "s1": 128.86,
-    "s2": 126.93,
-    "r1": 133.85,
-    "r2": 136.91,
-    "vol": 7090,
-    "avgVol": 2847
   },
   {
     "symbol": "ASIC",
@@ -6561,7 +6593,7 @@
   },
   {
     "symbol": "SLYT",
-    "price": 9.4,
+    "price": 9,
     "rsi": 50.17,
     "macd": "Buy",
     "sma10": 9.02,
@@ -6609,7 +6641,7 @@
   },
   {
     "symbol": "SUHJ",
-    "price": 85,
+    "price": 86.6,
     "rsi": 36.49,
     "macd": "Sell",
     "sma10": 91.37,
@@ -6641,10 +6673,10 @@
   },
   {
     "symbol": "SHSML",
-    "price": 367.01,
+    "price": 390.61,
     "rsi": 51.61,
     "macd": "Sell",
-    "sma10": null,
+    "sma10": 387.32,
     "sma30": 385.62,
     "sma60": 387.88,
     "sma200": 393.14,
@@ -6654,6 +6686,22 @@
     "r2": 427.86,
     "vol": 5,
     "avgVol": 2826
+  },
+  {
+    "symbol": "SFL",
+    "price": 1034.31,
+    "rsi": 34.44,
+    "macd": "Sell",
+    "sma10": 1073.69,
+    "sma30": 1094.68,
+    "sma60": 1097.82,
+    "sma200": 1286.1,
+    "s1": 1004.19,
+    "s2": 952.09,
+    "r1": 1114.19,
+    "r2": 1172.09,
+    "vol": 75,
+    "avgVol": 279
   },
   {
     "symbol": "JSIL",
@@ -6672,27 +6720,11 @@
     "avgVol": 12392
   },
   {
-    "symbol": "HUSI",
-    "price": 0,
-    "rsi": 71.19,
-    "macd": "Buy",
-    "sma10": 27.28,
-    "sma30": 26.55,
-    "sma60": 27.43,
-    "sma200": 22.06,
-    "s1": 27.59,
-    "s2": 25.9,
-    "r1": 30.49,
-    "r2": 31.7,
-    "vol": 0,
-    "avgVol": 1925
-  },
-  {
     "symbol": "GEMPAPL",
-    "price": 9,
+    "price": 9.24,
     "rsi": 64.44,
     "macd": "Buy",
-    "sma10": null,
+    "sma10": 8.57,
     "sma30": 7.83,
     "sma60": 8.03,
     "sma200": 7.79,
@@ -6720,6 +6752,22 @@
     "avgVol": 18658
   },
   {
+    "symbol": "SBL",
+    "price": 8.89,
+    "rsi": 48.74,
+    "macd": "Sell",
+    "sma10": 8.76,
+    "sma30": 9.08,
+    "sma60": 8.95,
+    "sma200": 10.28,
+    "s1": 8.1,
+    "s2": 7.26,
+    "r1": 9.39,
+    "r2": 9.84,
+    "vol": 1145,
+    "avgVol": 93108
+  },
+  {
     "symbol": "REWM",
     "price": 138.25,
     "rsi": 23.39,
@@ -6737,7 +6785,7 @@
   },
   {
     "symbol": "WAHN",
-    "price": 223,
+    "price": 221.83,
     "rsi": 46.87,
     "macd": "Sell",
     "sma10": null,
@@ -6752,20 +6800,20 @@
     "avgVol": 4193
   },
   {
-    "symbol": "SZTM",
-    "price": 0,
-    "rsi": 41.25,
-    "macd": "Buy",
-    "sma10": 29.87,
-    "sma30": 30.18,
-    "sma60": 30.48,
-    "sma200": 29.16,
-    "s1": 29.91,
-    "s2": 29.96,
-    "r1": 29.91,
-    "r2": 29.96,
-    "vol": 0,
-    "avgVol": 315
+    "symbol": "SURC",
+    "price": 123.14,
+    "rsi": 44.59,
+    "macd": "Sell",
+    "sma10": 128.23,
+    "sma30": 123.52,
+    "sma60": 128.11,
+    "sma200": 127.77,
+    "s1": 117.36,
+    "s2": 111.58,
+    "r1": 122.39,
+    "r2": 121.64,
+    "vol": 30,
+    "avgVol": 1210
   },
   {
     "symbol": "NSRM",
@@ -6782,22 +6830,6 @@
     "r2": 49.51,
     "vol": 161,
     "avgVol": 951
-  },
-  {
-    "symbol": "SURC",
-    "price": 120,
-    "rsi": 44.59,
-    "macd": "Sell",
-    "sma10": 128.23,
-    "sma30": 123.52,
-    "sma60": 128.11,
-    "sma200": 127.77,
-    "s1": 117.36,
-    "s2": 111.58,
-    "r1": 122.39,
-    "r2": 121.64,
-    "vol": 30,
-    "avgVol": 1210
   },
   {
     "symbol": "NAGC",
@@ -6817,7 +6849,7 @@
   },
   {
     "symbol": "SHCM",
-    "price": 30,
+    "price": 29.02,
     "rsi": 49.22,
     "macd": "Buy",
     "sma10": 28.95,
@@ -6849,7 +6881,7 @@
   },
   {
     "symbol": "QUET",
-    "price": 11.75,
+    "price": 12.04,
     "rsi": 26.91,
     "macd": "Sell",
     "sma10": null,
@@ -6864,24 +6896,8 @@
     "avgVol": 22901
   },
   {
-    "symbol": "AABS",
-    "price": 758,
-    "rsi": 62.92,
-    "macd": "Buy",
-    "sma10": 723.95,
-    "sma30": 722.16,
-    "sma60": 711.88,
-    "sma200": 653.3,
-    "s1": 735.01,
-    "s2": 712.01,
-    "r1": 771.01,
-    "r2": 784.01,
-    "vol": 713,
-    "avgVol": 1507
-  },
-  {
     "symbol": "JSGCL",
-    "price": 103.05,
+    "price": 109.91,
     "rsi": 35.13,
     "macd": "Sell",
     "sma10": 109.7,
@@ -6897,7 +6913,7 @@
   },
   {
     "symbol": "PKGI",
-    "price": 9.85,
+    "price": 9.86,
     "rsi": 50.2,
     "macd": "Buy",
     "sma10": 8.64,
@@ -6944,24 +6960,8 @@
     "avgVol": 2339
   },
   {
-    "symbol": "SHJS",
-    "price": 123.99,
-    "rsi": 59.3,
-    "macd": "Buy",
-    "sma10": 119.75,
-    "sma30": 118.02,
-    "sma60": 123.81,
-    "sma200": 103.92,
-    "s1": 125.33,
-    "s2": 124.67,
-    "r1": 126.33,
-    "r2": 126.67,
-    "vol": 3,
-    "avgVol": 1713
-  },
-  {
     "symbol": "KSTM",
-    "price": 8,
+    "price": null,
     "rsi": 39.98,
     "macd": "Sell",
     "sma10": 7.94,
@@ -6977,7 +6977,7 @@
   },
   {
     "symbol": "GOC",
-    "price": 63.99,
+    "price": 62.8,
     "rsi": 44.97,
     "macd": "Buy",
     "sma10": 60.98,
@@ -6992,8 +6992,24 @@
     "avgVol": 4240
   },
   {
+    "symbol": "GEMMEL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "KML",
-    "price": 31.99,
+    "price": 29.53,
     "rsi": 30.8,
     "macd": "Sell",
     "sma10": 31.09,
@@ -7008,52 +7024,20 @@
     "avgVol": 1416
   },
   {
-    "symbol": "GEMMEL",
-    "price": 0,
-    "rsi": 62.78,
-    "macd": "Buy",
-    "sma10": 21.42,
-    "sma30": 20.81,
-    "sma60": 20.52,
-    "sma200": null,
-    "s1": 14.68,
-    "s2": 7.34,
-    "r1": 14.68,
-    "r2": 7.34,
-    "vol": 0,
-    "avgVol": 2642
-  },
-  {
-    "symbol": "PSYL",
-    "price": 45.5,
-    "rsi": 58.78,
-    "macd": "Buy",
-    "sma10": 44.25,
-    "sma30": 43.59,
-    "sma60": 43.27,
-    "sma200": 35.29,
-    "s1": 43.23,
-    "s2": 39.73,
-    "r1": 48.61,
-    "r2": 50.49,
-    "vol": 1193,
-    "avgVol": 48849
-  },
-  {
     "symbol": "FRSM",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
+    "price": 47.08,
+    "rsi": 64.02,
+    "macd": "Buy",
+    "sma10": 45.61,
+    "sma30": 44.76,
+    "sma60": 45.43,
+    "sma200": 45.92,
+    "s1": 31.39,
+    "s2": 15.69,
+    "r1": 31.39,
+    "r2": 15.69,
+    "vol": 20000,
+    "avgVol": 10063
   },
   {
     "symbol": "DINT",
@@ -7073,7 +7057,7 @@
   },
   {
     "symbol": "DMTX",
-    "price": 44.75,
+    "price": 44.76,
     "rsi": 22.89,
     "macd": "Sell",
     "sma10": 47.88,
@@ -7121,7 +7105,7 @@
   },
   {
     "symbol": "BFMOD",
-    "price": 7,
+    "price": 6.95,
     "rsi": 41.02,
     "macd": "Sell",
     "sma10": 7.16,
@@ -7136,35 +7120,51 @@
     "avgVol": 8118
   },
   {
-    "symbol": "TRIPF",
-    "price": 125,
-    "rsi": 44.63,
+    "symbol": "AKDHL",
+    "price": 134.37,
+    "rsi": 26.46,
     "macd": "Sell",
-    "sma10": null,
-    "sma30": 129.06,
-    "sma60": 128.02,
-    "sma200": 124.44,
-    "s1": 127.65,
-    "s2": 128.32,
-    "r1": 127.65,
-    "r2": 128.32,
-    "vol": 632,
-    "avgVol": 9852
+    "sma10": 140.25,
+    "sma30": 145.57,
+    "sma60": 149.06,
+    "sma200": 145.81,
+    "s1": 128.86,
+    "s2": 126.93,
+    "r1": 133.85,
+    "r2": 136.91,
+    "vol": 7090,
+    "avgVol": 2847
   },
   {
-    "symbol": "SFL",
-    "price": 1052,
-    "rsi": 34.44,
-    "macd": "Sell",
-    "sma10": 1073.69,
-    "sma30": 1094.68,
-    "sma60": 1097.82,
-    "sma200": 1286.1,
-    "s1": 1004.19,
-    "s2": 952.09,
-    "r1": 1114.19,
-    "r2": 1172.09,
-    "vol": 75,
-    "avgVol": 279
+    "symbol": "HUSI",
+    "price": 0,
+    "rsi": 71.19,
+    "macd": "Buy",
+    "sma10": 27.28,
+    "sma30": 26.55,
+    "sma60": 27.43,
+    "sma200": 22.06,
+    "s1": 27.59,
+    "s2": 25.9,
+    "r1": 30.49,
+    "r2": 31.7,
+    "vol": 0,
+    "avgVol": 1925
+  },
+  {
+    "symbol": "SZTM",
+    "price": 0,
+    "rsi": 41.25,
+    "macd": "Buy",
+    "sma10": 29.87,
+    "sma30": 30.18,
+    "sma60": 30.48,
+    "sma200": 29.16,
+    "s1": 29.91,
+    "s2": 29.96,
+    "r1": 29.91,
+    "r2": 29.96,
+    "vol": 0,
+    "avgVol": 315
   }
 ]
