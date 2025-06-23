@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-23T14:42:58.221Z",
+  "generated_at": "2025-06-23T16:30:02.508Z",
   "symbols_processed": 448,
   "signals": [
     {
@@ -166,7 +166,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "HOLD",
+      "momentumSignal": "MOMENTUM_SELL",
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD"
     },
@@ -468,7 +468,7 @@
       "oversoldSignal": "HOLD",
       "momentumSignal": "MOMENTUM_SELL",
       "meanReversionSignal": "WATCH_OVERSOLD",
-      "trendFollowingSignal": "CONSOLIDATING"
+      "trendFollowingSignal": "HOLD"
     },
     {
       "symbol": "TBL",
@@ -778,7 +778,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "HOLD",
+      "momentumSignal": "MOMENTUM_SELL",
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
@@ -864,7 +864,7 @@
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
       "meanReversionSignal": "WATCH_OVERSOLD",
-      "trendFollowingSignal": "CONSOLIDATING"
+      "trendFollowingSignal": "HOLD"
     },
     {
       "symbol": "DCL",
@@ -886,7 +886,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
+      "momentumSignal": "HOLD",
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
@@ -1282,7 +1282,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
+      "momentumSignal": "HOLD",
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
@@ -1462,7 +1462,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
+      "momentumSignal": "HOLD",
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
@@ -1546,7 +1546,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
+      "momentumSignal": "HOLD",
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
@@ -1571,7 +1571,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "MEAN_REV_BUY",
+      "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -1655,7 +1655,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "WATCH_OVERSOLD",
+      "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -1702,7 +1702,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "HOLD",
+      "momentumSignal": "MOMENTUM_SELL",
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD"
     },
@@ -1751,7 +1751,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "WATCH_OVERSOLD",
+      "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING"
     },
     {
@@ -1883,7 +1883,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "WATCH_OVERSOLD",
+      "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -1895,7 +1895,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "WATCH_OVERSOLD",
+      "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
     {
@@ -1956,7 +1956,7 @@
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
       "meanReversionSignal": "WATCH_OVERSOLD",
-      "trendFollowingSignal": "HOLD"
+      "trendFollowingSignal": "CONSOLIDATING"
     },
     {
       "symbol": "GHGL",
@@ -1966,7 +1966,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
+      "momentumSignal": "HOLD",
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
@@ -1991,7 +1991,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "HOLD",
+      "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -2039,7 +2039,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "WATCH_OVERSOLD",
+      "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING"
     },
     {
@@ -2254,7 +2254,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "HOLD",
+      "momentumSignal": "MOMENTUM_SELL",
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
@@ -2291,7 +2291,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "HOLD",
+      "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -2340,7 +2340,7 @@
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
       "meanReversionSignal": "WATCH_OVERSOLD",
-      "trendFollowingSignal": "CONSOLIDATING"
+      "trendFollowingSignal": "HOLD"
     },
     {
       "symbol": "AGSML",
@@ -2376,7 +2376,7 @@
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
       "meanReversionSignal": "HOLD",
-      "trendFollowingSignal": "TREND_BUY_CONTINUATION"
+      "trendFollowingSignal": "HOLD"
     },
     {
       "symbol": "FRCL",
@@ -2531,7 +2531,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "HOLD",
+      "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -2604,7 +2604,7 @@
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
       "meanReversionSignal": "HOLD",
-      "trendFollowingSignal": "HOLD"
+      "trendFollowingSignal": "TREND_BUY_CONTINUATION"
     },
     {
       "symbol": "PAKOXY",
@@ -2710,7 +2710,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
+      "momentumSignal": "HOLD",
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
@@ -2782,7 +2782,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "HOLD",
+      "momentumSignal": "MOMENTUM_SELL",
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
@@ -2867,7 +2867,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "HOLD",
+      "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -3143,7 +3143,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "MOMENTUM_SELL",
-      "meanReversionSignal": "WATCH_OVERSOLD",
+      "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
     {
@@ -3167,7 +3167,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "HOLD",
+      "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -3226,7 +3226,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
+      "momentumSignal": "HOLD",
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
@@ -3538,7 +3538,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
+      "momentumSignal": "HOLD",
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
@@ -3670,8 +3670,8 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
-      "meanReversionSignal": "HOLD",
+      "momentumSignal": "HOLD",
+      "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -3679,8 +3679,8 @@
       "price": 27.07,
       "sma50signal": "HOLD",
       "bbBreakoutSignal": "HOLD",
-      "volumeSpikeSignal": "HOLD",
-      "volumeSpikeReason": "",
+      "volumeSpikeSignal": "BUY",
+      "volumeSpikeReason": "Price up >2%, Volume spike 1.5x, Closes above MA20/MA50",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
       "meanReversionSignal": "HOLD",
@@ -3946,7 +3946,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
+      "momentumSignal": "HOLD",
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
@@ -4342,7 +4342,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
+      "momentumSignal": "HOLD",
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
@@ -4368,7 +4368,7 @@
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
       "meanReversionSignal": "HOLD",
-      "trendFollowingSignal": "HOLD"
+      "trendFollowingSignal": "TREND_SELL_STRONG"
     },
     {
       "symbol": "SBL",
@@ -4691,7 +4691,7 @@
       "volumeSpikeReason": "Price up >2%, Volume spike 1.5x, Closes above MA20/MA50",
       "oversoldSignal": "HOLD",
       "momentumSignal": "MOMENTUM_BUY",
-      "meanReversionSignal": "HOLD",
+      "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -4715,7 +4715,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "WATCH_OVERSOLD",
+      "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -4798,7 +4798,7 @@
       "volumeSpikeSignal": "HOLD",
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
-      "momentumSignal": "MOMENTUM_SELL",
+      "momentumSignal": "HOLD",
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
@@ -4808,7 +4808,7 @@
       "sma50signal": "HOLD",
       "bbBreakoutSignal": "HOLD",
       "volumeSpikeSignal": "BUY",
-      "volumeSpikeReason": "Price up >2%, Volume spike 1.5x, Below MA",
+      "volumeSpikeReason": "Price up >2%, Volume spike 1.5x, Closes above MA20/MA50",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
       "meanReversionSignal": "HOLD",
@@ -4871,7 +4871,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "WATCH_OVERSOLD",
+      "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
     {
@@ -4925,13 +4925,13 @@
     {
       "symbol": "ASIC",
       "price": 15.02,
-      "sma50signal": "BUY",
-      "bbBreakoutSignal": "BREAKOUT_BUY",
-      "volumeSpikeSignal": "BUY",
-      "volumeSpikeReason": "Price up >2%, Volume spike 1.5x, Closes above MA20/MA50",
+      "sma50signal": "HOLD",
+      "bbBreakoutSignal": "HOLD",
+      "volumeSpikeSignal": "HOLD",
+      "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "MEAN_REV_SELL",
+      "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
     {
@@ -4955,7 +4955,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "HOLD",
+      "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -5100,7 +5100,7 @@
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
       "meanReversionSignal": "HOLD",
-      "trendFollowingSignal": "TREND_BUY_CONTINUATION"
+      "trendFollowingSignal": "HOLD"
     },
     {
       "symbol": "REWM",
@@ -5255,7 +5255,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "HOLD",
+      "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
     {
@@ -5279,7 +5279,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "WATCH_OVERSOLD",
+      "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD"
     },
     {
@@ -5303,7 +5303,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "MEAN_REV_SELL",
+      "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
     {
@@ -5363,7 +5363,7 @@
       "volumeSpikeReason": "",
       "oversoldSignal": "HOLD",
       "momentumSignal": "HOLD",
-      "meanReversionSignal": "MEAN_REV_BUY",
+      "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING"
     },
     {
@@ -5379,7 +5379,7 @@
       "trendFollowingSignal": "CONSOLIDATING"
     }
   ],
-  "updated_at": "2025-06-23T14:43:00.672Z",
+  "updated_at": "2025-06-23T16:31:04.768Z",
   "merged_with_bollinger": true,
   "merged_with_volume_spike": true,
   "merged_with_oversold": true,
