@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-07-24T14:54:16.918Z",
+  "generated_at": "2025-07-25T06:45:21.776Z",
   "symbols_processed": 448,
   "signals": [
     {
@@ -14,7 +14,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KEL",
@@ -28,7 +29,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SSGC",
@@ -42,7 +44,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MLCF",
@@ -56,7 +59,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PAEL",
@@ -70,7 +74,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PIBTL",
@@ -84,7 +89,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FCCL",
@@ -98,7 +104,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "WTL",
@@ -112,7 +119,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SNGP",
@@ -126,7 +134,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PRL",
@@ -140,7 +149,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CPHL",
@@ -154,7 +164,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BOP",
@@ -168,7 +179,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PREMA",
@@ -182,7 +194,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PIAHCLA",
@@ -196,7 +209,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DGKC",
@@ -210,7 +224,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "POWER",
@@ -224,7 +239,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PSO",
@@ -238,7 +254,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BAFL",
@@ -252,7 +269,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HUBC",
@@ -266,7 +284,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PSX",
@@ -280,7 +299,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TRG",
@@ -294,7 +314,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TREET",
@@ -308,7 +329,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FFL",
@@ -322,7 +344,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "LPL",
@@ -336,7 +359,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "OGDC",
@@ -350,7 +374,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PTC",
@@ -364,7 +389,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HASCOL",
@@ -378,7 +404,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SEARL",
@@ -392,7 +419,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PPL",
@@ -406,7 +434,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MARI",
@@ -420,7 +449,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KOSM",
@@ -434,7 +464,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DSL",
@@ -448,7 +479,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "STPL",
@@ -462,7 +494,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AIRLINK",
@@ -476,7 +509,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HBL",
@@ -490,7 +524,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TELE",
@@ -504,7 +539,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DFML",
@@ -518,7 +554,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FCL",
@@ -532,7 +569,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ILP",
@@ -546,7 +584,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TBL",
@@ -560,7 +599,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SYM",
@@ -574,7 +614,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NBP",
@@ -588,7 +629,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GGGL",
@@ -602,7 +644,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ENGROH",
@@ -616,7 +659,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FLYNG",
@@ -630,7 +674,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "EFERT",
@@ -644,7 +689,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ASL",
@@ -658,7 +704,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BFAGRO",
@@ -672,7 +719,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "NO_DATA",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "WAVESAPP",
@@ -686,7 +734,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GCIL",
@@ -700,7 +749,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NPL",
@@ -714,7 +764,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AGHA",
@@ -728,7 +779,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AKBL",
@@ -742,7 +794,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "WAVES",
@@ -756,7 +809,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BIPL",
@@ -770,7 +824,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NML",
@@ -784,7 +839,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FABL",
@@ -798,7 +854,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ASTL",
@@ -812,7 +869,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KOHC",
@@ -826,7 +884,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AVN",
@@ -840,7 +899,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "LOTCHEM",
@@ -854,7 +914,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TPLP",
@@ -868,7 +929,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AHCL",
@@ -882,7 +944,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AICL",
@@ -896,7 +959,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GAL",
@@ -910,7 +974,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MEBL",
@@ -924,7 +989,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JSBL",
@@ -938,7 +1004,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DOL",
@@ -952,7 +1019,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NETSOL",
@@ -966,7 +1034,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GHNI",
@@ -980,7 +1049,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "UBL",
@@ -994,7 +1064,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NRSL",
@@ -1008,7 +1079,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DCL",
@@ -1022,7 +1094,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PACE",
@@ -1036,7 +1109,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ANL",
@@ -1050,7 +1124,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GATM",
@@ -1064,7 +1139,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TOMCL",
@@ -1078,7 +1154,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KAPCO",
@@ -1092,7 +1169,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "IMAGE",
@@ -1106,7 +1184,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BML",
@@ -1120,7 +1199,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AGL",
@@ -1134,7 +1214,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FFC",
@@ -1148,7 +1229,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MDTL",
@@ -1162,7 +1244,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DCR",
@@ -1176,7 +1259,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "QUICE",
@@ -1190,7 +1274,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FATIMA",
@@ -1204,7 +1289,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FCEPL",
@@ -1218,7 +1304,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PAKRI",
@@ -1232,7 +1319,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SAZEW",
@@ -1246,7 +1334,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BNL",
@@ -1260,7 +1349,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HUMNL",
@@ -1274,7 +1364,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PIOC",
@@ -1288,7 +1379,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GGL",
@@ -1302,7 +1394,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ATRL",
@@ -1316,7 +1409,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GLAXO",
@@ -1330,7 +1424,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "LUCK",
@@ -1344,7 +1439,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NRL",
@@ -1358,7 +1454,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GWLC",
@@ -1372,7 +1469,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "EPQL",
@@ -1386,7 +1484,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BFBIO",
@@ -1400,7 +1499,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "NO_DATA",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TGL",
@@ -1414,7 +1514,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "UNITY",
@@ -1428,7 +1529,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "LOADS",
@@ -1442,7 +1544,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SLGL",
@@ -1456,7 +1559,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SPEL",
@@ -1470,7 +1574,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TCORP",
@@ -1484,7 +1589,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BGL",
@@ -1498,7 +1604,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ALTN",
@@ -1512,7 +1619,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AMTEX",
@@ -1526,7 +1634,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "EPCL",
@@ -1540,7 +1649,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TPL",
@@ -1554,7 +1664,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PABC",
@@ -1568,7 +1679,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HCAR",
@@ -1582,7 +1694,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BBFL",
@@ -1596,7 +1709,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GTYR",
@@ -1610,7 +1724,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SPWL",
@@ -1624,7 +1739,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HICL",
@@ -1638,7 +1754,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CSAP",
@@ -1652,7 +1769,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SML",
@@ -1666,7 +1784,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AGP",
@@ -1680,7 +1799,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "YOUW",
@@ -1694,7 +1814,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CHCC",
@@ -1708,7 +1829,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CEPB",
@@ -1722,7 +1844,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BAHL",
@@ -1736,7 +1859,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "RPL",
@@ -1750,7 +1874,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ASC",
@@ -1764,7 +1889,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NCPL",
@@ -1778,7 +1904,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PMI",
@@ -1792,7 +1919,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ITTEFAQ",
@@ -1806,7 +1934,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "OCTOPUS",
@@ -1820,7 +1949,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SYS",
@@ -1834,7 +1964,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KSBP",
@@ -1848,7 +1979,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SNBL",
@@ -1862,7 +1994,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "THCCL",
@@ -1876,7 +2009,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "OBOY",
@@ -1890,7 +2024,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PASL",
@@ -1904,7 +2039,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MUGHAL",
@@ -1918,7 +2054,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NCL",
@@ -1932,7 +2069,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PIL",
@@ -1946,7 +2084,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "STCL",
@@ -1960,7 +2099,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MCB",
@@ -1974,7 +2114,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BECO",
@@ -1988,7 +2129,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CSIL",
@@ -2002,7 +2144,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FNEL",
@@ -2016,7 +2159,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "POL",
@@ -2030,7 +2174,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "LPGL",
@@ -2044,7 +2189,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KOHE",
@@ -2058,7 +2204,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ZAL",
@@ -2072,7 +2219,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "NO_DATA",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MTL",
@@ -2086,7 +2234,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GRR",
@@ -2100,7 +2249,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HALEON",
@@ -2114,7 +2264,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FCSC",
@@ -2128,7 +2279,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SSOM",
@@ -2142,7 +2294,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CLOV",
@@ -2156,7 +2309,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CWSM",
@@ -2170,7 +2324,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HIRAT",
@@ -2184,7 +2339,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "RICL",
@@ -2198,7 +2354,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ARUJ",
@@ -2212,7 +2369,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AHL",
@@ -2226,7 +2384,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TOWL",
@@ -2240,7 +2399,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HTL",
@@ -2254,7 +2414,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CHBL",
@@ -2268,7 +2429,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BAPL",
@@ -2282,7 +2444,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GHGL",
@@ -2296,7 +2459,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "UNIC",
@@ -2310,7 +2474,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JGICL",
@@ -2324,7 +2489,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DHPL",
@@ -2338,7 +2504,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "NO_DATA",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ALIFE",
@@ -2352,7 +2519,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FECM",
@@ -2366,7 +2534,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "APL",
@@ -2380,7 +2549,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HGFA",
@@ -2394,7 +2564,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ISL",
@@ -2408,7 +2579,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PICT",
@@ -2422,7 +2594,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HMB",
@@ -2436,7 +2609,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "THALL",
@@ -2450,7 +2624,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "INIL",
@@ -2464,7 +2639,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TRSM",
@@ -2478,7 +2654,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "UBDL",
@@ -2492,7 +2669,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ACPL",
@@ -2506,7 +2684,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "IPAK",
@@ -2520,7 +2699,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DBCI",
@@ -2534,7 +2714,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "BUY"
+      "shortTermCrossOverSignal": "BUY",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HINOON",
@@ -2548,7 +2729,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FPJM",
@@ -2562,7 +2744,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "BUY"
+      "shortTermCrossOverSignal": "BUY",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "IGIHL",
@@ -2576,7 +2759,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FECTC",
@@ -2590,7 +2774,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DWSM",
@@ -2604,7 +2789,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JSCL",
@@ -2618,7 +2804,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SGF",
@@ -2632,7 +2819,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "WAFI",
@@ -2646,7 +2834,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DSIL",
@@ -2660,7 +2849,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FEROZ",
@@ -2674,7 +2864,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "IBLHL",
@@ -2688,7 +2879,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CRTM",
@@ -2702,7 +2894,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AKDSL",
@@ -2716,7 +2909,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BERG",
@@ -2730,7 +2924,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AGSML",
@@ -2744,7 +2939,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "STYLERS",
@@ -2758,7 +2954,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SHNI",
@@ -2772,7 +2969,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FRCL",
@@ -2786,7 +2984,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "BUY"
+      "shortTermCrossOverSignal": "BUY",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BIFO",
@@ -2800,7 +2999,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MWMP",
@@ -2814,7 +3014,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MFFL",
@@ -2828,7 +3029,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AGIC",
@@ -2842,7 +3044,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PMPK",
@@ -2856,7 +3059,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GAMON",
@@ -2870,7 +3074,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ICL",
@@ -2884,7 +3089,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ABL",
@@ -2898,7 +3104,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "IMS",
@@ -2912,7 +3119,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BCL",
@@ -2926,7 +3134,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SIBL",
@@ -2940,7 +3149,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AGIL",
@@ -2954,7 +3164,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CYAN",
@@ -2968,7 +3179,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JSML",
@@ -2982,7 +3194,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TPLT",
@@ -2996,7 +3209,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SMCPL",
@@ -3010,7 +3224,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FDPL",
@@ -3024,7 +3239,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DFSM",
@@ -3038,7 +3254,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PAKOXY",
@@ -3052,7 +3269,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NEXT",
@@ -3066,7 +3284,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "UCAPM",
@@ -3080,7 +3299,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NATF",
@@ -3094,7 +3314,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GRYL",
@@ -3108,7 +3329,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CJPL",
@@ -3122,7 +3344,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TSMF",
@@ -3136,7 +3359,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AGTL",
@@ -3150,7 +3374,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PKGS",
@@ -3164,7 +3389,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SCBPL",
@@ -3178,7 +3404,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MIRKS",
@@ -3192,7 +3419,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HABSM",
@@ -3206,7 +3434,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "LSEFSL",
@@ -3220,7 +3449,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SRVI",
@@ -3234,7 +3464,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PINL",
@@ -3248,7 +3479,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CENI",
@@ -3262,7 +3494,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FHAM",
@@ -3276,7 +3509,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DWAE",
@@ -3290,7 +3524,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "EMCO",
@@ -3304,7 +3539,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PTL",
@@ -3318,7 +3554,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TPLRF1",
@@ -3332,7 +3569,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "IDYM",
@@ -3346,7 +3584,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MACFL",
@@ -3360,7 +3599,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SITC",
@@ -3374,7 +3614,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CHAS",
@@ -3388,7 +3629,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ALAC",
@@ -3402,7 +3644,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ATBA",
@@ -3416,7 +3659,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DNCC",
@@ -3430,7 +3674,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FML",
@@ -3444,7 +3689,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ECOP",
@@ -3458,7 +3704,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ESBL",
@@ -3472,7 +3719,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ICIBL",
@@ -3486,7 +3734,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SHFA",
@@ -3500,7 +3749,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DEL",
@@ -3514,7 +3764,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TSBL",
@@ -3528,7 +3779,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HIFA",
@@ -3542,7 +3794,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CTM",
@@ -3556,7 +3809,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "COLG",
@@ -3570,7 +3824,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PNSC",
@@ -3584,7 +3839,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "LCI",
@@ -3598,7 +3854,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DADX",
@@ -3612,7 +3869,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "LSEVL",
@@ -3626,7 +3884,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KOIL",
@@ -3640,7 +3899,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ADMM",
@@ -3654,7 +3914,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PCAL",
@@ -3668,7 +3929,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ABOT",
@@ -3682,7 +3944,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HAEL",
@@ -3696,7 +3959,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JDMT",
@@ -3710,7 +3974,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DYNO",
@@ -3724,7 +3989,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "LIVEN",
@@ -3738,7 +4004,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HINO",
@@ -3752,7 +4019,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TSPL",
@@ -3766,7 +4034,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "IGIL",
@@ -3780,7 +4049,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "BUY"
     },
     {
       "symbol": "BWCL",
@@ -3794,7 +4064,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": 786,
@@ -3808,7 +4079,8 @@
       "meanReversionSignal": "ERROR",
       "trendFollowingSignal": "ERROR",
       "crossOverSignal": "ERROR",
-      "shortTermCrossOverSignal": "ERROR"
+      "shortTermCrossOverSignal": "ERROR",
+      "superTrendSignal": "ERROR"
     },
     {
       "symbol": "MSOT",
@@ -3822,7 +4094,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "LSECL",
@@ -3836,7 +4109,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KOHTM",
@@ -3850,7 +4124,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "EXIDE",
@@ -3864,7 +4139,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BOK",
@@ -3878,7 +4154,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ATLH",
@@ -3892,7 +4169,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DLL",
@@ -3906,7 +4184,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "BUY",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MUREB",
@@ -3920,7 +4199,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MACTER",
@@ -3934,7 +4214,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TPLI",
@@ -3948,7 +4229,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JVDC",
@@ -3962,7 +4244,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "REDCO",
@@ -3976,7 +4259,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FPRM",
@@ -3990,7 +4274,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FEM",
@@ -4004,7 +4289,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PAKD",
@@ -4018,7 +4304,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ADAMS",
@@ -4032,7 +4319,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BILF",
@@ -4046,7 +4334,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "INKL",
@@ -4060,7 +4349,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KHTC",
@@ -4074,7 +4364,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "INDU",
@@ -4088,7 +4379,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HWQS",
@@ -4102,7 +4394,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MRNS",
@@ -4116,7 +4409,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FFLM",
@@ -4130,7 +4424,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "UDPL",
@@ -4144,7 +4439,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SPL",
@@ -4158,7 +4454,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SEPL",
@@ -4172,7 +4469,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "UVIC",
@@ -4186,7 +4484,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ASTM",
@@ -4200,7 +4499,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BNWM",
@@ -4214,7 +4514,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "EFUL",
@@ -4228,7 +4529,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BWHL",
@@ -4242,7 +4544,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PGLC",
@@ -4256,7 +4559,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KTML",
@@ -4270,7 +4574,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SARC",
@@ -4284,7 +4589,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "RUPL",
@@ -4298,7 +4604,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CLVL",
@@ -4312,7 +4619,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MFL",
@@ -4326,7 +4634,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "IML",
@@ -4340,7 +4649,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CLCPS",
@@ -4354,7 +4664,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TATM",
@@ -4368,7 +4679,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PAKT",
@@ -4382,7 +4694,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MCBIM",
@@ -4396,7 +4709,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GUSM",
@@ -4410,7 +4724,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BRRG",
@@ -4424,7 +4739,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DAAG",
@@ -4438,7 +4754,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "OLPM",
@@ -4452,7 +4769,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ICCI",
@@ -4466,7 +4784,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AATM",
@@ -4480,7 +4799,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CPPL",
@@ -4494,7 +4814,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "BUY",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GADT",
@@ -4508,7 +4829,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SKRS",
@@ -4522,7 +4844,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FTMM",
@@ -4536,7 +4859,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "OLPL",
@@ -4550,7 +4874,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KPUS",
@@ -4564,7 +4889,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SGPL",
@@ -4578,7 +4904,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ZIL",
@@ -4592,7 +4919,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SNAI",
@@ -4606,7 +4934,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SSML",
@@ -4620,7 +4949,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DWTM",
@@ -4634,7 +4964,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "BUY"
+      "shortTermCrossOverSignal": "BUY",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FCEL",
@@ -4648,7 +4979,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "BUY"
+      "shortTermCrossOverSignal": "BUY",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PPP",
@@ -4662,7 +4994,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GATI",
@@ -4676,7 +5009,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GVGL",
@@ -4690,7 +5024,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "UDLI",
@@ -4704,7 +5039,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MERIT",
@@ -4718,7 +5054,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AMBL",
@@ -4732,7 +5069,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SANSM",
@@ -4746,7 +5084,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "POML",
@@ -4760,7 +5099,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ARPL",
@@ -4774,7 +5114,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ORM",
@@ -4788,7 +5129,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SERT",
@@ -4802,7 +5144,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TSML",
@@ -4816,7 +5159,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PPVC",
@@ -4830,7 +5174,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GSPM",
@@ -4844,7 +5189,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JLICL",
@@ -4858,7 +5204,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ELCM",
@@ -4872,7 +5219,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "OTSU",
@@ -4886,7 +5234,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GFIL",
@@ -4900,7 +5249,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MQTM",
@@ -4914,7 +5264,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SUTM",
@@ -4928,7 +5279,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "EFUG",
@@ -4942,7 +5294,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SHDT",
@@ -4956,7 +5309,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DIIL",
@@ -4970,7 +5324,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MEHT",
@@ -4984,7 +5339,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ALNRS",
@@ -4998,7 +5354,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ISIL",
@@ -5012,7 +5369,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BATA",
@@ -5026,7 +5384,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FTSM",
@@ -5040,7 +5399,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HRPL",
@@ -5054,7 +5414,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "IBFL",
@@ -5068,7 +5429,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PASM",
@@ -5082,7 +5444,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CASH",
@@ -5096,7 +5459,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SBL",
@@ -5110,7 +5474,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HPL",
@@ -5124,7 +5489,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JATM",
@@ -5138,7 +5504,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NICL",
@@ -5152,7 +5519,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "LEUL",
@@ -5166,7 +5534,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JUBS",
@@ -5180,7 +5549,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NESTLE",
@@ -5194,7 +5564,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "TREND_BUY_CONTINUATION",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JDWS",
@@ -5208,7 +5579,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "RUBY",
@@ -5222,7 +5594,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SAPT",
@@ -5236,7 +5609,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AABS",
@@ -5250,7 +5624,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CCM",
@@ -5264,7 +5639,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "RMPL",
@@ -5278,7 +5654,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SHJS",
@@ -5292,7 +5669,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SAIF",
@@ -5306,7 +5684,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KOHP",
@@ -5320,7 +5699,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SHEZ",
@@ -5334,7 +5714,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PSYL",
@@ -5348,7 +5729,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PECO",
@@ -5362,7 +5744,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "UPFL",
@@ -5376,7 +5759,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PKGP",
@@ -5390,7 +5774,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FIL",
@@ -5404,7 +5789,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "NO_DATA",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GEMBLUEX",
@@ -5418,7 +5804,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BPL",
@@ -5432,7 +5819,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SINDM",
@@ -5446,7 +5834,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PIM",
@@ -5460,7 +5849,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FZCM",
@@ -5474,7 +5864,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GLPL",
@@ -5488,7 +5879,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "IDRT",
@@ -5502,7 +5894,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BELA",
@@ -5516,7 +5909,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KHYT",
@@ -5530,7 +5924,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "STL",
@@ -5544,7 +5939,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TRIPF",
@@ -5558,7 +5954,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "MSCL",
@@ -5572,7 +5969,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BUXL",
@@ -5586,7 +5984,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SIEM",
@@ -5600,7 +5999,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SEL",
@@ -5614,7 +6014,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ZAHID",
@@ -5628,7 +6029,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ANTM",
@@ -5642,7 +6044,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SCL",
@@ -5656,7 +6059,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "SELL"
+      "shortTermCrossOverSignal": "SELL",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PSEL",
@@ -5670,7 +6074,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ELSM",
@@ -5684,7 +6089,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BTL",
@@ -5698,7 +6104,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "RCML",
@@ -5712,7 +6119,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FASM",
@@ -5726,7 +6134,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "AKDHL",
@@ -5740,7 +6149,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ASIC",
@@ -5754,7 +6164,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "NO_DATA",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HAFL",
@@ -5768,7 +6179,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ARCTM",
@@ -5782,7 +6194,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "ATIL",
@@ -5796,7 +6209,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SLYT",
@@ -5810,7 +6224,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "TPLL",
@@ -5824,7 +6239,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "BUY"
     },
     {
       "symbol": "ZTL",
@@ -5838,7 +6254,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SUHJ",
@@ -5852,7 +6269,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "STML",
@@ -5866,7 +6284,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SHSML",
@@ -5880,7 +6299,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SFL",
@@ -5894,7 +6314,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JSIL",
@@ -5908,7 +6329,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "HUSI",
@@ -5922,7 +6344,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GEMPAPL",
@@ -5936,7 +6359,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SHNI",
@@ -5950,7 +6374,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "REWM",
@@ -5964,7 +6389,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "WAHN",
@@ -5978,7 +6404,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SZTM",
@@ -5992,7 +6419,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SURC",
@@ -6006,7 +6434,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NSRM",
@@ -6020,7 +6449,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NAGC",
@@ -6034,7 +6464,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SHCM",
@@ -6048,7 +6479,8 @@
       "meanReversionSignal": "MEAN_REV_BUY",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "SASML",
@@ -6062,7 +6494,8 @@
       "meanReversionSignal": "MEAN_REV_SELL",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "QUET",
@@ -6076,7 +6509,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "JSGCL",
@@ -6090,7 +6524,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PKGI",
@@ -6104,7 +6539,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "PIAHCLB",
@@ -6118,7 +6554,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "NONS",
@@ -6132,7 +6569,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KSTM",
@@ -6146,7 +6584,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GOC",
@@ -6160,7 +6599,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "KML",
@@ -6174,7 +6614,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "GEMMEL",
@@ -6188,7 +6629,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "NO_DATA",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "FRSM",
@@ -6202,7 +6644,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "BUY"
     },
     {
       "symbol": "DINT",
@@ -6216,7 +6659,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "DMTX",
@@ -6230,7 +6674,8 @@
       "meanReversionSignal": "WATCH_OVERSOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "CFL",
@@ -6244,7 +6689,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BHAT",
@@ -6258,7 +6704,8 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     },
     {
       "symbol": "BFMOD",
@@ -6272,15 +6719,17 @@
       "meanReversionSignal": "HOLD",
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
-      "shortTermCrossOverSignal": "HOLD"
+      "shortTermCrossOverSignal": "HOLD",
+      "superTrendSignal": "HOLD"
     }
   ],
-  "updated_at": "2025-07-24T14:55:58.154Z",
+  "updated_at": "2025-07-25T06:47:07.547Z",
   "merged_with_bollinger": true,
   "merged_with_volume_spike": true,
   "merged_with_oversold": true,
   "merged_with_momentum": true,
   "merged_with_mean_reversion": true,
   "merged_with_trend_following": true,
-  "merged_with_short_term_crossover": true
+  "merged_with_short_term_crossover": true,
+  "merged_with_supertrend": true
 }
