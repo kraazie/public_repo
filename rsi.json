@@ -272,7 +272,7 @@
     "avgVol": null
   },
   {
-    "symbol": "BAFL",
+    "symbol": "HUBC",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -288,7 +288,7 @@
     "avgVol": null
   },
   {
-    "symbol": "HUBC",
+    "symbol": "BAFL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -385,22 +385,6 @@
   },
   {
     "symbol": "OGDC",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "PTC",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -1360,6 +1344,22 @@
     "avgVol": null
   },
   {
+    "symbol": "PTC",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "FATIMA",
     "price": null,
     "rsi": null,
@@ -1568,22 +1568,6 @@
     "avgVol": null
   },
   {
-    "symbol": "EPQL",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "BFBIO",
     "price": null,
     "rsi": null,
@@ -1633,6 +1617,22 @@
   },
   {
     "symbol": "LOADS",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "SLGL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -2432,22 +2432,6 @@
     "avgVol": null
   },
   {
-    "symbol": "CLOV",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "CWSM",
     "price": null,
     "rsi": null,
@@ -2528,6 +2512,22 @@
     "avgVol": null
   },
   {
+    "symbol": "EPQL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "TOWL",
     "price": null,
     "rsi": null,
@@ -2577,22 +2577,6 @@
   },
   {
     "symbol": "BAPL",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "SLGL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -2689,6 +2673,22 @@
   },
   {
     "symbol": "FECM",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "APL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -3248,6 +3248,22 @@
     "avgVol": null
   },
   {
+    "symbol": "GAMON",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "ICL",
     "price": null,
     "rsi": null,
@@ -3296,7 +3312,7 @@
     "avgVol": null
   },
   {
-    "symbol": "SIBL",
+    "symbol": "BCL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -3376,6 +3392,22 @@
     "avgVol": null
   },
   {
+    "symbol": "CLOV",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "SMCPL",
     "price": null,
     "rsi": null,
@@ -3393,6 +3425,22 @@
   },
   {
     "symbol": "FDPL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "DFSM",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -3616,22 +3664,6 @@
     "avgVol": null
   },
   {
-    "symbol": "APL",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "SRVI",
     "price": null,
     "rsi": null,
@@ -3760,6 +3792,22 @@
     "avgVol": null
   },
   {
+    "symbol": "IDYM",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "MACFL",
     "price": null,
     "rsi": null,
@@ -3809,22 +3857,6 @@
   },
   {
     "symbol": "ALAC",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "ATBA",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4032,6 +4064,22 @@
     "avgVol": null
   },
   {
+    "symbol": "LCI",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "DADX",
     "price": null,
     "rsi": null,
@@ -4049,22 +4097,6 @@
   },
   {
     "symbol": "LSEVL",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "KOIL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4160,22 +4192,6 @@
     "avgVol": null
   },
   {
-    "symbol": "GAMON",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "DYNO",
     "price": null,
     "rsi": null,
@@ -4224,22 +4240,6 @@
     "avgVol": null
   },
   {
-    "symbol": "BCL",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "TSPL",
     "price": null,
     "rsi": null,
@@ -4257,6 +4257,22 @@
   },
   {
     "symbol": "IGIL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "SIBL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4369,22 +4385,6 @@
   },
   {
     "symbol": "BOK",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "DFSM",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4544,22 +4544,6 @@
     "avgVol": null
   },
   {
-    "symbol": "PAKD",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "ADAMS",
     "price": null,
     "rsi": null,
@@ -4593,22 +4577,6 @@
   },
   {
     "symbol": "INKL",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "KHTC",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4752,39 +4720,7 @@
     "avgVol": null
   },
   {
-    "symbol": "IDYM",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "ASTM",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "BNWM",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4849,6 +4785,22 @@
   },
   {
     "symbol": "KTML",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "ATBA",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5024,7 +4976,7 @@
     "avgVol": null
   },
   {
-    "symbol": "DAAG",
+    "symbol": "BRRG",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5040,7 +4992,7 @@
     "avgVol": null
   },
   {
-    "symbol": "LCI",
+    "symbol": "DAAG",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5089,6 +5041,22 @@
   },
   {
     "symbol": "AATM",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "KOIL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5296,6 +5264,22 @@
     "avgVol": null
   },
   {
+    "symbol": "PPP",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "GATI",
     "price": null,
     "rsi": null,
@@ -5456,7 +5440,39 @@
     "avgVol": null
   },
   {
+    "symbol": "TSML",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "PPVC",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "PAKD",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5537,6 +5553,22 @@
   },
   {
     "symbol": "GFIL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "KHTC",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5696,23 +5728,7 @@
     "avgVol": null
   },
   {
-    "symbol": "FTSM",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "HRPL",
+    "symbol": "BNWM",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5745,22 +5761,6 @@
   },
   {
     "symbol": "PASM",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "CASH",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5952,22 +5952,6 @@
     "avgVol": null
   },
   {
-    "symbol": "BRRG",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "CCM",
     "price": null,
     "rsi": null,
@@ -6017,6 +6001,22 @@
   },
   {
     "symbol": "SAIF",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "KOHP",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -6224,7 +6224,7 @@
     "avgVol": null
   },
   {
-    "symbol": "PPP",
+    "symbol": "IDRT",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -6416,22 +6416,6 @@
     "avgVol": null
   },
   {
-    "symbol": "TSML",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "PSEL",
     "price": null,
     "rsi": null,
@@ -6592,6 +6576,22 @@
     "avgVol": null
   },
   {
+    "symbol": "SLYT",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "TPLL",
     "price": null,
     "rsi": null,
@@ -6656,6 +6656,22 @@
     "avgVol": null
   },
   {
+    "symbol": "FTSM",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "SHSML",
     "price": null,
     "rsi": null,
@@ -6688,6 +6704,22 @@
     "avgVol": null
   },
   {
+    "symbol": "HRPL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "JSIL",
     "price": null,
     "rsi": null,
@@ -6705,6 +6737,22 @@
   },
   {
     "symbol": "HUSI",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "CASH",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -6992,22 +7040,6 @@
     "avgVol": null
   },
   {
-    "symbol": "KOHP",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "KML",
     "price": null,
     "rsi": null,
@@ -7121,38 +7153,6 @@
   },
   {
     "symbol": "BFMOD",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "IDRT",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "SLYT",
     "price": null,
     "rsi": null,
     "macd": "",
