@@ -224,6 +224,22 @@
     "avgVol": null
   },
   {
+    "symbol": "DGKC",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "POWER",
     "price": null,
     "rsi": null,
@@ -289,6 +305,22 @@
   },
   {
     "symbol": "PSX",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "TRG",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -720,22 +752,6 @@
     "avgVol": null
   },
   {
-    "symbol": "BFAGRO",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "WAVESAPP",
     "price": null,
     "rsi": null,
@@ -1008,22 +1024,6 @@
     "avgVol": null
   },
   {
-    "symbol": "MEBL",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "JSBL",
     "price": null,
     "rsi": null,
@@ -1040,7 +1040,7 @@
     "avgVol": null
   },
   {
-    "symbol": "DOL",
+    "symbol": "MEBL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -1056,7 +1056,7 @@
     "avgVol": null
   },
   {
-    "symbol": "NETSOL",
+    "symbol": "DOL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -1168,22 +1168,6 @@
     "avgVol": null
   },
   {
-    "symbol": "DGKC",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "GATM",
     "price": null,
     "rsi": null,
@@ -1280,7 +1264,7 @@
     "avgVol": null
   },
   {
-    "symbol": "TRG",
+    "symbol": "FFC",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -1296,7 +1280,7 @@
     "avgVol": null
   },
   {
-    "symbol": "FFC",
+    "symbol": "MDTL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -1473,6 +1457,22 @@
   },
   {
     "symbol": "ATRL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "GLAXO",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -1681,6 +1681,22 @@
   },
   {
     "symbol": "ALTN",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "BFAGRO",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -2032,6 +2048,22 @@
     "avgVol": null
   },
   {
+    "symbol": "NETSOL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "OCTOPUS",
     "price": null,
     "rsi": null,
@@ -2224,22 +2256,6 @@
     "avgVol": null
   },
   {
-    "symbol": "BECO",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "CSIL",
     "price": null,
     "rsi": null,
@@ -2336,22 +2352,6 @@
     "avgVol": null
   },
   {
-    "symbol": "MTL",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": "GRR",
     "price": null,
     "rsi": null,
@@ -2400,6 +2400,22 @@
     "avgVol": null
   },
   {
+    "symbol": "SSOM",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "CLOV",
     "price": null,
     "rsi": null,
@@ -2417,22 +2433,6 @@
   },
   {
     "symbol": "CWSM",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "GLAXO",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -2560,7 +2560,7 @@
     "avgVol": null
   },
   {
-    "symbol": "MDTL",
+    "symbol": "BAPL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -2737,22 +2737,6 @@
   },
   {
     "symbol": "HMB",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "THALL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -3184,6 +3168,38 @@
     "avgVol": null
   },
   {
+    "symbol": "MFFL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "BECO",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "AGIC",
     "price": null,
     "rsi": null,
@@ -3201,22 +3217,6 @@
   },
   {
     "symbol": "PMPK",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "GAMON",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -3296,6 +3296,22 @@
     "avgVol": null
   },
   {
+    "symbol": "MTL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "SIBL",
     "price": null,
     "rsi": null,
@@ -3345,22 +3361,6 @@
   },
   {
     "symbol": "JSML",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "SSOM",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -3521,22 +3521,6 @@
   },
   {
     "symbol": "CJPL",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "BAPL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -3744,6 +3728,22 @@
     "avgVol": null
   },
   {
+    "symbol": "THALL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "EMCO",
     "price": null,
     "rsi": null,
@@ -3840,7 +3840,7 @@
     "avgVol": null
   },
   {
-    "symbol": "CHAS",
+    "symbol": "ALAC",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -3856,7 +3856,7 @@
     "avgVol": null
   },
   {
-    "symbol": "ALAC",
+    "symbol": "CHAS",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4208,7 +4208,7 @@
     "avgVol": null
   },
   {
-    "symbol": "JDMT",
+    "symbol": "GAMON",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4241,22 +4241,6 @@
   },
   {
     "symbol": "LIVEN",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "HINO",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4320,22 +4304,6 @@
     "avgVol": null
   },
   {
-    "symbol": "MFFL",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
     "symbol": 786,
     "price": null,
     "rsi": null,
@@ -4384,7 +4352,7 @@
     "avgVol": null
   },
   {
-    "symbol": "KOHTM",
+    "symbol": "EXIDE",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4400,7 +4368,7 @@
     "avgVol": null
   },
   {
-    "symbol": "EXIDE",
+    "symbol": "KOHTM",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4848,7 +4816,7 @@
     "avgVol": null
   },
   {
-    "symbol": "PGLC",
+    "symbol": "KTML",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4864,7 +4832,7 @@
     "avgVol": null
   },
   {
-    "symbol": "KTML",
+    "symbol": "PGLC",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4960,7 +4928,7 @@
     "avgVol": null
   },
   {
-    "symbol": "CLCPS",
+    "symbol": "TATM",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -4976,7 +4944,7 @@
     "avgVol": null
   },
   {
-    "symbol": "TATM",
+    "symbol": "PAKT",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5184,6 +5152,22 @@
     "avgVol": null
   },
   {
+    "symbol": "JDMT",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "KPUS",
     "price": null,
     "rsi": null,
@@ -5200,7 +5184,7 @@
     "avgVol": null
   },
   {
-    "symbol": "SGPL",
+    "symbol": "ZIL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5216,7 +5200,7 @@
     "avgVol": null
   },
   {
-    "symbol": "ZIL",
+    "symbol": "HINO",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5504,7 +5488,7 @@
     "avgVol": null
   },
   {
-    "symbol": "JLICL",
+    "symbol": "GSPM",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5520,7 +5504,7 @@
     "avgVol": null
   },
   {
-    "symbol": "GSPM",
+    "symbol": "JLICL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5904,7 +5888,7 @@
     "avgVol": null
   },
   {
-    "symbol": "NESTLE",
+    "symbol": "CLCPS",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -5921,22 +5905,6 @@
   },
   {
     "symbol": "JDWS",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "PAKT",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -6161,6 +6129,22 @@
   },
   {
     "symbol": "FIL",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "SGPL",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -6800,6 +6784,22 @@
     "avgVol": null
   },
   {
+    "symbol": "REWM",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
     "symbol": "WAHN",
     "price": null,
     "rsi": null,
@@ -6864,7 +6864,7 @@
     "avgVol": null
   },
   {
-    "symbol": "NAGC",
+    "symbol": "NESTLE",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -6881,6 +6881,22 @@
   },
   {
     "symbol": "SHCM",
+    "price": null,
+    "rsi": null,
+    "macd": "",
+    "sma10": null,
+    "sma30": null,
+    "sma60": null,
+    "sma200": null,
+    "s1": null,
+    "s2": null,
+    "r1": null,
+    "r2": null,
+    "vol": null,
+    "avgVol": null
+  },
+  {
+    "symbol": "NAGC",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -6929,22 +6945,6 @@
   },
   {
     "symbol": "JSGCL",
-    "price": null,
-    "rsi": null,
-    "macd": "",
-    "sma10": null,
-    "sma30": null,
-    "sma60": null,
-    "sma200": null,
-    "s1": null,
-    "s2": null,
-    "r1": null,
-    "r2": null,
-    "vol": null,
-    "avgVol": null
-  },
-  {
-    "symbol": "PKGI",
     "price": null,
     "rsi": null,
     "macd": "",
@@ -7152,7 +7152,7 @@
     "avgVol": null
   },
   {
-    "symbol": "REWM",
+    "symbol": "PKGI",
     "price": null,
     "rsi": null,
     "macd": "",
