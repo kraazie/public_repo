@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-11T14:49:34.074Z",
+  "generated_at": "2025-08-12T14:48:06.648Z",
   "symbols_processed": 448,
   "signals": [
     {
@@ -6723,7 +6723,7 @@
       "superTrendSignal": "HOLD"
     }
   ],
-  "updated_at": "2025-08-11T14:50:48.227Z",
+  "updated_at": "2025-08-12T14:49:17.418Z",
   "merged_with_bollinger": true,
   "merged_with_volume_spike": true,
   "merged_with_oversold": true,
