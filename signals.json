@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-27T14:26:50.765Z",
+  "generated_at": "2025-09-28T07:12:54.849Z",
   "symbols_processed": 467,
   "signals": [
     {
@@ -746,7 +746,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -1834,7 +1834,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -2174,7 +2174,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD"
     },
@@ -2327,7 +2327,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "BUY",
+      "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD"
     },
@@ -2429,7 +2429,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -2718,7 +2718,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD"
     },
@@ -2786,7 +2786,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -3245,7 +3245,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "SELL",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -3313,7 +3313,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -3636,7 +3636,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -3687,7 +3687,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -3738,7 +3738,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD"
     },
@@ -3789,7 +3789,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD"
     },
@@ -4299,7 +4299,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -4452,7 +4452,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD"
     },
@@ -4945,7 +4945,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -5659,7 +5659,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -6220,7 +6220,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -6254,7 +6254,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "BUY",
+      "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "BUY"
     },
@@ -6611,7 +6611,7 @@
       "trendFollowingSignal": "CONSOLIDATING",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD"
     },
@@ -6645,7 +6645,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD"
     },
@@ -7138,7 +7138,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -7189,7 +7189,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD"
     },
@@ -7631,7 +7631,7 @@
       "trendFollowingSignal": "HOLD",
       "crossOverSignal": "HOLD",
       "shortTermCrossOverSignal": "HOLD",
-      "superTrendSignal": "HOLD",
+      "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD"
     },
@@ -7942,7 +7942,7 @@
       "ultimateStrategySignal": "HOLD"
     }
   ],
-  "updated_at": "2025-09-27T14:28:20.050Z",
+  "updated_at": "2025-09-28T07:14:24.435Z",
   "merged_with_bollinger": true,
   "merged_with_volume_spike": true,
   "merged_with_oversold": true,
