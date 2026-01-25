@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-23T14:42:53.059Z",
+  "generated_at": "2026-01-25T15:39:04.770Z",
   "symbols_processed": 467,
   "signals": [
     {
@@ -2249,19 +2249,19 @@
     {
       "symbol": "EPCLPS",
       "price": null,
-      "sma50signal": "INSUFFICIENT_DATA",
-      "bbBreakoutSignal": "INSUFFICIENT_DATA",
-      "volumeSpikeSignal": "INSUFFICIENT_DATA",
+      "sma50signal": "N/A",
+      "bbBreakoutSignal": "N/A",
+      "volumeSpikeSignal": "N/A",
       "volumeSpikeReason": "",
-      "oversoldSignal": "INSUFFICIENT_DATA",
-      "momentumSignal": "INSUFFICIENT_DATA",
-      "meanReversionSignal": "INSUFFICIENT_DATA",
-      "trendFollowingSignal": "INSUFFICIENT_DATA",
+      "oversoldSignal": "N/A",
+      "momentumSignal": "N/A",
+      "meanReversionSignal": "N/A",
+      "trendFollowingSignal": "N/A",
       "crossOverSignal": "NO_DATA",
       "shortTermCrossOverSignal": "NO_DATA",
-      "superTrendSignal": "INSUFFICIENT_DATA",
-      "nadarayaWatsonSignal": "INSUFFICIENT_DATA",
-      "ultimateStrategySignal": "INSUFFICIENT_DATA"
+      "superTrendSignal": "N/A",
+      "nadarayaWatsonSignal": "N/A",
+      "ultimateStrategySignal": "N/A"
     },
     {
       "symbol": "EPQL",
@@ -4136,19 +4136,19 @@
     {
       "symbol": "JSCLPSA",
       "price": null,
-      "sma50signal": "INSUFFICIENT_DATA",
-      "bbBreakoutSignal": "INSUFFICIENT_DATA",
-      "volumeSpikeSignal": "INSUFFICIENT_DATA",
+      "sma50signal": "N/A",
+      "bbBreakoutSignal": "N/A",
+      "volumeSpikeSignal": "N/A",
       "volumeSpikeReason": "",
-      "oversoldSignal": "INSUFFICIENT_DATA",
-      "momentumSignal": "INSUFFICIENT_DATA",
-      "meanReversionSignal": "INSUFFICIENT_DATA",
-      "trendFollowingSignal": "INSUFFICIENT_DATA",
+      "oversoldSignal": "N/A",
+      "momentumSignal": "N/A",
+      "meanReversionSignal": "N/A",
+      "trendFollowingSignal": "N/A",
       "crossOverSignal": "NO_DATA",
       "shortTermCrossOverSignal": "NO_DATA",
-      "superTrendSignal": "INSUFFICIENT_DATA",
-      "nadarayaWatsonSignal": "INSUFFICIENT_DATA",
-      "ultimateStrategySignal": "INSUFFICIENT_DATA"
+      "superTrendSignal": "N/A",
+      "nadarayaWatsonSignal": "N/A",
+      "ultimateStrategySignal": "N/A"
     },
     {
       "symbol": "JSGCL",
@@ -4867,19 +4867,19 @@
     {
       "symbol": "ML",
       "price": null,
-      "sma50signal": "INSUFFICIENT_DATA",
-      "bbBreakoutSignal": "INSUFFICIENT_DATA",
-      "volumeSpikeSignal": "INSUFFICIENT_DATA",
+      "sma50signal": "N/A",
+      "bbBreakoutSignal": "N/A",
+      "volumeSpikeSignal": "N/A",
       "volumeSpikeReason": "",
-      "oversoldSignal": "INSUFFICIENT_DATA",
-      "momentumSignal": "INSUFFICIENT_DATA",
-      "meanReversionSignal": "INSUFFICIENT_DATA",
-      "trendFollowingSignal": "INSUFFICIENT_DATA",
+      "oversoldSignal": "N/A",
+      "momentumSignal": "N/A",
+      "meanReversionSignal": "N/A",
+      "trendFollowingSignal": "N/A",
       "crossOverSignal": "NO_DATA",
       "shortTermCrossOverSignal": "NO_DATA",
-      "superTrendSignal": "INSUFFICIENT_DATA",
-      "nadarayaWatsonSignal": "INSUFFICIENT_DATA",
-      "ultimateStrategySignal": "INSUFFICIENT_DATA"
+      "superTrendSignal": "N/A",
+      "nadarayaWatsonSignal": "N/A",
+      "ultimateStrategySignal": "N/A"
     },
     {
       "symbol": "MLCF",
@@ -5921,19 +5921,19 @@
     {
       "symbol": "POWERPS",
       "price": null,
-      "sma50signal": "INSUFFICIENT_DATA",
-      "bbBreakoutSignal": "INSUFFICIENT_DATA",
-      "volumeSpikeSignal": "INSUFFICIENT_DATA",
+      "sma50signal": "N/A",
+      "bbBreakoutSignal": "N/A",
+      "volumeSpikeSignal": "N/A",
       "volumeSpikeReason": "",
-      "oversoldSignal": "INSUFFICIENT_DATA",
-      "momentumSignal": "INSUFFICIENT_DATA",
-      "meanReversionSignal": "INSUFFICIENT_DATA",
-      "trendFollowingSignal": "INSUFFICIENT_DATA",
+      "oversoldSignal": "N/A",
+      "momentumSignal": "N/A",
+      "meanReversionSignal": "N/A",
+      "trendFollowingSignal": "N/A",
       "crossOverSignal": "NO_DATA",
       "shortTermCrossOverSignal": "NO_DATA",
-      "superTrendSignal": "INSUFFICIENT_DATA",
-      "nadarayaWatsonSignal": "INSUFFICIENT_DATA",
-      "ultimateStrategySignal": "INSUFFICIENT_DATA"
+      "superTrendSignal": "N/A",
+      "nadarayaWatsonSignal": "N/A",
+      "ultimateStrategySignal": "N/A"
     },
     {
       "symbol": "PPL",
@@ -7942,7 +7942,7 @@
       "ultimateStrategySignal": "HOLD"
     }
   ],
-  "updated_at": "2026-01-23T14:44:11.980Z",
+  "updated_at": "2026-01-25T15:40:27.413Z",
   "merged_with_bollinger": true,
   "merged_with_volume_spike": true,
   "merged_with_oversold": true,
