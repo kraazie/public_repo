@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T14:42:55.498Z",
+  "generated_at": "2026-02-05T14:42:26.027Z",
   "symbols_processed": 467,
   "signals": [
     {
@@ -7942,7 +7942,7 @@
       "ultimateStrategySignal": "HOLD"
     }
   ],
-  "updated_at": "2026-02-04T14:44:20.643Z",
+  "updated_at": "2026-02-05T14:43:50.124Z",
   "merged_with_bollinger": true,
   "merged_with_volume_spike": true,
   "merged_with_oversold": true,
