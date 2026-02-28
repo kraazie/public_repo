@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T14:42:55.320Z",
+  "generated_at": "2026-02-28T08:03:33.339Z",
   "symbols_processed": 470,
   "signals": [
     {
@@ -18,7 +18,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.54
+      "rsi": 40.54,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "AATM",
@@ -36,7 +37,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.23
+      "rsi": 37.23,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "ABL",
@@ -54,7 +56,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.1
+      "rsi": 35.1,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "ABOT",
@@ -72,7 +75,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 28.84
+      "rsi": 28.84,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "ACPL",
@@ -90,7 +94,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.95
+      "rsi": 38.95,
+      "sector": "CEMENT"
     },
     {
       "symbol": "ADAMS",
@@ -108,7 +113,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.65
+      "rsi": 36.65,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "ADMM",
@@ -126,7 +132,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 28.43
+      "rsi": 28.43,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "AGHA",
@@ -144,7 +151,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 29.71
+      "rsi": 29.71,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "AGIC",
@@ -162,7 +170,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 42.84
+      "rsi": 42.84,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "AGIL",
@@ -180,7 +189,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 49.24
+      "rsi": 49.24,
+      "sector": "AUTOMOBILE PARTS & ACCESSORIES"
     },
     {
       "symbol": "AGL",
@@ -198,7 +208,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 27.75
+      "rsi": 27.75,
+      "sector": "FERTILIZER"
     },
     {
       "symbol": "AGP",
@@ -216,7 +227,8 @@
       "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 47.53
+      "rsi": 47.53,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "AGSML",
@@ -234,7 +246,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.4
+      "rsi": 32.4,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "AGTL",
@@ -252,7 +265,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.88
+      "rsi": 32.88,
+      "sector": "AUTOMOBILE ASSEMBLER"
     },
     {
       "symbol": "AHCL",
@@ -270,7 +284,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 31.2
+      "rsi": 31.2,
+      "sector": "FERTILIZER"
     },
     {
       "symbol": "AHL",
@@ -288,7 +303,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 28.72
+      "rsi": 28.72,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "AHTM",
@@ -306,7 +322,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 75.26
+      "rsi": 75.26,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "AICL",
@@ -324,7 +341,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.71
+      "rsi": 32.71,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "AIRLINK",
@@ -342,7 +360,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.65
+      "rsi": 39.65,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "AKBL",
@@ -360,7 +379,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.62
+      "rsi": 48.62,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "AKDHL",
@@ -378,7 +398,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 42.36
+      "rsi": 42.36,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "AKDSL",
@@ -396,7 +417,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.95
+      "rsi": 41.95,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "AKGL",
@@ -414,7 +436,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 31.54
+      "rsi": 31.54,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "ALAC",
@@ -432,7 +455,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 31.81
+      "rsi": 31.81,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "ALIFE",
@@ -450,7 +474,8 @@
       "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.81
+      "rsi": 48.81,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "ALNRS",
@@ -468,7 +493,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 56.31
+      "rsi": 56.31,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "ALTN",
@@ -486,7 +512,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 33.89
+      "rsi": 33.89,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "AMBL",
@@ -504,7 +531,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 61.31
+      "rsi": 61.31,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "AMTEX",
@@ -522,7 +550,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 47.17
+      "rsi": 47.17,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "ANL",
@@ -540,7 +569,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.74
+      "rsi": 32.74,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "ANLNV",
@@ -558,7 +588,8 @@
       "superTrendSignal": "N/A",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": null
     },
     {
       "symbol": "ANSM",
@@ -576,7 +607,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 34.18
+      "rsi": 34.18,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "APL",
@@ -594,7 +626,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_REJECTION",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 56.29
+      "rsi": 56.29,
+      "sector": "OIL & GAS MARKETING COMPANIES"
     },
     {
       "symbol": "ARCTM",
@@ -612,7 +645,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.97
+      "rsi": 48.97,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "ARPAK",
@@ -630,7 +664,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 45.08
+      "rsi": 45.08,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "ARPL",
@@ -648,7 +683,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 28.63
+      "rsi": 28.63,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "ARUJ",
@@ -666,7 +702,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.11
+      "rsi": 41.11,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "ASC",
@@ -684,7 +721,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.68
+      "rsi": 37.68,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "ASHT",
@@ -702,7 +740,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.82
+      "rsi": 38.82,
+      "sector": "TEXTILE WEAVING"
     },
     {
       "symbol": "ASL",
@@ -720,7 +759,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 27.49
+      "rsi": 27.49,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "ASLCPS",
@@ -738,7 +778,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 28.33
+      "rsi": 28.33,
+      "sector": null
     },
     {
       "symbol": "ASLPS",
@@ -756,7 +797,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.99
+      "rsi": 41.99,
+      "sector": null
     },
     {
       "symbol": "ASTL",
@@ -774,7 +816,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.48
+      "rsi": 38.48,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "ASTM",
@@ -792,7 +835,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.57
+      "rsi": 35.57,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "ATBA",
@@ -810,7 +854,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 30.45
+      "rsi": 30.45,
+      "sector": "AUTOMOBILE PARTS & ACCESSORIES"
     },
     {
       "symbol": "ATIL",
@@ -828,7 +873,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.66
+      "rsi": 38.66,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "ATLH",
@@ -846,7 +892,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 41.97
+      "rsi": 41.97,
+      "sector": "AUTOMOBILE ASSEMBLER"
     },
     {
       "symbol": "ATRL",
@@ -864,7 +911,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 43.49
+      "rsi": 43.49,
+      "sector": "REFINERY"
     },
     {
       "symbol": "AVN",
@@ -882,7 +930,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 16.54
+      "rsi": 16.54,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "BAFL",
@@ -900,7 +949,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 57.89
+      "rsi": 57.89,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "BAFS",
@@ -918,7 +968,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 43.86
+      "rsi": 43.86,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "BAHL",
@@ -936,7 +987,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 27.88
+      "rsi": 27.88,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "BAPL",
@@ -954,7 +1006,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 32.67
+      "rsi": 32.67,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "BATA",
@@ -972,7 +1025,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 20.26
+      "rsi": 20.26,
+      "sector": "LEATHER & TANNERIES"
     },
     {
       "symbol": "BBFL",
@@ -990,7 +1044,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 23.93
+      "rsi": 23.93,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "BCL",
@@ -1008,7 +1063,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 24.85
+      "rsi": 24.85,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "BECO",
@@ -1026,7 +1082,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 28.01
+      "rsi": 28.01,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "BELA",
@@ -1044,7 +1101,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 33.32
+      "rsi": 33.32,
+      "sector": "AUTOMOBILE PARTS & ACCESSORIES"
     },
     {
       "symbol": "BERG",
@@ -1062,7 +1120,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 35.92
+      "rsi": 35.92,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "BFAGRO",
@@ -1080,7 +1139,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 38.43
+      "rsi": 38.43,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "BFBIO",
@@ -1098,7 +1158,8 @@
       "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 44.03
+      "rsi": 44.03,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "BFMOD",
@@ -1116,7 +1177,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.08
+      "rsi": 51.08,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "BGL",
@@ -1134,7 +1196,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 20.4
+      "rsi": 20.4,
+      "sector": "GLASS & CERAMICS"
     },
     {
       "symbol": "BHAT",
@@ -1152,7 +1215,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 58.81
+      "rsi": 58.81,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "BIFO",
@@ -1170,7 +1234,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 29.46
+      "rsi": 29.46,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "BIPL",
@@ -1188,7 +1253,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 26.25
+      "rsi": 26.25,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "BLUEX",
@@ -1206,7 +1272,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 14.28
+      "rsi": 14.28,
+      "sector": "TRANSPORT"
     },
     {
       "symbol": "BML",
@@ -1224,7 +1291,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 68.54
+      "rsi": 68.54,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "BNL",
@@ -1242,7 +1310,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 31.96
+      "rsi": 31.96,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "BNWM",
@@ -1260,7 +1329,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.89
+      "rsi": 40.89,
+      "sector": "WOOLLEN"
     },
     {
       "symbol": "BOK",
@@ -1278,7 +1348,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.1
+      "rsi": 40.1,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "BOP",
@@ -1296,7 +1367,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.11
+      "rsi": 36.11,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "BPL",
@@ -1314,7 +1386,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 21.84
+      "rsi": 21.84,
+      "sector": "OIL & GAS MARKETING COMPANIES"
     },
     {
       "symbol": "BRRG",
@@ -1332,7 +1405,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 53.05
+      "rsi": 53.05,
+      "sector": "PROPERTY"
     },
     {
       "symbol": "BTL",
@@ -1350,7 +1424,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 36.74
+      "rsi": 36.74,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "BUXL",
@@ -1368,7 +1443,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 47.85
+      "rsi": 47.85,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "BWCL",
@@ -1386,7 +1462,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 42.17
+      "rsi": 42.17,
+      "sector": "CEMENT"
     },
     {
       "symbol": "BWHL",
@@ -1404,7 +1481,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.2
+      "rsi": 38.2,
+      "sector": "AUTOMOBILE PARTS & ACCESSORIES"
     },
     {
       "symbol": "CASH",
@@ -1422,7 +1500,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.68
+      "rsi": 37.68,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "CCM",
@@ -1440,7 +1519,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 19.03
+      "rsi": 19.03,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "CENI",
@@ -1458,7 +1538,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "STRONG_SELL",
-      "rsi": 39.31
+      "rsi": 39.31,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "CEPB",
@@ -1476,7 +1557,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 26.25
+      "rsi": 26.25,
+      "sector": "PAPER, BOARD & PACKAGING"
     },
     {
       "symbol": "CHAS",
@@ -1494,7 +1576,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 39.47
+      "rsi": 39.47,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "CHBL",
@@ -1512,7 +1595,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 59.84
+      "rsi": 59.84,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "CHCC",
@@ -1530,7 +1614,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.85
+      "rsi": 38.85,
+      "sector": "CEMENT"
     },
     {
       "symbol": "CJPL",
@@ -1548,7 +1633,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.05
+      "rsi": 37.05,
+      "sector": "JUTE"
     },
     {
       "symbol": "CLCPS",
@@ -1566,7 +1652,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 44.88
+      "rsi": 44.88,
+      "sector": null
     },
     {
       "symbol": "CLOV",
@@ -1584,7 +1671,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 52.15
+      "rsi": 52.15,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "CLVL",
@@ -1602,7 +1690,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 20.22
+      "rsi": 20.22,
+      "sector": "TRANSPORT"
     },
     {
       "symbol": "CNERGY",
@@ -1620,7 +1709,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 42.76
+      "rsi": 42.76,
+      "sector": "REFINERY"
     },
     {
       "symbol": "COLG",
@@ -1638,7 +1728,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_CONSOLIDATING",
       "ultimateStrategySignal": "SELL",
-      "rsi": 27.29
+      "rsi": 27.29,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "CPHL",
@@ -1656,7 +1747,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 45.95
+      "rsi": 45.95,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "CPPL",
@@ -1674,7 +1766,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "SELL",
-      "rsi": 27.14
+      "rsi": 27.14,
+      "sector": "PAPER, BOARD & PACKAGING"
     },
     {
       "symbol": "CRTM",
@@ -1692,7 +1785,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 49.98
+      "rsi": 49.98,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "CSAP",
@@ -1710,7 +1804,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.1
+      "rsi": 36.1,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "CSIL",
@@ -1728,7 +1823,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 30.51
+      "rsi": 30.51,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "CTM",
@@ -1746,7 +1842,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 30.39
+      "rsi": 30.39,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "CYAN",
@@ -1764,7 +1861,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 34.86
+      "rsi": 34.86,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "DAAG",
@@ -1782,7 +1880,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 26.91
+      "rsi": 26.91,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "DADX",
@@ -1800,7 +1899,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 44.73
+      "rsi": 44.73,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "DBCI",
@@ -1818,7 +1918,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 22.09
+      "rsi": 22.09,
+      "sector": "CEMENT"
     },
     {
       "symbol": "DCL",
@@ -1836,7 +1937,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 11.85
+      "rsi": 11.85,
+      "sector": "CEMENT"
     },
     {
       "symbol": "DCR",
@@ -1854,7 +1956,8 @@
       "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.94
+      "rsi": 38.94,
+      "sector": "REAL ESTATE INVESTMENT TRUST"
     },
     {
       "symbol": "DEL",
@@ -1872,7 +1975,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.3
+      "rsi": 40.3,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "DFML",
@@ -1890,7 +1994,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 27.39
+      "rsi": 27.39,
+      "sector": "AUTOMOBILE ASSEMBLER"
     },
     {
       "symbol": "DFSM",
@@ -1908,7 +2013,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 34.75
+      "rsi": 34.75,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "DGKC",
@@ -1926,7 +2032,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.56
+      "rsi": 38.56,
+      "sector": "CEMENT"
     },
     {
       "symbol": "DHPL",
@@ -1944,7 +2051,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 11.57
+      "rsi": 11.57,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "DIIL",
@@ -1962,7 +2070,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 47.11
+      "rsi": 47.11,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "DINT",
@@ -1980,7 +2089,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 25.98
+      "rsi": 25.98,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "DLL",
@@ -1998,7 +2108,8 @@
       "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.11
+      "rsi": 36.11,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "DMC",
@@ -2016,7 +2127,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 28.63
+      "rsi": 28.63,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "DNCC",
@@ -2034,7 +2146,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.29
+      "rsi": 41.29,
+      "sector": "CEMENT"
     },
     {
       "symbol": "DOL",
@@ -2052,7 +2165,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.5
+      "rsi": 48.5,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "DSIL",
@@ -2070,7 +2184,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 24.73
+      "rsi": 24.73,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "DSL",
@@ -2088,7 +2203,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 40.01
+      "rsi": 40.01,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "DWAE",
@@ -2106,7 +2222,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 29.59
+      "rsi": 29.59,
+      "sector": "AUTOMOBILE PARTS & ACCESSORIES"
     },
     {
       "symbol": "DWSM",
@@ -2124,7 +2241,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.17
+      "rsi": 39.17,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "DWTM",
@@ -2142,7 +2260,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
-      "rsi": 81.32
+      "rsi": 81.32,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "DYNO",
@@ -2160,7 +2279,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 56.14
+      "rsi": 56.14,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "ECOP",
@@ -2178,7 +2298,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 29.67
+      "rsi": 29.67,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "EFERT",
@@ -2196,7 +2317,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.15
+      "rsi": 37.15,
+      "sector": "FERTILIZER"
     },
     {
       "symbol": "EFUG",
@@ -2214,7 +2336,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 44.67
+      "rsi": 44.67,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "EFUL",
@@ -2232,7 +2355,8 @@
       "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 38.93
+      "rsi": 38.93,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "ELCM",
@@ -2250,7 +2374,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 21.53
+      "rsi": 21.53,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "ELSM",
@@ -2268,7 +2393,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 52.38
+      "rsi": 52.38,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "EMCO",
@@ -2286,7 +2412,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 29.8
+      "rsi": 29.8,
+      "sector": "CABLE & ELECTRICAL GOODS"
     },
     {
       "symbol": "ENGROH",
@@ -2304,7 +2431,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.09
+      "rsi": 51.09,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "EPCL",
@@ -2322,7 +2450,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.01
+      "rsi": 51.01,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "EPCLPS",
@@ -2340,7 +2469,8 @@
       "superTrendSignal": "N/A",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": null
     },
     {
       "symbol": "EPQL",
@@ -2358,7 +2488,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 25.91
+      "rsi": 25.91,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "ESBL",
@@ -2376,7 +2507,8 @@
       "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.74
+      "rsi": 33.74,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "EWIC",
@@ -2394,7 +2526,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "EXIDE",
@@ -2412,7 +2545,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 20.28
+      "rsi": 20.28,
+      "sector": "AUTOMOBILE PARTS & ACCESSORIES"
     },
     {
       "symbol": "FABL",
@@ -2430,7 +2564,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 45.5
+      "rsi": 45.5,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "FANM",
@@ -2448,7 +2583,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 27.25
+      "rsi": 27.25,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "FASM",
@@ -2466,7 +2602,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 46.26
+      "rsi": 46.26,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "FATIMA",
@@ -2484,7 +2621,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.66
+      "rsi": 48.66,
+      "sector": "FERTILIZER"
     },
     {
       "symbol": "FCCL",
@@ -2502,7 +2640,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.79
+      "rsi": 39.79,
+      "sector": "CEMENT"
     },
     {
       "symbol": "FCEL",
@@ -2520,7 +2659,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 29.51
+      "rsi": 29.51,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "FCEPL",
@@ -2538,7 +2678,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.75
+      "rsi": 36.75,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "FCIBL",
@@ -2556,7 +2697,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.58
+      "rsi": 38.58,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "FCL",
@@ -2574,7 +2716,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.91
+      "rsi": 33.91,
+      "sector": "CABLE & ELECTRICAL GOODS"
     },
     {
       "symbol": "FCSC",
@@ -2592,7 +2735,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 34.69
+      "rsi": 34.69,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "FDPL",
@@ -2610,7 +2754,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 23.37
+      "rsi": 23.37,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "FECM",
@@ -2628,7 +2773,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 35.52
+      "rsi": 35.52,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "FECTC",
@@ -2646,7 +2792,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 27.1
+      "rsi": 27.1,
+      "sector": "CEMENT"
     },
     {
       "symbol": "FEM",
@@ -2664,7 +2811,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.45
+      "rsi": 39.45,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "FEROZ",
@@ -2682,7 +2830,8 @@
       "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.29
+      "rsi": 40.29,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "FFC",
@@ -2700,7 +2849,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_CONSOLIDATING",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.79
+      "rsi": 41.79,
+      "sector": "FERTILIZER"
     },
     {
       "symbol": "FFL",
@@ -2718,7 +2868,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 31.11
+      "rsi": 31.11,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "FFLM",
@@ -2736,7 +2887,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 28.63
+      "rsi": 28.63,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "FHAM",
@@ -2754,7 +2906,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 31.22
+      "rsi": 31.22,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "FIBLM",
@@ -2772,7 +2925,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.08
+      "rsi": 39.08,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "FIL",
@@ -2790,7 +2944,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 43.4
+      "rsi": 43.4,
+      "sector": "LEATHER & TANNERIES"
     },
     {
       "symbol": "FLYNG",
@@ -2808,7 +2963,8 @@
       "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 53.41
+      "rsi": 53.41,
+      "sector": "CEMENT"
     },
     {
       "symbol": "FML",
@@ -2826,7 +2982,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.72
+      "rsi": 35.72,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "FNEL",
@@ -2844,7 +3001,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 18.36
+      "rsi": 18.36,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "FPJM",
@@ -2862,7 +3020,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 27.25
+      "rsi": 27.25,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "FPRM",
@@ -2880,7 +3039,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.21
+      "rsi": 35.21,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "FRCL",
@@ -2898,7 +3058,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 20.41
+      "rsi": 20.41,
+      "sector": "GLASS & CERAMICS"
     },
     {
       "symbol": "FRSM",
@@ -2916,7 +3077,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 21.02
+      "rsi": 21.02,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "FSWL",
@@ -2934,7 +3096,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.39
+      "rsi": 48.39,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "FTMM",
@@ -2952,7 +3115,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.02
+      "rsi": 35.02,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "FTSM",
@@ -2970,7 +3134,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.02
+      "rsi": 33.02,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "FZCM",
@@ -2988,7 +3153,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.97
+      "rsi": 39.97,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "GADT",
@@ -3006,7 +3172,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 19.17
+      "rsi": 19.17,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "GAL",
@@ -3024,7 +3191,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 24.82
+      "rsi": 24.82,
+      "sector": "AUTOMOBILE ASSEMBLER"
     },
     {
       "symbol": "GAMON",
@@ -3042,7 +3210,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.84
+      "rsi": 36.84,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "GATI",
@@ -3060,7 +3229,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 13.49
+      "rsi": 13.49,
+      "sector": "SYNTHETIC & RAYON"
     },
     {
       "symbol": "GATM",
@@ -3078,7 +3248,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 21.56
+      "rsi": 21.56,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "GCIL",
@@ -3096,7 +3267,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.52
+      "rsi": 38.52,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "GCWL",
@@ -3114,7 +3286,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.78
+      "rsi": 41.78,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "GDL",
@@ -3132,7 +3305,8 @@
       "superTrendSignal": "N/A",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "GEMPAPL",
@@ -3150,7 +3324,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.53
+      "rsi": 37.53,
+      "sector": "PAPER, BOARD & PACKAGING"
     },
     {
       "symbol": "GEMSPNL",
@@ -3168,7 +3343,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 67.41
+      "rsi": 67.41,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "GFIL",
@@ -3186,7 +3362,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.68
+      "rsi": 35.68,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "GGGL",
@@ -3204,7 +3381,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 29.44
+      "rsi": 29.44,
+      "sector": "GLASS & CERAMICS"
     },
     {
       "symbol": "GGL",
@@ -3222,7 +3400,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 29.05
+      "rsi": 29.05,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "GHGL",
@@ -3240,7 +3419,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.55
+      "rsi": 48.55,
+      "sector": "GLASS & CERAMICS"
     },
     {
       "symbol": "GHNI",
@@ -3258,7 +3438,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.6
+      "rsi": 40.6,
+      "sector": "AUTOMOBILE ASSEMBLER"
     },
     {
       "symbol": "GLAXO",
@@ -3276,7 +3457,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.6
+      "rsi": 32.6,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "GLPL",
@@ -3294,7 +3476,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 82.43
+      "rsi": 82.43,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "GOC",
@@ -3312,7 +3495,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 39.78
+      "rsi": 39.78,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "GRR",
@@ -3330,7 +3514,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 50.01
+      "rsi": 50.01,
+      "sector": "REAL ESTATE INVESTMENT TRUST"
     },
     {
       "symbol": "GRYL",
@@ -3348,7 +3533,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.71
+      "rsi": 37.71,
+      "sector": "LEASING COMPANIES"
     },
     {
       "symbol": "GTYR",
@@ -3366,7 +3552,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 22.86
+      "rsi": 22.86,
+      "sector": "AUTOMOBILE PARTS & ACCESSORIES"
     },
     {
       "symbol": "GUSM",
@@ -3384,7 +3571,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.19
+      "rsi": 36.19,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "GVGL",
@@ -3402,7 +3590,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 39.82
+      "rsi": 39.82,
+      "sector": "GLASS & CERAMICS"
     },
     {
       "symbol": "GWLC",
@@ -3420,7 +3609,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 46.92
+      "rsi": 46.92,
+      "sector": "CEMENT"
     },
     {
       "symbol": "HABSM",
@@ -3438,7 +3628,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 34.22
+      "rsi": 34.22,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "HAEL",
@@ -3456,7 +3647,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.12
+      "rsi": 33.12,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "HAFL",
@@ -3474,7 +3666,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 19.56
+      "rsi": 19.56,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "HALEON",
@@ -3492,7 +3685,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.73
+      "rsi": 36.73,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "HASCOL",
@@ -3510,7 +3704,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.6
+      "rsi": 37.6,
+      "sector": "OIL & GAS MARKETING COMPANIES"
     },
     {
       "symbol": "HBL",
@@ -3528,7 +3723,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.25
+      "rsi": 41.25,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "HCAR",
@@ -3546,7 +3742,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 16.78
+      "rsi": 16.78,
+      "sector": "AUTOMOBILE ASSEMBLER"
     },
     {
       "symbol": "HGFA",
@@ -3564,7 +3761,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.36
+      "rsi": 39.36,
+      "sector": "CLOSE - END MUTUAL FUND"
     },
     {
       "symbol": "HICL",
@@ -3582,7 +3780,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.94
+      "rsi": 33.94,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "HIFA",
@@ -3600,7 +3799,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.05
+      "rsi": 36.05,
+      "sector": "CLOSE - END MUTUAL FUND"
     },
     {
       "symbol": "HINO",
@@ -3618,7 +3818,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 25.3
+      "rsi": 25.3,
+      "sector": "AUTOMOBILE ASSEMBLER"
     },
     {
       "symbol": "HINOON",
@@ -3636,7 +3837,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.31
+      "rsi": 39.31,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "HIRAT",
@@ -3654,7 +3856,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 28.91
+      "rsi": 28.91,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "HMB",
@@ -3672,7 +3875,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.63
+      "rsi": 51.63,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "HPL",
@@ -3690,7 +3894,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.87
+      "rsi": 39.87,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "HRPL",
@@ -3708,7 +3913,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 24.22
+      "rsi": 24.22,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "HTL",
@@ -3726,7 +3932,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 22.14
+      "rsi": 22.14,
+      "sector": "OIL & GAS MARKETING COMPANIES"
     },
     {
       "symbol": "HUBC",
@@ -3744,7 +3951,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 46.71
+      "rsi": 46.71,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "HUMNL",
@@ -3762,7 +3970,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 39.16
+      "rsi": 39.16,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "HUSI",
@@ -3780,7 +3989,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 47.08
+      "rsi": 47.08,
+      "sector": "PROPERTY"
     },
     {
       "symbol": "HWQS",
@@ -3798,7 +4008,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.03
+      "rsi": 37.03,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "IBFL",
@@ -3816,7 +4027,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 22.49
+      "rsi": 22.49,
+      "sector": "SYNTHETIC & RAYON"
     },
     {
       "symbol": "IBLHL",
@@ -3834,7 +4046,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 16.76
+      "rsi": 16.76,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "ICCI",
@@ -3852,7 +4065,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 21.89
+      "rsi": 21.89,
+      "sector": "TEXTILE WEAVING"
     },
     {
       "symbol": "ICIBL",
@@ -3870,7 +4084,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 29.26
+      "rsi": 29.26,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "ICL",
@@ -3888,7 +4103,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 34.02
+      "rsi": 34.02,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "IDRT",
@@ -3906,7 +4122,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 34.62
+      "rsi": 34.62,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "IDSM",
@@ -3924,7 +4141,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.13
+      "rsi": 35.13,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "IDYM",
@@ -3942,7 +4160,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 17.18
+      "rsi": 17.18,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "IGIHL",
@@ -3960,7 +4179,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.3
+      "rsi": 37.3,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "IGIL",
@@ -3978,7 +4198,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.04
+      "rsi": 37.04,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "ILP",
@@ -3996,7 +4217,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.79
+      "rsi": 51.79,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "IMAGE",
@@ -4014,7 +4236,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.99
+      "rsi": 38.99,
+      "sector": "SYNTHETIC & RAYON"
     },
     {
       "symbol": "IML",
@@ -4032,7 +4255,8 @@
       "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.22
+      "rsi": 48.22,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "IMS",
@@ -4050,7 +4274,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 27.98
+      "rsi": 27.98,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "INDU",
@@ -4068,7 +4293,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 42.37
+      "rsi": 42.37,
+      "sector": "AUTOMOBILE ASSEMBLER"
     },
     {
       "symbol": "INIL",
@@ -4086,7 +4312,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.38
+      "rsi": 37.38,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "INKL",
@@ -4104,7 +4331,8 @@
       "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 43.19
+      "rsi": 43.19,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "IPAK",
@@ -4122,7 +4350,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.65
+      "rsi": 38.65,
+      "sector": "PAPER, BOARD & PACKAGING"
     },
     {
       "symbol": "IREIT",
@@ -4140,7 +4369,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 50.74
+      "rsi": 50.74,
+      "sector": "REAL ESTATE INVESTMENT TRUST"
     },
     {
       "symbol": "ISIL",
@@ -4158,7 +4388,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 32.16
+      "rsi": 32.16,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "ISL",
@@ -4176,7 +4407,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 26.88
+      "rsi": 26.88,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "ITANZ",
@@ -4194,7 +4426,8 @@
       "superTrendSignal": "NO_DATA",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "ITTEFAQ",
@@ -4212,7 +4445,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 32.31
+      "rsi": 32.31,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "JATM",
@@ -4230,7 +4464,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.15
+      "rsi": 40.15,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "JDMT",
@@ -4248,7 +4483,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 13.72
+      "rsi": 13.72,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "JDWS",
@@ -4266,7 +4502,8 @@
       "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 50.66
+      "rsi": 50.66,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "JGICL",
@@ -4284,7 +4521,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.09
+      "rsi": 32.09,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "JKSM",
@@ -4302,7 +4540,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.12
+      "rsi": 51.12,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "JLICL",
@@ -4320,7 +4559,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 26.97
+      "rsi": 26.97,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "JSBL",
@@ -4338,7 +4578,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 24.01
+      "rsi": 24.01,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "JSCL",
@@ -4356,7 +4597,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.67
+      "rsi": 32.67,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "JSGCL",
@@ -4374,7 +4616,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 25.04
+      "rsi": 25.04,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "JSIL",
@@ -4392,7 +4635,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 31.28
+      "rsi": 31.28,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "JSML",
@@ -4410,7 +4654,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 30.33
+      "rsi": 30.33,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "JUBS",
@@ -4428,7 +4673,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "BUY",
-      "rsi": 59.32
+      "rsi": 59.32,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "JVDC",
@@ -4446,7 +4692,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.7
+      "rsi": 41.7,
+      "sector": "PROPERTY"
     },
     {
       "symbol": "JVDCPS",
@@ -4464,7 +4711,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": null
     },
     {
       "symbol": "KAPCO",
@@ -4482,7 +4730,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "SELL",
-      "rsi": 33.4
+      "rsi": 33.4,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "KCL",
@@ -4500,7 +4749,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 9.51
+      "rsi": 9.51,
+      "sector": "GLASS & CERAMICS"
     },
     {
       "symbol": "KEL",
@@ -4518,7 +4768,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 50.04
+      "rsi": 50.04,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "KHTC",
@@ -4536,7 +4787,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 27.71
+      "rsi": 27.71,
+      "sector": "TOBACCO"
     },
     {
       "symbol": "KHYT",
@@ -4554,7 +4806,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 31.13
+      "rsi": 31.13,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "KML",
@@ -4572,7 +4825,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 18.62
+      "rsi": 18.62,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "KOHC",
@@ -4590,7 +4844,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.5
+      "rsi": 41.5,
+      "sector": "CEMENT"
     },
     {
       "symbol": "KOHE",
@@ -4608,7 +4863,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 36.38
+      "rsi": 36.38,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "KOHP",
@@ -4626,7 +4882,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 34.51
+      "rsi": 34.51,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "KOHTM",
@@ -4644,7 +4901,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 30.49
+      "rsi": 30.49,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "KOIL",
@@ -4662,7 +4920,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 52.51
+      "rsi": 52.51,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "KOSM",
@@ -4680,7 +4939,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 24.61
+      "rsi": 24.61,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "KPUS",
@@ -4698,7 +4958,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.25
+      "rsi": 32.25,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "KSBP",
@@ -4716,7 +4977,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "STRONG_SELL",
-      "rsi": 30.56
+      "rsi": 30.56,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "KSTM",
@@ -4734,7 +4996,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.24
+      "rsi": 38.24,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "KTML",
@@ -4752,7 +5015,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 49.67
+      "rsi": 49.67,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "LCI",
@@ -4770,7 +5034,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 30.27
+      "rsi": 30.27,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "LEUL",
@@ -4788,7 +5053,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 29.82
+      "rsi": 29.82,
+      "sector": "LEATHER & TANNERIES"
     },
     {
       "symbol": "LIVEN",
@@ -4806,7 +5072,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 21.95
+      "rsi": 21.95,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "LOADS",
@@ -4824,7 +5091,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 23.39
+      "rsi": 23.39,
+      "sector": "AUTOMOBILE PARTS & ACCESSORIES"
     },
     {
       "symbol": "LOTCHEM",
@@ -4842,7 +5110,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.36
+      "rsi": 35.36,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "LPGL",
@@ -4860,7 +5129,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 27.03
+      "rsi": 27.03,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "LPL",
@@ -4878,7 +5148,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 28.55
+      "rsi": 28.55,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "LSECL",
@@ -4896,7 +5167,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 45.43
+      "rsi": 45.43,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "LSECLR",
@@ -4914,7 +5186,8 @@
       "superTrendSignal": "N/A",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": null
     },
     {
       "symbol": "LSEFSL",
@@ -4932,7 +5205,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 23.42
+      "rsi": 23.42,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "LSEVL",
@@ -4950,7 +5224,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 49.03
+      "rsi": 49.03,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "LUCK",
@@ -4968,7 +5243,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.89
+      "rsi": 36.89,
+      "sector": "CEMENT"
     },
     {
       "symbol": "MACFL",
@@ -4986,7 +5262,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.09
+      "rsi": 35.09,
+      "sector": "PAPER, BOARD & PACKAGING"
     },
     {
       "symbol": "MACTER",
@@ -5004,7 +5281,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.8
+      "rsi": 36.8,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "MARI",
@@ -5022,7 +5300,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 18.23
+      "rsi": 18.23,
+      "sector": "OIL & GAS EXPLORATION COMPANIES"
     },
     {
       "symbol": "MCB",
@@ -5040,7 +5319,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 45.5
+      "rsi": 45.5,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "MCBIM",
@@ -5058,7 +5338,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 43.75
+      "rsi": 43.75,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "MDTL",
@@ -5076,7 +5357,8 @@
       "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "BUY",
-      "rsi": 56.37
+      "rsi": 56.37,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "MEBL",
@@ -5094,7 +5376,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 43.23
+      "rsi": 43.23,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "MEHT",
@@ -5112,7 +5395,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 33.99
+      "rsi": 33.99,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "MERIT",
@@ -5130,7 +5414,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 14.44
+      "rsi": 14.44,
+      "sector": "PAPER, BOARD & PACKAGING"
     },
     {
       "symbol": "MFFL",
@@ -5148,7 +5433,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 25.94
+      "rsi": 25.94,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "MFL",
@@ -5166,7 +5452,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 34.37
+      "rsi": 34.37,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "MIRKS",
@@ -5184,7 +5471,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 23.83
+      "rsi": 23.83,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "ML",
@@ -5202,7 +5490,8 @@
       "superTrendSignal": "N/A",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": null
     },
     {
       "symbol": "MLCF",
@@ -5220,7 +5509,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.29
+      "rsi": 35.29,
+      "sector": "CEMENT"
     },
     {
       "symbol": "MQTM",
@@ -5238,7 +5528,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 35.35
+      "rsi": 35.35,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "MRNS",
@@ -5256,7 +5547,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 28.29
+      "rsi": 28.29,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "MSCL",
@@ -5274,7 +5566,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.23
+      "rsi": 38.23,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "MSOT",
@@ -5292,7 +5585,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.45
+      "rsi": 33.45,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "MTL",
@@ -5310,7 +5604,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.77
+      "rsi": 41.77,
+      "sector": "AUTOMOBILE ASSEMBLER"
     },
     {
       "symbol": "MUGHAL",
@@ -5328,7 +5623,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.27
+      "rsi": 39.27,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "MUREB",
@@ -5346,7 +5642,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 45.02
+      "rsi": 45.02,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "MWMP",
@@ -5364,7 +5661,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 21.56
+      "rsi": 21.56,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "NAGC",
@@ -5382,7 +5680,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.68
+      "rsi": 41.68,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "NATF",
@@ -5400,7 +5699,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.58
+      "rsi": 41.58,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "NBP",
@@ -5418,7 +5718,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 50.22
+      "rsi": 50.22,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "NCL",
@@ -5436,7 +5737,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.13
+      "rsi": 33.13,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "NCPL",
@@ -5454,7 +5756,8 @@
       "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 52.89
+      "rsi": 52.89,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "NESTLE",
@@ -5472,7 +5775,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_CONSOLIDATING",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.36
+      "rsi": 51.36,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "NETSOL",
@@ -5490,7 +5794,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 28.33
+      "rsi": 28.33,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "NEXT",
@@ -5508,7 +5813,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 43.31
+      "rsi": 43.31,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "NICL",
@@ -5526,7 +5832,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 27.81
+      "rsi": 27.81,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "NML",
@@ -5544,7 +5851,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 46.07
+      "rsi": 46.07,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "NONS",
@@ -5562,7 +5870,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.42
+      "rsi": 35.42,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "NPL",
@@ -5580,7 +5889,8 @@
       "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 50.04
+      "rsi": 50.04,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "NRL",
@@ -5598,7 +5908,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 29.49
+      "rsi": 29.49,
+      "sector": "REFINERY"
     },
     {
       "symbol": "NRSL",
@@ -5616,7 +5927,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 26.9
+      "rsi": 26.9,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "NSRM",
@@ -5634,7 +5946,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 24.78
+      "rsi": 24.78,
+      "sector": "SYNTHETIC & RAYON"
     },
     {
       "symbol": "OBOY",
@@ -5652,7 +5965,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 29.8
+      "rsi": 29.8,
+      "sector": "OIL & GAS MARKETING COMPANIES"
     },
     {
       "symbol": "OCTOPUS",
@@ -5670,7 +5984,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 8.1
+      "rsi": 8.1,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "OGDC",
@@ -5688,7 +6003,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.78
+      "rsi": 38.78,
+      "sector": "OIL & GAS EXPLORATION COMPANIES"
     },
     {
       "symbol": "OLPL",
@@ -5706,7 +6022,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 46.58
+      "rsi": 46.58,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "OLPM",
@@ -5724,7 +6041,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.05
+      "rsi": 48.05,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "OML",
@@ -5742,7 +6060,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.59
+      "rsi": 51.59,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "ORM",
@@ -5760,7 +6079,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.99
+      "rsi": 33.99,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "OTSU",
@@ -5778,7 +6098,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
-      "rsi": 70.23
+      "rsi": 70.23,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "PABC",
@@ -5796,7 +6117,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 28.67
+      "rsi": 28.67,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "PACE",
@@ -5814,7 +6136,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.39
+      "rsi": 33.39,
+      "sector": "PROPERTY"
     },
     {
       "symbol": "PAEL",
@@ -5832,7 +6155,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.55
+      "rsi": 32.55,
+      "sector": "CABLE & ELECTRICAL GOODS"
     },
     {
       "symbol": "PAKD",
@@ -5850,7 +6174,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 17.46
+      "rsi": 17.46,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "PAKL",
@@ -5868,7 +6193,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 30.48
+      "rsi": 30.48,
+      "sector": "LEATHER & TANNERIES"
     },
     {
       "symbol": "PAKOXY",
@@ -5886,7 +6212,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.15
+      "rsi": 35.15,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "PAKQATAR",
@@ -5904,7 +6231,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "PAKRI",
@@ -5922,7 +6250,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 47.42
+      "rsi": 47.42,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "PAKT",
@@ -5940,7 +6269,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 25.7
+      "rsi": 25.7,
+      "sector": "TOBACCO"
     },
     {
       "symbol": "PASL",
@@ -5958,7 +6288,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 31.69
+      "rsi": 31.69,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "PASM",
@@ -5976,7 +6307,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 44.63
+      "rsi": 44.63,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "PCAL",
@@ -5994,7 +6326,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.58
+      "rsi": 35.58,
+      "sector": "CABLE & ELECTRICAL GOODS"
     },
     {
       "symbol": "PECO",
@@ -6012,7 +6345,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 60.39
+      "rsi": 60.39,
+      "sector": "ENGINEERING"
     },
     {
       "symbol": "PGLC",
@@ -6030,7 +6364,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 29.95
+      "rsi": 29.95,
+      "sector": "LEASING COMPANIES"
     },
     {
       "symbol": "PIAHCLA",
@@ -6048,7 +6383,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 29
+      "rsi": 29,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "PIAHCLB",
@@ -6066,7 +6402,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.21
+      "rsi": 41.21,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "PIBTL",
@@ -6084,7 +6421,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.23
+      "rsi": 32.23,
+      "sector": "TRANSPORT"
     },
     {
       "symbol": "PICT",
@@ -6102,7 +6440,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 10.74
+      "rsi": 10.74,
+      "sector": "TRANSPORT"
     },
     {
       "symbol": "PIL",
@@ -6120,7 +6459,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 25.92
+      "rsi": 25.92,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "PIM",
@@ -6138,7 +6478,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 50.9
+      "rsi": 50.9,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "PINL",
@@ -6156,7 +6497,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.11
+      "rsi": 37.11,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "PIOC",
@@ -6174,7 +6516,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 29.01
+      "rsi": 29.01,
+      "sector": "CEMENT"
     },
     {
       "symbol": "PKGI",
@@ -6192,7 +6535,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
-      "rsi": 77.58
+      "rsi": 77.58,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "PKGP",
@@ -6210,7 +6554,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 21.97
+      "rsi": 21.97,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "PKGS",
@@ -6228,7 +6573,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 45.27
+      "rsi": 45.27,
+      "sector": "PAPER, BOARD & PACKAGING"
     },
     {
       "symbol": "PNSC",
@@ -6246,7 +6592,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.15
+      "rsi": 48.15,
+      "sector": "TRANSPORT"
     },
     {
       "symbol": "POL",
@@ -6264,7 +6611,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "BUY",
-      "rsi": 60.12
+      "rsi": 60.12,
+      "sector": "OIL & GAS EXPLORATION COMPANIES"
     },
     {
       "symbol": "POML",
@@ -6282,7 +6630,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.01
+      "rsi": 48.01,
+      "sector": "VANASPATI & ALLIED INDUSTRIES"
     },
     {
       "symbol": "POWER",
@@ -6300,7 +6649,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 43.88
+      "rsi": 43.88,
+      "sector": "CEMENT"
     },
     {
       "symbol": "PPL",
@@ -6318,7 +6668,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.71
+      "rsi": 33.71,
+      "sector": "OIL & GAS EXPLORATION COMPANIES"
     },
     {
       "symbol": "PPP",
@@ -6336,7 +6687,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 16.84
+      "rsi": 16.84,
+      "sector": "PAPER, BOARD & PACKAGING"
     },
     {
       "symbol": "PPVC",
@@ -6354,7 +6706,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 36.26
+      "rsi": 36.26,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "PQGTL",
@@ -6372,7 +6725,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "PREMA",
@@ -6390,7 +6744,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 31.83
+      "rsi": 31.83,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "PRET",
@@ -6408,7 +6763,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 49.24
+      "rsi": 49.24,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "PRL",
@@ -6426,7 +6782,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 27.22
+      "rsi": 27.22,
+      "sector": "REFINERY"
     },
     {
       "symbol": "PRWM",
@@ -6444,7 +6801,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 58.16
+      "rsi": 58.16,
+      "sector": "TEXTILE WEAVING"
     },
     {
       "symbol": "PSEL",
@@ -6462,7 +6820,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 26.26
+      "rsi": 26.26,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "PSO",
@@ -6480,7 +6839,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 31.67
+      "rsi": 31.67,
+      "sector": "OIL & GAS MARKETING COMPANIES"
     },
     {
       "symbol": "PSX",
@@ -6498,7 +6858,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 30.06
+      "rsi": 30.06,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "PSYL",
@@ -6516,7 +6877,8 @@
       "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 24.99
+      "rsi": 24.99,
+      "sector": "SYNTHETIC & RAYON"
     },
     {
       "symbol": "PTC",
@@ -6534,7 +6896,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.11
+      "rsi": 51.11,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "PTL",
@@ -6552,7 +6915,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 47.61
+      "rsi": 47.61,
+      "sector": "AUTOMOBILE PARTS & ACCESSORIES"
     },
     {
       "symbol": "QTECH",
@@ -6570,7 +6934,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.7
+      "rsi": 33.7,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "QUET",
@@ -6588,7 +6953,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
-      "rsi": 55.8
+      "rsi": 55.8,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "QUICE",
@@ -6606,7 +6972,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.83
+      "rsi": 51.83,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "RCML",
@@ -6624,7 +6991,8 @@
       "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 21.64
+      "rsi": 21.64,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "REDCO",
@@ -6642,7 +7010,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.52
+      "rsi": 40.52,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "REWM",
@@ -6660,7 +7029,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 59.7
+      "rsi": 59.7,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "RICL",
@@ -6678,7 +7048,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 34.01
+      "rsi": 34.01,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "RMPL",
@@ -6696,7 +7067,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.35
+      "rsi": 38.35,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "RPL",
@@ -6714,7 +7086,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 22.12
+      "rsi": 22.12,
+      "sector": "PAPER, BOARD & PACKAGING"
     },
     {
       "symbol": "RUBY",
@@ -6732,7 +7105,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.1
+      "rsi": 35.1,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "RUPL",
@@ -6750,7 +7124,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 24.15
+      "rsi": 24.15,
+      "sector": "SYNTHETIC & RAYON"
     },
     {
       "symbol": "SAIF",
@@ -6768,7 +7143,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.71
+      "rsi": 39.71,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "SANSM",
@@ -6786,7 +7162,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
-      "rsi": 65.46
+      "rsi": 65.46,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "SARC",
@@ -6804,7 +7181,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.6
+      "rsi": 33.6,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "SASML",
@@ -6822,7 +7200,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 60.57
+      "rsi": 60.57,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "SAZEW",
@@ -6840,7 +7219,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.94
+      "rsi": 51.94,
+      "sector": "AUTOMOBILE ASSEMBLER"
     },
     {
       "symbol": "SBL",
@@ -6858,7 +7238,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.33
+      "rsi": 40.33,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "SCBPL",
@@ -6876,7 +7257,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 42.53
+      "rsi": 42.53,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "SCL",
@@ -6894,7 +7276,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 64.02
+      "rsi": 64.02,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "SEARL",
@@ -6912,7 +7295,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 23.56
+      "rsi": 23.56,
+      "sector": "PHARMACEUTICALS"
     },
     {
       "symbol": "SEL",
@@ -6930,7 +7314,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 41.75
+      "rsi": 41.75,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "SEPL",
@@ -6948,7 +7333,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.38
+      "rsi": 39.38,
+      "sector": "PAPER, BOARD & PACKAGING"
     },
     {
       "symbol": "SERT",
@@ -6966,7 +7352,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 31.29
+      "rsi": 31.29,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "SFL",
@@ -6984,7 +7371,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 28.33
+      "rsi": 28.33,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "SGF",
@@ -7002,7 +7390,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.65
+      "rsi": 32.65,
+      "sector": "LEATHER & TANNERIES"
     },
     {
       "symbol": "SGPL",
@@ -7020,7 +7409,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 24.35
+      "rsi": 24.35,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "SHCM",
@@ -7038,7 +7428,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 27.22
+      "rsi": 27.22,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "SHDT",
@@ -7056,7 +7447,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.1
+      "rsi": 33.1,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "SHEZ",
@@ -7074,7 +7466,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 40.23
+      "rsi": 40.23,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "SHFA",
@@ -7092,7 +7485,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.22
+      "rsi": 40.22,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "SHJS",
@@ -7110,7 +7504,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.59
+      "rsi": 32.59,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "SHNI",
@@ -7128,7 +7523,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.77
+      "rsi": 35.77,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "SIBL",
@@ -7146,7 +7542,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.98
+      "rsi": 39.98,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "SIEM",
@@ -7164,7 +7561,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_CONSOLIDATING",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 51.31
+      "rsi": 51.31,
+      "sector": "CABLE & ELECTRICAL GOODS"
     },
     {
       "symbol": "SINDM",
@@ -7182,7 +7580,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 34.18
+      "rsi": 34.18,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "SITC",
@@ -7200,7 +7599,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 46.06
+      "rsi": 46.06,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "SKRS",
@@ -7218,7 +7618,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 25.59
+      "rsi": 25.59,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "SLGL",
@@ -7236,7 +7637,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 44.77
+      "rsi": 44.77,
+      "sector": "TRANSPORT"
     },
     {
       "symbol": "SLYT",
@@ -7254,7 +7656,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 43.66
+      "rsi": 43.66,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "SMCPL",
@@ -7272,7 +7675,8 @@
       "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 43.58
+      "rsi": 43.58,
+      "sector": "CEMENT"
     },
     {
       "symbol": "SML",
@@ -7290,7 +7694,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.23
+      "rsi": 48.23,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "SNAI",
@@ -7308,7 +7713,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 50.03
+      "rsi": 50.03,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "SNBL",
@@ -7326,7 +7732,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 32.85
+      "rsi": 32.85,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "SNGP",
@@ -7344,7 +7751,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.89
+      "rsi": 39.89,
+      "sector": "OIL & GAS MARKETING COMPANIES"
     },
     {
       "symbol": "SPEL",
@@ -7362,7 +7770,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 37.88
+      "rsi": 37.88,
+      "sector": "PAPER, BOARD & PACKAGING"
     },
     {
       "symbol": "SPL",
@@ -7380,7 +7789,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 22.66
+      "rsi": 22.66,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "SPWL",
@@ -7398,7 +7808,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 23.13
+      "rsi": 23.13,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "SRR",
@@ -7416,7 +7827,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": "REAL ESTATE INVESTMENT TRUST"
     },
     {
       "symbol": "SRVI",
@@ -7434,7 +7846,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 43.12
+      "rsi": 43.12,
+      "sector": "LEATHER & TANNERIES"
     },
     {
       "symbol": "SSGC",
@@ -7452,7 +7865,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "STRONG_SELL",
-      "rsi": 20.7
+      "rsi": 20.7,
+      "sector": "OIL & GAS MARKETING COMPANIES"
     },
     {
       "symbol": "SSML",
@@ -7470,7 +7884,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.4
+      "rsi": 38.4,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "SSOM",
@@ -7488,7 +7903,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "BUY",
-      "rsi": 64.32
+      "rsi": 64.32,
+      "sector": "VANASPATI & ALLIED INDUSTRIES"
     },
     {
       "symbol": "STCL",
@@ -7506,7 +7922,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 14.69
+      "rsi": 14.69,
+      "sector": "GLASS & CERAMICS"
     },
     {
       "symbol": "STJT",
@@ -7524,7 +7941,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 58.38
+      "rsi": 58.38,
+      "sector": "TEXTILE WEAVING"
     },
     {
       "symbol": "STL",
@@ -7542,7 +7960,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 57.97
+      "rsi": 57.97,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "STML",
@@ -7560,7 +7979,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.57
+      "rsi": 33.57,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "STPL",
@@ -7578,7 +7998,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 30.94
+      "rsi": 30.94,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "STYLERS",
@@ -7596,7 +8017,8 @@
       "superTrendSignal": "SELL",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 33.49
+      "rsi": 33.49,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "SURC",
@@ -7614,7 +8036,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 31.91
+      "rsi": 31.91,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "SUTM",
@@ -7632,7 +8055,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 27.35
+      "rsi": 27.35,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "SYM",
@@ -7650,7 +8074,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 30.8
+      "rsi": 30.8,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "SYS",
@@ -7668,7 +8093,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 30.78
+      "rsi": 30.78,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "SZTM",
@@ -7686,7 +8112,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 21.14
+      "rsi": 21.14,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "TATM",
@@ -7704,7 +8131,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 19.17
+      "rsi": 19.17,
+      "sector": "TEXTILE SPINNING"
     },
     {
       "symbol": "TBL",
@@ -7722,7 +8150,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 15.87
+      "rsi": 15.87,
+      "sector": "AUTOMOBILE PARTS & ACCESSORIES"
     },
     {
       "symbol": "TCORP",
@@ -7740,7 +8169,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 57.89
+      "rsi": 57.89,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "TCORPCPS",
@@ -7758,7 +8188,8 @@
       "superTrendSignal": "N/A",
       "nadarayaWatsonSignal": "N/A",
       "ultimateStrategySignal": "N/A",
-      "rsi": null
+      "rsi": null,
+      "sector": null
     },
     {
       "symbol": "TELE",
@@ -7776,7 +8207,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 27.36
+      "rsi": 27.36,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "TGL",
@@ -7794,7 +8226,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 19.86
+      "rsi": 19.86,
+      "sector": "GLASS & CERAMICS"
     },
     {
       "symbol": "THALL",
@@ -7812,7 +8245,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "BUY",
-      "rsi": 62.18
+      "rsi": 62.18,
+      "sector": "AUTOMOBILE PARTS & ACCESSORIES"
     },
     {
       "symbol": "THCCL",
@@ -7830,7 +8264,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 29.3
+      "rsi": 29.3,
+      "sector": "CEMENT"
     },
     {
       "symbol": "TOMCL",
@@ -7848,7 +8283,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 23.92
+      "rsi": 23.92,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "TOWL",
@@ -7866,7 +8302,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 27.37
+      "rsi": 27.37,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "TPL",
@@ -7884,7 +8321,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 28.52
+      "rsi": 28.52,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "TPLI",
@@ -7902,7 +8340,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 34.67
+      "rsi": 34.67,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "TPLL",
@@ -7920,7 +8359,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.91
+      "rsi": 40.91,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "TPLP",
@@ -7938,7 +8378,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 15.66
+      "rsi": 15.66,
+      "sector": "PROPERTY"
     },
     {
       "symbol": "TPLT",
@@ -7956,7 +8397,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 40.53
+      "rsi": 40.53,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "TREET",
@@ -7974,7 +8416,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 27.66
+      "rsi": 27.66,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "TRG",
@@ -7992,7 +8435,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 21.9
+      "rsi": 21.9,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "TRIPF",
@@ -8010,7 +8454,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 47.24
+      "rsi": 47.24,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "TRSM",
@@ -8028,7 +8473,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 22.7
+      "rsi": 22.7,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "TSBL",
@@ -8046,7 +8492,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 21.59
+      "rsi": 21.59,
+      "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
     },
     {
       "symbol": "TSMF",
@@ -8064,7 +8511,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.57
+      "rsi": 35.57,
+      "sector": "CLOSE - END MUTUAL FUND"
     },
     {
       "symbol": "TSML",
@@ -8082,7 +8530,8 @@
       "superTrendSignal": "BUY",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 48.91
+      "rsi": 48.91,
+      "sector": "SUGAR & ALLIED INDUSTRIES"
     },
     {
       "symbol": "TSPL",
@@ -8100,7 +8549,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 34.34
+      "rsi": 34.34,
+      "sector": "POWER GENERATION & DISTRIBUTION"
     },
     {
       "symbol": "UBDL",
@@ -8118,7 +8568,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
-      "rsi": 37.19
+      "rsi": 37.19,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "UBL",
@@ -8136,7 +8587,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 35.94
+      "rsi": 35.94,
+      "sector": "COMMERCIAL BANKS"
     },
     {
       "symbol": "UCAPM",
@@ -8154,7 +8606,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 24.68
+      "rsi": 24.68,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "UDLI",
@@ -8172,7 +8625,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 39.46
+      "rsi": 39.46,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "UDPL",
@@ -8190,7 +8644,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 28.4
+      "rsi": 28.4,
+      "sector": "MISCELLANEOUS"
     },
     {
       "symbol": "UNIC",
@@ -8208,7 +8663,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 46.3
+      "rsi": 46.3,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "UNITY",
@@ -8226,7 +8682,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "STRONG_SELL",
-      "rsi": 5.97
+      "rsi": 5.97,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "UPFL",
@@ -8244,7 +8701,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_CONSOLIDATING",
       "ultimateStrategySignal": "SELL",
-      "rsi": 26.81
+      "rsi": 26.81,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "UVIC",
@@ -8262,7 +8720,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 52.27
+      "rsi": 52.27,
+      "sector": "INSURANCE"
     },
     {
       "symbol": "WAFI",
@@ -8280,7 +8739,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 38.3
+      "rsi": 38.3,
+      "sector": "OIL & GAS MARKETING COMPANIES"
     },
     {
       "symbol": "WAHN",
@@ -8298,7 +8758,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "STRONG_SELL",
-      "rsi": 27.57
+      "rsi": 27.57,
+      "sector": "CHEMICAL"
     },
     {
       "symbol": "WASL",
@@ -8316,7 +8777,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 16.62
+      "rsi": 16.62,
+      "sector": "MODARABAS"
     },
     {
       "symbol": "WAVES",
@@ -8334,7 +8796,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 31.99
+      "rsi": 31.99,
+      "sector": "CABLE & ELECTRICAL GOODS"
     },
     {
       "symbol": "WAVESAPP",
@@ -8352,7 +8815,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 31.97
+      "rsi": 31.97,
+      "sector": "CABLE & ELECTRICAL GOODS"
     },
     {
       "symbol": "WTL",
@@ -8370,7 +8834,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 22.87
+      "rsi": 22.87,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "YOUW",
@@ -8388,7 +8853,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 20.13
+      "rsi": 20.13,
+      "sector": "TEXTILE WEAVING"
     },
     {
       "symbol": "ZAHID",
@@ -8406,7 +8872,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
-      "rsi": 24.28
+      "rsi": 24.28,
+      "sector": "TEXTILE COMPOSITE"
     },
     {
       "symbol": "ZAL",
@@ -8424,7 +8891,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 47.58
+      "rsi": 47.58,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     },
     {
       "symbol": "ZIL",
@@ -8442,7 +8910,8 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
-      "rsi": 30.3
+      "rsi": 30.3,
+      "sector": "FOOD & PERSONAL CARE PRODUCTS"
     },
     {
       "symbol": "ZUMA",
@@ -8460,10 +8929,11 @@
       "superTrendSignal": "HOLD",
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
-      "rsi": 28.86
+      "rsi": 28.86,
+      "sector": "TECHNOLOGY & COMMUNICATION"
     }
   ],
-  "updated_at": "2026-02-27T14:44:16.985Z",
+  "updated_at": "2026-02-28T08:04:48.402Z",
   "merged_with_bollinger": true,
   "merged_with_volume_spike": true,
   "merged_with_oversold": true,
