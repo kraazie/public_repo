@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T14:42:57.135Z",
+  "generated_at": "2026-03-23T14:43:02.873Z",
   "symbols_processed": 470,
   "signals": [
     {
@@ -8933,7 +8933,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION"
     }
   ],
-  "updated_at": "2026-03-20T14:44:13.167Z",
+  "updated_at": "2026-03-23T14:44:28.613Z",
   "merged_with_bollinger": true,
   "merged_with_volume_spike": true,
   "merged_with_oversold": true,
