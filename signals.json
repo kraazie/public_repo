@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T18:54:45.507Z",
+  "generated_at": "2026-05-15T19:36:09.683Z",
   "symbols_processed": 470,
   "signals": [
     {
@@ -22,7 +22,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 18.39,
       "top_gap_pct": -20.85,
-      "liquidity": 326,
+      "liquidity": 311070,
       "latest_price": 910.21
     },
     {
@@ -45,7 +45,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 31.35,
       "top_gap_pct": -53.8,
-      "liquidity": 17749,
+      "liquidity": 1052340,
       "latest_price": 54.51
     },
     {
@@ -68,7 +68,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 39.8,
       "top_gap_pct": -18.57,
-      "liquidity": 171777,
+      "liquidity": 31925230,
       "latest_price": 178.99
     },
     {
@@ -91,7 +91,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": -10.78,
       "top_gap_pct": -32.97,
-      "liquidity": 22804,
+      "liquidity": 24328874,
       "latest_price": 874.12
     },
     {
@@ -114,7 +114,7 @@
       "sector": "CEMENT",
       "price_change_pct": -29.69,
       "top_gap_pct": -32.05,
-      "liquidity": 308022,
+      "liquidity": 88867616,
       "latest_price": 226.29
     },
     {
@@ -137,7 +137,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 33.97,
       "top_gap_pct": -18.73,
-      "liquidity": 10776,
+      "liquidity": 833751,
       "latest_price": 73.94
     },
     {
@@ -160,7 +160,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 89.75,
       "top_gap_pct": -36.98,
-      "liquidity": 279118,
+      "liquidity": 20162218,
       "latest_price": 74.02
     },
     {
@@ -183,7 +183,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": 2.23,
       "top_gap_pct": -23.87,
-      "liquidity": 7063961,
+      "liquidity": 62416436,
       "latest_price": 8.26
     },
     {
@@ -206,7 +206,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 21.79,
       "top_gap_pct": -33.72,
-      "liquidity": 31493,
+      "liquidity": 1297036,
       "latest_price": 36.84
     },
     {
@@ -229,7 +229,7 @@
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
       "price_change_pct": 50.84,
       "top_gap_pct": -15.68,
-      "liquidity": 79406,
+      "liquidity": 11605456,
       "latest_price": 166.96
     },
     {
@@ -252,7 +252,7 @@
       "sector": "FERTILIZER",
       "price_change_pct": -17.37,
       "top_gap_pct": -47.42,
-      "liquidity": 721356,
+      "liquidity": 50009677,
       "latest_price": 46.53
     },
     {
@@ -275,7 +275,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": -2.99,
       "top_gap_pct": -30.51,
-      "liquidity": 438309,
+      "liquidity": 88119266,
       "latest_price": 179.75
     },
     {
@@ -298,7 +298,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 93.3,
       "top_gap_pct": -24.75,
-      "liquidity": 994135,
+      "liquidity": 9579411,
       "latest_price": 10.67
     },
     {
@@ -321,7 +321,7 @@
       "sector": "AUTOMOBILE ASSEMBLER",
       "price_change_pct": -16.88,
       "top_gap_pct": -28.66,
-      "liquidity": 37993,
+      "liquidity": 15698324,
       "latest_price": 355.28
     },
     {
@@ -344,7 +344,7 @@
       "sector": "FERTILIZER",
       "price_change_pct": 32.87,
       "top_gap_pct": -26.38,
-      "liquidity": 6010193,
+      "liquidity": 94059092,
       "latest_price": 14.23
     },
     {
@@ -367,7 +367,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 38.77,
       "top_gap_pct": -25.46,
-      "liquidity": 93590,
+      "liquidity": 9555218,
       "latest_price": 105.67
     },
     {
@@ -390,7 +390,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 42.59,
       "top_gap_pct": -42.6,
-      "liquidity": 1809,
+      "liquidity": 172978,
       "latest_price": 77
     },
     {
@@ -413,7 +413,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 66.26,
       "top_gap_pct": -39.67,
-      "liquidity": 916346,
+      "liquidity": 69587491,
       "latest_price": 75.35
     },
     {
@@ -436,7 +436,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": -7.77,
       "top_gap_pct": -25.86,
-      "liquidity": 2600736,
+      "liquidity": 433626966,
       "latest_price": 147.53
     },
     {
@@ -459,7 +459,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 102.14,
       "top_gap_pct": -28.26,
-      "liquidity": 3845455,
+      "liquidity": 317824582,
       "latest_price": 91.75
     },
     {
@@ -482,7 +482,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 20.88,
       "top_gap_pct": -31.35,
-      "liquidity": 3765,
+      "liquidity": 660393,
       "latest_price": 159.87
     },
     {
@@ -505,7 +505,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 73,
       "top_gap_pct": -41.18,
-      "liquidity": 756282,
+      "liquidity": 25683377,
       "latest_price": 34.34
     },
     {
@@ -528,7 +528,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 24.94,
       "top_gap_pct": -22.17,
-      "liquidity": 1355,
+      "liquidity": 74514,
       "latest_price": 55.6
     },
     {
@@ -551,7 +551,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 244.89,
       "top_gap_pct": -16.66,
-      "liquidity": 1427669,
+      "liquidity": 18903447,
       "latest_price": 16.21
     },
     {
@@ -574,7 +574,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 29.22,
       "top_gap_pct": -28.49,
-      "liquidity": 36248,
+      "liquidity": 1196909,
       "latest_price": 32.5
     },
     {
@@ -597,7 +597,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 44.48,
       "top_gap_pct": -16.26,
-      "liquidity": 14393,
+      "liquidity": 1615352,
       "latest_price": 118.91
     },
     {
@@ -620,7 +620,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": -27.87,
       "top_gap_pct": -45.3,
-      "liquidity": 1202300,
+      "liquidity": 14646390,
       "latest_price": 8.49
     },
     {
@@ -643,7 +643,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 154.23,
       "top_gap_pct": -42.15,
-      "liquidity": 12897,
+      "liquidity": 300125,
       "latest_price": 23.72
     },
     {
@@ -666,7 +666,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 81.99,
       "top_gap_pct": -26.81,
-      "liquidity": 3376310,
+      "liquidity": 15193802,
       "latest_price": 4.75
     },
     {
@@ -689,7 +689,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 30.13,
       "top_gap_pct": -24.96,
-      "liquidity": 2237864,
+      "liquidity": 25537840,
       "latest_price": 10.28
     },
     {
@@ -712,7 +712,7 @@
       "sector": null,
       "price_change_pct": 0,
       "top_gap_pct": -22.33,
-      "liquidity": 2450,
+      "liquidity": 20561,
       "latest_price": 8
     },
     {
@@ -735,7 +735,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 90.9,
       "top_gap_pct": -48.64,
-      "liquidity": 106992,
+      "liquidity": 1671134,
       "latest_price": 13
     },
     {
@@ -758,7 +758,7 @@
       "sector": "OIL & GAS MARKETING COMPANIES",
       "price_change_pct": 23.97,
       "top_gap_pct": -12.65,
-      "liquidity": 107862,
+      "liquidity": 59837856,
       "latest_price": 564.29
     },
     {
@@ -781,7 +781,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 7.7,
       "top_gap_pct": -40.19,
-      "liquidity": 35814,
+      "liquidity": 1168596,
       "latest_price": 27.99
     },
     {
@@ -804,7 +804,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 80.55,
       "top_gap_pct": -7.34,
-      "liquidity": 3723,
+      "liquidity": 269939,
       "latest_price": 111.22
     },
     {
@@ -827,7 +827,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": -4.07,
       "top_gap_pct": -26.48,
-      "liquidity": 19418,
+      "liquidity": 8564799,
       "latest_price": 393.32
     },
     {
@@ -850,7 +850,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 47.85,
       "top_gap_pct": -32.8,
-      "liquidity": 87132,
+      "liquidity": 1004504,
       "latest_price": 11.37
     },
     {
@@ -873,7 +873,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 37.95,
       "top_gap_pct": -53.28,
-      "liquidity": 2428884,
+      "liquidity": 33592917,
       "latest_price": 11.05
     },
     {
@@ -896,7 +896,7 @@
       "sector": "TEXTILE WEAVING",
       "price_change_pct": 182.82,
       "top_gap_pct": -50.14,
-      "liquidity": 13752,
+      "liquidity": 468270,
       "latest_price": 34.9
     },
     {
@@ -919,7 +919,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": 10.57,
       "top_gap_pct": -23.21,
-      "liquidity": 5422590,
+      "liquidity": 69547934,
       "latest_price": 12.24
     },
     {
@@ -942,7 +942,7 @@
       "sector": null,
       "price_change_pct": 262.24,
       "top_gap_pct": -69.77,
-      "liquidity": 1123,
+      "liquidity": 91315,
       "latest_price": 61.98
     },
     {
@@ -965,7 +965,7 @@
       "sector": null,
       "price_change_pct": 19.47,
       "top_gap_pct": -48.73,
-      "liquidity": 1620,
+      "liquidity": 38053,
       "latest_price": 17.92
     },
     {
@@ -988,7 +988,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": -29.18,
       "top_gap_pct": -45.89,
-      "liquidity": 1783830,
+      "liquidity": 39353763,
       "latest_price": 16.38
     },
     {
@@ -1011,7 +1011,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 54.88,
       "top_gap_pct": -53.84,
-      "liquidity": 65662,
+      "liquidity": 1518842,
       "latest_price": 19.36
     },
     {
@@ -1034,7 +1034,7 @@
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
       "price_change_pct": -18.41,
       "top_gap_pct": -28.98,
-      "liquidity": 34559,
+      "liquidity": 8977680,
       "latest_price": 226.55
     },
     {
@@ -1057,7 +1057,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 25.89,
       "top_gap_pct": -35.15,
-      "liquidity": 66145,
+      "liquidity": 5226469,
       "latest_price": 72.5
     },
     {
@@ -1080,7 +1080,7 @@
       "sector": "AUTOMOBILE ASSEMBLER",
       "price_change_pct": 53.96,
       "top_gap_pct": -8.64,
-      "liquidity": 10112,
+      "liquidity": 13847578,
       "latest_price": 1764.13
     },
     {
@@ -1103,7 +1103,7 @@
       "sector": "REFINERY",
       "price_change_pct": 46.43,
       "top_gap_pct": -11.36,
-      "liquidity": 1194724,
+      "liquidity": 878670677,
       "latest_price": 890.79
     },
     {
@@ -1126,7 +1126,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": -32.01,
       "top_gap_pct": -35.87,
-      "liquidity": 1272029,
+      "liquidity": 57625198,
       "latest_price": 34.82
     },
     {
@@ -1149,7 +1149,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": -22.84,
       "top_gap_pct": -57.82,
-      "liquidity": 2913388,
+      "liquidity": 290095367,
       "latest_price": 57.78
     },
     {
@@ -1172,7 +1172,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 349.6,
       "top_gap_pct": -32.37,
-      "liquidity": 2197,
+      "liquidity": 577219,
       "latest_price": 262.7
     },
     {
@@ -1195,7 +1195,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 15.23,
       "top_gap_pct": -30.2,
-      "liquidity": 574076,
+      "liquidity": 103332856,
       "latest_price": 160.55
     },
     {
@@ -1218,7 +1218,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": -25.27,
       "top_gap_pct": -48.45,
-      "liquidity": 190879,
+      "liquidity": 8905125,
       "latest_price": 33.01
     },
     {
@@ -1241,7 +1241,7 @@
       "sector": "LEATHER & TANNERIES",
       "price_change_pct": -36.46,
       "top_gap_pct": -45.22,
-      "liquidity": 3514,
+      "liquidity": 5243380,
       "latest_price": 984.86
     },
     {
@@ -1264,7 +1264,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": -12.66,
       "top_gap_pct": -22.98,
-      "liquidity": 2333567,
+      "liquidity": 118623047,
       "latest_price": 44.17
     },
     {
@@ -1287,7 +1287,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": -22.86,
       "top_gap_pct": -44.88,
-      "liquidity": 116015,
+      "liquidity": 12435301,
       "latest_price": 71.9
     },
     {
@@ -1310,7 +1310,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": -39.93,
       "top_gap_pct": -92.54,
-      "liquidity": 7730024,
+      "liquidity": 121445899,
       "latest_price": 5.49
     },
     {
@@ -1333,7 +1333,7 @@
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
       "price_change_pct": -58.69,
       "top_gap_pct": -61.94,
-      "liquidity": 4180,
+      "liquidity": 364732,
       "latest_price": 57.09
     },
     {
@@ -1356,7 +1356,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": -3.49,
       "top_gap_pct": -27.22,
-      "liquidity": 177017,
+      "liquidity": 19943918,
       "latest_price": 93.99
     },
     {
@@ -1379,7 +1379,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 13.83,
       "top_gap_pct": -33.81,
-      "liquidity": 1787698,
+      "liquidity": 68924075,
       "latest_price": 32.6
     },
     {
@@ -1402,7 +1402,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": -20.34,
       "top_gap_pct": -31.32,
-      "liquidity": 664683,
+      "liquidity": 110495999,
       "latest_price": 133.85
     },
     {
@@ -1425,7 +1425,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 171.37,
       "top_gap_pct": -45.08,
-      "liquidity": 113009,
+      "liquidity": 2396789,
       "latest_price": 21.33
     },
     {
@@ -1448,7 +1448,7 @@
       "sector": "GLASS & CERAMICS",
       "price_change_pct": 15.87,
       "top_gap_pct": -41.41,
-      "liquidity": 1295301,
+      "liquidity": 17953092,
       "latest_price": 10.37
     },
     {
@@ -1471,7 +1471,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 20.67,
       "top_gap_pct": -29.24,
-      "liquidity": 1306,
+      "liquidity": 1191553,
       "latest_price": 845.03
     },
     {
@@ -1494,7 +1494,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": -27.64,
       "top_gap_pct": -36.67,
-      "liquidity": 150909,
+      "liquidity": 23087768,
       "latest_price": 131.16
     },
     {
@@ -1517,7 +1517,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 24.2,
       "top_gap_pct": -43.45,
-      "liquidity": 2354043,
+      "liquidity": 77585519,
       "latest_price": 24.94
     },
     {
@@ -1540,7 +1540,7 @@
       "sector": "TRANSPORT",
       "price_change_pct": -90.29,
       "top_gap_pct": -94.07,
-      "liquidity": 163113,
+      "liquidity": 2171328,
       "latest_price": 6.28
     },
     {
@@ -1563,7 +1563,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 1477.1,
       "top_gap_pct": -40.76,
-      "liquidity": 16901091,
+      "liquidity": 110737267,
       "latest_price": 54.41
     },
     {
@@ -1586,7 +1586,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": -78.43,
       "top_gap_pct": -95.72,
-      "liquidity": 5112208,
+      "liquidity": 209364569,
       "latest_price": 7.31
     },
     {
@@ -1609,7 +1609,7 @@
       "sector": "WOOLLEN",
       "price_change_pct": 93.12,
       "top_gap_pct": -43.06,
-      "liquidity": 153444,
+      "liquidity": 11660066,
       "latest_price": 64
     },
     {
@@ -1632,7 +1632,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 124.23,
       "top_gap_pct": -28.63,
-      "liquidity": 47900,
+      "liquidity": 1380534,
       "latest_price": 32.76
     },
     {
@@ -1655,7 +1655,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 240.42,
       "top_gap_pct": -23.16,
-      "liquidity": 46637096,
+      "liquidity": 1355497029,
       "latest_price": 33.94
     },
     {
@@ -1678,7 +1678,7 @@
       "sector": "OIL & GAS MARKETING COMPANIES",
       "price_change_pct": 91.27,
       "top_gap_pct": -14.4,
-      "liquidity": 49269,
+      "liquidity": 1888924,
       "latest_price": 55.64
     },
     {
@@ -1701,7 +1701,7 @@
       "sector": "PROPERTY",
       "price_change_pct": 108.57,
       "top_gap_pct": -13.11,
-      "liquidity": 42724,
+      "liquidity": 1718822,
       "latest_price": 46.72
     },
     {
@@ -1724,7 +1724,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 358.32,
       "top_gap_pct": -22.03,
-      "liquidity": 4814,
+      "liquidity": 1734103,
       "latest_price": 1232
     },
     {
@@ -1747,7 +1747,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 37.85,
       "top_gap_pct": -32.48,
-      "liquidity": 13976,
+      "liquidity": 2619238,
       "latest_price": 154.92
     },
     {
@@ -1770,7 +1770,7 @@
       "sector": "CEMENT",
       "price_change_pct": 13.47,
       "top_gap_pct": -33.36,
-      "liquidity": 29652,
+      "liquidity": 15529081,
       "latest_price": 458.22
     },
     {
@@ -1793,7 +1793,7 @@
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
       "price_change_pct": 51.14,
       "top_gap_pct": -22.05,
-      "liquidity": 88470,
+      "liquidity": 17532630,
       "latest_price": 201.04
     },
     {
@@ -1816,7 +1816,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 11.75,
       "top_gap_pct": -32.93,
-      "liquidity": 6731,
+      "liquidity": 322900,
       "latest_price": 50.3
     },
     {
@@ -1839,7 +1839,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": -11.97,
       "top_gap_pct": -38.4,
-      "liquidity": 4142,
+      "liquidity": 215244,
       "latest_price": 42.43
     },
     {
@@ -1862,7 +1862,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 37.44,
       "top_gap_pct": -17.97,
-      "liquidity": 6489,
+      "liquidity": 348337,
       "latest_price": 53.6
     },
     {
@@ -1885,7 +1885,7 @@
       "sector": "PAPER, BOARD & PACKAGING",
       "price_change_pct": 18.95,
       "top_gap_pct": -38.72,
-      "liquidity": 1513312,
+      "liquidity": 48939943,
       "latest_price": 28.62
     },
     {
@@ -1908,7 +1908,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 11.59,
       "top_gap_pct": -29.21,
-      "liquidity": 25926,
+      "liquidity": 2054538,
       "latest_price": 76.71
     },
     {
@@ -1931,7 +1931,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 68,
       "top_gap_pct": -62.32,
-      "liquidity": 1169538,
+      "liquidity": 16905961,
       "latest_price": 10.08
     },
     {
@@ -1954,7 +1954,7 @@
       "sector": "CEMENT",
       "price_change_pct": 1.55,
       "top_gap_pct": -30.43,
-      "liquidity": 341093,
+      "liquidity": 107047843,
       "latest_price": 271.31
     },
     {
@@ -1977,7 +1977,7 @@
       "sector": "JUTE",
       "price_change_pct": 345.65,
       "top_gap_pct": -57.72,
-      "liquidity": 466633,
+      "liquidity": 4748079,
       "latest_price": 14.35
     },
     {
@@ -2000,7 +2000,7 @@
       "sector": null,
       "price_change_pct": 52,
       "top_gap_pct": -27.62,
-      "liquidity": 481227,
+      "liquidity": 1889250,
       "latest_price": 3.8
     },
     {
@@ -2023,7 +2023,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": -77.58,
       "top_gap_pct": -90.48,
-      "liquidity": 1986063,
+      "liquidity": 37590308,
       "latest_price": 8.44
     },
     {
@@ -2046,7 +2046,7 @@
       "sector": "TRANSPORT",
       "price_change_pct": -11.38,
       "top_gap_pct": -38.62,
-      "liquidity": 26653,
+      "liquidity": 466259,
       "latest_price": 13.78
     },
     {
@@ -2069,7 +2069,7 @@
       "sector": "REFINERY",
       "price_change_pct": 14.97,
       "top_gap_pct": -5.96,
-      "liquidity": 27837008,
+      "liquidity": 221275063,
       "latest_price": 8.83
     },
     {
@@ -2092,7 +2092,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": -19.43,
       "top_gap_pct": -24.19,
-      "liquidity": 12882,
+      "liquidity": 16410664,
       "latest_price": 1095.45
     },
     {
@@ -2115,7 +2115,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": -11,
       "top_gap_pct": -25.34,
-      "liquidity": 3432683,
+      "liquidity": 309819956,
       "latest_price": 77.83
     },
     {
@@ -2138,7 +2138,7 @@
       "sector": "PAPER, BOARD & PACKAGING",
       "price_change_pct": -25.3,
       "top_gap_pct": -46.85,
-      "liquidity": 173335,
+      "liquidity": 19805571,
       "latest_price": 76.01
     },
     {
@@ -2161,7 +2161,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 425.57,
       "top_gap_pct": -25.88,
-      "liquidity": 736292,
+      "liquidity": 24688801,
       "latest_price": 71.53
     },
     {
@@ -2184,7 +2184,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": -25.08,
       "top_gap_pct": -36.35,
-      "liquidity": 640833,
+      "liquidity": 71802890,
       "latest_price": 91.34
     },
     {
@@ -2207,7 +2207,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 111.26,
       "top_gap_pct": -55.2,
-      "liquidity": 7420159,
+      "liquidity": 47931652,
       "latest_price": 6.38
     },
     {
@@ -2230,7 +2230,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 113.31,
       "top_gap_pct": -22.93,
-      "liquidity": 999151,
+      "liquidity": 7027826,
       "latest_price": 7.53
     },
     {
@@ -2253,7 +2253,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 44.37,
       "top_gap_pct": -32.18,
-      "liquidity": 222402,
+      "liquidity": 10163157,
       "latest_price": 41.91
     },
     {
@@ -2276,7 +2276,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": -30.16,
       "top_gap_pct": -55.17,
-      "liquidity": 7804,
+      "liquidity": 786485,
       "latest_price": 60.38
     },
     {
@@ -2299,7 +2299,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": -6.5,
       "top_gap_pct": -27.65,
-      "liquidity": 9288,
+      "liquidity": 591799,
       "latest_price": 60.7
     },
     {
@@ -2322,7 +2322,7 @@
       "sector": "CEMENT",
       "price_change_pct": 35.33,
       "top_gap_pct": -27.22,
-      "liquidity": 433118,
+      "liquidity": 3110323,
       "latest_price": 6.55
     },
     {
@@ -2345,7 +2345,7 @@
       "sector": "CEMENT",
       "price_change_pct": -5.73,
       "top_gap_pct": -40.48,
-      "liquidity": 6577714,
+      "liquidity": 88795707,
       "latest_price": 9.88
     },
     {
@@ -2368,7 +2368,7 @@
       "sector": "REAL ESTATE INVESTMENT TRUST",
       "price_change_pct": 37.61,
       "top_gap_pct": -13.61,
-      "liquidity": 667232,
+      "liquidity": 22179725,
       "latest_price": 36.11
     },
     {
@@ -2391,7 +2391,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 93.03,
       "top_gap_pct": -46.11,
-      "liquidity": 162017,
+      "liquidity": 3154895,
       "latest_price": 17.45
     },
     {
@@ -2414,7 +2414,7 @@
       "sector": "AUTOMOBILE ASSEMBLER",
       "price_change_pct": -37.29,
       "top_gap_pct": -45.73,
-      "liquidity": 2550515,
+      "liquidity": 75472568,
       "latest_price": 22.79
     },
     {
@@ -2437,7 +2437,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 523.67,
       "top_gap_pct": -8.37,
-      "liquidity": 1922291,
+      "liquidity": 18349743,
       "latest_price": 18.71
     },
     {
@@ -2460,7 +2460,7 @@
       "sector": "CEMENT",
       "price_change_pct": 21.52,
       "top_gap_pct": -35.08,
-      "liquidity": 4686004,
+      "liquidity": 930413908,
       "latest_price": 179.03
     },
     {
@@ -2483,7 +2483,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": -24.83,
       "top_gap_pct": -60.37,
-      "liquidity": 907894,
+      "liquidity": 40256228,
       "latest_price": 26.55
     },
     {
@@ -2506,7 +2506,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 169.58,
       "top_gap_pct": -26.79,
-      "liquidity": 1780,
+      "liquidity": 108086,
       "latest_price": 67.26
     },
     {
@@ -2529,7 +2529,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 29.04,
       "top_gap_pct": -51.56,
-      "liquidity": 2351,
+      "liquidity": 180114,
       "latest_price": 58.07
     },
     {
@@ -2552,7 +2552,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 123.41,
       "top_gap_pct": -33.7,
-      "liquidity": 9948,
+      "liquidity": 4990361,
       "latest_price": 509.14
     },
     {
@@ -2575,7 +2575,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 528.04,
       "top_gap_pct": -38.2,
-      "liquidity": 2820,
+      "liquidity": 695134,
       "latest_price": 217.49
     },
     {
@@ -2598,7 +2598,7 @@
       "sector": "CEMENT",
       "price_change_pct": 33.24,
       "top_gap_pct": -35.3,
-      "liquidity": 289529,
+      "liquidity": 6014790,
       "latest_price": 18.16
     },
     {
@@ -2621,7 +2621,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 10.25,
       "top_gap_pct": -22.1,
-      "liquidity": 984587,
+      "liquidity": 33344354,
       "latest_price": 31.94
     },
     {
@@ -2644,7 +2644,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 117.05,
       "top_gap_pct": -46.65,
-      "liquidity": 2234938,
+      "liquidity": 22583375,
       "latest_price": 9.55
     },
     {
@@ -2667,7 +2667,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": -30.58,
       "top_gap_pct": -46.39,
-      "liquidity": 5897801,
+      "liquidity": 46145899,
       "latest_price": 5.79
     },
     {
@@ -2690,7 +2690,7 @@
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
       "price_change_pct": -6.27,
       "top_gap_pct": -36.84,
-      "liquidity": 32701,
+      "liquidity": 967621,
       "latest_price": 27.04
     },
     {
@@ -2713,7 +2713,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 29.26,
       "top_gap_pct": -30.03,
-      "liquidity": 343864,
+      "liquidity": 2520555,
       "latest_price": 7.2
     },
     {
@@ -2736,7 +2736,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 51.07,
       "top_gap_pct": -34.03,
-      "liquidity": 61388,
+      "liquidity": 493924,
       "latest_price": 9.17
     },
     {
@@ -2759,7 +2759,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 37.75,
       "top_gap_pct": -12.54,
-      "liquidity": 18480,
+      "liquidity": 5312715,
       "latest_price": 309
     },
     {
@@ -2782,7 +2782,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 27.13,
       "top_gap_pct": -53.08,
-      "liquidity": 566191,
+      "liquidity": 36099102,
       "latest_price": 46.2
     },
     {
@@ -2805,7 +2805,7 @@
       "sector": "FERTILIZER",
       "price_change_pct": 8.79,
       "top_gap_pct": -25.19,
-      "liquidity": 1601829,
+      "liquidity": 345552171,
       "latest_price": 196.98
     },
     {
@@ -2828,7 +2828,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 1.62,
       "top_gap_pct": -14.66,
-      "liquidity": 12465,
+      "liquidity": 1584040,
       "latest_price": 122.04
     },
     {
@@ -2851,7 +2851,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 3.24,
       "top_gap_pct": -20.02,
-      "liquidity": 9373,
+      "liquidity": 1453700,
       "latest_price": 145.56
     },
     {
@@ -2874,7 +2874,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 65.61,
       "top_gap_pct": -40.5,
-      "liquidity": 700,
+      "liquidity": 147700,
       "latest_price": 188
     },
     {
@@ -2897,7 +2897,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 7.99,
       "top_gap_pct": -16.8,
-      "liquidity": 1403,
+      "liquidity": 163306,
       "latest_price": 114.82
     },
     {
@@ -2920,7 +2920,7 @@
       "sector": "CABLE & ELECTRICAL GOODS",
       "price_change_pct": 8.22,
       "top_gap_pct": -54.31,
-      "liquidity": 79298,
+      "liquidity": 5120894,
       "latest_price": 45.18
     },
     {
@@ -2943,7 +2943,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 49.05,
       "top_gap_pct": -13,
-      "liquidity": 2715374,
+      "liquidity": 649962106,
       "latest_price": 263.19
     },
     {
@@ -2966,7 +2966,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 0.94,
       "top_gap_pct": -14.93,
-      "liquidity": 2571099,
+      "liquidity": 84966761,
       "latest_price": 33.45
     },
     {
@@ -3012,7 +3012,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": -12.23,
       "top_gap_pct": -31.9,
-      "liquidity": 523211,
+      "liquidity": 14409814,
       "latest_price": 23.82
     },
     {
@@ -3035,7 +3035,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 106.05,
       "top_gap_pct": -56.91,
-      "liquidity": 254558,
+      "liquidity": 4014614,
       "latest_price": 13.29
     },
     {
@@ -3058,7 +3058,7 @@
       "sector": "INSURANCE",
       "price_change_pct": -8.71,
       "top_gap_pct": -19.15,
-      "liquidity": 274,
+      "liquidity": 13742,
       "latest_price": 52.3
     },
     {
@@ -3081,7 +3081,7 @@
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
       "price_change_pct": -35.62,
       "top_gap_pct": -44.06,
-      "liquidity": 15178,
+      "liquidity": 10286146,
       "latest_price": 531.95
     },
     {
@@ -3104,7 +3104,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 81.04,
       "top_gap_pct": -16.71,
-      "liquidity": 2625238,
+      "liquidity": 210420926,
       "latest_price": 87.86
     },
     {
@@ -3127,7 +3127,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 89,
       "top_gap_pct": -49.22,
-      "liquidity": 207545,
+      "liquidity": 1414289,
       "latest_price": 5.5
     },
     {
@@ -3150,7 +3150,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 13.46,
       "top_gap_pct": -23,
-      "liquidity": 3827,
+      "liquidity": 1360924,
       "latest_price": 357.41
     },
     {
@@ -3173,7 +3173,7 @@
       "sector": "FERTILIZER",
       "price_change_pct": 55.54,
       "top_gap_pct": -30.19,
-      "liquidity": 1496829,
+      "liquidity": 206411383,
       "latest_price": 134.59
     },
     {
@@ -3196,7 +3196,7 @@
       "sector": "CEMENT",
       "price_change_pct": 3.44,
       "top_gap_pct": -21.09,
-      "liquidity": 9398164,
+      "liquidity": 490227517,
       "latest_price": 49.59
     },
     {
@@ -3219,7 +3219,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 43.47,
       "top_gap_pct": -34.82,
-      "liquidity": 365878,
+      "liquidity": 2436135,
       "latest_price": 5.71
     },
     {
@@ -3242,7 +3242,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 1.7,
       "top_gap_pct": -8.91,
-      "liquidity": 1137282,
+      "liquidity": 105318670,
       "latest_price": 106.3
     },
     {
@@ -3265,7 +3265,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 442.37,
       "top_gap_pct": -29.47,
-      "liquidity": 41070,
+      "liquidity": 1043824,
       "latest_price": 41.22
     },
     {
@@ -3288,7 +3288,7 @@
       "sector": "CABLE & ELECTRICAL GOODS",
       "price_change_pct": -2.52,
       "top_gap_pct": -17.54,
-      "liquidity": 3084942,
+      "liquidity": 76891455,
       "latest_price": 23.55
     },
     {
@@ -3311,7 +3311,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 241.43,
       "top_gap_pct": -53.77,
-      "liquidity": 8599622,
+      "liquidity": 46329351,
       "latest_price": 4.78
     },
     {
@@ -3334,7 +3334,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 106.57,
       "top_gap_pct": -51.65,
-      "liquidity": 4354142,
+      "liquidity": 27991604,
       "latest_price": 4.4
     },
     {
@@ -3357,7 +3357,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 0.26,
       "top_gap_pct": -66.84,
-      "liquidity": 16553,
+      "liquidity": 495705,
       "latest_price": 18.92
     },
     {
@@ -3380,7 +3380,7 @@
       "sector": "CEMENT",
       "price_change_pct": 22.43,
       "top_gap_pct": -54.77,
-      "liquidity": 568020,
+      "liquidity": 80305189,
       "latest_price": 88.53
     },
     {
@@ -3403,7 +3403,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 237.97,
       "top_gap_pct": -34.12,
-      "liquidity": 217490,
+      "liquidity": 2087271,
       "latest_price": 11.66
     },
     {
@@ -3426,7 +3426,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": 30.75,
       "top_gap_pct": -23.13,
-      "liquidity": 96920,
+      "liquidity": 36540509,
       "latest_price": 365.15
     },
     {
@@ -3449,7 +3449,7 @@
       "sector": "FERTILIZER",
       "price_change_pct": 39.02,
       "top_gap_pct": -25.24,
-      "liquidity": 2539028,
+      "liquidity": 1314040976,
       "latest_price": 512.11
     },
     {
@@ -3472,7 +3472,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 16.74,
       "top_gap_pct": -25.99,
-      "liquidity": 13528081,
+      "liquidity": 255777540,
       "latest_price": 17.71
     },
     {
@@ -3495,7 +3495,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 251,
       "top_gap_pct": -60,
-      "liquidity": 369291,
+      "liquidity": 2795759,
       "latest_price": 7.02
     },
     {
@@ -3518,7 +3518,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 40.86,
       "top_gap_pct": -23.27,
-      "liquidity": 48799,
+      "liquidity": 1546503,
       "latest_price": 30.3
     },
     {
@@ -3541,7 +3541,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 228.31,
       "top_gap_pct": -52.02,
-      "liquidity": 148335,
+      "liquidity": 1798583,
       "latest_price": 10.67
     },
     {
@@ -3564,7 +3564,7 @@
       "sector": "LEATHER & TANNERIES",
       "price_change_pct": 16.57,
       "top_gap_pct": -46.52,
-      "liquidity": 543,
+      "liquidity": 107755,
       "latest_price": 154.84
     },
     {
@@ -3587,7 +3587,7 @@
       "sector": "CEMENT",
       "price_change_pct": -17.6,
       "top_gap_pct": -33.57,
-      "liquidity": 541298,
+      "liquidity": 28810890,
       "latest_price": 41.75
     },
     {
@@ -3610,7 +3610,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": -11.96,
       "top_gap_pct": -43.26,
-      "liquidity": 64206,
+      "liquidity": 4109040,
       "latest_price": 52.8
     },
     {
@@ -3633,7 +3633,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": -54.61,
       "top_gap_pct": -94.52,
-      "liquidity": 22847805,
+      "liquidity": 207545992,
       "latest_price": 1.38
     },
     {
@@ -3656,7 +3656,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 139.58,
       "top_gap_pct": -44.62,
-      "liquidity": 400893,
+      "liquidity": 2837007,
       "latest_price": 6.9
     },
     {
@@ -3679,7 +3679,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 68.54,
       "top_gap_pct": -29.37,
-      "liquidity": 29118,
+      "liquidity": 367515,
       "latest_price": 12
     },
     {
@@ -3702,7 +3702,7 @@
       "sector": "GLASS & CERAMICS",
       "price_change_pct": 97.14,
       "top_gap_pct": -36.7,
-      "liquidity": 15836,
+      "liquidity": 883092,
       "latest_price": 69
     },
     {
@@ -3725,7 +3725,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": -6.09,
       "top_gap_pct": -29.58,
-      "liquidity": 25876,
+      "liquidity": 1331452,
       "latest_price": 44.7
     },
     {
@@ -3748,7 +3748,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 7.53,
       "top_gap_pct": -50.31,
-      "liquidity": 888,
+      "liquidity": 106731,
       "latest_price": 83.8
     },
     {
@@ -3771,7 +3771,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 314.25,
       "top_gap_pct": -30.67,
-      "liquidity": 27268,
+      "liquidity": 367512,
       "latest_price": 16.57
     },
     {
@@ -3794,7 +3794,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 64.54,
       "top_gap_pct": -61,
-      "liquidity": 25498,
+      "liquidity": 705327,
       "latest_price": 22.23
     },
     {
@@ -3817,7 +3817,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 115.44,
       "top_gap_pct": -37.21,
-      "liquidity": 7103,
+      "liquidity": 2016149,
       "latest_price": 280.27
     },
     {
@@ -3840,7 +3840,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 12.36,
       "top_gap_pct": -37.21,
-      "liquidity": 54113,
+      "liquidity": 22314318,
       "latest_price": 357.3
     },
     {
@@ -3863,7 +3863,7 @@
       "sector": "AUTOMOBILE ASSEMBLER",
       "price_change_pct": -9.15,
       "top_gap_pct": -32.19,
-      "liquidity": 707916,
+      "liquidity": 359445848,
       "latest_price": 429.26
     },
     {
@@ -3886,7 +3886,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": -22.81,
       "top_gap_pct": -37.91,
-      "liquidity": 60313,
+      "liquidity": 1647215,
       "latest_price": 19.93
     },
     {
@@ -3909,7 +3909,7 @@
       "sector": "SYNTHETIC & RAYON",
       "price_change_pct": -18.05,
       "top_gap_pct": -52.86,
-      "liquidity": 144913,
+      "liquidity": 20005123,
       "latest_price": 91.34
     },
     {
@@ -3932,7 +3932,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 0.5,
       "top_gap_pct": -45.23,
-      "liquidity": 1632745,
+      "liquidity": 47353566,
       "latest_price": 22.29
     },
     {
@@ -3955,7 +3955,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 43.26,
       "top_gap_pct": -30.15,
-      "liquidity": 3353290,
+      "liquidity": 99008309,
       "latest_price": 27.85
     },
     {
@@ -3978,7 +3978,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 82.82,
       "top_gap_pct": -33.56,
-      "liquidity": 4511542,
+      "liquidity": 75431501,
       "latest_price": 16.71
     },
     {
@@ -4001,7 +4001,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": -31.12,
       "top_gap_pct": -37.97,
-      "liquidity": 1763245,
+      "liquidity": 38536307,
       "latest_price": 20.47
     },
     {
@@ -4024,7 +4024,7 @@
       "sector": "PAPER, BOARD & PACKAGING",
       "price_change_pct": 7.73,
       "top_gap_pct": -48.68,
-      "liquidity": 17633,
+      "liquidity": 247699,
       "latest_price": 9.75
     },
     {
@@ -4047,7 +4047,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 235.48,
       "top_gap_pct": -0.64,
-      "liquidity": 83572,
+      "liquidity": 4219528,
       "latest_price": 85.95
     },
     {
@@ -4070,7 +4070,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 198,
       "top_gap_pct": -4.2,
-      "liquidity": 99534,
+      "liquidity": 1932447,
       "latest_price": 31.23
     },
     {
@@ -4093,7 +4093,7 @@
       "sector": "GLASS & CERAMICS",
       "price_change_pct": -2.88,
       "top_gap_pct": -44.02,
-      "liquidity": 2325042,
+      "liquidity": 25149869,
       "latest_price": 8.1
     },
     {
@@ -4116,7 +4116,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 29.81,
       "top_gap_pct": -43.12,
-      "liquidity": 3983970,
+      "liquidity": 87812317,
       "latest_price": 17.81
     },
     {
@@ -4139,7 +4139,7 @@
       "sector": "GLASS & CERAMICS",
       "price_change_pct": 9.59,
       "top_gap_pct": -31.14,
-      "liquidity": 859018,
+      "liquidity": 34453379,
       "latest_price": 35.98
     },
     {
@@ -4162,7 +4162,7 @@
       "sector": "AUTOMOBILE ASSEMBLER",
       "price_change_pct": 21.64,
       "top_gap_pct": -18.96,
-      "liquidity": 416624,
+      "liquidity": 336818408,
       "latest_price": 834.75
     },
     {
@@ -4185,7 +4185,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": -8.76,
       "top_gap_pct": -24.8,
-      "liquidity": 355711,
+      "liquidity": 141378755,
       "latest_price": 345.87
     },
     {
@@ -4208,7 +4208,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 149.73,
       "top_gap_pct": -14.77,
-      "liquidity": 17594,
+      "liquidity": 10128139,
       "latest_price": 700
     },
     {
@@ -4231,7 +4231,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 71.13,
       "top_gap_pct": -39.29,
-      "liquidity": 2663,
+      "liquidity": 299502,
       "latest_price": 104.39
     },
     {
@@ -4254,7 +4254,7 @@
       "sector": "REAL ESTATE INVESTMENT TRUST",
       "price_change_pct": 19.95,
       "top_gap_pct": -22.4,
-      "liquidity": 320407,
+      "liquidity": 6698471,
       "latest_price": 19.36
     },
     {
@@ -4277,7 +4277,7 @@
       "sector": "LEASING COMPANIES",
       "price_change_pct": 347.71,
       "top_gap_pct": -59.56,
-      "liquidity": 46114,
+      "liquidity": 977838,
       "latest_price": 21.49
     },
     {
@@ -4300,7 +4300,7 @@
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
       "price_change_pct": -21.82,
       "top_gap_pct": -42.6,
-      "liquidity": 508957,
+      "liquidity": 20661219,
       "latest_price": 29.56
     },
     {
@@ -4323,7 +4323,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": -20,
       "top_gap_pct": -53.42,
-      "liquidity": 30603,
+      "liquidity": 307466,
       "latest_price": 6.4
     },
     {
@@ -4346,7 +4346,7 @@
       "sector": "GLASS & CERAMICS",
       "price_change_pct": 13.48,
       "top_gap_pct": -28.49,
-      "liquidity": 22958,
+      "liquidity": 1420927,
       "latest_price": 53.63
     },
     {
@@ -4369,7 +4369,7 @@
       "sector": "CEMENT",
       "price_change_pct": 14.68,
       "top_gap_pct": -39.58,
-      "liquidity": 1212768,
+      "liquidity": 67807123,
       "latest_price": 47.1
     },
     {
@@ -4392,7 +4392,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 3.14,
       "top_gap_pct": -22.7,
-      "liquidity": 28790,
+      "liquidity": 2307649,
       "latest_price": 74.21
     },
     {
@@ -4415,7 +4415,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 59.71,
       "top_gap_pct": -37.78,
-      "liquidity": 65736,
+      "liquidity": 1576394,
       "latest_price": 22.04
     },
     {
@@ -4438,7 +4438,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 36.12,
       "top_gap_pct": -39.9,
-      "liquidity": 134,
+      "liquidity": 56040,
       "latest_price": 378.34
     },
     {
@@ -4461,7 +4461,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": 1.97,
       "top_gap_pct": -25.87,
-      "liquidity": 72149,
+      "liquidity": 59753719,
       "latest_price": 748.74
     },
     {
@@ -4484,7 +4484,7 @@
       "sector": "OIL & GAS MARKETING COMPANIES",
       "price_change_pct": 134.93,
       "top_gap_pct": -19.9,
-      "liquidity": 21715914,
+      "liquidity": 390615407,
       "latest_price": 23.47
     },
     {
@@ -4507,7 +4507,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 74.05,
       "top_gap_pct": -25.71,
-      "liquidity": 2349191,
+      "liquidity": 627413095,
       "latest_price": 274.85
     },
     {
@@ -4530,7 +4530,7 @@
       "sector": "AUTOMOBILE ASSEMBLER",
       "price_change_pct": -26.22,
       "top_gap_pct": -31.28,
-      "liquidity": 541835,
+      "liquidity": 148356805,
       "latest_price": 220.59
     },
     {
@@ -4553,7 +4553,7 @@
       "sector": "CLOSE - END MUTUAL FUND",
       "price_change_pct": 61.62,
       "top_gap_pct": -28.18,
-      "liquidity": 618994,
+      "liquidity": 9553068,
       "latest_price": 15.37
     },
     {
@@ -4576,7 +4576,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 29.21,
       "top_gap_pct": -50.34,
-      "liquidity": 460741,
+      "liquidity": 6478699,
       "latest_price": 10.13
     },
     {
@@ -4599,7 +4599,7 @@
       "sector": "CLOSE - END MUTUAL FUND",
       "price_change_pct": 52.37,
       "top_gap_pct": -39.27,
-      "liquidity": 1280175,
+      "liquidity": 8179591,
       "latest_price": 5.15
     },
     {
@@ -4622,7 +4622,7 @@
       "sector": "AUTOMOBILE ASSEMBLER",
       "price_change_pct": -14.46,
       "top_gap_pct": -47.99,
-      "liquidity": 24049,
+      "liquidity": 11415421,
       "latest_price": 329.98
     },
     {
@@ -4645,7 +4645,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": 3.4,
       "top_gap_pct": -23.25,
-      "liquidity": 36613,
+      "liquidity": 38837412,
       "latest_price": 952.52
     },
     {
@@ -4668,7 +4668,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 236.3,
       "top_gap_pct": 0,
-      "liquidity": 1453477,
+      "liquidity": 7175906,
       "latest_price": 10.19
     },
     {
@@ -4691,7 +4691,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 31.11,
       "top_gap_pct": -11.38,
-      "liquidity": 586786,
+      "liquidity": 67650645,
       "latest_price": 116.98
     },
     {
@@ -4714,7 +4714,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": 23.47,
       "top_gap_pct": -17.97,
-      "liquidity": 1089,
+      "liquidity": 4344396,
       "latest_price": 4011.41
     },
     {
@@ -4737,7 +4737,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": -43.97,
       "top_gap_pct": -51.54,
-      "liquidity": 48536,
+      "liquidity": 1368884,
       "latest_price": 17.93
     },
     {
@@ -4760,7 +4760,7 @@
       "sector": "OIL & GAS MARKETING COMPANIES",
       "price_change_pct": 1.02,
       "top_gap_pct": -37.22,
-      "liquidity": 631009,
+      "liquidity": 31696431,
       "latest_price": 41.75
     },
     {
@@ -4783,7 +4783,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": 49.09,
       "top_gap_pct": -16.07,
-      "liquidity": 6580691,
+      "liquidity": 1323559787,
       "latest_price": 209.82
     },
     {
@@ -4806,7 +4806,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": -13.77,
       "top_gap_pct": -41.93,
-      "liquidity": 7760241,
+      "liquidity": 107932249,
       "latest_price": 10.83
     },
     {
@@ -4829,7 +4829,7 @@
       "sector": "PROPERTY",
       "price_change_pct": 40.56,
       "top_gap_pct": -17.67,
-      "liquidity": 6969,
+      "liquidity": 235290,
       "latest_price": 37.46
     },
     {
@@ -4852,7 +4852,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 116.31,
       "top_gap_pct": -44.62,
-      "liquidity": 268969,
+      "liquidity": 5678604,
       "latest_price": 20.16
     },
     {
@@ -4875,7 +4875,7 @@
       "sector": "SYNTHETIC & RAYON",
       "price_change_pct": -37.76,
       "top_gap_pct": -44.34,
-      "liquidity": 587,
+      "liquidity": 156939,
       "latest_price": 211.52
     },
     {
@@ -4898,7 +4898,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": 21.48,
       "top_gap_pct": -46.75,
-      "liquidity": 1266512,
+      "liquidity": 76800766,
       "latest_price": 45.7
     },
     {
@@ -4921,7 +4921,7 @@
       "sector": "TEXTILE WEAVING",
       "price_change_pct": 28.63,
       "top_gap_pct": -32.3,
-      "liquidity": 112832,
+      "liquidity": 1547896,
       "latest_price": 13.48
     },
     {
@@ -4944,7 +4944,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 195,
       "top_gap_pct": -70.29,
-      "liquidity": 5177306,
+      "liquidity": 38740618,
       "latest_price": 4.13
     },
     {
@@ -4967,7 +4967,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 96.35,
       "top_gap_pct": -18.47,
-      "liquidity": 156876,
+      "liquidity": 21396883,
       "latest_price": 143.49
     },
     {
@@ -4990,7 +4990,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 126.42,
       "top_gap_pct": -16.69,
-      "liquidity": 61692,
+      "liquidity": 1648541,
       "latest_price": 37.45
     },
     {
@@ -5013,7 +5013,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 178.9,
       "top_gap_pct": -15.13,
-      "liquidity": 8965,
+      "liquidity": 230617,
       "latest_price": 35.56
     },
     {
@@ -5036,7 +5036,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": -3.26,
       "top_gap_pct": -41.49,
-      "liquidity": 58696,
+      "liquidity": 9792243,
       "latest_price": 135.75
     },
     {
@@ -5059,7 +5059,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 47.77,
       "top_gap_pct": -33.48,
-      "liquidity": 172590,
+      "liquidity": 45653002,
       "latest_price": 242.79
     },
     {
@@ -5082,7 +5082,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 4.78,
       "top_gap_pct": -34.32,
-      "liquidity": 16702,
+      "liquidity": 365434,
       "latest_price": 18.85
     },
     {
@@ -5105,7 +5105,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 42.13,
       "top_gap_pct": -18.43,
-      "liquidity": 824478,
+      "liquidity": 63215794,
       "latest_price": 81.04
     },
     {
@@ -5128,7 +5128,7 @@
       "sector": "SYNTHETIC & RAYON",
       "price_change_pct": 5.24,
       "top_gap_pct": -33.97,
-      "liquidity": 3075054,
+      "liquidity": 88063248,
       "latest_price": 24.32
     },
     {
@@ -5151,7 +5151,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 54.48,
       "top_gap_pct": -24.62,
-      "liquidity": 68797,
+      "liquidity": 1749969,
       "latest_price": 24.5
     },
     {
@@ -5174,7 +5174,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": -71.63,
       "top_gap_pct": -72.79,
-      "liquidity": 2115082,
+      "liquidity": 31154371,
       "latest_price": 15.92
     },
     {
@@ -5197,7 +5197,7 @@
       "sector": "AUTOMOBILE ASSEMBLER",
       "price_change_pct": 3.4,
       "top_gap_pct": -18.04,
-      "liquidity": 20023,
+      "liquidity": 40886614,
       "latest_price": 1991.65
     },
     {
@@ -5220,7 +5220,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": 4.61,
       "top_gap_pct": -35.6,
-      "liquidity": 222654,
+      "liquidity": 42340555,
       "latest_price": 160.35
     },
     {
@@ -5243,7 +5243,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 481.16,
       "top_gap_pct": -33.17,
-      "liquidity": 81608,
+      "liquidity": 5777917,
       "latest_price": 80.84
     },
     {
@@ -5266,7 +5266,7 @@
       "sector": "PAPER, BOARD & PACKAGING",
       "price_change_pct": 45.38,
       "top_gap_pct": -8.04,
-      "liquidity": 643973,
+      "liquidity": 17679159,
       "latest_price": 30.53
     },
     {
@@ -5289,7 +5289,7 @@
       "sector": "REAL ESTATE INVESTMENT TRUST",
       "price_change_pct": -33.61,
       "top_gap_pct": -38.39,
-      "liquidity": 1225285,
+      "liquidity": 12981031,
       "latest_price": 8.04
     },
     {
@@ -5312,7 +5312,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 8.51,
       "top_gap_pct": -20.61,
-      "liquidity": 232,
+      "liquidity": 456959,
       "latest_price": 1881.6
     },
     {
@@ -5335,7 +5335,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": -4.55,
       "top_gap_pct": -42.56,
-      "liquidity": 566765,
+      "liquidity": 56886746,
       "latest_price": 77.54
     },
     {
@@ -5358,7 +5358,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 802.2,
       "top_gap_pct": -26.9,
-      "liquidity": 638349,
+      "liquidity": 22294735,
       "latest_price": 32.75
     },
     {
@@ -5381,7 +5381,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": 8.73,
       "top_gap_pct": -34.97,
-      "liquidity": 1936927,
+      "liquidity": 18682338,
       "latest_price": 8.22
     },
     {
@@ -5404,7 +5404,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 5.49,
       "top_gap_pct": -40.33,
-      "liquidity": 13576,
+      "liquidity": 378398,
       "latest_price": 23.63
     },
     {
@@ -5427,7 +5427,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 133.33,
       "top_gap_pct": -33.32,
-      "liquidity": 45797,
+      "liquidity": 4691120,
       "latest_price": 116.69
     },
     {
@@ -5450,7 +5450,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": -4.37,
       "top_gap_pct": -12.34,
-      "liquidity": 714,
+      "liquidity": 632194,
       "latest_price": 899.42
     },
     {
@@ -5473,7 +5473,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 41.83,
       "top_gap_pct": -24.63,
-      "liquidity": 161357,
+      "liquidity": 12078549,
       "latest_price": 71.98
     },
     {
@@ -5496,7 +5496,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 180.33,
       "top_gap_pct": -49.71,
-      "liquidity": 4653,
+      "liquidity": 768569,
       "latest_price": 171
     },
     {
@@ -5519,7 +5519,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 29.72,
       "top_gap_pct": -38.66,
-      "liquidity": 21952,
+      "liquidity": 3992117,
       "latest_price": 171.75
     },
     {
@@ -5542,7 +5542,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 42.2,
       "top_gap_pct": -52.41,
-      "liquidity": 798747,
+      "liquidity": 11641793,
       "latest_price": 11.66
     },
     {
@@ -5565,7 +5565,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 12.57,
       "top_gap_pct": -41.86,
-      "liquidity": 628327,
+      "liquidity": 15313763,
       "latest_price": 18.72
     },
     {
@@ -5588,7 +5588,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 62.87,
       "top_gap_pct": -22.16,
-      "liquidity": 1672,
+      "liquidity": 243365,
       "latest_price": 165.72
     },
     {
@@ -5611,7 +5611,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 94.57,
       "top_gap_pct": -24.56,
-      "liquidity": 17893,
+      "liquidity": 650199,
       "latest_price": 43
     },
     {
@@ -5634,7 +5634,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 68.52,
       "top_gap_pct": -51.41,
-      "liquidity": 182830,
+      "liquidity": 13932493,
       "latest_price": 71.67
     },
     {
@@ -5657,7 +5657,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 528.74,
       "top_gap_pct": -29.55,
-      "liquidity": 45237,
+      "liquidity": 1576683,
       "latest_price": 52.06
     },
     {
@@ -5680,7 +5680,7 @@
       "sector": "PROPERTY",
       "price_change_pct": 122.49,
       "top_gap_pct": -18.12,
-      "liquidity": 1058837,
+      "liquidity": 116850258,
       "latest_price": 133.47
     },
     {
@@ -5703,7 +5703,7 @@
       "sector": null,
       "price_change_pct": 185.99,
       "top_gap_pct": -57.68,
-      "liquidity": 1477,
+      "liquidity": 117847,
       "latest_price": 64.49
     },
     {
@@ -5726,7 +5726,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": -12.82,
       "top_gap_pct": -34.04,
-      "liquidity": 1332211,
+      "liquidity": 44482717,
       "latest_price": 27.07
     },
     {
@@ -5749,7 +5749,7 @@
       "sector": "GLASS & CERAMICS",
       "price_change_pct": 181.54,
       "top_gap_pct": -41.71,
-      "liquidity": 236,
+      "liquidity": 38471,
       "latest_price": 140.49
     },
     {
@@ -5772,7 +5772,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": 92.27,
       "top_gap_pct": -11.69,
-      "liquidity": 82171893,
+      "liquidity": 566083866,
       "latest_price": 8.46
     },
     {
@@ -5795,7 +5795,7 @@
       "sector": "TOBACCO",
       "price_change_pct": -15.15,
       "top_gap_pct": -41.12,
-      "liquidity": 23139,
+      "liquidity": 9766702,
       "latest_price": 313.22
     },
     {
@@ -5818,7 +5818,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 28.55,
       "top_gap_pct": -59.04,
-      "liquidity": 255,
+      "liquidity": 467339,
       "latest_price": 1521.45
     },
     {
@@ -5841,7 +5841,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": -72.91,
       "top_gap_pct": -94.18,
-      "liquidity": 497332,
+      "liquidity": 8168558,
       "latest_price": 8.54
     },
     {
@@ -5864,7 +5864,7 @@
       "sector": "CEMENT",
       "price_change_pct": -79.04,
       "top_gap_pct": -85.74,
-      "liquidity": 956735,
+      "liquidity": 113932456,
       "latest_price": 80.98
     },
     {
@@ -5887,7 +5887,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": -4.31,
       "top_gap_pct": -31.97,
-      "liquidity": 239347,
+      "liquidity": 4420942,
       "latest_price": 15.98
     },
     {
@@ -5910,7 +5910,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": 354.17,
       "top_gap_pct": -64.02,
-      "liquidity": 378076,
+      "liquidity": 11702803,
       "latest_price": 27.25
     },
     {
@@ -5933,7 +5933,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 77.52,
       "top_gap_pct": -51.5,
-      "liquidity": 95653,
+      "liquidity": 6500253,
       "latest_price": 54.8
     },
     {
@@ -5956,7 +5956,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 356.37,
       "top_gap_pct": -53.78,
-      "liquidity": 941837,
+      "liquidity": 42929514,
       "latest_price": 50.84
     },
     {
@@ -5979,7 +5979,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 12.23,
       "top_gap_pct": -31.68,
-      "liquidity": 13056157,
+      "liquidity": 83826396,
       "latest_price": 5.78
     },
     {
@@ -6002,7 +6002,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 1100.85,
       "top_gap_pct": 0,
-      "liquidity": 4496,
+      "liquidity": 2094274,
       "latest_price": 1440.42
     },
     {
@@ -6025,7 +6025,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": 28.06,
       "top_gap_pct": -23.2,
-      "liquidity": 172306,
+      "liquidity": 37246032,
       "latest_price": 213.51
     },
     {
@@ -6048,7 +6048,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 25.47,
       "top_gap_pct": -54.45,
-      "liquidity": 77107,
+      "liquidity": 954673,
       "latest_price": 9.41
     },
     {
@@ -6071,7 +6071,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": -72.4,
       "top_gap_pct": -85.37,
-      "liquidity": 571732,
+      "liquidity": 40886327,
       "latest_price": 44.63
     },
     {
@@ -6094,7 +6094,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": -85.58,
       "top_gap_pct": -88.1,
-      "liquidity": 147672,
+      "liquidity": 47864884,
       "latest_price": 227.23
     },
     {
@@ -6117,7 +6117,7 @@
       "sector": "LEATHER & TANNERIES",
       "price_change_pct": 7.39,
       "top_gap_pct": -58.19,
-      "liquidity": 21717,
+      "liquidity": 989262,
       "latest_price": 30.39
     },
     {
@@ -6140,7 +6140,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": -46.59,
       "top_gap_pct": -54.69,
-      "liquidity": 389679,
+      "liquidity": 24392470,
       "latest_price": 36.61
     },
     {
@@ -6163,7 +6163,7 @@
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
       "price_change_pct": -8.54,
       "top_gap_pct": -41.24,
-      "liquidity": 4731847,
+      "liquidity": 77986727,
       "latest_price": 13.28
     },
     {
@@ -6186,7 +6186,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 27.17,
       "top_gap_pct": -22.22,
-      "liquidity": 4419054,
+      "liquidity": 118260311,
       "latest_price": 26.68
     },
     {
@@ -6209,7 +6209,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": -29.06,
       "top_gap_pct": -55.28,
-      "liquidity": 24253,
+      "liquidity": 2869290,
       "latest_price": 75.06
     },
     {
@@ -6232,7 +6232,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": -17.31,
       "top_gap_pct": -32.25,
-      "liquidity": 1259432,
+      "liquidity": 32022493,
       "latest_price": 19.64
     },
     {
@@ -6255,7 +6255,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 12.8,
       "top_gap_pct": -44.87,
-      "liquidity": 2103038,
+      "liquidity": 12868524,
       "latest_price": 5.64
     },
     {
@@ -6301,7 +6301,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": -24.54,
       "top_gap_pct": -56.35,
-      "liquidity": 14512,
+      "liquidity": 358518,
       "latest_price": 20.08
     },
     {
@@ -6324,7 +6324,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": -4.83,
       "top_gap_pct": -43.9,
-      "liquidity": 1817158,
+      "liquidity": 16372854,
       "latest_price": 9.06
     },
     {
@@ -6347,7 +6347,7 @@
       "sector": "CEMENT",
       "price_change_pct": 22.02,
       "top_gap_pct": -21.1,
-      "liquidity": 2051780,
+      "liquidity": 857565951,
       "latest_price": 417.75
     },
     {
@@ -6370,7 +6370,7 @@
       "sector": "PAPER, BOARD & PACKAGING",
       "price_change_pct": 244.53,
       "top_gap_pct": -25.81,
-      "liquidity": 1426798,
+      "liquidity": 53893704,
       "latest_price": 52.3
     },
     {
@@ -6393,7 +6393,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": -25.25,
       "top_gap_pct": -56.04,
-      "liquidity": 49150,
+      "liquidity": 19115438,
       "latest_price": 273.34
     },
     {
@@ -6416,7 +6416,7 @@
       "sector": "OIL & GAS EXPLORATION COMPANIES",
       "price_change_pct": 0.27,
       "top_gap_pct": -19.15,
-      "liquidity": 1355550,
+      "liquidity": 922688210,
       "latest_price": 642.79
     },
     {
@@ -6439,7 +6439,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 39.92,
       "top_gap_pct": -11.75,
-      "liquidity": 609427,
+      "liquidity": 221994343,
       "latest_price": 398.88
     },
     {
@@ -6462,7 +6462,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 81.31,
       "top_gap_pct": -31.45,
-      "liquidity": 10439,
+      "liquidity": 1739667,
       "latest_price": 170
     },
     {
@@ -6485,7 +6485,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 212.43,
       "top_gap_pct": -37.85,
-      "liquidity": 7214884,
+      "liquidity": 39135926,
       "latest_price": 5.78
     },
     {
@@ -6508,7 +6508,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 67.33,
       "top_gap_pct": -8.65,
-      "liquidity": 1610257,
+      "liquidity": 694727065,
       "latest_price": 479.59
     },
     {
@@ -6531,7 +6531,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": -20.85,
       "top_gap_pct": -44.33,
-      "liquidity": 2090,
+      "liquidity": 695030,
       "latest_price": 244.94
     },
     {
@@ -6554,7 +6554,7 @@
       "sector": "PAPER, BOARD & PACKAGING",
       "price_change_pct": 3.75,
       "top_gap_pct": -43.06,
-      "liquidity": 804048,
+      "liquidity": 10484357,
       "latest_price": 9.68
     },
     {
@@ -6577,7 +6577,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": -19.87,
       "top_gap_pct": -33.61,
-      "liquidity": 38856,
+      "liquidity": 7997661,
       "latest_price": 157.34
     },
     {
@@ -6600,7 +6600,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 37.98,
       "top_gap_pct": -40.29,
-      "liquidity": 273556,
+      "liquidity": 14696508,
       "latest_price": 51.19
     },
     {
@@ -6623,7 +6623,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 4.09,
       "top_gap_pct": -32.52,
-      "liquidity": 222443,
+      "liquidity": 8366800,
       "latest_price": 30.03
     },
     {
@@ -6669,7 +6669,7 @@
       "sector": "CEMENT",
       "price_change_pct": 12.21,
       "top_gap_pct": -36.91,
-      "liquidity": 8327641,
+      "liquidity": 798916060,
       "latest_price": 83.91
     },
     {
@@ -6692,7 +6692,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": -48.81,
       "top_gap_pct": -61.35,
-      "liquidity": 23790,
+      "liquidity": 846469,
       "latest_price": 20.21
     },
     {
@@ -6715,7 +6715,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 34.71,
       "top_gap_pct": -31.22,
-      "liquidity": 51333,
+      "liquidity": 3691846,
       "latest_price": 64.66
     },
     {
@@ -6738,7 +6738,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": 263.57,
       "top_gap_pct": -27.72,
-      "liquidity": 321409,
+      "liquidity": 6571761,
       "latest_price": 33.63
     },
     {
@@ -6761,7 +6761,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 45.18,
       "top_gap_pct": -14.65,
-      "liquidity": 39238,
+      "liquidity": 2629853,
       "latest_price": 77.67
     },
     {
@@ -6784,7 +6784,7 @@
       "sector": "AUTOMOBILE ASSEMBLER",
       "price_change_pct": -2.8,
       "top_gap_pct": -5.91,
-      "liquidity": 154714,
+      "liquidity": 84050086,
       "latest_price": 564.55
     },
     {
@@ -6807,7 +6807,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": -0.07,
       "top_gap_pct": -36.72,
-      "liquidity": 2151252,
+      "liquidity": 179715718,
       "latest_price": 72.13
     },
     {
@@ -6830,7 +6830,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 11.53,
       "top_gap_pct": -20.21,
-      "liquidity": 15676,
+      "liquidity": 14991256,
       "latest_price": 933.48
     },
     {
@@ -6853,7 +6853,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 257.48,
       "top_gap_pct": -62.28,
-      "liquidity": 108298,
+      "liquidity": 9181675,
       "latest_price": 64.49
     },
     {
@@ -6876,7 +6876,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 56.01,
       "top_gap_pct": -6.37,
-      "liquidity": 4264,
+      "liquidity": 275704,
       "latest_price": 74.9
     },
     {
@@ -6899,7 +6899,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 49.39,
       "top_gap_pct": -15.26,
-      "liquidity": 473316,
+      "liquidity": 165936309,
       "latest_price": 372.03
     },
     {
@@ -6922,7 +6922,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 104.3,
       "top_gap_pct": -37.55,
-      "liquidity": 8785096,
+      "liquidity": 1748911045,
       "latest_price": 179.74
     },
     {
@@ -6945,7 +6945,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 7.86,
       "top_gap_pct": -36.77,
-      "liquidity": 551997,
+      "liquidity": 26462055,
       "latest_price": 38.83
     },
     {
@@ -6968,7 +6968,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": 177.74,
       "top_gap_pct": -26.81,
-      "liquidity": 6554430,
+      "liquidity": 427444564,
       "latest_price": 65.49
     },
     {
@@ -6991,7 +6991,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 6.95,
       "top_gap_pct": -27.93,
-      "liquidity": 482,
+      "liquidity": 3822243,
       "latest_price": 7584.95
     },
     {
@@ -7014,7 +7014,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": -7.57,
       "top_gap_pct": -23.12,
-      "liquidity": 1228787,
+      "liquidity": 170608901,
       "latest_price": 129.62
     },
     {
@@ -7037,7 +7037,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 33.13,
       "top_gap_pct": -35.02,
-      "liquidity": 60432,
+      "liquidity": 721764,
       "latest_price": 10.65
     },
     {
@@ -7060,7 +7060,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 10.44,
       "top_gap_pct": -32.41,
-      "liquidity": 44479,
+      "liquidity": 8419563,
       "latest_price": 168.97
     },
     {
@@ -7083,7 +7083,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 32.36,
       "top_gap_pct": -30.75,
-      "liquidity": 2405171,
+      "liquidity": 389201940,
       "latest_price": 144.32
     },
     {
@@ -7106,7 +7106,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 16.51,
       "top_gap_pct": -41.6,
-      "liquidity": 20329,
+      "liquidity": 2133115,
       "latest_price": 91.75
     },
     {
@@ -7129,7 +7129,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": 101.63,
       "top_gap_pct": -28.68,
-      "liquidity": 4257193,
+      "liquidity": 316744987,
       "latest_price": 71.64
     },
     {
@@ -7152,7 +7152,7 @@
       "sector": "REFINERY",
       "price_change_pct": 63.3,
       "top_gap_pct": -20,
-      "liquidity": 1724364,
+      "liquidity": 630242650,
       "latest_price": 381.97
     },
     {
@@ -7175,7 +7175,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": -2.54,
       "top_gap_pct": -13.37,
-      "liquidity": 495657,
+      "liquidity": 16559150,
       "latest_price": 34.86
     },
     {
@@ -7198,7 +7198,7 @@
       "sector": "SYNTHETIC & RAYON",
       "price_change_pct": 169.78,
       "top_gap_pct": -39.95,
-      "liquidity": 675,
+      "liquidity": 75333,
       "latest_price": 135
     },
     {
@@ -7221,7 +7221,7 @@
       "sector": "OIL & GAS MARKETING COMPANIES",
       "price_change_pct": 27.81,
       "top_gap_pct": -27.44,
-      "liquidity": 1230701,
+      "liquidity": 13446195,
       "latest_price": 11.58
     },
     {
@@ -7244,7 +7244,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": -39.5,
       "top_gap_pct": -46.6,
-      "liquidity": 692292,
+      "liquidity": 32782539,
       "latest_price": 32.73
     },
     {
@@ -7267,7 +7267,7 @@
       "sector": "OIL & GAS EXPLORATION COMPANIES",
       "price_change_pct": 52.13,
       "top_gap_pct": -4.55,
-      "liquidity": 6167760,
+      "liquidity": 1687555225,
       "latest_price": 321.75
     },
     {
@@ -7290,7 +7290,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 26.28,
       "top_gap_pct": -19.81,
-      "liquidity": 36410,
+      "liquidity": 1666203,
       "latest_price": 47.67
     },
     {
@@ -7313,7 +7313,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 44.32,
       "top_gap_pct": -8.79,
-      "liquidity": 52727,
+      "liquidity": 1213442,
       "latest_price": 23.25
     },
     {
@@ -7336,7 +7336,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": -33.6,
       "top_gap_pct": -45.11,
-      "liquidity": 7620,
+      "liquidity": 315729,
       "latest_price": 33.51
     },
     {
@@ -7359,7 +7359,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 4.09,
       "top_gap_pct": -43.9,
-      "liquidity": 232458,
+      "liquidity": 3070874,
       "latest_price": 9.42
     },
     {
@@ -7382,7 +7382,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": 11.02,
       "top_gap_pct": -41.52,
-      "liquidity": 57285,
+      "liquidity": 19099517,
       "latest_price": 280.05
     },
     {
@@ -7405,7 +7405,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": -1.26,
       "top_gap_pct": -37.84,
-      "liquidity": 282613,
+      "liquidity": 39210913,
       "latest_price": 106.2
     },
     {
@@ -7428,7 +7428,7 @@
       "sector": "PROPERTY",
       "price_change_pct": 105.41,
       "top_gap_pct": -64.48,
-      "liquidity": 14562253,
+      "liquidity": 222142806,
       "latest_price": 11.01
     },
     {
@@ -7451,7 +7451,7 @@
       "sector": "CABLE & ELECTRICAL GOODS",
       "price_change_pct": -15.15,
       "top_gap_pct": -40.45,
-      "liquidity": 12603273,
+      "liquidity": 639981796,
       "latest_price": 38.47
     },
     {
@@ -7474,7 +7474,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 16.61,
       "top_gap_pct": -70.07,
-      "liquidity": 46578,
+      "liquidity": 11708832,
       "latest_price": 125.71
     },
     {
@@ -7497,7 +7497,7 @@
       "sector": "LEATHER & TANNERIES",
       "price_change_pct": 36.6,
       "top_gap_pct": -51.2,
-      "liquidity": 25259,
+      "liquidity": 1182887,
       "latest_price": 40.38
     },
     {
@@ -7520,7 +7520,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 74.44,
       "top_gap_pct": -25.71,
-      "liquidity": 22297,
+      "liquidity": 5524179,
       "latest_price": 264.96
     },
     {
@@ -7543,7 +7543,7 @@
       "sector": "INSURANCE",
       "price_change_pct": -13.02,
       "top_gap_pct": -30.34,
-      "liquidity": 1138074,
+      "liquidity": 25540621,
       "latest_price": 17.24
     },
     {
@@ -7566,7 +7566,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 24.74,
       "top_gap_pct": -40.53,
-      "liquidity": 1681224,
+      "liquidity": 30469449,
       "latest_price": 15.63
     },
     {
@@ -7589,7 +7589,7 @@
       "sector": "TOBACCO",
       "price_change_pct": 14.66,
       "top_gap_pct": -20.06,
-      "liquidity": 54278,
+      "liquidity": 73428404,
       "latest_price": 1375
     },
     {
@@ -7612,7 +7612,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 137.96,
       "top_gap_pct": -45.89,
-      "liquidity": 9403645,
+      "liquidity": 29906674,
       "latest_price": 2.57
     },
     {
@@ -7635,7 +7635,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 94.53,
       "top_gap_pct": -46.51,
-      "liquidity": 52713,
+      "liquidity": 362251,
       "latest_price": 6.05
     },
     {
@@ -7658,7 +7658,7 @@
       "sector": "CABLE & ELECTRICAL GOODS",
       "price_change_pct": 2.14,
       "top_gap_pct": -38.31,
-      "liquidity": 48011,
+      "liquidity": 9482472,
       "latest_price": 154.22
     },
     {
@@ -7681,7 +7681,7 @@
       "sector": "ENGINEERING",
       "price_change_pct": -12.05,
       "top_gap_pct": -38.78,
-      "liquidity": 1575,
+      "liquidity": 895147,
       "latest_price": 606.86
     },
     {
@@ -7704,7 +7704,7 @@
       "sector": "LEASING COMPANIES",
       "price_change_pct": -29.37,
       "top_gap_pct": -46.32,
-      "liquidity": 23281,
+      "liquidity": 396528,
       "latest_price": 14.21
     },
     {
@@ -7727,7 +7727,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 50.45,
       "top_gap_pct": -49.12,
-      "liquidity": 10050648,
+      "liquidity": 289689713,
       "latest_price": 25.26
     },
     {
@@ -7750,7 +7750,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 46.14,
       "top_gap_pct": -56.64,
-      "liquidity": 63,
+      "liquidity": 1515586,
       "latest_price": 18206
     },
     {
@@ -7773,7 +7773,7 @@
       "sector": "TRANSPORT",
       "price_change_pct": 89.91,
       "top_gap_pct": -27.91,
-      "liquidity": 22845908,
+      "liquidity": 354189309,
       "latest_price": 16.56
     },
     {
@@ -7796,7 +7796,7 @@
       "sector": "TRANSPORT",
       "price_change_pct": -4.2,
       "top_gap_pct": -28.86,
-      "liquidity": 254511,
+      "liquidity": 10860387,
       "latest_price": 37.17
     },
     {
@@ -7819,7 +7819,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 101.28,
       "top_gap_pct": -13.1,
-      "liquidity": 513983,
+      "liquidity": 2796427,
       "latest_price": 6.3
     },
     {
@@ -7842,7 +7842,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 84.73,
       "top_gap_pct": -26.24,
-      "liquidity": 4450,
+      "liquidity": 103111,
       "latest_price": 23.11
     },
     {
@@ -7865,7 +7865,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 57.44,
       "top_gap_pct": -26.08,
-      "liquidity": 407048,
+      "liquidity": 3765757,
       "latest_price": 9.21
     },
     {
@@ -7888,7 +7888,7 @@
       "sector": "CEMENT",
       "price_change_pct": 16.67,
       "top_gap_pct": -40.65,
-      "liquidity": 842563,
+      "liquidity": 281554934,
       "latest_price": 253.7
     },
     {
@@ -7911,7 +7911,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 111.14,
       "top_gap_pct": -54.04,
-      "liquidity": 91859,
+      "liquidity": 1704322,
       "latest_price": 19.53
     },
     {
@@ -7934,7 +7934,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": -62.18,
       "top_gap_pct": -85.56,
-      "liquidity": 849513,
+      "liquidity": 51124416,
       "latest_price": 43.17
     },
     {
@@ -7957,7 +7957,7 @@
       "sector": "PAPER, BOARD & PACKAGING",
       "price_change_pct": 44.28,
       "top_gap_pct": -11.7,
-      "liquidity": 16859,
+      "liquidity": 11516383,
       "latest_price": 754.97
     },
     {
@@ -7980,7 +7980,7 @@
       "sector": "TRANSPORT",
       "price_change_pct": 61.68,
       "top_gap_pct": -29.5,
-      "liquidity": 61597,
+      "liquidity": 28129519,
       "latest_price": 506.92
     },
     {
@@ -8003,7 +8003,7 @@
       "sector": "OIL & GAS EXPLORATION COMPANIES",
       "price_change_pct": 22.93,
       "top_gap_pct": -11.33,
-      "liquidity": 332194,
+      "liquidity": 211506329,
       "latest_price": 660.51
     },
     {
@@ -8026,7 +8026,7 @@
       "sector": "VANASPATI & ALLIED INDUSTRIES",
       "price_change_pct": -30.47,
       "top_gap_pct": -56.76,
-      "liquidity": 14491,
+      "liquidity": 3239245,
       "latest_price": 142.89
     },
     {
@@ -8049,7 +8049,7 @@
       "sector": "CEMENT",
       "price_change_pct": 28.15,
       "top_gap_pct": -14.43,
-      "liquidity": 4241472,
+      "liquidity": 74496082,
       "latest_price": 19.03
     },
     {
@@ -8072,7 +8072,7 @@
       "sector": "OIL & GAS EXPLORATION COMPANIES",
       "price_change_pct": 31.89,
       "top_gap_pct": -20.11,
-      "liquidity": 8596671,
+      "liquidity": 1781814726,
       "latest_price": 227.37
     },
     {
@@ -8095,7 +8095,7 @@
       "sector": "PAPER, BOARD & PACKAGING",
       "price_change_pct": -6.35,
       "top_gap_pct": -52.33,
-      "liquidity": 64692,
+      "liquidity": 12155079,
       "latest_price": 133
     },
     {
@@ -8118,7 +8118,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 132.62,
       "top_gap_pct": -16.82,
-      "liquidity": 11966,
+      "liquidity": 185481,
       "latest_price": 19.54
     },
     {
@@ -8141,7 +8141,7 @@
       "sector": "INSURANCE",
       "price_change_pct": -15.58,
       "top_gap_pct": -23.26,
-      "liquidity": 1506873,
+      "liquidity": 21548627,
       "latest_price": 13
     },
     {
@@ -8164,7 +8164,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": -31.83,
       "top_gap_pct": -39.75,
-      "liquidity": 3626183,
+      "liquidity": 156698213,
       "latest_price": 33.97
     },
     {
@@ -8187,7 +8187,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 31.46,
       "top_gap_pct": -10.34,
-      "liquidity": 1375,
+      "liquidity": 623791,
       "latest_price": 500
     },
     {
@@ -8210,7 +8210,7 @@
       "sector": "REFINERY",
       "price_change_pct": 6.55,
       "top_gap_pct": -12.97,
-      "liquidity": 10056237,
+      "liquidity": 354729201,
       "latest_price": 35.62
     },
     {
@@ -8233,7 +8233,7 @@
       "sector": "TEXTILE WEAVING",
       "price_change_pct": 52.17,
       "top_gap_pct": -23.47,
-      "liquidity": 5258,
+      "liquidity": 288386,
       "latest_price": 55.39
     },
     {
@@ -8256,7 +8256,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": -7.24,
       "top_gap_pct": -46.9,
-      "liquidity": 3180,
+      "liquidity": 3213674,
       "latest_price": 868.26
     },
     {
@@ -8279,7 +8279,7 @@
       "sector": "OIL & GAS MARKETING COMPANIES",
       "price_change_pct": -6.79,
       "top_gap_pct": -30.12,
-      "liquidity": 3842733,
+      "liquidity": 1632882441,
       "latest_price": 354.14
     },
     {
@@ -8302,7 +8302,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 36.72,
       "top_gap_pct": -32.07,
-      "liquidity": 2161224,
+      "liquidity": 81202519,
       "latest_price": 36.64
     },
     {
@@ -8325,7 +8325,7 @@
       "sector": "SYNTHETIC & RAYON",
       "price_change_pct": 44.27,
       "top_gap_pct": -9.07,
-      "liquidity": 6307,
+      "liquidity": 410335,
       "latest_price": 89.94
     },
     {
@@ -8348,7 +8348,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 129.23,
       "top_gap_pct": -25.6,
-      "liquidity": 15494021,
+      "liquidity": 630631489,
       "latest_price": 52.08
     },
     {
@@ -8371,7 +8371,7 @@
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
       "price_change_pct": 35.06,
       "top_gap_pct": -21.07,
-      "liquidity": 255337,
+      "liquidity": 13007820,
       "latest_price": 52
     },
     {
@@ -8394,7 +8394,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": -34.25,
       "top_gap_pct": -47.13,
-      "liquidity": 639619,
+      "liquidity": 25565354,
       "latest_price": 30.56
     },
     {
@@ -8417,7 +8417,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 8.04,
       "top_gap_pct": -31.92,
-      "liquidity": 32946,
+      "liquidity": 560337,
       "latest_price": 15.59
     },
     {
@@ -8440,7 +8440,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 266.76,
       "top_gap_pct": -41.32,
-      "liquidity": 3141463,
+      "liquidity": 57378812,
       "latest_price": 27.03
     },
     {
@@ -8463,7 +8463,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": -9.78,
       "top_gap_pct": -46.32,
-      "liquidity": 392,
+      "liquidity": 204995,
       "latest_price": 400.22
     },
     {
@@ -8486,7 +8486,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 3.75,
       "top_gap_pct": -35.64,
-      "liquidity": 19385,
+      "liquidity": 485857,
       "latest_price": 26
     },
     {
@@ -8509,7 +8509,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 54.13,
       "top_gap_pct": -30.56,
-      "liquidity": 1515,
+      "liquidity": 264607,
       "latest_price": 169.47
     },
     {
@@ -8532,7 +8532,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 16.36,
       "top_gap_pct": -43.31,
-      "liquidity": 71535,
+      "liquidity": 1169350,
       "latest_price": 12.8
     },
     {
@@ -8555,7 +8555,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 2.68,
       "top_gap_pct": -29.86,
-      "liquidity": 214,
+      "liquidity": 2145225,
       "latest_price": 9515
     },
     {
@@ -8578,7 +8578,7 @@
       "sector": "PAPER, BOARD & PACKAGING",
       "price_change_pct": 9.64,
       "top_gap_pct": -36.45,
-      "liquidity": 693503,
+      "liquidity": 13498282,
       "latest_price": 15.92
     },
     {
@@ -8601,7 +8601,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 100.26,
       "top_gap_pct": -25.23,
-      "liquidity": 15316,
+      "liquidity": 207368,
       "latest_price": 15.38
     },
     {
@@ -8624,7 +8624,7 @@
       "sector": "SYNTHETIC & RAYON",
       "price_change_pct": 39.17,
       "top_gap_pct": -40.55,
-      "liquidity": 46204,
+      "liquidity": 1349935,
       "latest_price": 25.44
     },
     {
@@ -8647,7 +8647,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 234.31,
       "top_gap_pct": -41.35,
-      "liquidity": 111643,
+      "liquidity": 2820680,
       "latest_price": 30.79
     },
     {
@@ -8670,7 +8670,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 110.64,
       "top_gap_pct": -8.49,
-      "liquidity": 5381,
+      "liquidity": 366449,
       "latest_price": 124.38
     },
     {
@@ -8693,7 +8693,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 89.42,
       "top_gap_pct": -40.51,
-      "liquidity": 21781,
+      "liquidity": 1715993,
       "latest_price": 61.22
     },
     {
@@ -8716,7 +8716,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 416.67,
       "top_gap_pct": -6.59,
-      "liquidity": 1464,
+      "liquidity": 296788,
       "latest_price": 322.97
     },
     {
@@ -8739,7 +8739,7 @@
       "sector": "AUTOMOBILE ASSEMBLER",
       "price_change_pct": 70.05,
       "top_gap_pct": -11.12,
-      "liquidity": 283494,
+      "liquidity": 510356211,
       "latest_price": 2210.37
     },
     {
@@ -8762,7 +8762,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 20.14,
       "top_gap_pct": -38.5,
-      "liquidity": 1192755,
+      "liquidity": 15576326,
       "latest_price": 10.32
     },
     {
@@ -8785,7 +8785,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": -3.56,
       "top_gap_pct": -32.57,
-      "liquidity": 70335,
+      "liquidity": 4718495,
       "latest_price": 57.98
     },
     {
@@ -8808,7 +8808,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 171.84,
       "top_gap_pct": -33.33,
-      "liquidity": 1472,
+      "liquidity": 773037,
       "latest_price": 750
     },
     {
@@ -8831,7 +8831,7 @@
       "sector": "PHARMACEUTICALS",
       "price_change_pct": 1.93,
       "top_gap_pct": -35.95,
-      "liquidity": 6264302,
+      "liquidity": 673804760,
       "latest_price": 88.03
     },
     {
@@ -8854,7 +8854,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": 216.88,
       "top_gap_pct": -24.6,
-      "liquidity": 122840,
+      "liquidity": 3026562,
       "latest_price": 34.35
     },
     {
@@ -8877,7 +8877,7 @@
       "sector": "PAPER, BOARD & PACKAGING",
       "price_change_pct": -8.65,
       "top_gap_pct": -38.48,
-      "liquidity": 67721,
+      "liquidity": 12382986,
       "latest_price": 140.2
     },
     {
@@ -8900,7 +8900,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 140.6,
       "top_gap_pct": -53.08,
-      "liquidity": 84645,
+      "liquidity": 2907006,
       "latest_price": 36.74
     },
     {
@@ -8923,7 +8923,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": -6.74,
       "top_gap_pct": -33.31,
-      "liquidity": 1371,
+      "liquidity": 1488571,
       "latest_price": 997
     },
     {
@@ -8946,7 +8946,7 @@
       "sector": "LEATHER & TANNERIES",
       "price_change_pct": 72.02,
       "top_gap_pct": -5.34,
-      "liquidity": 573688,
+      "liquidity": 63135945,
       "latest_price": 134.31
     },
     {
@@ -8969,7 +8969,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": 629.08,
       "top_gap_pct": -29.77,
-      "liquidity": 1014899,
+      "liquidity": 31360952,
       "latest_price": 61.17
     },
     {
@@ -8992,7 +8992,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 31.03,
       "top_gap_pct": -56.72,
-      "liquidity": 5745,
+      "liquidity": 319854,
       "latest_price": 41.8
     },
     {
@@ -9015,7 +9015,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 78.94,
       "top_gap_pct": -52.8,
-      "liquidity": 92375,
+      "liquidity": 5300827,
       "latest_price": 42.48
     },
     {
@@ -9038,7 +9038,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 25.18,
       "top_gap_pct": -25.38,
-      "liquidity": 12920,
+      "liquidity": 2952031,
       "latest_price": 230.42
     },
     {
@@ -9061,7 +9061,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 5.73,
       "top_gap_pct": -21.15,
-      "liquidity": 28907,
+      "liquidity": 15126393,
       "latest_price": 485.13
     },
     {
@@ -9084,7 +9084,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 33.29,
       "top_gap_pct": -28.92,
-      "liquidity": 8020,
+      "liquidity": 1035089,
       "latest_price": 167
     },
     {
@@ -9107,7 +9107,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 35.37,
       "top_gap_pct": -45.54,
-      "liquidity": 204500,
+      "liquidity": 2063438,
       "latest_price": 7.08
     },
     {
@@ -9130,7 +9130,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": -15,
       "top_gap_pct": -40.97,
-      "liquidity": 17191,
+      "liquidity": 178627,
       "latest_price": 7.65
     },
     {
@@ -9153,7 +9153,7 @@
       "sector": "CABLE & ELECTRICAL GOODS",
       "price_change_pct": 3.23,
       "top_gap_pct": -10.93,
-      "liquidity": 802,
+      "liquidity": 1238370,
       "latest_price": 1549.9
     },
     {
@@ -9176,7 +9176,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 99.1,
       "top_gap_pct": -46.67,
-      "liquidity": 53667,
+      "liquidity": 1365198,
       "latest_price": 22
     },
     {
@@ -9199,7 +9199,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 101.15,
       "top_gap_pct": -16.5,
-      "liquidity": 20426,
+      "liquidity": 15124644,
       "latest_price": 885.08
     },
     {
@@ -9222,7 +9222,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 91.53,
       "top_gap_pct": -45.21,
-      "liquidity": 294737,
+      "liquidity": 6191929,
       "latest_price": 22.6
     },
     {
@@ -9245,7 +9245,7 @@
       "sector": "TRANSPORT",
       "price_change_pct": -6.7,
       "top_gap_pct": -43.81,
-      "liquidity": 4618510,
+      "liquidity": 93667040,
       "latest_price": 14.89
     },
     {
@@ -9268,7 +9268,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 62.91,
       "top_gap_pct": -34.79,
-      "liquidity": 24453,
+      "liquidity": 373877,
       "latest_price": 13.44
     },
     {
@@ -9291,7 +9291,7 @@
       "sector": "CEMENT",
       "price_change_pct": 126.01,
       "top_gap_pct": -31.76,
-      "liquidity": 180183,
+      "liquidity": 6104354,
       "latest_price": 39.1
     },
     {
@@ -9314,7 +9314,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 84.58,
       "top_gap_pct": -22.77,
-      "liquidity": 26613,
+      "liquidity": 2131738,
       "latest_price": 129.3
     },
     {
@@ -9337,7 +9337,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 43.3,
       "top_gap_pct": -24.53,
-      "liquidity": 27328,
+      "liquidity": 858305,
       "latest_price": 33.13
     },
     {
@@ -9360,7 +9360,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": 17.61,
       "top_gap_pct": -41.87,
-      "liquidity": 1873457,
+      "liquidity": 44615961,
       "latest_price": 19.17
     },
     {
@@ -9383,7 +9383,7 @@
       "sector": "OIL & GAS MARKETING COMPANIES",
       "price_change_pct": -19.31,
       "top_gap_pct": -32.15,
-      "liquidity": 3228948,
+      "liquidity": 375635755,
       "latest_price": 96.75
     },
     {
@@ -9406,7 +9406,7 @@
       "sector": "PAPER, BOARD & PACKAGING",
       "price_change_pct": 5.3,
       "top_gap_pct": -49.83,
-      "liquidity": 1567458,
+      "liquidity": 90258442,
       "latest_price": 41.89
     },
     {
@@ -9429,7 +9429,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 408.08,
       "top_gap_pct": -47.24,
-      "liquidity": 200931,
+      "liquidity": 9137786,
       "latest_price": 69.76
     },
     {
@@ -9452,7 +9452,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": -18.85,
       "top_gap_pct": -26.17,
-      "liquidity": 1088342,
+      "liquidity": 12109228,
       "latest_price": 9.34
     },
     {
@@ -9475,7 +9475,7 @@
       "sector": "REAL ESTATE INVESTMENT TRUST",
       "price_change_pct": -5.95,
       "top_gap_pct": -21.76,
-      "liquidity": 182566,
+      "liquidity": 3069813,
       "latest_price": 16.43
     },
     {
@@ -9498,7 +9498,7 @@
       "sector": "LEATHER & TANNERIES",
       "price_change_pct": 69.57,
       "top_gap_pct": -3.29,
-      "liquidity": 12406,
+      "liquidity": 18288313,
       "latest_price": 1847.1
     },
     {
@@ -9521,7 +9521,7 @@
       "sector": "OIL & GAS MARKETING COMPANIES",
       "price_change_pct": -25.64,
       "top_gap_pct": -44.07,
-      "liquidity": 11557794,
+      "liquidity": 436894333,
       "latest_price": 26.54
     },
     {
@@ -9544,7 +9544,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 100.3,
       "top_gap_pct": -33.15,
-      "liquidity": 34996,
+      "liquidity": 748525,
       "latest_price": 26.6
     },
     {
@@ -9567,7 +9567,7 @@
       "sector": "VANASPATI & ALLIED INDUSTRIES",
       "price_change_pct": -49.87,
       "top_gap_pct": -64.57,
-      "liquidity": 37566,
+      "liquidity": 23184300,
       "latest_price": 418
     },
     {
@@ -9590,7 +9590,7 @@
       "sector": "GLASS & CERAMICS",
       "price_change_pct": -6.17,
       "top_gap_pct": -40.85,
-      "liquidity": 485222,
+      "liquidity": 8040439,
       "latest_price": 11.7
     },
     {
@@ -9613,7 +9613,7 @@
       "sector": "TEXTILE WEAVING",
       "price_change_pct": 65.71,
       "top_gap_pct": -13.18,
-      "liquidity": 2152,
+      "liquidity": 206959,
       "latest_price": 126.12
     },
     {
@@ -9636,7 +9636,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": -93.12,
       "top_gap_pct": -97.46,
-      "liquidity": 186949,
+      "liquidity": 12241757,
       "latest_price": 56.74
     },
     {
@@ -9659,7 +9659,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 64.27,
       "top_gap_pct": -17.32,
-      "liquidity": 4693,
+      "liquidity": 171440,
       "latest_price": 39.77
     },
     {
@@ -9682,7 +9682,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 29.56,
       "top_gap_pct": -33.95,
-      "liquidity": 3461337,
+      "liquidity": 27844868,
       "latest_price": 7.1
     },
     {
@@ -9705,7 +9705,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 13.98,
       "top_gap_pct": -22.61,
-      "liquidity": 13537,
+      "liquidity": 626277,
       "latest_price": 47.3
     },
     {
@@ -9728,7 +9728,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 25.84,
       "top_gap_pct": -17.55,
-      "liquidity": 35882,
+      "liquidity": 4808341,
       "latest_price": 132.99
     },
     {
@@ -9751,7 +9751,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": -50.12,
       "top_gap_pct": -51.3,
-      "liquidity": 8602,
+      "liquidity": 1416833,
       "latest_price": 112.01
     },
     {
@@ -9774,7 +9774,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": -30.82,
       "top_gap_pct": -37.97,
-      "liquidity": 3433427,
+      "liquidity": 48917928,
       "latest_price": 10.57
     },
     {
@@ -9797,7 +9797,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": -72.5,
       "top_gap_pct": -74.09,
-      "liquidity": 3231215,
+      "liquidity": 469091082,
       "latest_price": 149.52
     },
     {
@@ -9820,7 +9820,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 69.74,
       "top_gap_pct": -40.7,
-      "liquidity": 3817,
+      "liquidity": 236135,
       "latest_price": 50.7
     },
     {
@@ -9843,7 +9843,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 211.23,
       "top_gap_pct": -57.86,
-      "liquidity": 366319,
+      "liquidity": 65110346,
       "latest_price": 131.06
     },
     {
@@ -9866,7 +9866,7 @@
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
       "price_change_pct": -11.33,
       "top_gap_pct": -32.87,
-      "liquidity": 4583315,
+      "liquidity": 55859314,
       "latest_price": 10.17
     },
     {
@@ -9889,7 +9889,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 52.25,
       "top_gap_pct": -25.76,
-      "liquidity": 129496,
+      "liquidity": 2523673,
       "latest_price": 23.66
     },
     {
@@ -9935,7 +9935,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 10.32,
       "top_gap_pct": -41.59,
-      "liquidity": 14600427,
+      "liquidity": 151291086,
       "latest_price": 8.23
     },
     {
@@ -9958,7 +9958,7 @@
       "sector": "GLASS & CERAMICS",
       "price_change_pct": -22.34,
       "top_gap_pct": -44.64,
-      "liquidity": 212605,
+      "liquidity": 44315687,
       "latest_price": 161.38
     },
     {
@@ -9981,7 +9981,7 @@
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
       "price_change_pct": 63.43,
       "top_gap_pct": -16.74,
-      "liquidity": 38425,
+      "liquidity": 21360174,
       "latest_price": 607.8
     },
     {
@@ -10004,7 +10004,7 @@
       "sector": "CEMENT",
       "price_change_pct": -72.19,
       "top_gap_pct": -74.01,
-      "liquidity": 4769750,
+      "liquidity": 350553979,
       "latest_price": 53.02
     },
     {
@@ -10027,7 +10027,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 7.2,
       "top_gap_pct": -55.24,
-      "liquidity": 4562187,
+      "liquidity": 237216502,
       "latest_price": 33.95
     },
     {
@@ -10050,7 +10050,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": -0.14,
       "top_gap_pct": -43.24,
-      "liquidity": 44726,
+      "liquidity": 7171328,
       "latest_price": 117.99
     },
     {
@@ -10073,7 +10073,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 147.36,
       "top_gap_pct": -21.85,
-      "liquidity": 5272246,
+      "liquidity": 50168144,
       "latest_price": 11.23
     },
     {
@@ -10096,7 +10096,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 205.12,
       "top_gap_pct": -8.3,
-      "liquidity": 540240,
+      "liquidity": 9203843,
       "latest_price": 25.63
     },
     {
@@ -10119,7 +10119,7 @@
       "sector": "INSURANCE",
       "price_change_pct": -52.42,
       "top_gap_pct": -65.91,
-      "liquidity": 5471,
+      "liquidity": 133075,
       "latest_price": 23.18
     },
     {
@@ -10142,7 +10142,7 @@
       "sector": "PROPERTY",
       "price_change_pct": -5.83,
       "top_gap_pct": -38.01,
-      "liquidity": 11354047,
+      "liquidity": 122572251,
       "latest_price": 8.4
     },
     {
@@ -10165,7 +10165,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 198.99,
       "top_gap_pct": -3.62,
-      "liquidity": 1113995,
+      "liquidity": 11719101,
       "latest_price": 17.82
     },
     {
@@ -10188,7 +10188,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 24.46,
       "top_gap_pct": -33.03,
-      "liquidity": 10042230,
+      "liquidity": 283966926,
       "latest_price": 24.78
     },
     {
@@ -10211,7 +10211,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 0.06,
       "top_gap_pct": -24.84,
-      "liquidity": 6563426,
+      "liquidity": 443058237,
       "latest_price": 63.43
     },
     {
@@ -10234,7 +10234,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 3.93,
       "top_gap_pct": -36.18,
-      "liquidity": 121980,
+      "liquidity": 18427621,
       "latest_price": 129.06
     },
     {
@@ -10257,7 +10257,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 222.31,
       "top_gap_pct": -76.61,
-      "liquidity": 1299931,
+      "liquidity": 31055760,
       "latest_price": 16.76
     },
     {
@@ -10280,7 +10280,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": -83.01,
       "top_gap_pct": -97.03,
-      "liquidity": 5422887,
+      "liquidity": 30300816,
       "latest_price": 1.99
     },
     {
@@ -10303,7 +10303,7 @@
       "sector": "CLOSE - END MUTUAL FUND",
       "price_change_pct": 102.75,
       "top_gap_pct": -25.02,
-      "liquidity": 38608,
+      "liquidity": 632575,
       "latest_price": 16.93
     },
     {
@@ -10326,7 +10326,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 92.22,
       "top_gap_pct": -13.81,
-      "liquidity": 1020,
+      "liquidity": 246933,
       "latest_price": 327.54
     },
     {
@@ -10349,7 +10349,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": 41.64,
       "top_gap_pct": -50.27,
-      "liquidity": 399895,
+      "liquidity": 4432183,
       "latest_price": 9.15
     },
     {
@@ -10372,7 +10372,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": -0.58,
       "top_gap_pct": -24.84,
-      "liquidity": 55867,
+      "liquidity": 1515631,
       "latest_price": 25.93
     },
     {
@@ -10395,7 +10395,7 @@
       "sector": "COMMERCIAL BANKS",
       "price_change_pct": -26.85,
       "top_gap_pct": -29.13,
-      "liquidity": 1906602,
+      "liquidity": 746239747,
       "latest_price": 379.5
     },
     {
@@ -10418,7 +10418,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 73.45,
       "top_gap_pct": -39.4,
-      "liquidity": 317783,
+      "liquidity": 1916320,
       "latest_price": 5.03
     },
     {
@@ -10441,7 +10441,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 132.67,
       "top_gap_pct": -26.27,
-      "liquidity": 261614,
+      "liquidity": 4423749,
       "latest_price": 18.8
     },
     {
@@ -10464,7 +10464,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 82.11,
       "top_gap_pct": -33.72,
-      "liquidity": 37513,
+      "liquidity": 4159175,
       "latest_price": 112
     },
     {
@@ -10487,7 +10487,7 @@
       "sector": "INSURANCE",
       "price_change_pct": -29.39,
       "top_gap_pct": -30.07,
-      "liquidity": 80464,
+      "liquidity": 1265856,
       "latest_price": 12.23
     },
     {
@@ -10510,7 +10510,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": -54.9,
       "top_gap_pct": -61.47,
-      "liquidity": 10059005,
+      "liquidity": 172341590,
       "latest_price": 12.23
     },
     {
@@ -10533,7 +10533,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 14.58,
       "top_gap_pct": -29.57,
-      "liquidity": 69,
+      "liquidity": 1928522,
       "latest_price": 26039.75
     },
     {
@@ -10556,7 +10556,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 131.26,
       "top_gap_pct": -50.56,
-      "liquidity": 80775,
+      "liquidity": 1754841,
       "latest_price": 21.23
     },
     {
@@ -10579,7 +10579,7 @@
       "sector": "OIL & GAS MARKETING COMPANIES",
       "price_change_pct": 16.78,
       "top_gap_pct": -24.9,
-      "liquidity": 98532,
+      "liquidity": 19542181,
       "latest_price": 195.25
     },
     {
@@ -10602,7 +10602,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": 25.86,
       "top_gap_pct": -33.95,
-      "liquidity": 9356,
+      "liquidity": 3195161,
       "latest_price": 287.32
     },
     {
@@ -10625,7 +10625,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 138.69,
       "top_gap_pct": -48.59,
-      "liquidity": 4513238,
+      "liquidity": 26208492,
       "latest_price": 4.75
     },
     {
@@ -10648,7 +10648,7 @@
       "sector": "CABLE & ELECTRICAL GOODS",
       "price_change_pct": 34.35,
       "top_gap_pct": -40.24,
-      "liquidity": 5889058,
+      "liquidity": 71687631,
       "latest_price": 10.13
     },
     {
@@ -10671,7 +10671,7 @@
       "sector": "CABLE & ELECTRICAL GOODS",
       "price_change_pct": -12.47,
       "top_gap_pct": -34.96,
-      "liquidity": 4084871,
+      "liquidity": 40455215,
       "latest_price": 8
     },
     {
@@ -10694,7 +10694,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 4.76,
       "top_gap_pct": -45.23,
-      "liquidity": 61572459,
+      "liquidity": 105341251,
       "latest_price": 1.32
     },
     {
@@ -10717,7 +10717,7 @@
       "sector": "TEXTILE WEAVING",
       "price_change_pct": 59.5,
       "top_gap_pct": -39.62,
-      "liquidity": 4957098,
+      "liquidity": 31081146,
       "latest_price": 5.79
     },
     {
@@ -10740,7 +10740,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 101.54,
       "top_gap_pct": -66.76,
-      "liquidity": 46515,
+      "liquidity": 3849187,
       "latest_price": 53.51
     },
     {
@@ -10763,7 +10763,7 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 180.99,
       "top_gap_pct": -43.84,
-      "liquidity": 2243632,
+      "liquidity": 103685538,
       "latest_price": 44.65
     },
     {
@@ -10786,7 +10786,7 @@
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
       "price_change_pct": 12.8,
       "top_gap_pct": -56.02,
-      "liquidity": 1697,
+      "liquidity": 719726,
       "latest_price": 317.5
     },
     {
@@ -10809,11 +10809,11 @@
       "sector": "TECHNOLOGY & COMMUNICATION",
       "price_change_pct": 248.95,
       "top_gap_pct": -34.54,
-      "liquidity": 304344,
+      "liquidity": 15826094,
       "latest_price": 68.01
     }
   ],
-  "updated_at": "2026-05-15T18:56:07.812Z",
+  "updated_at": "2026-05-15T19:37:32.636Z",
   "merged_with_bollinger": true,
   "merged_with_volume_spike": true,
   "merged_with_oversold": true,
