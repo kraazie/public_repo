@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T06:57:55.352Z",
+  "generated_at": "2026-05-26T14:42:22.033Z",
   "symbols_processed": 470,
   "signals": [
     {
@@ -10813,7 +10813,7 @@
       "latest_price": 64.16
     }
   ],
-  "updated_at": "2026-05-26T06:58:10.623Z",
+  "updated_at": "2026-05-26T14:42:38.381Z",
   "merged_with_bollinger": true,
   "merged_with_volume_spike": true,
   "merged_with_oversold": true,
