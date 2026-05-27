@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T14:42:22.033Z",
+  "generated_at": "2026-05-27T14:42:17.951Z",
   "symbols_processed": 470,
   "signals": [
     {
@@ -20,9 +20,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 15.08,
+      "price_change_pct": 6.58,
       "top_gap_pct": -19.94,
-      "liquidity": 317427,
+      "liquidity": 317774,
       "latest_price": 920.64
     },
     {
@@ -43,9 +43,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 19.9,
+      "price_change_pct": 20.31,
       "top_gap_pct": -57.57,
-      "liquidity": 1064855,
+      "liquidity": 1068816,
       "latest_price": 50.06
     },
     {
@@ -66,9 +66,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 42.12,
+      "price_change_pct": 42.36,
       "top_gap_pct": -17.49,
-      "liquidity": 32150752,
+      "liquidity": 32275641,
       "latest_price": 181.35
     },
     {
@@ -89,9 +89,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": -6.94,
+      "price_change_pct": -7.57,
       "top_gap_pct": -32.23,
-      "liquidity": 26893890,
+      "liquidity": 26889008,
       "latest_price": 883.75
     },
     {
@@ -112,9 +112,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": -24.51,
+      "price_change_pct": -25.49,
       "top_gap_pct": -28.01,
-      "liquidity": 86491573,
+      "liquidity": 86581455,
       "latest_price": 233.99
     },
     {
@@ -135,9 +135,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 20.12,
+      "price_change_pct": 19.97,
       "top_gap_pct": -19.63,
-      "liquidity": 793322,
+      "liquidity": 778171,
       "latest_price": 73.12
     },
     {
@@ -158,9 +158,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 56.67,
+      "price_change_pct": 57.15,
       "top_gap_pct": -43.79,
-      "liquidity": 20727660,
+      "liquidity": 20808742,
       "latest_price": 66.02
     },
     {
@@ -181,9 +181,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": -4.57,
+      "price_change_pct": -6.71,
       "top_gap_pct": -26.91,
-      "liquidity": 63813453,
+      "liquidity": 64056771,
       "latest_price": 7.93
     },
     {
@@ -204,9 +204,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 21.22,
+      "price_change_pct": 22.59,
       "top_gap_pct": -33.61,
-      "liquidity": 1318794,
+      "liquidity": 1323731,
       "latest_price": 36.9
     },
     {
@@ -227,9 +227,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
-      "price_change_pct": 57.75,
+      "price_change_pct": 56.87,
       "top_gap_pct": -15.55,
-      "liquidity": 11594225,
+      "liquidity": 11631581,
       "latest_price": 167.22
     },
     {
@@ -250,9 +250,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "FERTILIZER",
-      "price_change_pct": -12.09,
+      "price_change_pct": -12.18,
       "top_gap_pct": -46.86,
-      "liquidity": 49553933,
+      "liquidity": 49723643,
       "latest_price": 47.03
     },
     {
@@ -273,9 +273,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": 5.04,
+      "price_change_pct": 4.47,
       "top_gap_pct": -25.96,
-      "liquidity": 93419326,
+      "liquidity": 93730938,
       "latest_price": 191.52
     },
     {
@@ -296,9 +296,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 67.38,
+      "price_change_pct": 68.78,
       "top_gap_pct": -28.7,
-      "liquidity": 9689067,
+      "liquidity": 9726284,
       "latest_price": 10.11
     },
     {
@@ -319,9 +319,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE ASSEMBLER",
-      "price_change_pct": -15.17,
+      "price_change_pct": -14.8,
       "top_gap_pct": -27.76,
-      "liquidity": 15273671,
+      "liquidity": 15300523,
       "latest_price": 359.03
     },
     {
@@ -342,9 +342,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "FERTILIZER",
-      "price_change_pct": 35.42,
+      "price_change_pct": 35.16,
       "top_gap_pct": -26.02,
-      "liquidity": 94652447,
+      "liquidity": 95011990,
       "latest_price": 14.3
     },
     {
@@ -365,9 +365,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 47.57,
+      "price_change_pct": 46.36,
       "top_gap_pct": -24.93,
-      "liquidity": 9489978,
+      "liquidity": 9513872,
       "latest_price": 106.43
     },
     {
@@ -411,9 +411,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 63.18,
+      "price_change_pct": 61.85,
       "top_gap_pct": -39.84,
-      "liquidity": 69561424,
+      "liquidity": 69791233,
       "latest_price": 75.13
     },
     {
@@ -434,9 +434,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": -4.58,
+      "price_change_pct": -4.86,
       "top_gap_pct": -24.41,
-      "liquidity": 434601072,
+      "liquidity": 436013494,
       "latest_price": 150.43
     },
     {
@@ -457,9 +457,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 106.77,
+      "price_change_pct": 110.15,
       "top_gap_pct": -22.64,
-      "liquidity": 322152693,
+      "liquidity": 323306553,
       "latest_price": 98.94
     },
     {
@@ -480,9 +480,9 @@
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": -16.47,
+      "price_change_pct": -18.5,
       "top_gap_pct": -34.77,
-      "liquidity": 566577,
+      "liquidity": 547597,
       "latest_price": 144.15
     },
     {
@@ -503,9 +503,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 26.32,
+      "price_change_pct": 20.35,
       "top_gap_pct": -45.08,
-      "liquidity": 25018235,
+      "liquidity": 24722254,
       "latest_price": 32.06
     },
     {
@@ -528,7 +528,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 21.53,
       "top_gap_pct": -24.3,
-      "liquidity": 74959,
+      "liquidity": 75337,
       "latest_price": 54.08
     },
     {
@@ -549,9 +549,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 143.07,
+      "price_change_pct": 112.37,
       "top_gap_pct": -17.02,
-      "liquidity": 19140745,
+      "liquidity": 19206558,
       "latest_price": 16.14
     },
     {
@@ -572,9 +572,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 32.52,
+      "price_change_pct": 30.43,
       "top_gap_pct": -27.11,
-      "liquidity": 1181161,
+      "liquidity": 1184632,
       "latest_price": 33.13
     },
     {
@@ -597,7 +597,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 58.84,
       "top_gap_pct": -13.46,
-      "liquidity": 1617103,
+      "liquidity": 1620423,
       "latest_price": 122.88
     },
     {
@@ -618,9 +618,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": -28.38,
+      "price_change_pct": -28.44,
       "top_gap_pct": -46.01,
-      "liquidity": 14626217,
+      "liquidity": 14673749,
       "latest_price": 8.38
     },
     {
@@ -641,9 +641,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 121.32,
+      "price_change_pct": 125.53,
       "top_gap_pct": -45.05,
-      "liquidity": 319978,
+      "liquidity": 321374,
       "latest_price": 22.53
     },
     {
@@ -664,9 +664,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 48.23,
+      "price_change_pct": 48.71,
       "top_gap_pct": -28.97,
-      "liquidity": 15283449,
+      "liquidity": 15320585,
       "latest_price": 4.61
     },
     {
@@ -687,9 +687,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 18.3,
+      "price_change_pct": 23.86,
       "top_gap_pct": -24.96,
-      "liquidity": 25081099,
+      "liquidity": 25042005,
       "latest_price": 10.28
     },
     {
@@ -756,9 +756,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "OIL & GAS MARKETING COMPANIES",
-      "price_change_pct": 24.52,
+      "price_change_pct": 22.27,
       "top_gap_pct": -12.87,
-      "liquidity": 60612520,
+      "liquidity": 60846603,
       "latest_price": 562.86
     },
     {
@@ -779,9 +779,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 2.05,
+      "price_change_pct": -1.07,
       "top_gap_pct": -42.63,
-      "liquidity": 1100952,
+      "liquidity": 1104397,
       "latest_price": 26.85
     },
     {
@@ -827,7 +827,7 @@
       "sector": "CHEMICAL",
       "price_change_pct": -2.12,
       "top_gap_pct": -26.25,
-      "liquidity": 8639094,
+      "liquidity": 8639723,
       "latest_price": 394.58
     },
     {
@@ -848,9 +848,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 18.85,
+      "price_change_pct": 18.72,
       "top_gap_pct": -36.64,
-      "liquidity": 984971,
+      "liquidity": 988139,
       "latest_price": 10.72
     },
     {
@@ -871,9 +871,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 44.06,
+      "price_change_pct": 46.21,
       "top_gap_pct": -54.38,
-      "liquidity": 33271190,
+      "liquidity": 33397150,
       "latest_price": 10.79
     },
     {
@@ -894,9 +894,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE WEAVING",
-      "price_change_pct": 207.86,
+      "price_change_pct": 203.5,
       "top_gap_pct": -47.97,
-      "liquidity": 505666,
+      "liquidity": 507622,
       "latest_price": 36.42
     },
     {
@@ -917,9 +917,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": 12.99,
+      "price_change_pct": 9.24,
       "top_gap_pct": -23.59,
-      "liquidity": 70498655,
+      "liquidity": 70707149,
       "latest_price": 12.18
     },
     {
@@ -986,9 +986,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": -34.62,
+      "price_change_pct": -37.41,
       "top_gap_pct": -47.04,
-      "liquidity": 38660837,
+      "liquidity": 38808165,
       "latest_price": 16.03
     },
     {
@@ -1009,9 +1009,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 47.8,
+      "price_change_pct": 44.45,
       "top_gap_pct": -52.81,
-      "liquidity": 1529944,
+      "liquidity": 1535897,
       "latest_price": 19.79
     },
     {
@@ -1032,9 +1032,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
-      "price_change_pct": -18.06,
+      "price_change_pct": -19.1,
       "top_gap_pct": -30.03,
-      "liquidity": 8892931,
+      "liquidity": 8881357,
       "latest_price": 223.19
     },
     {
@@ -1057,7 +1057,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 25.86,
       "top_gap_pct": -34.7,
-      "liquidity": 5260243,
+      "liquidity": 5280924,
       "latest_price": 73
     },
     {
@@ -1078,9 +1078,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE ASSEMBLER",
-      "price_change_pct": 59.14,
+      "price_change_pct": 58.92,
       "top_gap_pct": -8.02,
-      "liquidity": 13760287,
+      "liquidity": 13765476,
       "latest_price": 1776.17
     },
     {
@@ -1101,9 +1101,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "REFINERY",
-      "price_change_pct": 34.59,
+      "price_change_pct": 32.7,
       "top_gap_pct": -10.58,
-      "liquidity": 862153880,
+      "liquidity": 861015765,
       "latest_price": 898.63
     },
     {
@@ -1124,9 +1124,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": -30.02,
+      "price_change_pct": -30.93,
       "top_gap_pct": -37.66,
-      "liquidity": 55854385,
+      "liquidity": 55966149,
       "latest_price": 33.85
     },
     {
@@ -1147,9 +1147,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": -19.61,
+      "price_change_pct": -19.29,
       "top_gap_pct": -56.7,
-      "liquidity": 291275953,
+      "liquidity": 292231300,
       "latest_price": 59.32
     },
     {
@@ -1193,9 +1193,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 23.29,
+      "price_change_pct": 23.24,
       "top_gap_pct": -24.96,
-      "liquidity": 103623322,
+      "liquidity": 104007074,
       "latest_price": 172.6
     },
     {
@@ -1216,9 +1216,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
       "sector": "CHEMICAL",
-      "price_change_pct": -41.93,
+      "price_change_pct": -44.84,
       "top_gap_pct": -48.88,
-      "liquidity": 8467673,
+      "liquidity": 8362349,
       "latest_price": 32.73
     },
     {
@@ -1239,9 +1239,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "LEATHER & TANNERIES",
-      "price_change_pct": -35.13,
+      "price_change_pct": -34.92,
       "top_gap_pct": -45.16,
-      "liquidity": 5246695,
+      "liquidity": 5249225,
       "latest_price": 986.06
     },
     {
@@ -1262,9 +1262,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": -20.58,
+      "price_change_pct": -18.98,
       "top_gap_pct": -23.03,
-      "liquidity": 103382166,
+      "liquidity": 101518189,
       "latest_price": 44.14
     },
     {
@@ -1285,9 +1285,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": -19.02,
+      "price_change_pct": -19.08,
       "top_gap_pct": -44.48,
-      "liquidity": 12329659,
+      "liquidity": 12368437,
       "latest_price": 72.42
     },
     {
@@ -1308,9 +1308,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": -44.68,
+      "price_change_pct": -44.96,
       "top_gap_pct": -92.65,
-      "liquidity": 122048659,
+      "liquidity": 122526089,
       "latest_price": 5.41
     },
     {
@@ -1331,9 +1331,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
-      "price_change_pct": -54.93,
+      "price_change_pct": -54.7,
       "top_gap_pct": -62.1,
-      "liquidity": 360143,
+      "liquidity": 361206,
       "latest_price": 55.74
     },
     {
@@ -1354,9 +1354,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "CHEMICAL",
-      "price_change_pct": -5.52,
+      "price_change_pct": -4.62,
       "top_gap_pct": -25.85,
-      "liquidity": 19945225,
+      "liquidity": 19989106,
       "latest_price": 95.76
     },
     {
@@ -1377,9 +1377,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 17.3,
+      "price_change_pct": 15.82,
       "top_gap_pct": -32.53,
-      "liquidity": 67633871,
+      "liquidity": 67789177,
       "latest_price": 33.23
     },
     {
@@ -1400,9 +1400,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": -27.14,
+      "price_change_pct": -27.97,
       "top_gap_pct": -29.95,
-      "liquidity": 93591777,
+      "liquidity": 91602389,
       "latest_price": 135.89
     },
     {
@@ -1423,9 +1423,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 168.59,
+      "price_change_pct": 156.09,
       "top_gap_pct": -44.75,
-      "liquidity": 2416632,
+      "liquidity": 2426232,
       "latest_price": 21.46
     },
     {
@@ -1446,9 +1446,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "GLASS & CERAMICS",
-      "price_change_pct": 7.45,
+      "price_change_pct": 6.47,
       "top_gap_pct": -40.51,
-      "liquidity": 17709259,
+      "liquidity": 17774215,
       "latest_price": 10.53
     },
     {
@@ -1469,9 +1469,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 4.19,
+      "price_change_pct": 6.59,
       "top_gap_pct": -25.47,
-      "liquidity": 1167396,
+      "liquidity": 1171828,
       "latest_price": 890
     },
     {
@@ -1492,9 +1492,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": -25,
+      "price_change_pct": -24.45,
       "top_gap_pct": -34.45,
-      "liquidity": 24699189,
+      "liquidity": 24795508,
       "latest_price": 135.75
     },
     {
@@ -1515,9 +1515,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 23.02,
+      "price_change_pct": 22.6,
       "top_gap_pct": -42.93,
-      "liquidity": 77716791,
+      "liquidity": 78006263,
       "latest_price": 25.17
     },
     {
@@ -1538,9 +1538,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TRANSPORT",
-      "price_change_pct": -89.99,
+      "price_change_pct": -90.1,
       "top_gap_pct": -93.91,
-      "liquidity": 2293763,
+      "liquidity": 2301833,
       "latest_price": 6.45
     },
     {
@@ -1561,9 +1561,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 1327.05,
+      "price_change_pct": 1334.89,
       "top_gap_pct": -43.14,
-      "liquidity": 110818114,
+      "liquidity": 111210652,
       "latest_price": 52.23
     },
     {
@@ -1584,9 +1584,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": -79.39,
+      "price_change_pct": -79.38,
       "top_gap_pct": -95.84,
-      "liquidity": 205290070,
+      "liquidity": 205917629,
       "latest_price": 7.1
     },
     {
@@ -1607,9 +1607,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "WOOLLEN",
-      "price_change_pct": 82.25,
+      "price_change_pct": 81.88,
       "top_gap_pct": -43.38,
-      "liquidity": 11636072,
+      "liquidity": 11666947,
       "latest_price": 63.64
     },
     {
@@ -1630,9 +1630,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 119.33,
+      "price_change_pct": 120.81,
       "top_gap_pct": -28.32,
-      "liquidity": 1385049,
+      "liquidity": 1390432,
       "latest_price": 32.9
     },
     {
@@ -1653,9 +1653,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 248.79,
+      "price_change_pct": 247.73,
       "top_gap_pct": -21.82,
-      "liquidity": 1377594230,
+      "liquidity": 1382889361,
       "latest_price": 34.53
     },
     {
@@ -1676,9 +1676,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "OIL & GAS MARKETING COMPANIES",
-      "price_change_pct": 113.4,
+      "price_change_pct": 101.84,
       "top_gap_pct": -22.7,
-      "liquidity": 2223373,
+      "liquidity": 2229823,
       "latest_price": 62.59
     },
     {
@@ -1699,9 +1699,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PROPERTY",
-      "price_change_pct": 93.38,
+      "price_change_pct": 92.52,
       "top_gap_pct": -19.08,
-      "liquidity": 1734361,
+      "liquidity": 1740843,
       "latest_price": 43.51
     },
     {
@@ -1745,9 +1745,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 11.32,
+      "price_change_pct": 13.83,
       "top_gap_pct": -28.91,
-      "liquidity": 2599202,
+      "liquidity": 2587726,
       "latest_price": 163.1
     },
     {
@@ -1768,9 +1768,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": 13.83,
+      "price_change_pct": 13.7,
       "top_gap_pct": -33.55,
-      "liquidity": 15651414,
+      "liquidity": 15699189,
       "latest_price": 456.89
     },
     {
@@ -1791,9 +1791,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
-      "price_change_pct": 73.43,
+      "price_change_pct": 72.81,
       "top_gap_pct": -9.88,
-      "liquidity": 17995133,
+      "liquidity": 18064984,
       "latest_price": 232.43
     },
     {
@@ -1814,9 +1814,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 6.95,
+      "price_change_pct": -2.75,
       "top_gap_pct": -32.93,
-      "liquidity": 329269,
+      "liquidity": 330590,
       "latest_price": 50.3
     },
     {
@@ -1862,7 +1862,7 @@
       "sector": "INSURANCE",
       "price_change_pct": 32.34,
       "top_gap_pct": -19.02,
-      "liquidity": 353388,
+      "liquidity": 354072,
       "latest_price": 52.91
     },
     {
@@ -1883,9 +1883,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PAPER, BOARD & PACKAGING",
-      "price_change_pct": 13.79,
+      "price_change_pct": 3.45,
       "top_gap_pct": -37.64,
-      "liquidity": 48740219,
+      "liquidity": 48911907,
       "latest_price": 29.12
     },
     {
@@ -1906,9 +1906,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 23.26,
+      "price_change_pct": 26.02,
       "top_gap_pct": -27.14,
-      "liquidity": 2052100,
+      "liquidity": 2058097,
       "latest_price": 78.95
     },
     {
@@ -1929,9 +1929,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 45.06,
+      "price_change_pct": 42.57,
       "top_gap_pct": -65.94,
-      "liquidity": 17018878,
+      "liquidity": 17083821,
       "latest_price": 9.11
     },
     {
@@ -1952,9 +1952,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": 8.77,
+      "price_change_pct": 8.08,
       "top_gap_pct": -26.96,
-      "liquidity": 106952985,
+      "liquidity": 107148593,
       "latest_price": 284.86
     },
     {
@@ -1975,9 +1975,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "JUTE",
-      "price_change_pct": 256.63,
+      "price_change_pct": 264.69,
       "top_gap_pct": -61.96,
-      "liquidity": 4764138,
+      "liquidity": 4774838,
       "latest_price": 12.91
     },
     {
@@ -1998,9 +1998,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": null,
-      "price_change_pct": 32.43,
+      "price_change_pct": 37.2,
       "top_gap_pct": -34.67,
-      "liquidity": 1897262,
+      "liquidity": 1903183,
       "latest_price": 3.43
     },
     {
@@ -2021,9 +2021,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": -80.16,
+      "price_change_pct": -80.4,
       "top_gap_pct": -90.4,
-      "liquidity": 37802255,
+      "liquidity": 37594318,
       "latest_price": 8.51
     },
     {
@@ -2044,9 +2044,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TRANSPORT",
-      "price_change_pct": -25.25,
+      "price_change_pct": -26.74,
       "top_gap_pct": -42.76,
-      "liquidity": 462371,
+      "liquidity": 463062,
       "latest_price": 12.85
     },
     {
@@ -2067,9 +2067,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "REFINERY",
-      "price_change_pct": 12.85,
+      "price_change_pct": 9.37,
       "top_gap_pct": -9.27,
-      "liquidity": 222168862,
+      "liquidity": 222762335,
       "latest_price": 8.52
     },
     {
@@ -2090,9 +2090,9 @@
       "nadarayaWatsonSignal": "NW_SELL_REJECTION",
       "ultimateStrategySignal": "BUY",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": -15.52,
+      "price_change_pct": -15.71,
       "top_gap_pct": -22.42,
-      "liquidity": 16655774,
+      "liquidity": 16715443,
       "latest_price": 1121.06
     },
     {
@@ -2113,9 +2113,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": -9.72,
+      "price_change_pct": -10.6,
       "top_gap_pct": -25.64,
-      "liquidity": 305038289,
+      "liquidity": 304423057,
       "latest_price": 77.52
     },
     {
@@ -2136,9 +2136,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "PAPER, BOARD & PACKAGING",
-      "price_change_pct": -28.87,
+      "price_change_pct": -33.07,
       "top_gap_pct": -46.89,
-      "liquidity": 19757782,
+      "liquidity": 19815603,
       "latest_price": 75.95
     },
     {
@@ -2159,9 +2159,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 392,
+      "price_change_pct": 396.3,
       "top_gap_pct": -23.52,
-      "liquidity": 24642559,
+      "liquidity": 24735834,
       "latest_price": 73.8
     },
     {
@@ -2182,9 +2182,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": -20.2,
+      "price_change_pct": -22.41,
       "top_gap_pct": -34.7,
-      "liquidity": 69577023,
+      "liquidity": 69785458,
       "latest_price": 93.7
     },
     {
@@ -2205,9 +2205,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 99.02,
+      "price_change_pct": 91.51,
       "top_gap_pct": -57.23,
-      "liquidity": 48482474,
+      "liquidity": 48482101,
       "latest_price": 6.09
     },
     {
@@ -2228,9 +2228,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 72.51,
+      "price_change_pct": 71.74,
       "top_gap_pct": -20.37,
-      "liquidity": 7440605,
+      "liquidity": 7459671,
       "latest_price": 7.78
     },
     {
@@ -2251,9 +2251,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 35.32,
+      "price_change_pct": 24.33,
       "top_gap_pct": -32.18,
-      "liquidity": 10477270,
+      "liquidity": 10526007,
       "latest_price": 41.91
     },
     {
@@ -2274,9 +2274,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "BUY",
       "sector": "CHEMICAL",
-      "price_change_pct": -23.11,
+      "price_change_pct": -24.84,
       "top_gap_pct": -52.11,
-      "liquidity": 787125,
+      "liquidity": 789563,
       "latest_price": 64.5
     },
     {
@@ -2297,9 +2297,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": 54.62,
+      "price_change_pct": 59.2,
       "top_gap_pct": 0,
-      "liquidity": 649107,
+      "liquidity": 650974,
       "latest_price": 100.33
     },
     {
@@ -2320,9 +2320,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": 13.44,
+      "price_change_pct": 15,
       "top_gap_pct": -25.89,
-      "liquidity": 3013074,
+      "liquidity": 2991221,
       "latest_price": 6.67
     },
     {
@@ -2343,9 +2343,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": -3.75,
+      "price_change_pct": -11.12,
       "top_gap_pct": -41.27,
-      "liquidity": 88499431,
+      "liquidity": 88741390,
       "latest_price": 9.75
     },
     {
@@ -2366,9 +2366,9 @@
       "nadarayaWatsonSignal": "NW_CONSOLIDATING",
       "ultimateStrategySignal": "HOLD",
       "sector": "REAL ESTATE INVESTMENT TRUST",
-      "price_change_pct": 33.48,
+      "price_change_pct": 33.09,
       "top_gap_pct": -13.88,
-      "liquidity": 22349019,
+      "liquidity": 22387413,
       "latest_price": 36
     },
     {
@@ -2389,9 +2389,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 50.36,
+      "price_change_pct": 50.22,
       "top_gap_pct": -48.18,
-      "liquidity": 3145074,
+      "liquidity": 3127925,
       "latest_price": 16.78
     },
     {
@@ -2412,9 +2412,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE ASSEMBLER",
-      "price_change_pct": -38.7,
+      "price_change_pct": -39.12,
       "top_gap_pct": -49.56,
-      "liquidity": 75796323,
+      "liquidity": 75985227,
       "latest_price": 21.18
     },
     {
@@ -2435,9 +2435,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 412.99,
+      "price_change_pct": 403.86,
       "top_gap_pct": -16.85,
-      "liquidity": 19324547,
+      "liquidity": 19400370,
       "latest_price": 16.98
     },
     {
@@ -2458,9 +2458,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "BUY",
       "sector": "CEMENT",
-      "price_change_pct": 24.75,
+      "price_change_pct": 21.45,
       "top_gap_pct": -29.89,
-      "liquidity": 928610745,
+      "liquidity": 924345411,
       "latest_price": 193.33
     },
     {
@@ -2481,9 +2481,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": -30.21,
+      "price_change_pct": -30.11,
       "top_gap_pct": -60.37,
-      "liquidity": 41382302,
+      "liquidity": 41576272,
       "latest_price": 26.55
     },
     {
@@ -2506,7 +2506,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": 217.53,
       "top_gap_pct": -21.72,
-      "liquidity": 555800,
+      "liquidity": 558257,
       "latest_price": 71.92
     },
     {
@@ -2550,9 +2550,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 151.15,
+      "price_change_pct": 148.61,
       "top_gap_pct": -23.93,
-      "liquidity": 5211837,
+      "liquidity": 5232331,
       "latest_price": 584.23
     },
     {
@@ -2596,9 +2596,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": 21.98,
+      "price_change_pct": 21.56,
       "top_gap_pct": -36.34,
-      "liquidity": 6112995,
+      "liquidity": 6122532,
       "latest_price": 17.87
     },
     {
@@ -2619,9 +2619,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 5.97,
+      "price_change_pct": 2.54,
       "top_gap_pct": -18.12,
-      "liquidity": 28644860,
+      "liquidity": 28202118,
       "latest_price": 33.57
     },
     {
@@ -2642,9 +2642,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 95.06,
+      "price_change_pct": 88.47,
       "top_gap_pct": -47.04,
-      "liquidity": 22687418,
+      "liquidity": 22773142,
       "latest_price": 9.48
     },
     {
@@ -2665,9 +2665,9 @@
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
       "sector": "ENGINEERING",
-      "price_change_pct": -43.98,
+      "price_change_pct": -43.24,
       "top_gap_pct": -52.59,
-      "liquidity": 47380101,
+      "liquidity": 47521095,
       "latest_price": 5.12
     },
     {
@@ -2688,9 +2688,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
-      "price_change_pct": -9.84,
+      "price_change_pct": -8.66,
       "top_gap_pct": -44.57,
-      "liquidity": 982720,
+      "liquidity": 984463,
       "latest_price": 23.73
     },
     {
@@ -2711,9 +2711,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 21.19,
+      "price_change_pct": 21.4,
       "top_gap_pct": -32.75,
-      "liquidity": 2543878,
+      "liquidity": 2552124,
       "latest_price": 6.92
     },
     {
@@ -2734,9 +2734,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 42.88,
+      "price_change_pct": 37.1,
       "top_gap_pct": -29.28,
-      "liquidity": 499961,
+      "liquidity": 501386,
       "latest_price": 9.83
     },
     {
@@ -2757,9 +2757,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 35.93,
+      "price_change_pct": 33.09,
       "top_gap_pct": -11.17,
-      "liquidity": 5301110,
+      "liquidity": 5217696,
       "latest_price": 313.85
     },
     {
@@ -2780,9 +2780,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": -19.59,
+      "price_change_pct": -26.9,
       "top_gap_pct": -52.17,
-      "liquidity": 36097123,
+      "liquidity": 36114657,
       "latest_price": 47.09
     },
     {
@@ -2803,9 +2803,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FERTILIZER",
-      "price_change_pct": 10.91,
+      "price_change_pct": 10.94,
       "top_gap_pct": -23.11,
-      "liquidity": 347937302,
+      "liquidity": 348707121,
       "latest_price": 202.46
     },
     {
@@ -2826,9 +2826,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "INSURANCE",
-      "price_change_pct": 3.3,
+      "price_change_pct": 5.04,
       "top_gap_pct": -11.89,
-      "liquidity": 1585442,
+      "liquidity": 1591040,
       "latest_price": 126
     },
     {
@@ -2849,9 +2849,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": -1.91,
+      "price_change_pct": -2.14,
       "top_gap_pct": -16.48,
-      "liquidity": 1438530,
+      "liquidity": 1428919,
       "latest_price": 152
     },
     {
@@ -2872,9 +2872,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 50.25,
+      "price_change_pct": 44.34,
       "top_gap_pct": -36.38,
-      "liquidity": 146740,
+      "liquidity": 146907,
       "latest_price": 201
     },
     {
@@ -2895,9 +2895,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 6.29,
+      "price_change_pct": 7.42,
       "top_gap_pct": -16.8,
-      "liquidity": 153600,
+      "liquidity": 151695,
       "latest_price": 114.82
     },
     {
@@ -2918,9 +2918,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CABLE & ELECTRICAL GOODS",
-      "price_change_pct": 0.68,
+      "price_change_pct": -8.47,
       "top_gap_pct": -54.97,
-      "liquidity": 5132370,
+      "liquidity": 5146590,
       "latest_price": 44.53
     },
     {
@@ -2941,9 +2941,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 50.06,
+      "price_change_pct": 48.33,
       "top_gap_pct": -11.51,
-      "liquidity": 674078430,
+      "liquidity": 675826090,
       "latest_price": 267.67
     },
     {
@@ -2964,9 +2964,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 6.55,
+      "price_change_pct": 6.85,
       "top_gap_pct": -14.34,
-      "liquidity": 84896773,
+      "liquidity": 85181815,
       "latest_price": 33.68
     },
     {
@@ -3010,9 +3010,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": -11.82,
+      "price_change_pct": -12.6,
       "top_gap_pct": -30.02,
-      "liquidity": 14496858,
+      "liquidity": 14540048,
       "latest_price": 24.48
     },
     {
@@ -3033,9 +3033,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 102.47,
+      "price_change_pct": 104.83,
       "top_gap_pct": -60.15,
-      "liquidity": 4047931,
+      "liquidity": 4063921,
       "latest_price": 12.29
     },
     {
@@ -3079,9 +3079,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
-      "price_change_pct": -34.26,
+      "price_change_pct": -35.3,
       "top_gap_pct": -43.4,
-      "liquidity": 10280871,
+      "liquidity": 10183249,
       "latest_price": 538.29
     },
     {
@@ -3102,9 +3102,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 85.62,
+      "price_change_pct": 84.36,
       "top_gap_pct": -15.54,
-      "liquidity": 211230824,
+      "liquidity": 211965976,
       "latest_price": 89.1
     },
     {
@@ -3127,7 +3127,7 @@
       "sector": "MODARABAS",
       "price_change_pct": 81.67,
       "top_gap_pct": -49.68,
-      "liquidity": 1417767,
+      "liquidity": 1423313,
       "latest_price": 5.45
     },
     {
@@ -3150,7 +3150,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 20.59,
       "top_gap_pct": -24.62,
-      "liquidity": 1363429,
+      "liquidity": 1369266,
       "latest_price": 349.89
     },
     {
@@ -3171,9 +3171,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FERTILIZER",
-      "price_change_pct": 62.96,
+      "price_change_pct": 63.49,
       "top_gap_pct": -27.46,
-      "liquidity": 207743590,
+      "liquidity": 208405721,
       "latest_price": 139.85
     },
     {
@@ -3194,9 +3194,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "BUY",
       "sector": "CEMENT",
-      "price_change_pct": 15.55,
+      "price_change_pct": 14.47,
       "top_gap_pct": -15.55,
-      "liquidity": 490635400,
+      "liquidity": 490233907,
       "latest_price": 53.07
     },
     {
@@ -3217,9 +3217,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 32.06,
+      "price_change_pct": 40.27,
       "top_gap_pct": -40.75,
-      "liquidity": 2443332,
+      "liquidity": 2453075,
       "latest_price": 5.19
     },
     {
@@ -3240,9 +3240,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 0.71,
+      "price_change_pct": 0.74,
       "top_gap_pct": -6.94,
-      "liquidity": 102042713,
+      "liquidity": 100089910,
       "latest_price": 108.6
     },
     {
@@ -3263,9 +3263,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 511.36,
+      "price_change_pct": 495.57,
       "top_gap_pct": -21.05,
-      "liquidity": 1136343,
+      "liquidity": 1140910,
       "latest_price": 48.42
     },
     {
@@ -3286,9 +3286,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CABLE & ELECTRICAL GOODS",
-      "price_change_pct": 2.35,
+      "price_change_pct": 0.46,
       "top_gap_pct": -16.07,
-      "liquidity": 76159274,
+      "liquidity": 76295179,
       "latest_price": 23.97
     },
     {
@@ -3311,7 +3311,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 203.01,
       "top_gap_pct": -51.35,
-      "liquidity": 46622687,
+      "liquidity": 46686012,
       "latest_price": 5.03
     },
     {
@@ -3332,9 +3332,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 83.2,
+      "price_change_pct": 82.47,
       "top_gap_pct": -49.67,
-      "liquidity": 28109699,
+      "liquidity": 28209927,
       "latest_price": 4.58
     },
     {
@@ -3355,9 +3355,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": -5.65,
+      "price_change_pct": -14.23,
       "top_gap_pct": -70.42,
-      "liquidity": 497347,
+      "liquidity": 498767,
       "latest_price": 16.88
     },
     {
@@ -3378,9 +3378,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": 31.64,
+      "price_change_pct": 32.65,
       "top_gap_pct": -52.95,
-      "liquidity": 80657871,
+      "liquidity": 80951823,
       "latest_price": 92.11
     },
     {
@@ -3401,9 +3401,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 265.98,
+      "price_change_pct": 267.24,
       "top_gap_pct": -39.83,
-      "liquidity": 2099608,
+      "liquidity": 2107969,
       "latest_price": 10.65
     },
     {
@@ -3424,9 +3424,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": 21.87,
+      "price_change_pct": 21.17,
       "top_gap_pct": -20,
-      "liquidity": 31870997,
+      "liquidity": 31631103,
       "latest_price": 380
     },
     {
@@ -3447,9 +3447,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "BUY",
       "sector": "FERTILIZER",
-      "price_change_pct": 51.74,
+      "price_change_pct": 50.75,
       "top_gap_pct": -20.92,
-      "liquidity": 1329004237,
+      "liquidity": 1333708641,
       "latest_price": 541.73
     },
     {
@@ -3470,9 +3470,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 17.66,
+      "price_change_pct": 15.69,
       "top_gap_pct": -24.82,
-      "liquidity": 249035156,
+      "liquidity": 249642542,
       "latest_price": 17.99
     },
     {
@@ -3493,9 +3493,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 237.19,
+      "price_change_pct": 221.05,
       "top_gap_pct": -61.77,
-      "liquidity": 2821865,
+      "liquidity": 2833107,
       "latest_price": 6.71
     },
     {
@@ -3516,9 +3516,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 49.36,
+      "price_change_pct": 48.09,
       "top_gap_pct": -20.31,
-      "liquidity": 1557503,
+      "liquidity": 1562310,
       "latest_price": 31.47
     },
     {
@@ -3539,9 +3539,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 216.61,
+      "price_change_pct": 210.77,
       "top_gap_pct": -54.59,
-      "liquidity": 1793094,
+      "liquidity": 1800254,
       "latest_price": 10.1
     },
     {
@@ -3585,9 +3585,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": -22.87,
+      "price_change_pct": -22.84,
       "top_gap_pct": -33.14,
-      "liquidity": 26619286,
+      "liquidity": 26277467,
       "latest_price": 42.02
     },
     {
@@ -3608,9 +3608,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": -14.26,
+      "price_change_pct": -19.97,
       "top_gap_pct": -42.86,
-      "liquidity": 4265054,
+      "liquidity": 4281488,
       "latest_price": 53.17
     },
     {
@@ -3631,9 +3631,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": -58.41,
+      "price_change_pct": -58.28,
       "top_gap_pct": -94.8,
-      "liquidity": 208725116,
+      "liquidity": 209547664,
       "latest_price": 1.31
     },
     {
@@ -3654,9 +3654,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 161.37,
+      "price_change_pct": 162.32,
       "top_gap_pct": -41.89,
-      "liquidity": 2927319,
+      "liquidity": 2938817,
       "latest_price": 7.24
     },
     {
@@ -3677,9 +3677,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "STRONG_BUY",
       "sector": "MODARABAS",
-      "price_change_pct": 47.62,
+      "price_change_pct": 49.76,
       "top_gap_pct": -27.02,
-      "liquidity": 371645,
+      "liquidity": 373182,
       "latest_price": 12.4
     },
     {
@@ -3700,9 +3700,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "GLASS & CERAMICS",
-      "price_change_pct": 109.09,
+      "price_change_pct": 115.49,
       "top_gap_pct": -36.7,
-      "liquidity": 865646,
+      "liquidity": 867259,
       "latest_price": 69
     },
     {
@@ -3723,9 +3723,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 8.61,
+      "price_change_pct": 9.01,
       "top_gap_pct": -30.25,
-      "liquidity": 1267517,
+      "liquidity": 1266451,
       "latest_price": 44.28
     },
     {
@@ -3769,9 +3769,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 286.28,
+      "price_change_pct": 279.66,
       "top_gap_pct": -35.19,
-      "liquidity": 371130,
+      "liquidity": 372530,
       "latest_price": 15.49
     },
     {
@@ -3792,9 +3792,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 75.71,
+      "price_change_pct": 74.11,
       "top_gap_pct": -62.95,
-      "liquidity": 710861,
+      "liquidity": 713588,
       "latest_price": 21.12
     },
     {
@@ -3815,9 +3815,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 39.98,
+      "price_change_pct": 41.9,
       "top_gap_pct": -42.08,
-      "liquidity": 1949973,
+      "liquidity": 1948729,
       "latest_price": 258.52
     },
     {
@@ -3838,9 +3838,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": -10.69,
+      "price_change_pct": -10.29,
       "top_gap_pct": -47.99,
-      "liquidity": 22738255,
+      "liquidity": 22814187,
       "latest_price": 295.92
     },
     {
@@ -3861,9 +3861,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE ASSEMBLER",
-      "price_change_pct": 4.57,
+      "price_change_pct": 3.02,
       "top_gap_pct": -30.26,
-      "liquidity": 352691097,
+      "liquidity": 353083732,
       "latest_price": 441.48
     },
     {
@@ -3884,9 +3884,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": -24.55,
+      "price_change_pct": -29.72,
       "top_gap_pct": -37.98,
-      "liquidity": 1441285,
+      "liquidity": 1443613,
       "latest_price": 19.91
     },
     {
@@ -3907,9 +3907,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "SYNTHETIC & RAYON",
-      "price_change_pct": -33.86,
+      "price_change_pct": -33.2,
       "top_gap_pct": -53.2,
-      "liquidity": 20075250,
+      "liquidity": 20148079,
       "latest_price": 90.67
     },
     {
@@ -3930,9 +3930,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": -5.94,
+      "price_change_pct": -6.37,
       "top_gap_pct": -43.98,
-      "liquidity": 40928946,
+      "liquidity": 40946196,
       "latest_price": 22.8
     },
     {
@@ -3953,9 +3953,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 39.09,
+      "price_change_pct": 36.84,
       "top_gap_pct": -29.95,
-      "liquidity": 95653079,
+      "liquidity": 95710907,
       "latest_price": 27.93
     },
     {
@@ -3976,9 +3976,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 62.37,
+      "price_change_pct": 69.77,
       "top_gap_pct": -31.89,
-      "liquidity": 74553545,
+      "liquidity": 74481183,
       "latest_price": 17.13
     },
     {
@@ -4045,9 +4045,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "STRONG_BUY",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": 189.2,
+      "price_change_pct": 162.92,
       "top_gap_pct": -0.64,
-      "liquidity": 4244218,
+      "liquidity": 4214470,
       "latest_price": 85.95
     },
     {
@@ -4068,9 +4068,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 219.59,
+      "price_change_pct": 216.63,
       "top_gap_pct": -9.29,
-      "liquidity": 2046811,
+      "liquidity": 2054503,
       "latest_price": 30.84
     },
     {
@@ -4093,7 +4093,7 @@
       "sector": "GLASS & CERAMICS",
       "price_change_pct": -10.1,
       "top_gap_pct": -44.02,
-      "liquidity": 23311369,
+      "liquidity": 23332594,
       "latest_price": 8.1
     },
     {
@@ -4114,9 +4114,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 15.56,
+      "price_change_pct": 14.96,
       "top_gap_pct": -43.31,
-      "liquidity": 84103867,
+      "liquidity": 84241075,
       "latest_price": 17.75
     },
     {
@@ -4137,9 +4137,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "GLASS & CERAMICS",
-      "price_change_pct": 9.42,
+      "price_change_pct": 8.29,
       "top_gap_pct": -31.75,
-      "liquidity": 34081819,
+      "liquidity": 34194399,
       "latest_price": 35.66
     },
     {
@@ -4160,9 +4160,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE ASSEMBLER",
-      "price_change_pct": 28.81,
+      "price_change_pct": 27.24,
       "top_gap_pct": -17.76,
-      "liquidity": 336729416,
+      "liquidity": 337463595,
       "latest_price": 847.09
     },
     {
@@ -4183,9 +4183,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": -10.74,
+      "price_change_pct": -9.52,
       "top_gap_pct": -25.15,
-      "liquidity": 139755866,
+      "liquidity": 139826879,
       "latest_price": 344.25
     },
     {
@@ -4206,9 +4206,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 165.83,
+      "price_change_pct": 156.97,
       "top_gap_pct": -14.77,
-      "liquidity": 10245594,
+      "liquidity": 10269625,
       "latest_price": 700
     },
     {
@@ -4229,9 +4229,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": 29.78,
+      "price_change_pct": 17.98,
       "top_gap_pct": -44.82,
-      "liquidity": 295143,
+      "liquidity": 293603,
       "latest_price": 94.88
     },
     {
@@ -4252,9 +4252,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "REAL ESTATE INVESTMENT TRUST",
-      "price_change_pct": 20.24,
+      "price_change_pct": 17.67,
       "top_gap_pct": -22.85,
-      "liquidity": 9125439,
+      "liquidity": 9161743,
       "latest_price": 19.25
     },
     {
@@ -4298,9 +4298,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
-      "price_change_pct": -26.99,
+      "price_change_pct": -26.59,
       "top_gap_pct": -42.85,
-      "liquidity": 20582447,
+      "liquidity": 20571168,
       "latest_price": 29.43
     },
     {
@@ -4321,9 +4321,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": -24.41,
+      "price_change_pct": -20.35,
       "top_gap_pct": -53.57,
-      "liquidity": 307142,
+      "liquidity": 308198,
       "latest_price": 6.38
     },
     {
@@ -4344,9 +4344,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "GLASS & CERAMICS",
-      "price_change_pct": 6.82,
+      "price_change_pct": 8.78,
       "top_gap_pct": -28.77,
-      "liquidity": 1406252,
+      "liquidity": 1409934,
       "latest_price": 53.42
     },
     {
@@ -4367,9 +4367,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": 15.18,
+      "price_change_pct": 15.21,
       "top_gap_pct": -36.54,
-      "liquidity": 66106823,
+      "liquidity": 66185521,
       "latest_price": 49.47
     },
     {
@@ -4392,7 +4392,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": -0.99,
       "top_gap_pct": -23.96,
-      "liquidity": 2414716,
+      "liquidity": 2423019,
       "latest_price": 73
     },
     {
@@ -4413,9 +4413,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 26.6,
+      "price_change_pct": 30.21,
       "top_gap_pct": -39.27,
-      "liquidity": 1481639,
+      "liquidity": 1433643,
       "latest_price": 21.51
     },
     {
@@ -4459,9 +4459,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": 5.79,
+      "price_change_pct": 5.63,
       "top_gap_pct": -23.32,
-      "liquidity": 59931584,
+      "liquidity": 59920144,
       "latest_price": 774.47
     },
     {
@@ -4482,9 +4482,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "BUY",
       "sector": "OIL & GAS MARKETING COMPANIES",
-      "price_change_pct": 129.91,
+      "price_change_pct": 129.68,
       "top_gap_pct": -21.3,
-      "liquidity": 404347233,
+      "liquidity": 405817436,
       "latest_price": 23.06
     },
     {
@@ -4505,9 +4505,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 87.61,
+      "price_change_pct": 87.53,
       "top_gap_pct": -22.05,
-      "liquidity": 633252939,
+      "liquidity": 635672565,
       "latest_price": 288.42
     },
     {
@@ -4528,9 +4528,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE ASSEMBLER",
-      "price_change_pct": -22.58,
+      "price_change_pct": -23.26,
       "top_gap_pct": -29.65,
-      "liquidity": 142993251,
+      "liquidity": 143266992,
       "latest_price": 225.83
     },
     {
@@ -4551,9 +4551,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CLOSE - END MUTUAL FUND",
-      "price_change_pct": 52.69,
+      "price_change_pct": 53.47,
       "top_gap_pct": -29.72,
-      "liquidity": 9590143,
+      "liquidity": 9628090,
       "latest_price": 15.04
     },
     {
@@ -4574,9 +4574,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 33.6,
+      "price_change_pct": 30.98,
       "top_gap_pct": -50.88,
-      "liquidity": 6496729,
+      "liquidity": 6522135,
       "latest_price": 10.02
     },
     {
@@ -4597,9 +4597,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CLOSE - END MUTUAL FUND",
-      "price_change_pct": 46,
+      "price_change_pct": 45.58,
       "top_gap_pct": -39.74,
-      "liquidity": 8190731,
+      "liquidity": 8222805,
       "latest_price": 5.11
     },
     {
@@ -4620,9 +4620,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE ASSEMBLER",
-      "price_change_pct": -19.42,
+      "price_change_pct": -18.98,
       "top_gap_pct": -48.24,
-      "liquidity": 11269112,
+      "liquidity": 11234555,
       "latest_price": 328.39
     },
     {
@@ -4643,9 +4643,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": 5.81,
+      "price_change_pct": 5.86,
       "top_gap_pct": -21.98,
-      "liquidity": 38967804,
+      "liquidity": 39021957,
       "latest_price": 968.17
     },
     {
@@ -4666,9 +4666,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 92.47,
+      "price_change_pct": 82.65,
       "top_gap_pct": -29.74,
-      "liquidity": 8133007,
+      "liquidity": 8116087,
       "latest_price": 7.16
     },
     {
@@ -4689,9 +4689,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 29.42,
+      "price_change_pct": 29.95,
       "top_gap_pct": -11.22,
-      "liquidity": 68252599,
+      "liquidity": 68522839,
       "latest_price": 117.19
     },
     {
@@ -4712,9 +4712,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": 26.15,
+      "price_change_pct": 27.71,
       "top_gap_pct": -17.93,
-      "liquidity": 4345167,
+      "liquidity": 4361845,
       "latest_price": 4013.07
     },
     {
@@ -4758,9 +4758,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "OIL & GAS MARKETING COMPANIES",
-      "price_change_pct": 1.25,
+      "price_change_pct": 3.32,
       "top_gap_pct": -36.83,
-      "liquidity": 32058761,
+      "liquidity": 31826627,
       "latest_price": 42.01
     },
     {
@@ -4781,9 +4781,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": 59.67,
+      "price_change_pct": 59.72,
       "top_gap_pct": -12.2,
-      "liquidity": 1320883445,
+      "liquidity": 1324880414,
       "latest_price": 219.5
     },
     {
@@ -4804,9 +4804,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": -7.58,
+      "price_change_pct": -8.28,
       "top_gap_pct": -41.18,
-      "liquidity": 108697793,
+      "liquidity": 109104421,
       "latest_price": 10.97
     },
     {
@@ -4850,9 +4850,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 90.37,
+      "price_change_pct": 83.06,
       "top_gap_pct": -42.42,
-      "liquidity": 5688466,
+      "liquidity": 5693959,
       "latest_price": 20.96
     },
     {
@@ -4875,7 +4875,7 @@
       "sector": "SYNTHETIC & RAYON",
       "price_change_pct": -35.79,
       "top_gap_pct": -43.16,
-      "liquidity": 154367,
+      "liquidity": 154972,
       "latest_price": 216
     },
     {
@@ -4896,9 +4896,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": -1.96,
+      "price_change_pct": -10.87,
       "top_gap_pct": -46.96,
-      "liquidity": 73708680,
+      "liquidity": 73457246,
       "latest_price": 45.52
     },
     {
@@ -4919,9 +4919,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE WEAVING",
-      "price_change_pct": -4.94,
+      "price_change_pct": -13.61,
       "top_gap_pct": -41.03,
-      "liquidity": 1466870,
+      "liquidity": 1456562,
       "latest_price": 11.74
     },
     {
@@ -4944,7 +4944,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 180,
       "top_gap_pct": -68.78,
-      "liquidity": 39042584,
+      "liquidity": 39197131,
       "latest_price": 4.34
     },
     {
@@ -4965,9 +4965,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 90.36,
+      "price_change_pct": 73.05,
       "top_gap_pct": -19.89,
-      "liquidity": 21747725,
+      "liquidity": 21817269,
       "latest_price": 141
     },
     {
@@ -4988,9 +4988,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "BUY",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 81.67,
+      "price_change_pct": 66.07,
       "top_gap_pct": -13.1,
-      "liquidity": 1775185,
+      "liquidity": 1772036,
       "latest_price": 39.06
     },
     {
@@ -5011,9 +5011,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 269.82,
+      "price_change_pct": 241.57,
       "top_gap_pct": 0,
-      "liquidity": 250322,
+      "liquidity": 248991,
       "latest_price": 49.63
     },
     {
@@ -5034,9 +5034,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": -9.3,
+      "price_change_pct": -9.71,
       "top_gap_pct": -39.79,
-      "liquidity": 9843150,
+      "liquidity": 9730615,
       "latest_price": 139.68
     },
     {
@@ -5057,9 +5057,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 52.25,
+      "price_change_pct": 51.66,
       "top_gap_pct": -34.08,
-      "liquidity": 46432832,
+      "liquidity": 46596573,
       "latest_price": 240.59
     },
     {
@@ -5080,9 +5080,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": -16.05,
+      "price_change_pct": -23.57,
       "top_gap_pct": -31.29,
-      "liquidity": 361115,
+      "liquidity": 355173,
       "latest_price": 19.72
     },
     {
@@ -5103,9 +5103,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 39.31,
+      "price_change_pct": 41.23,
       "top_gap_pct": -16.57,
-      "liquidity": 62364578,
+      "liquidity": 62566059,
       "latest_price": 82.89
     },
     {
@@ -5126,9 +5126,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SYNTHETIC & RAYON",
-      "price_change_pct": 12.85,
+      "price_change_pct": 12.14,
       "top_gap_pct": -32.77,
-      "liquidity": 87670532,
+      "liquidity": 87958565,
       "latest_price": 24.76
     },
     {
@@ -5151,7 +5151,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 57.25,
       "top_gap_pct": -22.58,
-      "liquidity": 1792973,
+      "liquidity": 1799490,
       "latest_price": 25.16
     },
     {
@@ -5172,9 +5172,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": -64.26,
+      "price_change_pct": -65.42,
       "top_gap_pct": -71.59,
-      "liquidity": 31972470,
+      "liquidity": 32098599,
       "latest_price": 16.62
     },
     {
@@ -5195,9 +5195,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE ASSEMBLER",
-      "price_change_pct": 7.43,
+      "price_change_pct": 7.33,
       "top_gap_pct": -16.63,
-      "liquidity": 41016275,
+      "liquidity": 41131482,
       "latest_price": 2025.92
     },
     {
@@ -5218,9 +5218,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": 2.66,
+      "price_change_pct": -3.9,
       "top_gap_pct": -36.55,
-      "liquidity": 41752126,
+      "liquidity": 41914123,
       "latest_price": 158
     },
     {
@@ -5241,9 +5241,9 @@
       "nadarayaWatsonSignal": "NW_SELL_BREAKDOWN",
       "ultimateStrategySignal": "SELL",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 407.1,
+      "price_change_pct": 402.35,
       "top_gap_pct": -38.04,
-      "liquidity": 6100070,
+      "liquidity": 6124253,
       "latest_price": 74.95
     },
     {
@@ -5264,9 +5264,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "PAPER, BOARD & PACKAGING",
-      "price_change_pct": 48.82,
+      "price_change_pct": 49.9,
       "top_gap_pct": -6.54,
-      "liquidity": 17947475,
+      "liquidity": 18017390,
       "latest_price": 31.03
     },
     {
@@ -5333,9 +5333,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": -3.75,
+      "price_change_pct": -7.7,
       "top_gap_pct": -42.26,
-      "liquidity": 55895594,
+      "liquidity": 56031272,
       "latest_price": 77.95
     },
     {
@@ -5379,9 +5379,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": 9.88,
+      "price_change_pct": 6.42,
       "top_gap_pct": -35.76,
-      "liquidity": 18699544,
+      "liquidity": 18767807,
       "latest_price": 8.12
     },
     {
@@ -5402,9 +5402,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 13.26,
+      "price_change_pct": 13.76,
       "top_gap_pct": -41.11,
-      "liquidity": 377364,
+      "liquidity": 378745,
       "latest_price": 23.32
     },
     {
@@ -5425,9 +5425,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 86.79,
+      "price_change_pct": 92.72,
       "top_gap_pct": -43.75,
-      "liquidity": 4689735,
+      "liquidity": 4708357,
       "latest_price": 98.44
     },
     {
@@ -5448,9 +5448,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": -1.04,
+      "price_change_pct": -1.89,
       "top_gap_pct": -10.78,
-      "liquidity": 654602,
+      "liquidity": 657172,
       "latest_price": 915.36
     },
     {
@@ -5471,9 +5471,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 31.12,
+      "price_change_pct": 28.06,
       "top_gap_pct": -23.98,
-      "liquidity": 11728022,
+      "liquidity": 11766929,
       "latest_price": 72.6
     },
     {
@@ -5517,9 +5517,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 24.09,
+      "price_change_pct": 21.18,
       "top_gap_pct": -39.29,
-      "liquidity": 3990194,
+      "liquidity": 4003548,
       "latest_price": 170
     },
     {
@@ -5540,9 +5540,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 33.95,
+      "price_change_pct": 35.51,
       "top_gap_pct": -52.49,
-      "liquidity": 11646527,
+      "liquidity": 11688897,
       "latest_price": 11.64
     },
     {
@@ -5565,7 +5565,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 0.94,
       "top_gap_pct": -43.26,
-      "liquidity": 15170234,
+      "liquidity": 15220933,
       "latest_price": 18.27
     },
     {
@@ -5586,9 +5586,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 18.73,
+      "price_change_pct": 20.98,
       "top_gap_pct": -31.65,
-      "liquidity": 239605,
+      "liquidity": 236344,
       "latest_price": 145.51
     },
     {
@@ -5609,9 +5609,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 64.33,
+      "price_change_pct": 73.91,
       "top_gap_pct": -28.3,
-      "liquidity": 652525,
+      "liquidity": 655099,
       "latest_price": 40.87
     },
     {
@@ -5632,9 +5632,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 76.32,
+      "price_change_pct": 84.54,
       "top_gap_pct": -53.87,
-      "liquidity": 14626780,
+      "liquidity": 14669467,
       "latest_price": 68.04
     },
     {
@@ -5655,9 +5655,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 430.75,
+      "price_change_pct": 456.2,
       "top_gap_pct": -27.82,
-      "liquidity": 1680956,
+      "liquidity": 1687573,
       "latest_price": 53.34
     },
     {
@@ -5678,9 +5678,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PROPERTY",
-      "price_change_pct": 104.72,
+      "price_change_pct": 108.83,
       "top_gap_pct": -17.18,
-      "liquidity": 118459369,
+      "liquidity": 118813889,
       "latest_price": 134.99
     },
     {
@@ -5724,9 +5724,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": -14.7,
+      "price_change_pct": -14.96,
       "top_gap_pct": -33.26,
-      "liquidity": 44525090,
+      "liquidity": 44632671,
       "latest_price": 27.39
     },
     {
@@ -5749,7 +5749,7 @@
       "sector": "GLASS & CERAMICS",
       "price_change_pct": 168.1,
       "top_gap_pct": -44.49,
-      "liquidity": 38896,
+      "liquidity": 39089,
       "latest_price": 133.78
     },
     {
@@ -5770,9 +5770,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": 42.61,
+      "price_change_pct": 52.17,
       "top_gap_pct": -12.32,
-      "liquidity": 563217852,
+      "liquidity": 559181664,
       "latest_price": 8.4
     },
     {
@@ -5793,9 +5793,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "TOBACCO",
-      "price_change_pct": -14.31,
+      "price_change_pct": -17.68,
       "top_gap_pct": -41.71,
-      "liquidity": 9726970,
+      "liquidity": 9741364,
       "latest_price": 310.12
     },
     {
@@ -5816,9 +5816,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": -34.17,
+      "price_change_pct": -40.16,
       "top_gap_pct": -59.13,
-      "liquidity": 467020,
+      "liquidity": 468663,
       "latest_price": 1518.17
     },
     {
@@ -5839,9 +5839,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": -76.45,
+      "price_change_pct": -76.42,
       "top_gap_pct": -94.37,
-      "liquidity": 8219493,
+      "liquidity": 8251202,
       "latest_price": 8.26
     },
     {
@@ -5862,9 +5862,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": -76.9,
+      "price_change_pct": -76.71,
       "top_gap_pct": -84.5,
-      "liquidity": 115255494,
+      "liquidity": 115636801,
       "latest_price": 88.05
     },
     {
@@ -5885,9 +5885,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": -8.49,
+      "price_change_pct": -8.28,
       "top_gap_pct": -32.99,
-      "liquidity": 4343830,
+      "liquidity": 4343957,
       "latest_price": 15.74
     },
     {
@@ -5908,9 +5908,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": 329.58,
+      "price_change_pct": 315.61,
       "top_gap_pct": -66.25,
-      "liquidity": 11777182,
+      "liquidity": 11823631,
       "latest_price": 25.56
     },
     {
@@ -5931,9 +5931,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": -6.38,
+      "price_change_pct": -14.9,
       "top_gap_pct": -50.15,
-      "liquidity": 6451851,
+      "liquidity": 6424992,
       "latest_price": 56.33
     },
     {
@@ -5954,9 +5954,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 348.68,
+      "price_change_pct": 350.38,
       "top_gap_pct": -56.68,
-      "liquidity": 43642755,
+      "liquidity": 43815950,
       "latest_price": 47.65
     },
     {
@@ -5977,9 +5977,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 0.72,
+      "price_change_pct": 1.28,
       "top_gap_pct": -34.28,
-      "liquidity": 82135419,
+      "liquidity": 82271766,
       "latest_price": 5.56
     },
     {
@@ -6023,9 +6023,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": -5.81,
+      "price_change_pct": -14.38,
       "top_gap_pct": -28.02,
-      "liquidity": 35572302,
+      "liquidity": 34862568,
       "latest_price": 200.1
     },
     {
@@ -6048,7 +6048,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 28.5,
       "top_gap_pct": -50.24,
-      "liquidity": 952750,
+      "liquidity": 955977,
       "latest_price": 10.28
     },
     {
@@ -6069,9 +6069,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": -69.83,
+      "price_change_pct": -72.29,
       "top_gap_pct": -84.31,
-      "liquidity": 41199107,
+      "liquidity": 41329835,
       "latest_price": 47.86
     },
     {
@@ -6092,9 +6092,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "SELL",
       "sector": "CHEMICAL",
-      "price_change_pct": -85.26,
+      "price_change_pct": -85.37,
       "top_gap_pct": -88.25,
-      "liquidity": 48563250,
+      "liquidity": 48741565,
       "latest_price": 224.36
     },
     {
@@ -6115,9 +6115,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "LEATHER & TANNERIES",
-      "price_change_pct": 6.09,
+      "price_change_pct": 4.66,
       "top_gap_pct": -59.51,
-      "liquidity": 997795,
+      "liquidity": 1001456,
       "latest_price": 29.43
     },
     {
@@ -6138,9 +6138,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": -39.53,
+      "price_change_pct": -39.77,
       "top_gap_pct": -54.86,
-      "liquidity": 23583756,
+      "liquidity": 23600199,
       "latest_price": 36.47
     },
     {
@@ -6161,9 +6161,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
-      "price_change_pct": -5.65,
+      "price_change_pct": -6.18,
       "top_gap_pct": -40.93,
-      "liquidity": 77874323,
+      "liquidity": 78137971,
       "latest_price": 13.35
     },
     {
@@ -6184,9 +6184,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "CHEMICAL",
-      "price_change_pct": 36.52,
+      "price_change_pct": 37.59,
       "top_gap_pct": -18.37,
-      "liquidity": 115907342,
+      "liquidity": 116343089,
       "latest_price": 28
     },
     {
@@ -6207,9 +6207,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": -25.09,
+      "price_change_pct": -26.28,
       "top_gap_pct": -52.7,
-      "liquidity": 2896766,
+      "liquidity": 2906650,
       "latest_price": 79.4
     },
     {
@@ -6230,9 +6230,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": -14.98,
+      "price_change_pct": -14.62,
       "top_gap_pct": -30.29,
-      "liquidity": 31997819,
+      "liquidity": 32048654,
       "latest_price": 20.21
     },
     {
@@ -6253,9 +6253,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 1.09,
+      "price_change_pct": 4.32,
       "top_gap_pct": -45.75,
-      "liquidity": 13144523,
+      "liquidity": 13196847,
       "latest_price": 5.55
     },
     {
@@ -6301,7 +6301,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": -13.91,
       "top_gap_pct": -47.54,
-      "liquidity": 382043,
+      "liquidity": 383194,
       "latest_price": 24.13
     },
     {
@@ -6322,9 +6322,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": -15.76,
+      "price_change_pct": -12.98,
       "top_gap_pct": -42.72,
-      "liquidity": 16508738,
+      "liquidity": 16550448,
       "latest_price": 9.25
     },
     {
@@ -6345,9 +6345,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": 34.71,
+      "price_change_pct": 31.01,
       "top_gap_pct": -17.51,
-      "liquidity": 871281541,
+      "liquidity": 871788212,
       "latest_price": 436.77
     },
     {
@@ -6368,9 +6368,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "PAPER, BOARD & PACKAGING",
-      "price_change_pct": 248.55,
+      "price_change_pct": 240.31,
       "top_gap_pct": -16.29,
-      "liquidity": 56060507,
+      "liquidity": 56267583,
       "latest_price": 59.01
     },
     {
@@ -6391,9 +6391,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": -25.67,
+      "price_change_pct": -26.56,
       "top_gap_pct": -56.3,
-      "liquidity": 19107990,
+      "liquidity": 19173165,
       "latest_price": 271.73
     },
     {
@@ -6414,9 +6414,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "OIL & GAS EXPLORATION COMPANIES",
-      "price_change_pct": 7.62,
+      "price_change_pct": 6.37,
       "top_gap_pct": -17.17,
-      "liquidity": 917953035,
+      "liquidity": 920597659,
       "latest_price": 658.52
     },
     {
@@ -6437,9 +6437,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 50.53,
+      "price_change_pct": 51.13,
       "top_gap_pct": -8.72,
-      "liquidity": 225261221,
+      "liquidity": 225871898,
       "latest_price": 412.57
     },
     {
@@ -6462,7 +6462,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 58.38,
       "top_gap_pct": -33.78,
-      "liquidity": 1792423,
+      "liquidity": 1799330,
       "latest_price": 164.22
     },
     {
@@ -6483,9 +6483,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": 178.54,
+      "price_change_pct": 173.21,
       "top_gap_pct": -38.6,
-      "liquidity": 39310553,
+      "liquidity": 39459378,
       "latest_price": 5.71
     },
     {
@@ -6506,9 +6506,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 69.46,
+      "price_change_pct": 68.74,
       "top_gap_pct": -6.63,
-      "liquidity": 700529604,
+      "liquidity": 701181708,
       "latest_price": 490.2
     },
     {
@@ -6529,9 +6529,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": -29.05,
+      "price_change_pct": -28,
       "top_gap_pct": -50.09,
-      "liquidity": 699143,
+      "liquidity": 701749,
       "latest_price": 219.6
     },
     {
@@ -6552,9 +6552,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
       "sector": "PAPER, BOARD & PACKAGING",
-      "price_change_pct": -6.65,
+      "price_change_pct": -13.2,
       "top_gap_pct": -44.71,
-      "liquidity": 10516072,
+      "liquidity": 10554799,
       "latest_price": 9.4
     },
     {
@@ -6575,9 +6575,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": -14.25,
+      "price_change_pct": -17.86,
       "top_gap_pct": -32.13,
-      "liquidity": 7601596,
+      "liquidity": 7616551,
       "latest_price": 160.86
     },
     {
@@ -6598,9 +6598,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 4.41,
+      "price_change_pct": 3.69,
       "top_gap_pct": -42.05,
-      "liquidity": 14304345,
+      "liquidity": 14307447,
       "latest_price": 49.68
     },
     {
@@ -6621,9 +6621,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 1.65,
+      "price_change_pct": -7.59,
       "top_gap_pct": -26.43,
-      "liquidity": 8345919,
+      "liquidity": 8196177,
       "latest_price": 32.74
     },
     {
@@ -6667,9 +6667,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": 18.13,
+      "price_change_pct": 14.24,
       "top_gap_pct": -32.79,
-      "liquidity": 809274591,
+      "liquidity": 809804458,
       "latest_price": 89.38
     },
     {
@@ -6713,9 +6713,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "SELL",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 24.93,
+      "price_change_pct": 22.87,
       "top_gap_pct": -35.24,
-      "liquidity": 3659252,
+      "liquidity": 3661868,
       "latest_price": 60.88
     },
     {
@@ -6736,9 +6736,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": 210.44,
+      "price_change_pct": 198.97,
       "top_gap_pct": -37.35,
-      "liquidity": 7043169,
+      "liquidity": 7070642,
       "latest_price": 29.15
     },
     {
@@ -6759,9 +6759,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 51.49,
+      "price_change_pct": 42.14,
       "top_gap_pct": -18.23,
-      "liquidity": 2664565,
+      "liquidity": 2675168,
       "latest_price": 74.41
     },
     {
@@ -6782,9 +6782,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE ASSEMBLER",
-      "price_change_pct": -3.49,
+      "price_change_pct": -3.11,
       "top_gap_pct": -8.19,
-      "liquidity": 85273293,
+      "liquidity": 85519758,
       "latest_price": 550.38
     },
     {
@@ -6805,9 +6805,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": 3.46,
+      "price_change_pct": 0.33,
       "top_gap_pct": -33.61,
-      "liquidity": 178542373,
+      "liquidity": 179109073,
       "latest_price": 75.68
     },
     {
@@ -6828,9 +6828,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 11.91,
+      "price_change_pct": 13.13,
       "top_gap_pct": -20.62,
-      "liquidity": 15076584,
+      "liquidity": 15136223,
       "latest_price": 928.65
     },
     {
@@ -6851,9 +6851,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": 250.36,
+      "price_change_pct": 263.5,
       "top_gap_pct": -65.98,
-      "liquidity": 9231819,
+      "liquidity": 9268323,
       "latest_price": 58.16
     },
     {
@@ -6876,7 +6876,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 24.33,
       "top_gap_pct": -15.62,
-      "liquidity": 276034,
+      "liquidity": 276855,
       "latest_price": 67.5
     },
     {
@@ -6897,9 +6897,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 60.32,
+      "price_change_pct": 59.83,
       "top_gap_pct": -14.55,
-      "liquidity": 166493398,
+      "liquidity": 167098456,
       "latest_price": 375.13
     },
     {
@@ -6920,9 +6920,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 109.56,
+      "price_change_pct": 107.27,
       "top_gap_pct": -32.32,
-      "liquidity": 1762479157,
+      "liquidity": 1768108447,
       "latest_price": 194.79
     },
     {
@@ -6943,9 +6943,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 4.86,
+      "price_change_pct": 6.87,
       "top_gap_pct": -36.43,
-      "liquidity": 26615233,
+      "liquidity": 26715300,
       "latest_price": 39.04
     },
     {
@@ -6966,9 +6966,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": 167.56,
+      "price_change_pct": 166.8,
       "top_gap_pct": -26.44,
-      "liquidity": 435365457,
+      "liquidity": 436995965,
       "latest_price": 65.82
     },
     {
@@ -6989,9 +6989,9 @@
       "nadarayaWatsonSignal": "NW_CONSOLIDATING",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 9.24,
+      "price_change_pct": 9,
       "top_gap_pct": -27.24,
-      "liquidity": 3922562,
+      "liquidity": 3937687,
       "latest_price": 7657.86
     },
     {
@@ -7012,9 +7012,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": -4.29,
+      "price_change_pct": -5.47,
       "top_gap_pct": -22.97,
-      "liquidity": 170243735,
+      "liquidity": 170690758,
       "latest_price": 129.87
     },
     {
@@ -7035,9 +7035,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 44.17,
+      "price_change_pct": 45.25,
       "top_gap_pct": -29.1,
-      "liquidity": 724701,
+      "liquidity": 727570,
       "latest_price": 11.62
     },
     {
@@ -7058,9 +7058,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "CHEMICAL",
-      "price_change_pct": 11.7,
+      "price_change_pct": 10.02,
       "top_gap_pct": -30.81,
-      "liquidity": 8300026,
+      "liquidity": 8304915,
       "latest_price": 172.97
     },
     {
@@ -7081,9 +7081,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 33.45,
+      "price_change_pct": 33.87,
       "top_gap_pct": -29.8,
-      "liquidity": 389299437,
+      "liquidity": 390525405,
       "latest_price": 146.29
     },
     {
@@ -7106,7 +7106,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": -4.05,
       "top_gap_pct": -45.65,
-      "liquidity": 2148525,
+      "liquidity": 2154374,
       "latest_price": 85.38
     },
     {
@@ -7127,9 +7127,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": 97.84,
+      "price_change_pct": 100.85,
       "top_gap_pct": -29.02,
-      "liquidity": 321668287,
+      "liquidity": 322944547,
       "latest_price": 71.3
     },
     {
@@ -7150,9 +7150,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "REFINERY",
-      "price_change_pct": 50.69,
+      "price_change_pct": 49.47,
       "top_gap_pct": -20.34,
-      "liquidity": 627184318,
+      "liquidity": 629212319,
       "latest_price": 380.32
     },
     {
@@ -7173,9 +7173,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 1.09,
+      "price_change_pct": 1.77,
       "top_gap_pct": -12.77,
-      "liquidity": 15543662,
+      "liquidity": 15578331,
       "latest_price": 35.1
     },
     {
@@ -7196,9 +7196,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SYNTHETIC & RAYON",
-      "price_change_pct": 172.87,
+      "price_change_pct": 193.56,
       "top_gap_pct": -40.75,
-      "liquidity": 77163,
+      "liquidity": 77399,
       "latest_price": 133.19
     },
     {
@@ -7219,9 +7219,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "OIL & GAS MARKETING COMPANIES",
-      "price_change_pct": 52.64,
+      "price_change_pct": 50.7,
       "top_gap_pct": -18.61,
-      "liquidity": 15205353,
+      "liquidity": 15235499,
       "latest_price": 12.99
     },
     {
@@ -7242,9 +7242,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": -37.97,
+      "price_change_pct": -38.38,
       "top_gap_pct": -47.79,
-      "liquidity": 31560366,
+      "liquidity": 31644980,
       "latest_price": 32
     },
     {
@@ -7265,9 +7265,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "OIL & GAS EXPLORATION COMPANIES",
-      "price_change_pct": 57.61,
+      "price_change_pct": 57.79,
       "top_gap_pct": -2.09,
-      "liquidity": 1705656746,
+      "liquidity": 1708745201,
       "latest_price": 330.05
     },
     {
@@ -7290,7 +7290,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": 28.63,
       "top_gap_pct": -17.78,
-      "liquidity": 1618657,
+      "liquidity": 1618378,
       "latest_price": 48.88
     },
     {
@@ -7311,9 +7311,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 42.05,
+      "price_change_pct": 44.41,
       "top_gap_pct": -7.77,
-      "liquidity": 1218648,
+      "liquidity": 1223454,
       "latest_price": 23.51
     },
     {
@@ -7336,7 +7336,7 @@
       "sector": "MISCELLANEOUS",
       "price_change_pct": -31.04,
       "top_gap_pct": -41.16,
-      "liquidity": 296471,
+      "liquidity": 297565,
       "latest_price": 31.04
     },
     {
@@ -7357,9 +7357,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 3.19,
+      "price_change_pct": 1.85,
       "top_gap_pct": -44.19,
-      "liquidity": 3087396,
+      "liquidity": 3099723,
       "latest_price": 9.37
     },
     {
@@ -7380,9 +7380,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": -16.11,
+      "price_change_pct": -23.74,
       "top_gap_pct": -41.11,
-      "liquidity": 16136548,
+      "liquidity": 15224678,
       "latest_price": 282
     },
     {
@@ -7403,9 +7403,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": -3.96,
+      "price_change_pct": -4.59,
       "top_gap_pct": -37.03,
-      "liquidity": 39036211,
+      "liquidity": 39144919,
       "latest_price": 107.58
     },
     {
@@ -7426,9 +7426,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "PROPERTY",
-      "price_change_pct": 95.39,
+      "price_change_pct": 86.77,
       "top_gap_pct": -65.84,
-      "liquidity": 223314746,
+      "liquidity": 224166246,
       "latest_price": 10.59
     },
     {
@@ -7449,9 +7449,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CABLE & ELECTRICAL GOODS",
-      "price_change_pct": -9.11,
+      "price_change_pct": -10.23,
       "top_gap_pct": -38.03,
-      "liquidity": 641033205,
+      "liquidity": 642727160,
       "latest_price": 40.03
     },
     {
@@ -7472,9 +7472,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": -40.33,
+      "price_change_pct": -45.75,
       "top_gap_pct": -72.34,
-      "liquidity": 11546507,
+      "liquidity": 11388457,
       "latest_price": 116.18
     },
     {
@@ -7495,9 +7495,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "LEATHER & TANNERIES",
-      "price_change_pct": 56.85,
+      "price_change_pct": 43.59,
       "top_gap_pct": -49.52,
-      "liquidity": 1188443,
+      "liquidity": 1193440,
       "latest_price": 41.77
     },
     {
@@ -7518,9 +7518,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "CHEMICAL",
-      "price_change_pct": 81.15,
+      "price_change_pct": 80.22,
       "top_gap_pct": -23.19,
-      "liquidity": 5520959,
+      "liquidity": 5536063,
       "latest_price": 273.95
     },
     {
@@ -7564,9 +7564,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 24.29,
+      "price_change_pct": 23.05,
       "top_gap_pct": -38.66,
-      "liquidity": 30645995,
+      "liquidity": 30751744,
       "latest_price": 16.12
     },
     {
@@ -7587,9 +7587,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "SELL",
       "sector": "TOBACCO",
-      "price_change_pct": 15.07,
+      "price_change_pct": 13.62,
       "top_gap_pct": -21.67,
-      "liquidity": 76818336,
+      "liquidity": 77122813,
       "latest_price": 1347.32
     },
     {
@@ -7610,9 +7610,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 123.2,
+      "price_change_pct": 116.28,
       "top_gap_pct": -41.26,
-      "liquidity": 30788092,
+      "liquidity": 30905944,
       "latest_price": 2.79
     },
     {
@@ -7633,9 +7633,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 60.91,
+      "price_change_pct": 75.14,
       "top_gap_pct": -43.94,
-      "liquidity": 366121,
+      "liquidity": 367547,
       "latest_price": 6.34
     },
     {
@@ -7656,9 +7656,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
       "sector": "CABLE & ELECTRICAL GOODS",
-      "price_change_pct": 3.33,
+      "price_change_pct": 3.98,
       "top_gap_pct": -39.25,
-      "liquidity": 9413563,
+      "liquidity": 9431224,
       "latest_price": 151.88
     },
     {
@@ -7679,9 +7679,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "ENGINEERING",
-      "price_change_pct": -18.39,
+      "price_change_pct": -15.58,
       "top_gap_pct": -39.48,
-      "liquidity": 920344,
+      "liquidity": 924064,
       "latest_price": 600
     },
     {
@@ -7702,9 +7702,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "LEASING COMPANIES",
-      "price_change_pct": -28.17,
+      "price_change_pct": -30.7,
       "top_gap_pct": -45.67,
-      "liquidity": 398532,
+      "liquidity": 399661,
       "latest_price": 14.38
     },
     {
@@ -7725,9 +7725,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 49.57,
+      "price_change_pct": 48.47,
       "top_gap_pct": -47.31,
-      "liquidity": 291471914,
+      "liquidity": 292451467,
       "latest_price": 26.16
     },
     {
@@ -7748,9 +7748,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": -26.15,
+      "price_change_pct": -32.86,
       "top_gap_pct": -57.3,
-      "liquidity": 1510116,
+      "liquidity": 1508451,
       "latest_price": 17928.88
     },
     {
@@ -7771,9 +7771,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TRANSPORT",
-      "price_change_pct": 93.92,
+      "price_change_pct": 93.69,
       "top_gap_pct": -26.47,
-      "liquidity": 358396209,
+      "liquidity": 359752234,
       "latest_price": 16.89
     },
     {
@@ -7794,9 +7794,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TRANSPORT",
-      "price_change_pct": -4.08,
+      "price_change_pct": -3.06,
       "top_gap_pct": -27.14,
-      "liquidity": 10929465,
+      "liquidity": 10962792,
       "latest_price": 38.07
     },
     {
@@ -7817,9 +7817,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 67.15,
+      "price_change_pct": 72.11,
       "top_gap_pct": -20,
-      "liquidity": 2754365,
+      "liquidity": 2762435,
       "latest_price": 5.8
     },
     {
@@ -7840,9 +7840,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 69.79,
+      "price_change_pct": 69.04,
       "top_gap_pct": -26.62,
-      "liquidity": 103888,
+      "liquidity": 104284,
       "latest_price": 22.99
     },
     {
@@ -7863,9 +7863,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 65.99,
+      "price_change_pct": 65.69,
       "top_gap_pct": -27.53,
-      "liquidity": 3783505,
+      "liquidity": 3798503,
       "latest_price": 9.03
     },
     {
@@ -7886,9 +7886,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": 30.66,
+      "price_change_pct": 28.31,
       "top_gap_pct": -35.44,
-      "liquidity": 283213823,
+      "liquidity": 284196917,
       "latest_price": 275.99
     },
     {
@@ -7909,9 +7909,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 77.82,
+      "price_change_pct": 79.45,
       "top_gap_pct": -53.97,
-      "liquidity": 1760314,
+      "liquidity": 1767182,
       "latest_price": 19.56
     },
     {
@@ -7934,7 +7934,7 @@
       "sector": "POWER GENERATION & DISTRIBUTION",
       "price_change_pct": -67.93,
       "top_gap_pct": -86.2,
-      "liquidity": 51320098,
+      "liquidity": 51522696,
       "latest_price": 41.26
     },
     {
@@ -7955,9 +7955,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "PAPER, BOARD & PACKAGING",
-      "price_change_pct": 47.99,
+      "price_change_pct": 46.87,
       "top_gap_pct": -12.91,
-      "liquidity": 11524991,
+      "liquidity": 11558012,
       "latest_price": 744.62
     },
     {
@@ -7978,9 +7978,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "TRANSPORT",
-      "price_change_pct": 42.77,
+      "price_change_pct": 44.37,
       "top_gap_pct": -27.9,
-      "liquidity": 26575160,
+      "liquidity": 26475246,
       "latest_price": 518.41
     },
     {
@@ -8001,9 +8001,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "OIL & GAS EXPLORATION COMPANIES",
-      "price_change_pct": 23.73,
+      "price_change_pct": 23.5,
       "top_gap_pct": -11.43,
-      "liquidity": 213564099,
+      "liquidity": 214284049,
       "latest_price": 659.82
     },
     {
@@ -8024,9 +8024,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "VANASPATI & ALLIED INDUSTRIES",
-      "price_change_pct": -39.7,
+      "price_change_pct": -44.47,
       "top_gap_pct": -49.15,
-      "liquidity": 2344165,
+      "liquidity": 2290980,
       "latest_price": 151.52
     },
     {
@@ -8047,9 +8047,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": 46.47,
+      "price_change_pct": 46.89,
       "top_gap_pct": -7.6,
-      "liquidity": 74135258,
+      "liquidity": 74275900,
       "latest_price": 20.55
     },
     {
@@ -8070,9 +8070,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
       "sector": "OIL & GAS EXPLORATION COMPANIES",
-      "price_change_pct": 43.75,
+      "price_change_pct": 43.21,
       "top_gap_pct": -15.41,
-      "liquidity": 1788483455,
+      "liquidity": 1792878879,
       "latest_price": 240.73
     },
     {
@@ -8093,9 +8093,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PAPER, BOARD & PACKAGING",
-      "price_change_pct": -5.29,
+      "price_change_pct": -5.64,
       "top_gap_pct": -53.41,
-      "liquidity": 12137179,
+      "liquidity": 12184653,
       "latest_price": 129.98
     },
     {
@@ -8116,9 +8116,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 93.15,
+      "price_change_pct": 102.62,
       "top_gap_pct": -24.35,
-      "liquidity": 186772,
+      "liquidity": 187217,
       "latest_price": 17.77
     },
     {
@@ -8162,9 +8162,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": -21.06,
+      "price_change_pct": -25.11,
       "top_gap_pct": -37.16,
-      "liquidity": 130959796,
+      "liquidity": 130508972,
       "latest_price": 35.43
     },
     {
@@ -8185,9 +8185,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 22.52,
+      "price_change_pct": 25,
       "top_gap_pct": -10.34,
-      "liquidity": 632852,
+      "liquidity": 635762,
       "latest_price": 500
     },
     {
@@ -8208,9 +8208,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "REFINERY",
-      "price_change_pct": 6.77,
+      "price_change_pct": 6.64,
       "top_gap_pct": -14.46,
-      "liquidity": 346410458,
+      "liquidity": 347362126,
       "latest_price": 35.01
     },
     {
@@ -8231,9 +8231,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE WEAVING",
-      "price_change_pct": 27.72,
+      "price_change_pct": 39.16,
       "top_gap_pct": -19.92,
-      "liquidity": 328728,
+      "liquidity": 320714,
       "latest_price": 57.96
     },
     {
@@ -8254,9 +8254,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": -13.99,
+      "price_change_pct": -11.99,
       "top_gap_pct": -47.99,
-      "liquidity": 3223628,
+      "liquidity": 3235770,
       "latest_price": 850.39
     },
     {
@@ -8277,9 +8277,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "OIL & GAS MARKETING COMPANIES",
-      "price_change_pct": -3.35,
+      "price_change_pct": -3.03,
       "top_gap_pct": -30.11,
-      "liquidity": 1628720115,
+      "liquidity": 1632655735,
       "latest_price": 354.16
     },
     {
@@ -8300,9 +8300,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
-      "price_change_pct": 42.9,
+      "price_change_pct": 41.5,
       "top_gap_pct": -30.27,
-      "liquidity": 81357964,
+      "liquidity": 81331316,
       "latest_price": 37.61
     },
     {
@@ -8323,9 +8323,9 @@
       "nadarayaWatsonSignal": "NW_SELL_REJECTION",
       "ultimateStrategySignal": "HOLD",
       "sector": "SYNTHETIC & RAYON",
-      "price_change_pct": 53.64,
+      "price_change_pct": 56.28,
       "top_gap_pct": -9.91,
-      "liquidity": 376470,
+      "liquidity": 377198,
       "latest_price": 89.11
     },
     {
@@ -8346,9 +8346,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": 160.01,
+      "price_change_pct": 140.68,
       "top_gap_pct": -9.81,
-      "liquidity": 643299152,
+      "liquidity": 643926630,
       "latest_price": 63.13
     },
     {
@@ -8369,9 +8369,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
-      "price_change_pct": 33.83,
+      "price_change_pct": 35.07,
       "top_gap_pct": -20.55,
-      "liquidity": 12994991,
+      "liquidity": 13041064,
       "latest_price": 52.34
     },
     {
@@ -8392,9 +8392,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": -28.62,
+      "price_change_pct": -27.45,
       "top_gap_pct": -48.1,
-      "liquidity": 25385341,
+      "liquidity": 25432341,
       "latest_price": 30
     },
     {
@@ -8415,9 +8415,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 17.4,
+      "price_change_pct": 18.8,
       "top_gap_pct": -30.17,
-      "liquidity": 548624,
+      "liquidity": 550611,
       "latest_price": 15.99
     },
     {
@@ -8438,9 +8438,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 271.99,
+      "price_change_pct": 266.24,
       "top_gap_pct": -38.3,
-      "liquidity": 58157068,
+      "liquidity": 58366418,
       "latest_price": 28.42
     },
     {
@@ -8461,9 +8461,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": -16.62,
+      "price_change_pct": -17.14,
       "top_gap_pct": -46.32,
-      "liquidity": 201568,
+      "liquidity": 202086,
       "latest_price": 400.22
     },
     {
@@ -8484,9 +8484,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 5.28,
+      "price_change_pct": 5.32,
       "top_gap_pct": -34.83,
-      "liquidity": 469388,
+      "liquidity": 466210,
       "latest_price": 26.33
     },
     {
@@ -8530,9 +8530,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 13.43,
+      "price_change_pct": 11.73,
       "top_gap_pct": -47.25,
-      "liquidity": 1202958,
+      "liquidity": 1207289,
       "latest_price": 11.91
     },
     {
@@ -8553,9 +8553,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": -5.71,
+      "price_change_pct": -4.07,
       "top_gap_pct": -28.52,
-      "liquidity": 1998542,
+      "liquidity": 1995892,
       "latest_price": 9697
     },
     {
@@ -8576,9 +8576,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PAPER, BOARD & PACKAGING",
-      "price_change_pct": -3.72,
+      "price_change_pct": -5.58,
       "top_gap_pct": -35.89,
-      "liquidity": 12873710,
+      "liquidity": 12883616,
       "latest_price": 16.06
     },
     {
@@ -8599,9 +8599,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 97.7,
+      "price_change_pct": 82.29,
       "top_gap_pct": -24.94,
-      "liquidity": 210081,
+      "liquidity": 210441,
       "latest_price": 15.44
     },
     {
@@ -8622,9 +8622,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SYNTHETIC & RAYON",
-      "price_change_pct": 48.11,
+      "price_change_pct": 46.16,
       "top_gap_pct": -40.43,
-      "liquidity": 1291687,
+      "liquidity": 1296818,
       "latest_price": 25.49
     },
     {
@@ -8645,9 +8645,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 151.49,
+      "price_change_pct": 128.61,
       "top_gap_pct": -37.3,
-      "liquidity": 2686505,
+      "liquidity": 2687419,
       "latest_price": 32.92
     },
     {
@@ -8668,9 +8668,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 145.67,
+      "price_change_pct": 158.47,
       "top_gap_pct": -1.46,
-      "liquidity": 374950,
+      "liquidity": 374291,
       "latest_price": 135.98
     },
     {
@@ -8691,9 +8691,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 101.55,
+      "price_change_pct": 96.85,
       "top_gap_pct": -36.83,
-      "liquidity": 1709802,
+      "liquidity": 1716557,
       "latest_price": 65
     },
     {
@@ -8714,9 +8714,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 454.39,
+      "price_change_pct": 428.03,
       "top_gap_pct": -1.98,
-      "liquidity": 313729,
+      "liquidity": 314838,
       "latest_price": 379.76
     },
     {
@@ -8737,9 +8737,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE ASSEMBLER",
-      "price_change_pct": 83.27,
+      "price_change_pct": 83.88,
       "top_gap_pct": -11.33,
-      "liquidity": 515914210,
+      "liquidity": 517276278,
       "latest_price": 2205.29
     },
     {
@@ -8760,9 +8760,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 3.65,
+      "price_change_pct": 4.74,
       "top_gap_pct": -40.7,
-      "liquidity": 15709852,
+      "liquidity": 15772440,
       "latest_price": 9.95
     },
     {
@@ -8783,9 +8783,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 10.47,
+      "price_change_pct": 11.38,
       "top_gap_pct": -24.29,
-      "liquidity": 4726518,
+      "liquidity": 4744922,
       "latest_price": 65.1
     },
     {
@@ -8806,9 +8806,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 173.44,
+      "price_change_pct": 187.4,
       "top_gap_pct": -33.33,
-      "liquidity": 894293,
+      "liquidity": 897935,
       "latest_price": 750
     },
     {
@@ -8829,9 +8829,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "PHARMACEUTICALS",
-      "price_change_pct": 1.79,
+      "price_change_pct": 1.44,
       "top_gap_pct": -34.29,
-      "liquidity": 672748232,
+      "liquidity": 669140839,
       "latest_price": 90.31
     },
     {
@@ -8875,9 +8875,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "PAPER, BOARD & PACKAGING",
-      "price_change_pct": -7.67,
+      "price_change_pct": -7.72,
       "top_gap_pct": -37.22,
-      "liquidity": 12411415,
+      "liquidity": 12450147,
       "latest_price": 143.06
     },
     {
@@ -8898,9 +8898,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 149.89,
+      "price_change_pct": 149.15,
       "top_gap_pct": -57.01,
-      "liquidity": 2895886,
+      "liquidity": 2907306,
       "latest_price": 33.66
     },
     {
@@ -8921,9 +8921,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": -6.11,
+      "price_change_pct": -7.91,
       "top_gap_pct": -33.87,
-      "liquidity": 1485454,
+      "liquidity": 446309,
       "latest_price": 988.69
     },
     {
@@ -8944,9 +8944,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "LEATHER & TANNERIES",
-      "price_change_pct": 63.23,
+      "price_change_pct": 64.82,
       "top_gap_pct": -11.72,
-      "liquidity": 65374053,
+      "liquidity": 65632774,
       "latest_price": 125.26
     },
     {
@@ -8967,9 +8967,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": 403.68,
+      "price_change_pct": 382.87,
       "top_gap_pct": -54.37,
-      "liquidity": 34350313,
+      "liquidity": 34471964,
       "latest_price": 39.74
     },
     {
@@ -8990,9 +8990,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 29.31,
+      "price_change_pct": 36.21,
       "top_gap_pct": -58.52,
-      "liquidity": 322623,
+      "liquidity": 323825,
       "latest_price": 40.06
     },
     {
@@ -9013,9 +9013,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 4.12,
+      "price_change_pct": -5.34,
       "top_gap_pct": -50.6,
-      "liquidity": 5340172,
+      "liquidity": 5257874,
       "latest_price": 44.46
     },
     {
@@ -9036,9 +9036,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 33.41,
+      "price_change_pct": 34.22,
       "top_gap_pct": -26.11,
-      "liquidity": 2965045,
+      "liquidity": 2976549,
       "latest_price": 228.17
     },
     {
@@ -9059,9 +9059,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": 7.46,
+      "price_change_pct": 7.99,
       "top_gap_pct": -22.59,
-      "liquidity": 14874445,
+      "liquidity": 14907976,
       "latest_price": 476.27
     },
     {
@@ -9082,9 +9082,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 39.39,
+      "price_change_pct": 54.19,
       "top_gap_pct": -23.13,
-      "liquidity": 1041398,
+      "liquidity": 1045993,
       "latest_price": 180.59
     },
     {
@@ -9105,9 +9105,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 29.63,
+      "price_change_pct": 35.66,
       "top_gap_pct": -46.15,
-      "liquidity": 2070107,
+      "liquidity": 2078342,
       "latest_price": 7
     },
     {
@@ -9130,7 +9130,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": -10.63,
       "top_gap_pct": -42.28,
-      "liquidity": 184580,
+      "liquidity": 185321,
       "latest_price": 7.48
     },
     {
@@ -9153,7 +9153,7 @@
       "sector": "CABLE & ELECTRICAL GOODS",
       "price_change_pct": 0.56,
       "top_gap_pct": -12.39,
-      "liquidity": 1225157,
+      "liquidity": 1227173,
       "latest_price": 1524.48
     },
     {
@@ -9174,9 +9174,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "MODARABAS",
-      "price_change_pct": 110.62,
+      "price_change_pct": 114.75,
       "top_gap_pct": -44.24,
-      "liquidity": 1374166,
+      "liquidity": 1379631,
       "latest_price": 23
     },
     {
@@ -9197,9 +9197,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 104.94,
+      "price_change_pct": 104.65,
       "top_gap_pct": -15.21,
-      "liquidity": 15145372,
+      "liquidity": 15205544,
       "latest_price": 898.73
     },
     {
@@ -9220,9 +9220,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 120.19,
+      "price_change_pct": 122.49,
       "top_gap_pct": -38.13,
-      "liquidity": 6265276,
+      "liquidity": 6289621,
       "latest_price": 25.52
     },
     {
@@ -9243,9 +9243,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TRANSPORT",
-      "price_change_pct": 2.22,
+      "price_change_pct": 2.77,
       "top_gap_pct": -42.6,
-      "liquidity": 93703031,
+      "liquidity": 94043648,
       "latest_price": 15.21
     },
     {
@@ -9266,9 +9266,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 10.53,
+      "price_change_pct": 16.12,
       "top_gap_pct": -39.88,
-      "liquidity": 370048,
+      "liquidity": 370538,
       "latest_price": 12.39
     },
     {
@@ -9289,9 +9289,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CEMENT",
-      "price_change_pct": 143.61,
+      "price_change_pct": 147.15,
       "top_gap_pct": -25.81,
-      "liquidity": 6122743,
+      "liquidity": 6145280,
       "latest_price": 42.51
     },
     {
@@ -9312,9 +9312,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 68.68,
+      "price_change_pct": 71.21,
       "top_gap_pct": -32.51,
-      "liquidity": 2089365,
+      "liquidity": 2095625,
       "latest_price": 113
     },
     {
@@ -9337,7 +9337,7 @@
       "sector": "TEXTILE SPINNING",
       "price_change_pct": 45.87,
       "top_gap_pct": -18,
-      "liquidity": 876059,
+      "liquidity": 879723,
       "latest_price": 36
     },
     {
@@ -9358,9 +9358,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "STRONG_SELL",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": 17.56,
+      "price_change_pct": 17.92,
       "top_gap_pct": -41.93,
-      "liquidity": 44844601,
+      "liquidity": 45019267,
       "latest_price": 19.15
     },
     {
@@ -9381,9 +9381,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "OIL & GAS MARKETING COMPANIES",
-      "price_change_pct": -12.21,
+      "price_change_pct": -13.04,
       "top_gap_pct": -28.44,
-      "liquidity": 374449175,
+      "liquidity": 374865837,
       "latest_price": 102.04
     },
     {
@@ -9404,9 +9404,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "PAPER, BOARD & PACKAGING",
-      "price_change_pct": 7.56,
+      "price_change_pct": 7.09,
       "top_gap_pct": -47.37,
-      "liquidity": 88593356,
+      "liquidity": 88853637,
       "latest_price": 43.95
     },
     {
@@ -9427,9 +9427,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BOUNCE",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 359.24,
+      "price_change_pct": 367.12,
       "top_gap_pct": -48.53,
-      "liquidity": 9086848,
+      "liquidity": 9116456,
       "latest_price": 68.06
     },
     {
@@ -9450,9 +9450,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": -19.18,
+      "price_change_pct": -20.07,
       "top_gap_pct": -25.38,
-      "liquidity": 12126920,
+      "liquidity": 12147210,
       "latest_price": 9.44
     },
     {
@@ -9496,9 +9496,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "LEATHER & TANNERIES",
-      "price_change_pct": 76.66,
+      "price_change_pct": 79.34,
       "top_gap_pct": -2.97,
-      "liquidity": 20274360,
+      "liquidity": 20348119,
       "latest_price": 2013.36
     },
     {
@@ -9519,9 +9519,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "OIL & GAS MARKETING COMPANIES",
-      "price_change_pct": -22.32,
+      "price_change_pct": -26.13,
       "top_gap_pct": -43.46,
-      "liquidity": 437485607,
+      "liquidity": 438214088,
       "latest_price": 26.83
     },
     {
@@ -9542,9 +9542,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 37.22,
+      "price_change_pct": 43.96,
       "top_gap_pct": -37.37,
-      "liquidity": 719698,
+      "liquidity": 704733,
       "latest_price": 24.92
     },
     {
@@ -9565,9 +9565,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "VANASPATI & ALLIED INDUSTRIES",
-      "price_change_pct": -44.73,
+      "price_change_pct": -49.75,
       "top_gap_pct": -64.69,
-      "liquidity": 22152188,
+      "liquidity": 22013559,
       "latest_price": 416.61
     },
     {
@@ -9588,9 +9588,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "GLASS & CERAMICS",
-      "price_change_pct": -13.77,
+      "price_change_pct": -14.08,
       "top_gap_pct": -39.84,
-      "liquidity": 8341409,
+      "liquidity": 8370919,
       "latest_price": 11.9
     },
     {
@@ -9611,9 +9611,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE WEAVING",
-      "price_change_pct": 59.79,
+      "price_change_pct": 63.8,
       "top_gap_pct": -9.8,
-      "liquidity": 207442,
+      "liquidity": 208279,
       "latest_price": 131.04
     },
     {
@@ -9634,9 +9634,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "SELL",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": -93.99,
+      "price_change_pct": -93.5,
       "top_gap_pct": -97.62,
-      "liquidity": 12464749,
+      "liquidity": 12507520,
       "latest_price": 53.19
     },
     {
@@ -9659,7 +9659,7 @@
       "sector": "TEXTILE COMPOSITE",
       "price_change_pct": 52.63,
       "top_gap_pct": -14.99,
-      "liquidity": 180607,
+      "liquidity": 181477,
       "latest_price": 40.89
     },
     {
@@ -9680,9 +9680,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": 22.95,
+      "price_change_pct": 24.17,
       "top_gap_pct": -30.23,
-      "liquidity": 27948094,
+      "liquidity": 27968123,
       "latest_price": 7.5
     },
     {
@@ -9703,9 +9703,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 17.14,
+      "price_change_pct": 19.11,
       "top_gap_pct": -23.3,
-      "liquidity": 630055,
+      "liquidity": 632233,
       "latest_price": 46.88
     },
     {
@@ -9726,9 +9726,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "BUY",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 10.89,
+      "price_change_pct": 10.81,
       "top_gap_pct": -18.93,
-      "liquidity": 4604903,
+      "liquidity": 4607802,
       "latest_price": 130.76
     },
     {
@@ -9749,9 +9749,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": -41.14,
+      "price_change_pct": -40.92,
       "top_gap_pct": -46.86,
-      "liquidity": 1153371,
+      "liquidity": 1144400,
       "latest_price": 116.9
     },
     {
@@ -9772,9 +9772,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": -29.55,
+      "price_change_pct": -30.11,
       "top_gap_pct": -38.85,
-      "liquidity": 48360225,
+      "liquidity": 48484206,
       "latest_price": 10.42
     },
     {
@@ -9795,9 +9795,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": -72.1,
-      "top_gap_pct": -72.7,
-      "liquidity": 468677164,
+      "price_change_pct": 46.79,
+      "top_gap_pct": -12.97,
+      "liquidity": 468983690,
       "latest_price": 151.78
     },
     {
@@ -9841,9 +9841,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE SPINNING",
-      "price_change_pct": 172.17,
+      "price_change_pct": 169.29,
       "top_gap_pct": -57.51,
-      "liquidity": 65325117,
+      "liquidity": 65574894,
       "latest_price": 132.14
     },
     {
@@ -9864,9 +9864,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
-      "price_change_pct": -16.41,
+      "price_change_pct": -17.04,
       "top_gap_pct": -34.46,
-      "liquidity": 56753719,
+      "liquidity": 56956019,
       "latest_price": 9.93
     },
     {
@@ -9887,9 +9887,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "SUGAR & ALLIED INDUSTRIES",
-      "price_change_pct": 41.69,
+      "price_change_pct": 48.37,
       "top_gap_pct": -26.95,
-      "liquidity": 2504418,
+      "liquidity": 2463961,
       "latest_price": 23.28
     },
     {
@@ -9933,9 +9933,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "STRONG_SELL",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": 3.64,
+      "price_change_pct": 1.23,
       "top_gap_pct": -41.45,
-      "liquidity": 150651292,
+      "liquidity": 150629045,
       "latest_price": 8.25
     },
     {
@@ -9956,9 +9956,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "GLASS & CERAMICS",
-      "price_change_pct": -21.69,
+      "price_change_pct": -22.85,
       "top_gap_pct": -43.01,
-      "liquidity": 43652513,
+      "liquidity": 43789744,
       "latest_price": 166.13
     },
     {
@@ -9979,9 +9979,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "AUTOMOBILE PARTS & ACCESSORIES",
-      "price_change_pct": 61.97,
+      "price_change_pct": 59.53,
       "top_gap_pct": -17.17,
-      "liquidity": 21288274,
+      "liquidity": 21245234,
       "latest_price": 604.65
     },
     {
@@ -10002,9 +10002,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "SELL",
       "sector": "CEMENT",
-      "price_change_pct": -70.4,
+      "price_change_pct": -71.03,
       "top_gap_pct": -74.03,
-      "liquidity": 347781604,
+      "liquidity": 348928947,
       "latest_price": 52.98
     },
     {
@@ -10025,9 +10025,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 12.42,
+      "price_change_pct": 12.09,
       "top_gap_pct": -54.05,
-      "liquidity": 238060123,
+      "liquidity": 238944504,
       "latest_price": 34.85
     },
     {
@@ -10048,9 +10048,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": -7.11,
+      "price_change_pct": -7.83,
       "top_gap_pct": -44.13,
-      "liquidity": 7163079,
+      "liquidity": 7185437,
       "latest_price": 116.13
     },
     {
@@ -10071,9 +10071,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "BUY",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": 139.87,
+      "price_change_pct": 135.31,
       "top_gap_pct": -22.55,
-      "liquidity": 51674873,
+      "liquidity": 51878197,
       "latest_price": 11.13
     },
     {
@@ -10094,9 +10094,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 202.36,
+      "price_change_pct": 200.23,
       "top_gap_pct": -8.16,
-      "liquidity": 9263120,
+      "liquidity": 9299785,
       "latest_price": 25.67
     },
     {
@@ -10140,9 +10140,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "PROPERTY",
-      "price_change_pct": -11.38,
+      "price_change_pct": -11.95,
       "top_gap_pct": -39.63,
-      "liquidity": 122745472,
+      "liquidity": 123206873,
       "latest_price": 8.18
     },
     {
@@ -10163,9 +10163,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": 186.18,
+      "price_change_pct": 185.71,
       "top_gap_pct": -5.9,
-      "liquidity": 12167339,
+      "liquidity": 12212186,
       "latest_price": 17.4
     },
     {
@@ -10186,9 +10186,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 23.79,
+      "price_change_pct": 23.41,
       "top_gap_pct": -34.46,
-      "liquidity": 284788679,
+      "liquidity": 285772996,
       "latest_price": 24.25
     },
     {
@@ -10209,9 +10209,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": 2.22,
+      "price_change_pct": 2.15,
       "top_gap_pct": -25.11,
-      "liquidity": 453786547,
+      "liquidity": 455038078,
       "latest_price": 63.2
     },
     {
@@ -10232,9 +10232,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": 10.3,
+      "price_change_pct": 5.18,
       "top_gap_pct": -32.22,
-      "liquidity": 18550383,
+      "liquidity": 18614933,
       "latest_price": 137.06
     },
     {
@@ -10255,9 +10255,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 188.63,
+      "price_change_pct": 165.17,
       "top_gap_pct": -77.68,
-      "liquidity": 31243001,
+      "liquidity": 31367039,
       "latest_price": 15.99
     },
     {
@@ -10280,7 +10280,7 @@
       "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
       "price_change_pct": -86.58,
       "top_gap_pct": -97.28,
-      "liquidity": 30053519,
+      "liquidity": 30178213,
       "latest_price": 1.82
     },
     {
@@ -10301,9 +10301,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CLOSE - END MUTUAL FUND",
-      "price_change_pct": 144.81,
+      "price_change_pct": 144.24,
       "top_gap_pct": -8.06,
-      "liquidity": 737039,
+      "liquidity": 740083,
       "latest_price": 20.76
     },
     {
@@ -10326,7 +10326,7 @@
       "sector": "SUGAR & ALLIED INDUSTRIES",
       "price_change_pct": 153.55,
       "top_gap_pct": -1.92,
-      "liquidity": 247949,
+      "liquidity": 248636,
       "latest_price": 372.7
     },
     {
@@ -10347,9 +10347,9 @@
       "nadarayaWatsonSignal": "NW_BUY_BREAKOUT",
       "ultimateStrategySignal": "HOLD",
       "sector": "POWER GENERATION & DISTRIBUTION",
-      "price_change_pct": 59.81,
+      "price_change_pct": 49.27,
       "top_gap_pct": -44.67,
-      "liquidity": 4559964,
+      "liquidity": 4564158,
       "latest_price": 10.18
     },
     {
@@ -10370,9 +10370,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": -7.18,
+      "price_change_pct": -6.66,
       "top_gap_pct": -28.46,
-      "liquidity": 1462583,
+      "liquidity": 1462908,
       "latest_price": 24.68
     },
     {
@@ -10393,9 +10393,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "COMMERCIAL BANKS",
-      "price_change_pct": -18.09,
+      "price_change_pct": -19.05,
       "top_gap_pct": -22.28,
-      "liquidity": 757788390,
+      "liquidity": 758755158,
       "latest_price": 413.49
     },
     {
@@ -10416,9 +10416,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 42.43,
+      "price_change_pct": 54.84,
       "top_gap_pct": -42.17,
-      "liquidity": 1935607,
+      "liquidity": 1941624,
       "latest_price": 4.8
     },
     {
@@ -10439,9 +10439,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": 117.78,
+      "price_change_pct": 118.3,
       "top_gap_pct": -29.37,
-      "liquidity": 4482747,
+      "liquidity": 4500337,
       "latest_price": 18.01
     },
     {
@@ -10462,9 +10462,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "MISCELLANEOUS",
-      "price_change_pct": 67.9,
+      "price_change_pct": 73.06,
       "top_gap_pct": -33.77,
-      "liquidity": 4191506,
+      "liquidity": 4187368,
       "latest_price": 111.92
     },
     {
@@ -10485,9 +10485,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": -24.77,
+      "price_change_pct": -24.27,
       "top_gap_pct": -28.06,
-      "liquidity": 1239264,
+      "liquidity": 1243865,
       "latest_price": 12.51
     },
     {
@@ -10508,9 +10508,9 @@
       "nadarayaWatsonSignal": "NW_TREND_SELL",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": -54.35,
+      "price_change_pct": -54.11,
       "top_gap_pct": -61.78,
-      "liquidity": 174406222,
+      "liquidity": 175092802,
       "latest_price": 12.13
     },
     {
@@ -10531,9 +10531,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 13.39,
+      "price_change_pct": 12.9,
       "top_gap_pct": -29.46,
-      "liquidity": 1929503,
+      "liquidity": 1930592,
       "latest_price": 26079
     },
     {
@@ -10554,9 +10554,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "INSURANCE",
-      "price_change_pct": 165.96,
+      "price_change_pct": 139.57,
       "top_gap_pct": -44.88,
-      "liquidity": 1771951,
+      "liquidity": 1779045,
       "latest_price": 23.67
     },
     {
@@ -10577,9 +10577,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "OIL & GAS MARKETING COMPANIES",
-      "price_change_pct": 21.58,
+      "price_change_pct": 22.98,
       "top_gap_pct": -23.42,
-      "liquidity": 19432618,
+      "liquidity": 19494664,
       "latest_price": 199.11
     },
     {
@@ -10600,9 +10600,9 @@
       "nadarayaWatsonSignal": "NW_TREND_BUY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CHEMICAL",
-      "price_change_pct": 2.74,
+      "price_change_pct": 2.01,
       "top_gap_pct": -32.83,
-      "liquidity": 3218311,
+      "liquidity": 3195044,
       "latest_price": 292.17
     },
     {
@@ -10623,9 +10623,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "MODARABAS",
-      "price_change_pct": 138.19,
+      "price_change_pct": 128.99,
       "top_gap_pct": -48.7,
-      "liquidity": 26338562,
+      "liquidity": 26441701,
       "latest_price": 4.74
     },
     {
@@ -10646,9 +10646,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "CABLE & ELECTRICAL GOODS",
-      "price_change_pct": 37.82,
+      "price_change_pct": 32.13,
       "top_gap_pct": -39.59,
-      "liquidity": 71656649,
+      "liquidity": 71907938,
       "latest_price": 10.24
     },
     {
@@ -10669,9 +10669,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "CABLE & ELECTRICAL GOODS",
-      "price_change_pct": -12.36,
+      "price_change_pct": -14.95,
       "top_gap_pct": -34.31,
-      "liquidity": 39383336,
+      "liquidity": 39324799,
       "latest_price": 8.08
     },
     {
@@ -10692,9 +10692,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": 0,
+      "price_change_pct": -9.09,
       "top_gap_pct": -46.06,
-      "liquidity": 105568249,
+      "liquidity": 105825373,
       "latest_price": 1.3
     },
     {
@@ -10715,9 +10715,9 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE WEAVING",
-      "price_change_pct": 45.78,
+      "price_change_pct": 42.5,
       "top_gap_pct": -40.56,
-      "liquidity": 31524759,
+      "liquidity": 31630715,
       "latest_price": 5.7
     },
     {
@@ -10738,9 +10738,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TEXTILE COMPOSITE",
-      "price_change_pct": 96.8,
+      "price_change_pct": 83.86,
       "top_gap_pct": -67.18,
-      "liquidity": 3881762,
+      "liquidity": 3897235,
       "latest_price": 52.84
     },
     {
@@ -10761,9 +10761,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": 199.11,
+      "price_change_pct": 194.81,
       "top_gap_pct": -40.67,
-      "liquidity": 104228473,
+      "liquidity": 104581211,
       "latest_price": 47.17
     },
     {
@@ -10784,9 +10784,9 @@
       "nadarayaWatsonSignal": "NW_HIGH_VOLATILITY",
       "ultimateStrategySignal": "HOLD",
       "sector": "FOOD & PERSONAL CARE PRODUCTS",
-      "price_change_pct": 9.45,
+      "price_change_pct": 7.72,
       "top_gap_pct": -55.24,
-      "liquidity": 717738,
+      "liquidity": 718456,
       "latest_price": 323.17
     },
     {
@@ -10807,13 +10807,13 @@
       "nadarayaWatsonSignal": "HOLD",
       "ultimateStrategySignal": "HOLD",
       "sector": "TECHNOLOGY & COMMUNICATION",
-      "price_change_pct": 243.84,
+      "price_change_pct": 250.79,
       "top_gap_pct": -38.25,
-      "liquidity": 15957262,
+      "liquidity": 16000290,
       "latest_price": 64.16
     }
   ],
-  "updated_at": "2026-05-26T14:42:38.381Z",
+  "updated_at": "2026-05-27T14:42:36.418Z",
   "merged_with_bollinger": true,
   "merged_with_volume_spike": true,
   "merged_with_oversold": true,
@@ -10826,6 +10826,6 @@
   "merged_with_nadaraya_watson": true,
   "merged_with_ultimate_strategy": true,
   "merged_with_price_change": true,
-  "avg_price_change": 55.35,
-  "avg_top_gap": -35.23
+  "avg_price_change": 54.43,
+  "avg_top_gap": -35.1
 }
